@@ -1,34 +1,466 @@
 {
-  "generated": "2026-01-18T02:24:42.635141Z",
+  "generated": "2026-01-18T02:36:05.098010Z",
   "summary": {
-    "total_opportunities": 10,
-    "total_value_low": 0,
-    "total_value_high": 0,
+    "total_opportunities": 34,
+    "total_value_low": 209260596,
+    "total_value_high": 209260596,
     "by_state": {
       "VT": 1,
       "NH": 6,
       "ME": 3,
-      "MA": 3,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 8,
+      "dot_letting": 32,
       "news": 7,
       "funding": 2
     }
   },
   "dot_lettings": [
     {
-      "id": "2462b4920286",
+      "id": "b0b09e327ffa",
       "state": "MA",
       "project_id": null,
-      "description": "MassDOT Bid Schedule - Visit portal for current lettings",
-      "cost_low": null,
-      "cost_high": null,
-      "cost_display": "See Portal",
+      "description": "District:  4 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $750,000.00\r\n\t\t             \n CDs, Plans & Specs",
+      "cost_low": 750000,
+      "cost_high": 750000,
+      "cost_display": "$750K",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8a5f851823b7",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  5 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $685,690.00\r\n\t\t             \n CDs, Plans & Specs",
+      "cost_low": 685690,
+      "cost_high": 685690,
+      "cost_display": "$686K",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "15cdadc18861",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  4 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $1,841,317.39\r\n\t\t             \n CDs, Plans & Spec",
+      "cost_low": 1841317,
+      "cost_high": 1841317,
+      "cost_display": "$1.8M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1cd68201073c",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  2 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $345,452.00\r\n\t\t             \n CDs, Plans & Specs",
+      "cost_low": 345452,
+      "cost_high": 345452,
+      "cost_display": "$345K",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4fd57facb4ae",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  3 \n Ad Date:  12/20/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $929,902.50\r\n\t\t             \n CDs, Plans & Specs",
+      "cost_low": 929902,
+      "cost_high": 929902,
+      "cost_display": "$930K",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4a073fcb91fe",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  3 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $879,250.00\r\n\t\t             \n CDs, Plans & Specs",
+      "cost_low": 879250,
+      "cost_high": 879250,
+      "cost_display": "$879K",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "97a5147a8352",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  3 \n Ad Date:  1/3/2026 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $2,778,147.00\r\n\t\t             \n CDs, Plans & Specs",
+      "cost_low": 2778147,
+      "cost_high": 2778147,
+      "cost_display": "$2.8M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2134daf9341e",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  5 \n Ad Date:  12/20/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $1,763,415.00\r\n\t\t             \n CDs, Plans & Spec",
+      "cost_low": 1763415,
+      "cost_high": 1763415,
+      "cost_display": "$1.8M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4d624ae5534c",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  2 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $10,788,291.50\r\n\t\t             \n CDs, Plans & Spe",
+      "cost_low": 10788291,
+      "cost_high": 10788291,
+      "cost_display": "$10.8M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a564de40a73e",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  6 \n Ad Date:  1/10/2026 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $722,750.00\r\n\t\t             \n CDs, Plans & Specs A",
+      "cost_low": 722750,
+      "cost_high": 722750,
+      "cost_display": "$723K",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f905f29e893e",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  3 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $2,314,427.50\r\n\t\t             \n CDs, Plans & Spec",
+      "cost_low": 2314427,
+      "cost_high": 2314427,
+      "cost_display": "$2.3M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f6a0906654fb",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  4 \n Ad Date:  9/13/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $37,383,813.00\r\n\t\t             \n CDs, Plans & Spec",
+      "cost_low": 37383813,
+      "cost_high": 37383813,
+      "cost_display": "$37.4M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a5fe38bf0fba",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  1 \n Ad Date:  1/17/2026 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $855,000.00\r\n\t\t             \n CDs, Plans & Specs A",
+      "cost_low": 855000,
+      "cost_high": 855000,
+      "cost_display": "$855K",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "80f5a80f6dbb",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  2 \n Ad Date:  1/17/2026 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $1,801,691.37\r\n\t\t             \n CDs, Plans & Specs",
+      "cost_low": 1801691,
+      "cost_high": 1801691,
+      "cost_display": "$1.8M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "786969a954a9",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  2 \n Ad Date:  1/17/2026 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $977,750.00\r\n\t\t             \n CDs, Plans & Specs A",
+      "cost_low": 977750,
+      "cost_high": 977750,
+      "cost_display": "$978K",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "87648401957e",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  5 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $5,860,000.00\r\n\t\t             \n CDs, Plans & Spec",
+      "cost_low": 5860000,
+      "cost_high": 5860000,
+      "cost_display": "$5.9M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4ddbeefb1b00",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  6 \n Ad Date:  1/17/2026 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $2,003,817.50\r\n\t\t             \n CDs, Plans & Specs",
+      "cost_low": 2003817,
+      "cost_high": 2003817,
+      "cost_display": "$2.0M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "757c2a31abe5",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  6 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $10,772,957.50\r\n\t\t             \n CDs, Plans & Spe",
+      "cost_low": 10772957,
+      "cost_high": 10772957,
+      "cost_display": "$10.8M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b6def748c79e",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  2 \n Ad Date:  12/20/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $51,303,970.70\r\n\t\t             \n CDs, Plans & Spe",
+      "cost_low": 51303970,
+      "cost_high": 51303970,
+      "cost_display": "$51.3M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e20ad132122d",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  5 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $17,834,423.00\r\n\t\t             \n CDs, Plans & Spe",
+      "cost_low": 17834423,
+      "cost_high": 17834423,
+      "cost_display": "$17.8M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7f809ae38364",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  4 \n Ad Date:  1/3/2026 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $11,387,460.50\r\n\t\t             \n CDs, Plans & Specs",
+      "cost_low": 11387460,
+      "cost_high": 11387460,
+      "cost_display": "$11.4M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "39f98cc19da3",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  5 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $7,544,537.75\r\n\t\t             \n CDs, Plans & Spec",
+      "cost_low": 7544537,
+      "cost_high": 7544537,
+      "cost_display": "$7.5M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "28938c37e893",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  1 \n Ad Date:  1/10/2026 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $19,647,138.00\r\n\t\t             \n CDs, Plans & Spec",
+      "cost_low": 19647138,
+      "cost_high": 19647138,
+      "cost_display": "$19.6M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6937316842db",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  4 \n Ad Date:  9/13/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $13,028,888.87\r\n\t\t             \n CDs, Plans & Spec",
+      "cost_low": 13028888,
+      "cost_high": 13028888,
+      "cost_display": "$13.0M",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9f2257cba625",
+      "state": "MA",
+      "project_id": null,
+      "description": "District:  6 \n Ad Date:  12/27/2025 \n Section Response:  Const \n Project Value: \r\n\t\t\t            $5,060,511.00\r\n\t\t             \n CDs, Plans & Spec",
+      "cost_low": 5060511,
+      "cost_high": 5060511,
+      "cost_display": "$5.1M",
       "ad_date": null,
       "let_date": null,
       "project_type": null,
@@ -296,9 +728,9 @@
   ],
   "market_health": {
     "dot_pipeline": {
-      "score": 8.2,
+      "score": 9.0,
       "trend": "up",
-      "action": "Expand highway capacity"
+      "action": "Expand highway capacity - strong pipeline"
     },
     "housing_permits": {
       "score": 6.5,
@@ -325,7 +757,7 @@
       "trend": "stable",
       "action": "Selective growth"
     },
-    "overall_score": 7.0,
+    "overall_score": 7.2,
     "overall_status": "stable"
   }
 }
