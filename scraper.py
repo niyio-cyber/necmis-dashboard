@@ -1,257 +1,70 @@
 #!/usr/bin/env python3
 """
-NECMIS Scraper - PRD Compliant Implementation
+NECMIS Scraper - Phase 2: DOT Bid Parsing
+==========================================
+Now includes actual bid parsing for Massachusetts DOT with real dollar amounts.
 
-PRD Requirements Implemented:
-- Requirement #1: 8 states (VT, NH, ME, MA, NY, RI, CT, PA)
-- Requirement #2: 5 business lines (NO trucking)
-- Requirement #4: Daily updates (6 AM EST via GitHub Actions)
-- Requirement #5: Output Stats → DOT Lettings → News
-- Requirement #6: Market Health Framework integrated
-- Requirement #7: Internal metrics ignored (only 6 public metrics)
-- Requirement #8: Scores + Actions + Trends
-- Requirement #9: DOT data: $, Project Name, Bid Date, Link
-- Requirement #10: PS&E estimates or project type
-
-Data Sources (PRD Sections 3.1, 3.2, 3.3):
-- 10 RSS feeds for news
-- 8 DOT bid schedule sources
-- 6 public Market Health metrics
+Phase 2 Status:
+- MA (MassDOT): ✅ ACTIVE - HTML parser with exact dollar amounts
+- ME, PA, NH, VT, NY, RI, CT: Portal links (Phase 3+)
 """
 
 import json
 import hashlib
 import re
 import os
-from datetime import datetime, timedelta
-from typing import Dict, List, Optional, Tuple
-from urllib.parse import urlparse
+from datetime import datetime
+from typing import Dict, List, Optional
 
-# Third-party imports
 try:
     import requests
     import feedparser
     from bs4 import BeautifulSoup
 except ImportError as e:
     print(f"Missing dependency: {e}")
-    print("Install: pip install requests feedparser beautifulsoup4 --break-system-packages")
+    print("Install with: pip install requests feedparser beautifulsoup4 --break-system-packages")
     raise
 
 
 # =============================================================================
-# CONFIGURATION - Matches PRD Exactly
+# CONFIGURATION
 # =============================================================================
 
-# PRD Requirement #1: 8 States
 STATES = ['VT', 'NH', 'ME', 'MA', 'NY', 'RI', 'CT', 'PA']
 
-# PRD Requirement #2: 5 Business Lines (NO trucking/hauling)
-BUSINESS_LINES = ['highway', 'hma', 'aggregates', 'ready_mix', 'liquid_asphalt']
-
-# PRD Section 3.2: 10 RSS Feeds (EXACTLY as specified)
 RSS_FEEDS = {
-    'VTDigger': {
-        'url': 'https://vtdigger.org/feed/',
-        'state': 'VT',
-        'focus': 'Infrastructure, politics'
-    },
-    'Union Leader': {
-        'url': 'https://www.unionleader.com/search/?f=rss&t=article&c=news/business&l=25&s=start_time&sd=desc',
-        'state': 'NH',
-        'focus': 'Business, construction'
-    },
-    'Portland Press Herald': {
-        'url': 'https://www.pressherald.com/feed/',
-        'state': 'ME',
-        'focus': 'Business, development'
-    },
-    'Bangor Daily News': {
-        'url': 'https://bangordailynews.com/feed/',
-        'state': 'ME',
-        'focus': 'Regional news'
-    },
-    'InDepthNH': {
-        'url': 'https://indepthnh.org/feed/',
-        'state': 'NH',
-        'focus': 'Investigations, policy'
-    },
-    'Valley News': {
-        'url': 'https://www.vnews.com/feed/articles/rss',
-        'state': 'VT',
-        'focus': 'Regional coverage (VT/NH border)'
-    },
-    'MassLive': {
-        'url': 'https://www.masslive.com/arc/outboundfeeds/rss/?outputType=xml',
-        'state': 'MA',
-        'focus': 'State news'
-    },
-    'Times Union': {
-        'url': 'https://www.timesunion.com/search/?action=search&channel=news&inlineContent=1&searchindex=solr&query=construction&sort=date&output=rss',
-        'state': 'NY',
-        'focus': 'Albany/Capital region'
-    },
-    'Providence Journal': {
-        'url': 'https://www.providencejournal.com/arcio/rss/',
-        'state': 'RI',
-        'focus': 'RI state news'
-    },
-    'Hartford Courant': {
-        'url': 'https://www.courant.com/arcio/rss/',
-        'state': 'CT',
-        'focus': 'CT state news'
-    }
+    'VTDigger': {'url': 'https://vtdigger.org/feed/', 'state': 'VT'},
+    'Union Leader': {'url': 'https://www.unionleader.com/search/?f=rss&t=article&c=news/business&l=25&s=start_time&sd=desc', 'state': 'NH'},
+    'Portland Press Herald': {'url': 'https://www.pressherald.com/feed/', 'state': 'ME'},
+    'Bangor Daily News': {'url': 'https://bangordailynews.com/feed/', 'state': 'ME'},
+    'InDepthNH': {'url': 'https://indepthnh.org/feed/', 'state': 'NH'},
+    'Valley News': {'url': 'https://www.vnews.com/feed/articles/rss', 'state': 'VT'},
+    'MassLive': {'url': 'https://www.masslive.com/arc/outboundfeeds/rss/?outputType=xml', 'state': 'MA'},
+    'Times Union': {'url': 'https://www.timesunion.com/search/?action=search&channel=news&inlineContent=1&searchindex=solr&query=construction&sort=date&output=rss', 'state': 'NY'},
+    'Providence Journal': {'url': 'https://www.providencejournal.com/arcio/rss/', 'state': 'RI'},
+    'Hartford Courant': {'url': 'https://www.courant.com/arcio/rss/', 'state': 'CT'}
 }
 
-# PRD Section 3.1: 8 DOT Sources (EXACTLY as specified)
 DOT_SOURCES = {
-    'ME': {
-        'name': 'MaineDOT',
-        'bid_url': 'https://www.maine.gov/mdot/projects/workplan/docs/monthlychange.pdf',
-        'portal_url': 'https://www.maine.gov/mdot/projects/advertised/',
-        'format': 'pdf',
-        'update_freq': 'Weekly'
-    },
-    'MA': {
-        'name': 'MassDOT',
-        'bid_url': 'https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp',
-        'portal_url': 'https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp',
-        'format': 'html_table',
-        'update_freq': 'Real-time'
-    },
-    'PA': {
-        'name': 'PennDOT',
-        'bid_url': 'https://www.dot.state.pa.us/public/Bureaus/BOMO/CONTRACT/letschdl.pdf',
-        'portal_url': 'https://www.penndot.pa.gov/business/Letting/Pages/default.aspx',
-        'format': 'pdf',
-        'update_freq': 'Monthly'
-    },
-    'VT': {
-        'name': 'VTrans',
-        'bid_url': 'https://apps.vtrans.vermont.gov/AnticipatedAdSchedule/ViewReport.aspx',
-        'portal_url': 'https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting',
-        'format': 'dynamic_csv',
-        'update_freq': 'Varies'
-    },
-    'NH': {
-        'name': 'NHDOT',
-        'bid_url': 'https://mm.nh.gov/files/uploads/dot/remote-docs/current-ad-schedule.pdf',
-        'portal_url': 'https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid',
-        'format': 'pdf',
-        'update_freq': 'FY basis'
-    },
-    'NY': {
-        'name': 'NYSDOT',
-        'bid_url': 'https://nyscr.ny.gov/Ads/Search',
-        'portal_url': 'https://www.dot.ny.gov/doing-business/opportunities/const-highway',
-        'format': 'html_database',
-        'update_freq': 'Daily'
-    },
-    'RI': {
-        'name': 'RIDOT',
-        'bid_url': 'https://www.dot.ri.gov/accountability/docs/',
-        'portal_url': 'https://www.dot.ri.gov/about/current_projects.php',
-        'format': 'pdf_quarterly',
-        'update_freq': 'Quarterly'
-    },
-    'CT': {
-        'name': 'CTDOT',
-        'bid_url': 'https://connecticut-ctdot.opendata.arcgis.com/search?collection=Dataset',
-        'portal_url': 'https://portal.ct.gov/DOT/Doing-Business/Contractor-Information',
-        'format': 'arcgis_json',
-        'update_freq': 'Nightly'
-    }
+    'MA': {'name': 'MassDOT', 'portal_url': 'https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp', 'parser': 'active'},
+    'ME': {'name': 'MaineDOT', 'portal_url': 'https://www.maine.gov/dot/doing-business/bid-opportunities', 'parser': 'stub'},
+    'NH': {'name': 'NHDOT', 'portal_url': 'https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid', 'parser': 'stub'},
+    'VT': {'name': 'VTrans', 'portal_url': 'https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting', 'parser': 'stub'},
+    'NY': {'name': 'NYSDOT', 'portal_url': 'https://www.dot.ny.gov/doing-business/opportunities/const-highway', 'parser': 'stub'},
+    'RI': {'name': 'RIDOT', 'portal_url': 'https://www.dot.ri.gov/about/current_projects.php', 'parser': 'stub'},
+    'CT': {'name': 'CTDOT', 'portal_url': 'https://portal.ct.gov/DOT/Doing-Business/Contractor-Information', 'parser': 'stub'},
+    'PA': {'name': 'PennDOT', 'portal_url': 'https://www.penndot.pa.gov/business/Letting/Pages/default.aspx', 'parser': 'stub'}
 }
 
-# PRD Section 3.3: 6 Public Market Health Metrics (INTERNAL METRICS EXCLUDED per Requirement #7)
-# Total weight: 60% (0.15 + 0.10 + 0.10 + 0.10 + 0.08 + 0.07)
-MARKET_HEALTH_METRICS = {
-    'dot_pipeline': {
-        'name': 'DOT Project Pipeline',
-        'weight': 0.15,
-        'source': 'State DOT PDFs/HTML',
-        'thresholds': {'high': 7.5, 'low': 5.0},
-        'actions': {
-            'high': 'Expand highway capacity',
-            'medium': 'Maintain position',
-            'low': 'Defensive mode'
-        }
-    },
-    'housing_permits': {
-        'name': 'Housing Permit Momentum',
-        'weight': 0.10,
-        'source': 'Census Bureau',
-        'thresholds': {'high': 7.0, 'low': 4.0},
-        'actions': {
-            'high': 'Ready-mix expansion',
-            'medium': 'Monitor trends',
-            'low': 'Consolidate plants'
-        }
-    },
-    'construction_spending': {
-        'name': 'Construction Spending',
-        'weight': 0.10,
-        'source': 'FRED TTLCONS',
-        'thresholds': {'high': 7.0, 'low': 4.0},
-        'actions': {
-            'high': 'All-segment growth',
-            'medium': 'Selective investment',
-            'low': 'Cost focus'
-        }
-    },
-    'migration': {
-        'name': 'Migration Patterns',
-        'weight': 0.10,
-        'source': 'IRS Migration Data',
-        'thresholds': {'high': 7.0, 'low': 4.0},
-        'actions': {
-            'high': 'Geographic expansion',
-            'medium': 'Maintain footprint',
-            'low': 'Market consolidation'
-        }
-    },
-    'input_cost_stability': {
-        'name': 'Input Cost Stability',
-        'weight': 0.08,
-        'source': 'EIA Energy',
-        'thresholds': {'high': 7.0, 'low': 4.0},
-        'actions': {
-            'high': 'Lock contracts',
-            'medium': 'Hedge 6 months',
-            'low': 'Pass-through only'
-        }
-    },
-    'infrastructure_funding': {
-        'name': 'Infrastructure Funding',
-        'weight': 0.07,
-        'source': 'FHWA + infrastructure.gov',
-        'thresholds': {'high': 7.0, 'low': 4.0},
-        'actions': {
-            'high': 'Major expansion',
-            'medium': 'Selective growth',
-            'low': 'Focus existing assets'
-        }
-    }
-}
-
-# Keywords for relevance filtering
 CONSTRUCTION_KEYWORDS = {
-    'high_priority': [
-        'highway', 'bridge', 'DOT', 'NHDOT', 'VTrans', 'MaineDOT', 'MassDOT',
-        'NYSDOT', 'PennDOT', 'RIDOT', 'CTDOT', 'bid', 'letting', 'RFP', 'RFQ',
-        'contract award', 'paving', 'resurfacing', 'infrastructure bill',
-        'transportation funding', 'IIJA', 'BIL', 'federal grant'
-    ],
-    'medium_priority': [
-        'construction', 'infrastructure', 'road', 'pavement', 'asphalt',
-        'concrete', 'aggregate', 'gravel', 'sand', 'stone', 'quarry',
-        'development', 'permit', 'municipal'
-    ],
+    'high_priority': ['highway', 'bridge', 'DOT', 'bid', 'letting', 'RFP', 'contract award', 'paving', 'resurfacing', 'infrastructure', 'IIJA', 'federal grant'],
+    'medium_priority': ['construction', 'road', 'pavement', 'asphalt', 'concrete', 'aggregate', 'gravel', 'development', 'permit', 'municipal'],
     'business_line_keywords': {
         'highway': ['highway', 'road', 'interstate', 'route', 'bridge', 'DOT', 'transportation'],
-        'hma': ['asphalt', 'paving', 'resurfacing', 'overlay', 'milling', 'HMA', 'hot mix'],
-        'aggregates': ['aggregate', 'gravel', 'sand', 'stone', 'quarry', 'crushing'],
-        'ready_mix': ['concrete', 'ready-mix', 'ready mix', 'cement'],
-        'liquid_asphalt': ['liquid asphalt', 'bitumen', 'emulsion', 'asphalt binder']
+        'hma': ['asphalt', 'paving', 'resurfacing', 'overlay', 'milling', 'HMA', 'hot mix', 'surfacing', 'pavement'],
+        'aggregates': ['aggregate', 'gravel', 'sand', 'stone', 'quarry'],
+        'ready_mix': ['concrete', 'ready-mix', 'cement', 'bridge deck'],
+        'liquid_asphalt': ['liquid asphalt', 'bitumen', 'emulsion']
     }
 }
 
@@ -261,24 +74,17 @@ CONSTRUCTION_KEYWORDS = {
 # =============================================================================
 
 def generate_id(text: str) -> str:
-    """Generate consistent hash ID."""
     return hashlib.md5(text.encode()).hexdigest()[:12]
 
-
 def get_priority(text: str) -> str:
-    """Determine news priority."""
     text_lower = text.lower()
-    for kw in CONSTRUCTION_KEYWORDS['high_priority']:
-        if kw.lower() in text_lower:
-            return 'high'
-    for kw in CONSTRUCTION_KEYWORDS['medium_priority']:
-        if kw.lower() in text_lower:
-            return 'medium'
+    if any(kw.lower() in text_lower for kw in CONSTRUCTION_KEYWORDS['high_priority']):
+        return 'high'
+    if any(kw.lower() in text_lower for kw in CONSTRUCTION_KEYWORDS['medium_priority']):
+        return 'medium'
     return 'low'
 
-
 def get_business_lines(text: str) -> List[str]:
-    """Identify relevant business lines."""
     text_lower = text.lower()
     lines = []
     for line, keywords in CONSTRUCTION_KEYWORDS['business_line_keywords'].items():
@@ -286,343 +92,362 @@ def get_business_lines(text: str) -> List[str]:
             lines.append(line)
     return lines if lines else ['highway']
 
-
 def is_construction_relevant(text: str) -> bool:
-    """Check if text is construction-relevant."""
     text_lower = text.lower()
-    all_keywords = CONSTRUCTION_KEYWORDS['high_priority'] + CONSTRUCTION_KEYWORDS['medium_priority']
-    return any(kw.lower() in text_lower for kw in all_keywords)
+    all_kw = CONSTRUCTION_KEYWORDS['high_priority'] + CONSTRUCTION_KEYWORDS['medium_priority']
+    return any(kw.lower() in text_lower for kw in all_kw)
+
+def format_currency(amount) -> Optional[str]:
+    if amount is None:
+        return None
+    if amount >= 1000000000:
+        return f"${amount / 1000000000:.1f}B"
+    elif amount >= 1000000:
+        return f"${amount / 1000000:.1f}M"
+    elif amount >= 1000:
+        return f"${amount / 1000:.0f}K"
+    return f"${amount:,.0f}"
+
+def parse_currency(text: str) -> Optional[float]:
+    if not text:
+        return None
+    cleaned = re.sub(r'[,$]', '', text.strip())
+    try:
+        return float(cleaned)
+    except ValueError:
+        return None
 
 
-def format_currency(low: int, high: int) -> str:
-    """Format cost display string."""
-    def fmt(amount):
-        if amount >= 1000000000:
-            return f"${amount / 1000000000:.1f}B"
-        elif amount >= 1000000:
-            return f"${amount / 1000000:.1f}M"
-        elif amount >= 1000:
-            return f"${amount / 1000:.0f}K"
-        else:
-            return f"${amount:,}"
+# =============================================================================
+# MASSDOT PARSER (PHASE 2)
+# =============================================================================
+
+def parse_massdot() -> List[Dict]:
+    """Parse MassDOT advertised projects with actual dollar amounts."""
+    url = DOT_SOURCES['MA']['portal_url']
+    lettings = []
     
-    if low == high:
-        return fmt(low)
-    return f"{fmt(low)} - {fmt(high)}"
+    try:
+        print(f"    🔍 Fetching MassDOT...")
+        response = requests.get(url, timeout=30, headers={
+            'User-Agent': 'NECMIS/2.0 Construction Intelligence'
+        })
+        response.raise_for_status()
+        html = response.text
+        
+        # Parse by bid opening sections
+        bid_sections = re.split(r'Bid Opening:\s*', html)
+        
+        for section in bid_sections[1:]:
+            # Get bid date from section start
+            date_match = re.search(r'(\d{1,2}/\d{1,2}/\d{4})', section[:50])
+            bid_date = None
+            if date_match:
+                try:
+                    bid_date = datetime.strptime(date_match.group(1), '%m/%d/%Y').strftime('%Y-%m-%d')
+                except:
+                    pass
+            
+            # Extract project data using multiple pattern attempts
+            locations = re.findall(r'\*\*?Location:\*?\*?\s*\*?([A-Z][A-Za-z\s\-,]+)', section)
+            if not locations:
+                locations = re.findall(r'Location:</b>\s*<i>([^<]+)</i>', section, re.I)
+            if not locations:
+                locations = re.findall(r'Location:\s*\*([^*\n]+)\*', section)
+            
+            descriptions = re.findall(r'\*\*?Description:\*?\*?\s*\*?([^*\n]{15,250})', section)
+            if not descriptions:
+                descriptions = re.findall(r'Description:</b>\s*<i>([^<]+)</i>', section, re.I)
+            
+            values = re.findall(r'Project Value:\*?\*?\s*\$([0-9,]+\.?\d*)', section)
+            if not values:
+                values = re.findall(r'Project Value:</b>\s*\$([0-9,]+\.?\d*)', section, re.I)
+            
+            proj_nums = re.findall(r'Project Number:\*?\*?\s*(\d+)', section)
+            if not proj_nums:
+                proj_nums = re.findall(r'Project Number:</b>\s*(\d+)', section, re.I)
+            
+            proj_types = re.findall(r'Project Type:\*?\*?\s*([A-Za-z\s\-,&]+)', section)
+            if not proj_types:
+                proj_types = re.findall(r'Project Type:</b>\s*([^<\n]+)', section, re.I)
+            
+            ad_dates = re.findall(r'Ad Date:\*?\*?\s*(\d{1,2}/\d{1,2}/\d{4})', section)
+            if not ad_dates:
+                ad_dates = re.findall(r'Ad Date:</b>\s*(\d{1,2}/\d{1,2}/\d{4})', section, re.I)
+            
+            # Build project records
+            num_projects = max(len(locations), len(descriptions), len(values), 1)
+            
+            for i in range(min(num_projects, 30)):  # Cap at 30 per section
+                location = locations[i].strip() if i < len(locations) else None
+                description = descriptions[i].strip() if i < len(descriptions) else None
+                
+                if not description or len(description) < 10:
+                    continue
+                
+                cost = parse_currency(values[i]) if i < len(values) else None
+                project_num = proj_nums[i] if i < len(proj_nums) else None
+                project_type = proj_types[i].strip() if i < len(proj_types) else None
+                
+                ad_date = None
+                if i < len(ad_dates):
+                    try:
+                        ad_date = datetime.strptime(ad_dates[i], '%m/%d/%Y').strftime('%Y-%m-%d')
+                    except:
+                        pass
+                
+                # Clean location
+                county = location
+                if location and 'DISTRICT' in location.upper():
+                    county = None
+                
+                full_desc = f"{description} - {location}" if location and county else description
+                
+                letting = {
+                    'id': generate_id(f"MA-{project_num or ''}-{description[:25]}"),
+                    'state': 'MA',
+                    'project_id': project_num,
+                    'description': full_desc[:200],
+                    'cost_low': int(cost) if cost else None,
+                    'cost_high': int(cost) if cost else None,
+                    'cost_display': format_currency(cost),
+                    'ad_date': ad_date,
+                    'let_date': bid_date,
+                    'project_type': project_type[:50] if project_type else None,
+                    'county': county,
+                    'url': url,
+                    'source': 'MassDOT',
+                    'business_lines': get_business_lines(f"{description} {project_type or ''}")
+                }
+                lettings.append(letting)
+        
+        if lettings:
+            total = sum(l.get('cost_low') or 0 for l in lettings)
+            print(f"    ✓ {len(lettings)} projects, ${total:,.0f} total")
+        else:
+            print(f"    ⚠ No projects parsed")
+            lettings.append(create_portal_stub('MA'))
+            
+    except Exception as e:
+        print(f"    ✗ Error: {e}")
+        lettings.append(create_portal_stub('MA'))
+    
+    return lettings
 
 
-def get_action(score: float, metric_key: str) -> str:
-    """Get recommended action based on score (PRD Requirement #8)."""
-    metric = MARKET_HEALTH_METRICS[metric_key]
-    if score >= metric['thresholds']['high']:
-        return metric['actions']['high']
-    elif score >= metric['thresholds']['low']:
-        return metric['actions']['medium']
-    else:
-        return metric['actions']['low']
-
-
-def get_overall_status(score: float) -> str:
-    """Get overall market status (PRD Requirement #8)."""
-    if score >= 7.5:
-        return 'growth'
-    elif score >= 6.0:
-        return 'stable'
-    elif score >= 5.0:
-        return 'watchlist'
-    else:
-        return 'defensive'
+def create_portal_stub(state: str) -> Dict:
+    """Create stub record for DOT portal link."""
+    cfg = DOT_SOURCES[state]
+    return {
+        'id': generate_id(f"{state}-portal"),
+        'state': state,
+        'project_id': None,
+        'description': f"{cfg['name']} Bid Schedule - Visit portal for current lettings",
+        'cost_low': None,
+        'cost_high': None,
+        'cost_display': 'See Portal',
+        'ad_date': None,
+        'let_date': None,
+        'project_type': None,
+        'county': None,
+        'url': cfg['portal_url'],
+        'source': cfg['name'],
+        'business_lines': ['highway']
+    }
 
 
 # =============================================================================
-# RSS FEED SCRAPING (PRD Section 3.2)
+# DOT & RSS FETCHING
 # =============================================================================
+
+def fetch_dot_lettings() -> List[Dict]:
+    """Fetch DOT lettings from all states."""
+    lettings = []
+    for state, cfg in DOT_SOURCES.items():
+        print(f"  🏗️ {cfg['name']} ({state})...")
+        try:
+            if cfg['parser'] == 'active' and state == 'MA':
+                lettings.extend(parse_massdot())
+            else:
+                lettings.append(create_portal_stub(state))
+                print(f"    ✓ Portal link")
+        except Exception as e:
+            print(f"    ✗ {e}")
+            lettings.append(create_portal_stub(state))
+    return lettings
+
 
 def fetch_rss_feeds() -> List[Dict]:
-    """Fetch news from all 10 RSS feeds specified in PRD."""
-    news_items = []
-    
-    for source_name, config in RSS_FEEDS.items():
+    """Fetch construction news from RSS feeds."""
+    news = []
+    for source, cfg in RSS_FEEDS.items():
         try:
-            print(f"  📰 {source_name}...")
-            
-            feed = feedparser.parse(config['url'], request_headers={
-                'User-Agent': 'NECMIS/1.0 (Construction Market Intelligence)'
+            print(f"  📰 {source}...")
+            feed = feedparser.parse(cfg['url'], request_headers={
+                'User-Agent': 'NECMIS/2.0'
             })
-            
-            if feed.bozo:
-                print(f"    ⚠️ Feed parse warning: {feed.bozo_exception}")
-            
             count = 0
             for entry in feed.entries[:20]:
                 title = entry.get('title', '')
                 summary = entry.get('summary', entry.get('description', ''))
                 link = entry.get('link', '')
                 
-                # Clean HTML
                 if summary:
                     summary = BeautifulSoup(summary, 'html.parser').get_text()[:300].strip()
                 
-                # Check relevance
                 combined = f"{title} {summary}"
                 if not is_construction_relevant(combined):
                     continue
                 
-                # Parse date
-                pub_date = entry.get('published_parsed') or entry.get('updated_parsed')
-                if pub_date:
-                    date_str = datetime(*pub_date[:6]).strftime('%Y-%m-%d')
-                else:
-                    date_str = datetime.now().strftime('%Y-%m-%d')
+                pub = entry.get('published_parsed') or entry.get('updated_parsed')
+                date_str = datetime(*pub[:6]).strftime('%Y-%m-%d') if pub else datetime.now().strftime('%Y-%m-%d')
                 
-                # Determine category
-                funding_keywords = ['grant', 'funding', 'award', 'federal', 'IIJA', 'BIL', 
-                                   'infrastructure bill', 'million', 'billion', '$']
-                category = 'funding' if any(kw in combined.lower() for kw in funding_keywords) else 'news'
+                funding_kw = ['grant', 'funding', 'award', 'federal', 'million', 'billion', '$']
+                category = 'funding' if any(k in combined.lower() for k in funding_kw) else 'news'
                 
-                news_items.append({
+                news.append({
                     'id': generate_id(link or title),
                     'title': title,
                     'summary': summary,
                     'url': link,
-                    'source': source_name,
-                    'state': config['state'],
+                    'source': source,
+                    'state': cfg['state'],
                     'date': date_str,
                     'category': category,
                     'priority': get_priority(combined),
                     'business_lines': get_business_lines(combined)
                 })
                 count += 1
-            
-            print(f"    ✓ {count} relevant items")
-            
+            print(f"    ✓ {count} items")
         except Exception as e:
-            print(f"    ✗ Error: {e}")
+            print(f"    ✗ {e}")
     
-    # Sort by date descending
-    news_items.sort(key=lambda x: x['date'], reverse=True)
-    return news_items
+    news.sort(key=lambda x: x['date'], reverse=True)
+    return news
 
 
 # =============================================================================
-# DOT BID SCHEDULE SCRAPING (PRD Section 3.1)
-# =============================================================================
-
-def fetch_dot_lettings() -> List[Dict]:
-    """Fetch DOT lettings from all 8 states (PRD Section 3.1)."""
-    dot_lettings = []
-    
-    for state, config in DOT_SOURCES.items():
-        try:
-            print(f"  🏗️ {config['name']} ({state})...")
-            
-            # Phase 1: Create portal reference
-            # Phase 2+: Will implement actual parsers
-            dot_lettings.append({
-                'id': generate_id(f"{state}-portal-ref"),
-                'state': state,
-                'project_id': None,
-                'description': f"{config['name']} Bid Schedule - Visit portal for current lettings",
-                'cost_low': None,
-                'cost_high': None,
-                'cost_display': 'See Portal',
-                'ad_date': None,
-                'let_date': None,
-                'project_type': None,
-                'county': None,
-                'url': config['portal_url'],
-                'source': config['name'],
-                'business_lines': ['highway']
-            })
-            
-            print(f"    ✓ Portal link added ({config['format']}, {config['update_freq']})")
-            
-        except Exception as e:
-            print(f"    ✗ Error: {e}")
-    
-    return dot_lettings
-
-
-# =============================================================================
-# MARKET HEALTH CALCULATION (PRD Section 3.3)
+# MARKET HEALTH & SUMMARY
 # =============================================================================
 
 def calculate_market_health(dot_lettings: List[Dict], news: List[Dict]) -> Dict:
-    """
-    Calculate Market Health Framework (PRD Requirements #6, #7, #8).
-    Uses 6 PUBLIC metrics only (internal metrics excluded).
-    Returns scores + trends + actions.
-    """
+    """Calculate Market Health scores."""
+    total_value = sum(d.get('cost_low') or 0 for d in dot_lettings)
+    projects_with_cost = len([d for d in dot_lettings if d.get('cost_low')])
     
-    # Phase 1: Baseline scores from Market Health PDF
-    # These match the "Current" column exactly
-    baseline_scores = {
-        'dot_pipeline': 8.2,           # Strong DOT pipeline
-        'housing_permits': 6.5,        # Moderate
-        'construction_spending': 6.1,  # Below target
-        'migration': 7.3,              # Good in-migration
-        'input_cost_stability': 5.5,   # Cost pressure
-        'infrastructure_funding': 7.8  # Strong federal funding
+    # DOT score based on pipeline value
+    if total_value >= 100000000:
+        dot_score, dot_trend = 9.0, 'up'
+    elif total_value >= 50000000:
+        dot_score, dot_trend = 8.2, 'up'
+    elif total_value >= 20000000:
+        dot_score, dot_trend = 7.0, 'stable'
+    elif total_value > 0:
+        dot_score, dot_trend = 6.0, 'stable'
+    else:
+        dot_score, dot_trend = 8.2, 'up'  # Default baseline
+    
+    mh = {
+        'dot_pipeline': {'score': dot_score, 'trend': dot_trend, 'action': 'Expand highway capacity'},
+        'housing_permits': {'score': 6.5, 'trend': 'stable', 'action': 'Monitor trends'},
+        'construction_spending': {'score': 6.1, 'trend': 'down', 'action': 'Selective investment'},
+        'migration': {'score': 7.3, 'trend': 'up', 'action': 'Geographic expansion'},
+        'input_cost_stability': {'score': 5.5, 'trend': 'down', 'action': 'Hedge 6 months'},
+        'infrastructure_funding': {'score': 7.8, 'trend': 'stable', 'action': 'Selective growth'}
     }
     
-    # Phase 1: Baseline trends (will calculate from history in Phase 2+)
-    baseline_trends = {
-        'dot_pipeline': 'up',
-        'housing_permits': 'stable',
-        'construction_spending': 'down',
-        'migration': 'up',
-        'input_cost_stability': 'down',
-        'infrastructure_funding': 'stable'
-    }
+    weights = {'dot_pipeline': 0.15, 'housing_permits': 0.10, 'construction_spending': 0.10,
+               'migration': 0.10, 'input_cost_stability': 0.08, 'infrastructure_funding': 0.07}
     
-    # Build market health object (PRD Requirement #8: Scores + Actions + Trends)
-    market_health = {}
-    total_weighted = 0
-    total_weight = 0
+    total_w = sum(mh[k]['score'] * weights[k] for k in weights)
+    sum_w = sum(weights.values())
+    overall = round(total_w / sum_w, 1)
     
-    for metric_key, metric_config in MARKET_HEALTH_METRICS.items():
-        score = baseline_scores[metric_key]
-        trend = baseline_trends[metric_key]
-        action = get_action(score, metric_key)
-        
-        market_health[metric_key] = {
-            'score': score,
-            'trend': trend,
-            'action': action
-        }
-        
-        total_weighted += score * metric_config['weight']
-        total_weight += metric_config['weight']
+    status = 'growth' if overall >= 7.5 else 'stable' if overall >= 6.0 else 'watchlist'
+    mh['overall_score'] = overall
+    mh['overall_status'] = status
     
-    # Overall score (weighted average normalized to 10-point scale)
-    overall_score = round(total_weighted / total_weight, 1)
-    
-    market_health['overall_score'] = overall_score
-    market_health['overall_status'] = get_overall_status(overall_score)
-    
-    return market_health
+    return mh
 
-
-# =============================================================================
-# SUMMARY CALCULATION (PRD Section 6.1)
-# =============================================================================
 
 def build_summary(dot_lettings: List[Dict], news: List[Dict]) -> Dict:
-    """Build summary object matching PRD Section 6.1 schema."""
+    """Build summary statistics."""
+    total_low = sum(d.get('cost_low') or 0 for d in dot_lettings)
+    total_high = sum(d.get('cost_high') or 0 for d in dot_lettings)
     
-    # Value calculations
-    total_value_low = sum(item.get('cost_low') or 0 for item in dot_lettings)
-    total_value_high = sum(item.get('cost_high') or 0 for item in dot_lettings)
+    by_state = {s: 0 for s in STATES}
+    for d in dot_lettings:
+        if d['state'] in by_state:
+            by_state[d['state']] += 1
+    for n in news:
+        if n['state'] in by_state:
+            by_state[n['state']] += 1
     
-    # Count by state
-    by_state = {state: 0 for state in STATES}
-    for item in dot_lettings:
-        if item['state'] in by_state:
-            by_state[item['state']] += 1
-    for item in news:
-        if item['state'] in by_state:
-            by_state[item['state']] += 1
-    
-    # Count by category
-    by_category = {
+    by_cat = {
         'dot_letting': len(dot_lettings),
         'news': len([n for n in news if n['category'] == 'news']),
         'funding': len([n for n in news if n['category'] == 'funding'])
     }
     
-    # Total opportunities = DOT lettings + funding
-    total_opportunities = by_category['dot_letting'] + by_category['funding']
-    
     return {
-        'total_opportunities': total_opportunities,
-        'total_value_low': total_value_low,
-        'total_value_high': total_value_high,
+        'total_opportunities': by_cat['dot_letting'] + by_cat['funding'],
+        'total_value_low': total_low,
+        'total_value_high': total_high,
         'by_state': by_state,
-        'by_category': by_category
+        'by_category': by_cat
     }
 
 
 # =============================================================================
-# MAIN SCRAPER
+# MAIN
 # =============================================================================
 
 def run_scraper() -> Dict:
-    """
-    Main scraper function.
-    Output matches PRD Section 6.1 schema EXACTLY:
-    - generated: timestamp
-    - summary: statistics with value ranges
-    - dot_lettings: SEPARATE array (displayed SECOND per PRD #5)
-    - news: SEPARATE array (displayed THIRD per PRD #5)
-    - market_health: scores + trends + actions (PRD #6, #8)
-    """
+    """Main scraper function."""
     print("=" * 60)
-    print("NECMIS SCRAPER - PRD COMPLIANT")
+    print("NECMIS SCRAPER - PHASE 2")
     print("=" * 60)
-    print(f"Run time: {datetime.now().isoformat()}")
-    print(f"States: {', '.join(STATES)}")
-    print(f"Business lines: {', '.join(BUSINESS_LINES)}")
+    print(f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print()
     
-    # Step 1: Fetch RSS feeds (PRD Section 3.2)
-    print("[1/3] Fetching RSS feeds (10 sources)...")
-    news = fetch_rss_feeds()
-    print(f"  Total: {len(news)} construction-relevant news items")
-    print()
-    
-    # Step 2: Fetch DOT lettings (PRD Section 3.1)
-    print("[2/3] Fetching DOT bid schedules (8 states)...")
+    print("[1/3] DOT Bid Schedules...")
     dot_lettings = fetch_dot_lettings()
-    print(f"  Total: {len(dot_lettings)} DOT sources")
+    with_cost = len([d for d in dot_lettings if d.get('cost_low')])
+    total_val = sum(d.get('cost_low') or 0 for d in dot_lettings)
+    print(f"  Total: {len(dot_lettings)} ({with_cost} with $), Pipeline: {format_currency(total_val)}")
     print()
     
-    # Step 3: Calculate Market Health (PRD Section 3.3)
-    print("[3/3] Calculating Market Health (6 public metrics)...")
-    market_health = calculate_market_health(dot_lettings, news)
-    print(f"  Overall Score: {market_health['overall_score']}/10 ({market_health['overall_status'].upper()})")
+    print("[2/3] RSS Feeds...")
+    news = fetch_rss_feeds()
+    print(f"  Total: {len(news)} items")
     print()
     
-    # Build summary
+    print("[3/3] Market Health...")
+    mh = calculate_market_health(dot_lettings, news)
+    print(f"  Score: {mh['overall_score']}/10 ({mh['overall_status'].upper()})")
+    print()
+    
     summary = build_summary(dot_lettings, news)
     
-    # Assemble final data (PRD Section 6.1 schema)
     data = {
         'generated': datetime.utcnow().isoformat() + 'Z',
         'summary': summary,
-        'dot_lettings': dot_lettings,   # SEPARATE array per PRD
-        'news': news,                    # SEPARATE array per PRD
-        'market_health': market_health   # Scores + trends + actions per PRD
+        'dot_lettings': dot_lettings,
+        'news': news,
+        'market_health': mh
     }
     
-    # Print summary
     print("=" * 60)
-    print("SCRAPER COMPLETE")
+    print(f"Pipeline: {format_currency(summary['total_value_low'])}")
+    print(f"Opportunities: {summary['total_opportunities']}")
     print("=" * 60)
-    print(f"Total Opportunities: {summary['total_opportunities']}")
-    print(f"DOT Lettings: {summary['by_category']['dot_letting']}")
-    print(f"News Items: {summary['by_category']['news']}")
-    print(f"Funding Items: {summary['by_category']['funding']}")
-    print(f"Market Health: {market_health['overall_score']}/10 ({market_health['overall_status']})")
-    print()
     
     return data
 
 
-# =============================================================================
-# ENTRY POINT
-# =============================================================================
-
 if __name__ == '__main__':
-    # Run scraper
     data = run_scraper()
-    
-    # Ensure output directory
     os.makedirs('data', exist_ok=True)
-    
-    # Save to JSON
-    output_path = 'data/necmis_data.json'
-    with open(output_path, 'w') as f:
+    with open('data/necmis_data.json', 'w') as f:
         json.dump(data, f, indent=2)
-    
-    print(f"Data saved to: {output_path}")
-    print(f"Schema: PRD Section 6.1 compliant")
+    print("✓ Saved to data/necmis_data.json")
