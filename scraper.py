@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 """
-NECMIS Scraper - Phase 2.1 (Plain Text Parser)
-===============================================
-Converts HTML to plain text, then extracts project details.
+NECMIS Scraper - Phase 2.2 (MA + ME Parsers)
+=============================================
+- MA: HTML text extraction with project details
+- ME: Excel parsing from weekly schedule (NEW)
+
+Data Sources:
+- MA: hwy.massdot.state.ma.us/webapps/const/statusReport.asp (HTML)
+- ME: maine.gov/dot/.../monthly.xls (Excel with cost estimates)
 """
 
 import json
@@ -11,6 +16,7 @@ import re
 import os
 from datetime import datetime, timezone
 from typing import Dict, List, Optional
+import tempfile
 
 try:
     import requests
@@ -19,6 +25,14 @@ try:
 except ImportError as e:
     print(f"Missing dependency: {e}")
     raise
+
+# Try to import pandas for ME Excel parsing
+try:
+    import pandas as pd
+    PANDAS_AVAILABLE = True
+except ImportError:
+    PANDAS_AVAILABLE = False
+    print("⚠️ pandas not available - ME Excel parser disabled")
 
 
 # =============================================================================
@@ -41,14 +55,47 @@ RSS_FEEDS = {
 }
 
 DOT_SOURCES = {
-    'MA': {'name': 'MassDOT', 'portal_url': 'https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp', 'parser': 'active'},
-    'ME': {'name': 'MaineDOT', 'portal_url': 'https://www.maine.gov/dot/doing-business/bid-opportunities', 'parser': 'stub'},
-    'NH': {'name': 'NHDOT', 'portal_url': 'https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid', 'parser': 'stub'},
-    'VT': {'name': 'VTrans', 'portal_url': 'https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting', 'parser': 'stub'},
-    'NY': {'name': 'NYSDOT', 'portal_url': 'https://www.dot.ny.gov/doing-business/opportunities/const-highway', 'parser': 'stub'},
-    'RI': {'name': 'RIDOT', 'portal_url': 'https://www.dot.ri.gov/about/current_projects.php', 'parser': 'stub'},
-    'CT': {'name': 'CTDOT', 'portal_url': 'https://portal.ct.gov/DOT/Doing-Business/Contractor-Information', 'parser': 'stub'},
-    'PA': {'name': 'PennDOT', 'portal_url': 'https://www.penndot.pa.gov/business/Letting/Pages/default.aspx', 'parser': 'stub'}
+    'MA': {
+        'name': 'MassDOT', 
+        'portal_url': 'https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp', 
+        'parser': 'active'
+    },
+    'ME': {
+        'name': 'MaineDOT', 
+        'portal_url': 'https://www.maine.gov/dot/major-projects/cap/schedule',
+        'excel_url': 'https://www.maine.gov/dot/sites/maine.gov.dot/files/inline-files/monthly.xls',
+        'parser': 'active'  # NOW ACTIVE
+    },
+    'NH': {
+        'name': 'NHDOT', 
+        'portal_url': 'https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid', 
+        'parser': 'stub'
+    },
+    'VT': {
+        'name': 'VTrans', 
+        'portal_url': 'https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting', 
+        'parser': 'stub'
+    },
+    'NY': {
+        'name': 'NYSDOT', 
+        'portal_url': 'https://www.dot.ny.gov/doing-business/opportunities/const-highway', 
+        'parser': 'stub'
+    },
+    'RI': {
+        'name': 'RIDOT', 
+        'portal_url': 'https://www.dot.ri.gov/about/current_projects.php', 
+        'parser': 'stub'
+    },
+    'CT': {
+        'name': 'CTDOT', 
+        'portal_url': 'https://portal.ct.gov/DOT/Doing-Business/Contractor-Information', 
+        'parser': 'stub'
+    },
+    'PA': {
+        'name': 'PennDOT', 
+        'portal_url': 'https://www.penndot.pa.gov/business/Letting/Pages/default.aspx', 
+        'parser': 'stub'
+    }
 }
 
 CONSTRUCTION_KEYWORDS = {
@@ -61,6 +108,17 @@ CONSTRUCTION_KEYWORDS = {
         'ready_mix': ['concrete', 'ready-mix', 'cement', 'bridge deck', 'deck'],
         'liquid_asphalt': ['liquid asphalt', 'bitumen', 'emulsion']
     }
+}
+
+# ME work type to business line mapping
+ME_WORK_TYPE_MAPPING = {
+    'Highway Construction': ['highway', 'hma', 'aggregates'],
+    'Highway Preservation Paving': ['highway', 'hma'],
+    'Highway Light Capital Paving (LCP)': ['highway', 'hma'],
+    'Highway Safety and Spot Improvements': ['highway'],
+    'Bridge Construction': ['highway', 'aggregates', 'ready_mix'],
+    'Bridge Other': ['highway'],
+    'Multimodal': ['highway']
 }
 
 
@@ -106,7 +164,9 @@ def format_currency(amount) -> Optional[str]:
 def parse_currency(text: str) -> Optional[float]:
     if not text:
         return None
-    cleaned = re.sub(r'[,$]', '', text.strip())
+    if isinstance(text, (int, float)):
+        return float(text)
+    cleaned = re.sub(r'[,$]', '', str(text).strip())
     try:
         return float(cleaned)
     except ValueError:
@@ -115,7 +175,7 @@ def parse_currency(text: str) -> Optional[float]:
 def clean_location(loc: str) -> str:
     if not loc:
         return None
-    loc = loc.strip()
+    loc = str(loc).strip()
     if loc.upper().startswith('DISTRICT'):
         num = re.search(r'\d+', loc)
         return f"District {num.group()}" if num else "Various Locations"
@@ -123,13 +183,11 @@ def clean_location(loc: str) -> str:
 
 
 # =============================================================================
-# MASSDOT PARSER (Plain Text)
+# MASSDOT PARSER (HTML/Plain Text)
 # =============================================================================
 
 def parse_massdot() -> List[Dict]:
-    """
-    Parse MassDOT by converting HTML to plain text first.
-    """
+    """Parse MassDOT by converting HTML to plain text first."""
     url = DOT_SOURCES['MA']['portal_url']
     lettings = []
     
@@ -143,30 +201,16 @@ def parse_massdot() -> List[Dict]:
         
         print(f"    📄 Got {len(html)} bytes")
         
-        # Convert HTML to plain text using BeautifulSoup
         soup = BeautifulSoup(html, 'html.parser')
-        
-        # Remove script and style elements
         for script in soup(["script", "style"]):
             script.decompose()
         
-        # Get text with newlines preserved between elements
         text = soup.get_text(separator='\n')
-        
-        # Clean up multiple newlines
         text = re.sub(r'\n\s*\n', '\n', text)
         
         print(f"    📝 Converted to {len(text)} chars of text")
         
-        # Debug: show sample
-        sample = text[:800].replace('\n', ' | ')
-        print(f"    🔬 Sample: {sample[:300]}...")
-        
-        # Extract using plain text patterns
-        # Pattern: Look for Location: followed by text until Description:
-        # Then Description: followed by text until District:
-        
-        # Split into project blocks - each starts with "Location:"
+        # Split into project blocks
         blocks = re.split(r'(?=Location:)', text)
         print(f"    📦 Found {len(blocks)} potential project blocks")
         
@@ -175,7 +219,6 @@ def parse_massdot() -> List[Dict]:
             if 'Project Value:' not in block:
                 continue
             
-            # Extract fields from this block
             loc_match = re.search(r'Location:\s*([A-Z][A-Za-z0-9\s\-,]+?)(?:\s+Description:|$)', block)
             desc_match = re.search(r'Description:\s*(.+?)(?:\s+District:|$)', block, re.DOTALL)
             value_match = re.search(r'Project Value:\s*\$([0-9,]+\.?\d*)', block)
@@ -197,11 +240,9 @@ def parse_massdot() -> List[Dict]:
         
         print(f"    📊 Extracted {len(projects)} projects with values")
         
-        # If block parsing didn't work, try line-by-line extraction
+        # Fallback: line-by-line extraction
         if not projects:
             print(f"    🔄 Trying line-by-line extraction...")
-            
-            # Find all values first
             values = re.findall(r'Project Value:\s*\$([0-9,]+\.?\d*)', text)
             locations = re.findall(r'Location:\s*([A-Z][A-Za-z0-9\s\-,]+)', text)
             descriptions = re.findall(r'Description:\s*(.+?)(?=\s*District:|\n)', text)
@@ -223,7 +264,7 @@ def parse_massdot() -> List[Dict]:
                     'district': districts[i] if i < len(districts) else None
                 })
         
-        # If still nothing, fallback to just dollar amounts
+        # Fallback: dollar-only extraction
         if not projects:
             print(f"    🔄 Falling back to dollar-only extraction...")
             all_values = re.findall(r'\$([0-9,]+\.?\d*)', text)
@@ -252,8 +293,7 @@ def parse_massdot() -> List[Dict]:
             
             proj_type = p['project_type']
             if proj_type:
-                proj_type = re.sub(r'\s*,\s*$', '', proj_type)
-                proj_type = proj_type[:60]
+                proj_type = re.sub(r'\s*,\s*$', '', proj_type)[:60]
             
             ad_date = None
             if p['ad_date']:
@@ -303,6 +343,190 @@ def parse_massdot() -> List[Dict]:
     return lettings
 
 
+# =============================================================================
+# MAINEDOT PARSER (Excel) - NEW
+# =============================================================================
+
+def parse_mainedot() -> List[Dict]:
+    """
+    Parse MaineDOT weekly Construction Advertisement Schedule Excel file.
+    Source: maine.gov/dot/sites/maine.gov.dot/files/inline-files/monthly.xls
+    
+    Excel Columns:
+    - Work Type
+    - Advertise Date
+    - Scope
+    - Location/Title
+    - Details
+    - Project Identification No.
+    - Administered By
+    - Total Project Estimate
+    """
+    if not PANDAS_AVAILABLE:
+        print(f"    ⚠️ pandas not available, using portal stub")
+        return [create_portal_stub('ME')]
+    
+    cfg = DOT_SOURCES['ME']
+    lettings = []
+    
+    try:
+        print(f"    🔍 Fetching MaineDOT Excel...")
+        
+        # Download Excel file
+        response = requests.get(cfg['excel_url'], timeout=30, headers={
+            'User-Agent': 'Mozilla/5.0 (compatible; NECMIS/2.0)'
+        })
+        response.raise_for_status()
+        
+        # Save to temp file
+        with tempfile.NamedTemporaryFile(suffix='.xls', delete=False) as f:
+            f.write(response.content)
+            temp_path = f.name
+        
+        print(f"    📄 Downloaded {len(response.content):,} bytes")
+        
+        # Read Excel
+        try:
+            df = pd.read_excel(temp_path, engine='xlrd')
+        except Exception:
+            df = pd.read_excel(temp_path, engine='openpyxl')
+        
+        print(f"    📊 Loaded {len(df)} rows")
+        print(f"    Columns: {list(df.columns)[:5]}...")
+        
+        # Normalize column names
+        df.columns = [str(c).strip() for c in df.columns]
+        
+        # Map columns (handle variations in column names)
+        col_map = {}
+        for col in df.columns:
+            col_lower = col.lower()
+            if 'work type' in col_lower:
+                col_map['work_type'] = col
+            elif 'advertise' in col_lower and 'date' in col_lower:
+                col_map['ad_date'] = col
+            elif 'scope' in col_lower:
+                col_map['scope'] = col
+            elif 'location' in col_lower or 'title' in col_lower:
+                col_map['location'] = col
+            elif 'detail' in col_lower:
+                col_map['details'] = col
+            elif 'project' in col_lower and ('id' in col_lower or 'no' in col_lower or 'identification' in col_lower):
+                col_map['project_id'] = col
+            elif 'administered' in col_lower:
+                col_map['admin'] = col
+            elif 'estimate' in col_lower or 'total' in col_lower:
+                col_map['cost'] = col
+        
+        # Parse each row
+        for idx, row in df.iterrows():
+            try:
+                work_type = str(row.get(col_map.get('work_type', ''), '')).strip()
+                location = str(row.get(col_map.get('location', ''), '')).strip()
+                project_id = str(row.get(col_map.get('project_id', ''), '')).strip()
+                
+                # Skip empty rows
+                if not location or location.lower() == 'nan' or not location:
+                    continue
+                
+                # Parse cost
+                cost_raw = row.get(col_map.get('cost', ''))
+                cost = None
+                if pd.notna(cost_raw):
+                    cost_str = str(cost_raw).replace('$', '').replace(',', '').strip()
+                    try:
+                        cost = float(cost_str)
+                    except ValueError:
+                        pass
+                
+                # Parse date
+                ad_date_raw = row.get(col_map.get('ad_date', ''))
+                ad_date = None
+                if pd.notna(ad_date_raw):
+                    if isinstance(ad_date_raw, datetime):
+                        ad_date = ad_date_raw.strftime('%Y-%m-%d')
+                    else:
+                        try:
+                            ad_date = pd.to_datetime(ad_date_raw).strftime('%Y-%m-%d')
+                        except:
+                            pass
+                
+                # Build description
+                scope = str(row.get(col_map.get('scope', ''), '')).strip()
+                details = str(row.get(col_map.get('details', ''), '')).strip()
+                
+                description = location
+                if scope and scope.lower() != 'nan':
+                    description = f"{scope}: {location}"
+                if details and details.lower() != 'nan':
+                    description += f" - {details}"
+                
+                # Get business lines from work type
+                business_lines = []
+                for wt, bl in ME_WORK_TYPE_MAPPING.items():
+                    if wt.lower() in work_type.lower():
+                        business_lines.extend(bl)
+                if not business_lines:
+                    business_lines = get_business_lines(description)
+                business_lines = list(set(business_lines))
+                
+                # Clean project_id
+                if project_id.lower() == 'nan':
+                    project_id = None
+                
+                # Determine priority
+                priority = 'high' if cost and cost >= 1000000 else 'medium' if cost and cost >= 100000 else 'low'
+                
+                letting = {
+                    'id': generate_id(f"ME-{project_id or idx}-{location[:25]}"),
+                    'state': 'ME',
+                    'project_id': project_id,
+                    'description': description[:250],
+                    'cost_low': int(cost) if cost else None,
+                    'cost_high': int(cost) if cost else None,
+                    'cost_display': format_currency(cost) if cost else 'See Portal',
+                    'ad_date': ad_date,
+                    'let_date': None,
+                    'project_type': work_type if work_type.lower() != 'nan' else None,
+                    'location': location,
+                    'district': None,
+                    'url': cfg['portal_url'],
+                    'source': 'MaineDOT',
+                    'business_lines': business_lines
+                }
+                lettings.append(letting)
+                
+            except Exception as e:
+                print(f"    ⚠️ Row {idx} error: {e}")
+                continue
+        
+        # Cleanup temp file
+        try:
+            os.remove(temp_path)
+        except:
+            pass
+        
+        if lettings:
+            with_cost = len([l for l in lettings if l.get('cost_low')])
+            total = sum(l.get('cost_low') or 0 for l in lettings)
+            print(f"    ✓ {len(lettings)} projects ({with_cost} with $), {format_currency(total)} total pipeline")
+        else:
+            print(f"    ⚠ No projects parsed from Excel")
+            lettings.append(create_portal_stub('ME'))
+            
+    except Exception as e:
+        print(f"    ✗ Error: {e}")
+        import traceback
+        traceback.print_exc()
+        lettings.append(create_portal_stub('ME'))
+    
+    return lettings
+
+
+# =============================================================================
+# PORTAL STUB & FETCHING
+# =============================================================================
+
 def create_portal_stub(state: str) -> Dict:
     cfg = DOT_SOURCES[state]
     return {
@@ -324,17 +548,19 @@ def create_portal_stub(state: str) -> Dict:
     }
 
 
-# =============================================================================
-# DOT & RSS FETCHING
-# =============================================================================
-
 def fetch_dot_lettings() -> List[Dict]:
     lettings = []
     for state, cfg in DOT_SOURCES.items():
         print(f"  🏗️ {cfg['name']} ({state})...")
         try:
-            if cfg['parser'] == 'active' and state == 'MA':
-                lettings.extend(parse_massdot())
+            if cfg['parser'] == 'active':
+                if state == 'MA':
+                    lettings.extend(parse_massdot())
+                elif state == 'ME':
+                    lettings.extend(parse_mainedot())
+                else:
+                    lettings.append(create_portal_stub(state))
+                    print(f"    ✓ Portal link")
             else:
                 lettings.append(create_portal_stub(state))
                 print(f"    ✓ Portal link")
@@ -464,9 +690,10 @@ def build_summary(dot_lettings: List[Dict], news: List[Dict]) -> Dict:
 
 def run_scraper() -> Dict:
     print("=" * 60)
-    print("NECMIS SCRAPER - PHASE 2.1 (Plain Text Parser)")
+    print("NECMIS SCRAPER - PHASE 2.2 (MA + ME Parsers)")
     print("=" * 60)
     print(f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"Pandas available: {PANDAS_AVAILABLE}")
     print()
     
     print("[1/3] DOT Bid Schedules...")
@@ -507,6 +734,12 @@ def run_scraper() -> Dict:
     print(f"DOT Lettings: {summary['by_category']['dot_letting']} ({with_cost} with costs, {with_details} with details)")
     print(f"News: {summary['by_category']['news']}")
     print(f"Funding: {summary['by_category']['funding']}")
+    print()
+    print("By State:")
+    for state in ['MA', 'ME', 'VT', 'NH']:
+        count = len([d for d in dot_lettings if d['state'] == state])
+        val = sum(d.get('cost_low') or 0 for d in dot_lettings if d['state'] == state)
+        print(f"  {state}: {count} projects, {format_currency(val)}")
     print("=" * 60)
     
     return data
