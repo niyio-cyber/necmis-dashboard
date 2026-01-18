@@ -3,1058 +3,458 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NECMIS - Northeast Construction Market Intelligence</title>
+    <title>NECMIS - Market Intelligence</title>
     <style>
-        /* ============================================
-           NECMIS Dashboard - PRD Compliant
-           Display Order: Stats → DOT Lettings → News
-           ============================================ */
-        
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #1a365d 0%, #2d4a7c 100%);
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
             min-height: 100vh;
-            color: #333;
+            color: #e0e0e0;
         }
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
         
-        /* Password Overlay - PRD Requirement #3: 10 users, shared password */
-        #password-overlay {
-            position: fixed;
-            top: 0; left: 0;
-            width: 100%; height: 100%;
-            background: linear-gradient(135deg, #1a365d 0%, #2d4a7c 100%);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            z-index: 9999;
+        /* Login */
+        .login-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.95); display: flex; justify-content: center;
+            align-items: center; z-index: 1000;
         }
-        
-        .password-box {
-            background: white;
-            padding: 40px;
-            border-radius: 16px;
-            text-align: center;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            max-width: 400px;
-            width: 90%;
+        .login-overlay.hidden { display: none; }
+        .login-box {
+            background: #1e2a3a; padding: 40px; border-radius: 16px;
+            text-align: center; box-shadow: 0 20px 60px rgba(0,0,0,0.5);
         }
-        
-        .password-box h2 {
-            color: #1a365d;
-            margin-bottom: 8px;
-            font-size: 1.5em;
+        .login-box h2 { color: #4da6ff; margin-bottom: 10px; }
+        .login-box p { color: #888; margin-bottom: 20px; font-size: 0.9em; }
+        .login-box input {
+            padding: 12px 20px; border: 2px solid #333; border-radius: 8px;
+            background: #0d1520; color: #fff; font-size: 1em; width: 250px;
+            margin-bottom: 15px;
         }
-        
-        .password-box p {
-            color: #666;
-            margin-bottom: 24px;
-            font-size: 0.9em;
+        .login-box button {
+            padding: 12px 30px; background: linear-gradient(135deg, #4da6ff, #2d7dd2);
+            border: none; border-radius: 8px; color: white; font-weight: 600;
+            cursor: pointer; font-size: 1em;
         }
-        
-        .password-box input {
-            width: 100%;
-            padding: 14px;
-            border: 2px solid #e2e8f0;
-            border-radius: 8px;
-            font-size: 16px;
-            margin-bottom: 16px;
-        }
-        
-        .password-box input:focus {
-            outline: none;
-            border-color: #3182ce;
-        }
-        
-        .password-box button {
-            width: 100%;
-            padding: 14px;
-            background: #3182ce;
-            color: white;
-            border: none;
-            border-radius: 8px;
-            font-size: 16px;
-            font-weight: 600;
-            cursor: pointer;
-        }
-        
-        .password-box button:hover {
-            background: #2c5aa0;
-        }
-        
-        .password-error {
-            color: #e53e3e;
-            margin-top: 12px;
-            display: none;
-        }
-        
-        /* Main Container */
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 20px;
-            display: none; /* Hidden until authenticated */
-        }
+        .login-error { color: #ff6b6b; margin-top: 10px; font-size: 0.9em; }
+        .login-error.hidden { display: none; }
         
         /* Header */
         .header {
-            background: rgba(255,255,255,0.98);
-            border-radius: 16px;
-            padding: 24px;
-            margin-bottom: 24px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            background: rgba(30, 42, 58, 0.95); border-radius: 16px;
+            padding: 25px; margin-bottom: 25px;
+            border: 1px solid rgba(77, 166, 255, 0.2);
         }
+        .header h1 { color: #4da6ff; font-size: 1.8em; margin-bottom: 5px; }
+        .header .subtitle { color: #888; font-size: 0.95em; }
+        .header .date { color: #4da6ff; font-weight: 600; }
         
-        .header-top {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 16px;
-        }
-        
-        .header h1 {
-            color: #1a365d;
-            font-size: 1.8em;
-        }
-        
-        .header-date {
-            color: #666;
-            font-size: 0.95em;
-        }
-        
-        /* ============================================
-           SECTION 1: STATISTICS (FIRST per PRD #5)
-           Shows $ amounts and counts prominently
-           ============================================ */
-        .stats-section {
-            background: rgba(255,255,255,0.98);
-            border-radius: 16px;
-            padding: 24px;
-            margin-bottom: 24px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-        }
-        
-        .stats-section h2 {
-            color: #1a365d;
-            font-size: 1.3em;
-            margin-bottom: 20px;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        
+        /* Stats Grid */
         .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 16px;
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px; margin-bottom: 25px;
         }
-        
         .stat-card {
-            background: linear-gradient(135deg, #3182ce 0%, #2c5aa0 100%);
-            color: white;
-            padding: 20px;
-            border-radius: 12px;
-            text-align: center;
+            background: rgba(30, 42, 58, 0.9); border-radius: 12px; padding: 20px;
+            text-align: center; border: 1px solid rgba(77, 166, 255, 0.15);
         }
+        .stat-card .value { font-size: 1.8em; font-weight: 700; color: #4da6ff; }
+        .stat-card .label { font-size: 0.85em; color: #888; margin-top: 5px; }
         
-        .stat-card.highlight {
-            background: linear-gradient(135deg, #38a169 0%, #2f855a 100%);
+        /* Market Health */
+        .market-health {
+            background: rgba(30, 42, 58, 0.95); border-radius: 16px;
+            padding: 25px; margin-bottom: 25px;
+            border: 1px solid rgba(77, 166, 255, 0.2);
         }
-        
-        .stat-card.warning {
-            background: linear-gradient(135deg, #d69e2e 0%, #b7791f 100%);
-        }
-        
-        .stat-value {
-            font-size: 2em;
-            font-weight: 700;
-            margin-bottom: 4px;
-        }
-        
-        .stat-label {
-            font-size: 0.85em;
-            opacity: 0.9;
-        }
-        
-        /* ============================================
-           MARKET HEALTH FRAMEWORK (PRD #6, #8)
-           Scores + Actions + Trends (Option C)
-           ============================================ */
-        .market-health-section {
-            background: rgba(255,255,255,0.98);
-            border-radius: 16px;
-            padding: 24px;
-            margin-bottom: 24px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-        }
-        
-        .market-health-section h2 {
-            color: #1a365d;
-            font-size: 1.3em;
-            margin-bottom: 8px;
-        }
-        
+        .section-title { color: #4da6ff; font-size: 1.3em; margin-bottom: 15px; display: flex; align-items: center; gap: 10px; }
+        .section-subtitle { color: #666; font-size: 0.85em; margin-bottom: 20px; }
         .overall-score {
-            display: flex;
-            align-items: center;
-            gap: 16px;
-            margin-bottom: 20px;
-            padding: 16px;
-            background: #f7fafc;
-            border-radius: 12px;
+            text-align: center; padding: 20px; background: rgba(77, 166, 255, 0.1);
+            border-radius: 12px; margin-bottom: 20px;
         }
-        
-        .score-circle {
-            width: 80px;
-            height: 80px;
-            border-radius: 50%;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            font-weight: 700;
-            color: white;
-        }
-        
-        .score-circle.growth { background: linear-gradient(135deg, #38a169, #2f855a); }
-        .score-circle.stable { background: linear-gradient(135deg, #3182ce, #2c5aa0); }
-        .score-circle.watchlist { background: linear-gradient(135deg, #d69e2e, #b7791f); }
-        .score-circle.defensive { background: linear-gradient(135deg, #e53e3e, #c53030); }
-        
-        .score-circle .score-num {
-            font-size: 1.8em;
-            line-height: 1;
-        }
-        
-        .score-circle .score-max {
-            font-size: 0.7em;
-            opacity: 0.8;
-        }
-        
-        .overall-info h3 {
-            font-size: 1.2em;
-            color: #1a365d;
-            margin-bottom: 4px;
-        }
-        
-        .overall-info p {
-            color: #666;
-            font-size: 0.9em;
-        }
-        
-        .metrics-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 12px;
-        }
-        
+        .overall-score .score { font-size: 3em; font-weight: 700; color: #4da6ff; }
+        .overall-score .status { font-size: 1.1em; color: #888; margin-top: 5px; }
+        .overall-score .guidance { font-size: 0.85em; color: #666; margin-top: 10px; }
+        .metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; }
         .metric-card {
-            background: #f7fafc;
-            border-radius: 10px;
-            padding: 14px;
-            border-left: 4px solid #3182ce;
+            background: rgba(13, 21, 32, 0.8); border-radius: 10px; padding: 15px;
+            border-left: 4px solid #4da6ff;
         }
+        .metric-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+        .metric-name { font-weight: 600; color: #e0e0e0; font-size: 0.95em; }
+        .metric-score { font-size: 1.2em; font-weight: 700; }
+        .metric-trend { font-size: 0.9em; }
+        .trend-up { color: #4ade80; }
+        .trend-down { color: #f87171; }
+        .trend-stable { color: #fbbf24; }
+        .metric-action { font-size: 0.85em; color: #888; }
         
-        .metric-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 8px;
-        }
-        
-        .metric-name {
-            font-weight: 600;
-            color: #1a365d;
-            font-size: 0.9em;
-        }
-        
-        .metric-score-trend {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        
-        .metric-score {
-            font-weight: 700;
-            font-size: 1.1em;
-        }
-        
-        .trend-up { color: #38a169; }
-        .trend-down { color: #e53e3e; }
-        .trend-stable { color: #d69e2e; }
-        
-        .metric-action {
-            font-size: 0.8em;
-            color: #4a5568;
-            background: white;
-            padding: 6px 10px;
-            border-radius: 6px;
-            margin-top: 8px;
-        }
-        
-        /* ============================================
-           SECTION 2: DOT LETTINGS (SECOND per PRD #5)
-           ============================================ */
-        .main-content {
-            display: grid;
-            grid-template-columns: 1fr 320px;
-            gap: 24px;
-            margin-bottom: 24px;
-        }
-        
+        /* Feed */
         .feed-section {
-            background: rgba(255,255,255,0.98);
-            border-radius: 16px;
-            padding: 24px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            background: rgba(30, 42, 58, 0.95); border-radius: 16px;
+            padding: 25px; margin-bottom: 25px;
+            border: 1px solid rgba(77, 166, 255, 0.2);
         }
-        
-        .feed-section h2 {
-            color: #1a365d;
-            font-size: 1.3em;
-            margin-bottom: 16px;
-            display: flex;
-            align-items: center;
-            gap: 8px;
+        .tabs { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+        .tab {
+            padding: 10px 20px; border-radius: 8px; cursor: pointer;
+            background: rgba(13, 21, 32, 0.8); color: #888; border: 1px solid transparent;
+            font-size: 0.9em; transition: all 0.2s;
         }
+        .tab:hover { color: #4da6ff; }
+        .tab.active { background: rgba(77, 166, 255, 0.2); color: #4da6ff; border-color: #4da6ff; }
+        .feed-content { display: none; }
+        .feed-content.active { display: block; }
         
-        .feed-tabs {
-            display: flex;
-            gap: 8px;
-            margin-bottom: 16px;
-            flex-wrap: wrap;
-        }
-        
-        .feed-tab {
-            padding: 8px 16px;
-            border: none;
-            background: #e2e8f0;
-            border-radius: 20px;
-            cursor: pointer;
-            font-size: 0.85em;
-            font-weight: 500;
-            color: #4a5568;
+        /* Project Cards - Refined */
+        .project-card {
+            background: rgba(13, 21, 32, 0.9); border-radius: 12px; padding: 18px;
+            margin-bottom: 12px; border-left: 4px solid #4da6ff;
             transition: all 0.2s;
         }
-        
-        .feed-tab:hover {
-            background: #cbd5e0;
+        .project-card:hover { transform: translateX(5px); border-left-color: #2dd4bf; }
+        .project-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; }
+        .project-location { 
+            font-size: 1.1em; font-weight: 700; color: #4da6ff;
+            display: flex; align-items: center; gap: 8px;
         }
-        
-        .feed-tab.active {
-            background: #3182ce;
-            color: white;
+        .project-value {
+            font-size: 1.3em; font-weight: 700; color: #2dd4bf;
+            white-space: nowrap;
         }
-        
-        .feed-content {
-            display: none;
-            max-height: 600px;
-            overflow-y: auto;
+        .project-name {
+            font-size: 0.95em; color: #e0e0e0; line-height: 1.5;
+            margin-bottom: 10px;
         }
-        
-        .feed-content.active {
-            display: block;
+        .project-meta {
+            display: flex; flex-wrap: wrap; gap: 15px; font-size: 0.85em; color: #888;
+            margin-bottom: 10px;
         }
-        
-        /* DOT Letting Item */
-        .dot-item {
-            background: #f0fff4;
-            border: 1px solid #9ae6b4;
-            border-left: 4px solid #38a169;
-            border-radius: 10px;
-            padding: 16px;
-            margin-bottom: 12px;
-            transition: transform 0.2s;
+        .project-meta span { display: flex; align-items: center; gap: 5px; }
+        .project-type {
+            display: inline-block; padding: 4px 10px; border-radius: 6px;
+            font-size: 0.8em; font-weight: 600; margin-right: 8px;
+            background: rgba(77, 166, 255, 0.15); color: #4da6ff;
         }
-        
-        .dot-item:hover {
-            transform: translateX(4px);
+        .project-type.bridge { background: rgba(251, 191, 36, 0.15); color: #fbbf24; }
+        .project-type.highway { background: rgba(45, 212, 191, 0.15); color: #2dd4bf; }
+        .project-type.pavement { background: rgba(167, 139, 250, 0.15); color: #a78bfa; }
+        .project-type.drainage { background: rgba(96, 165, 250, 0.15); color: #60a5fa; }
+        .project-type.signals { background: rgba(251, 146, 60, 0.15); color: #fb923c; }
+        .project-link {
+            display: inline-block; padding: 6px 14px; border-radius: 6px;
+            font-size: 0.85em; text-decoration: none;
+            background: rgba(77, 166, 255, 0.2); color: #4da6ff;
         }
+        .project-link:hover { background: rgba(77, 166, 255, 0.3); }
         
-        .dot-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            margin-bottom: 8px;
+        /* News Cards */
+        .news-card {
+            background: rgba(13, 21, 32, 0.9); border-radius: 12px; padding: 18px;
+            margin-bottom: 12px; border-left: 4px solid #a78bfa;
         }
-        
-        .dot-state {
-            background: #38a169;
-            color: white;
-            padding: 4px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-            font-weight: 600;
-        }
-        
-        .dot-cost {
-            font-weight: 700;
-            color: #276749;
-            font-size: 1.1em;
-        }
-        
-        .dot-title {
-            font-weight: 600;
-            color: #1a365d;
-            margin-bottom: 8px;
-            font-size: 0.95em;
-        }
-        
-        .dot-meta {
-            display: flex;
-            gap: 16px;
-            font-size: 0.8em;
-            color: #666;
-            margin-bottom: 8px;
-        }
-        
-        .dot-link {
-            display: inline-block;
-            color: #3182ce;
-            text-decoration: none;
-            font-size: 0.85em;
-            font-weight: 500;
-        }
-        
-        .dot-link:hover {
-            text-decoration: underline;
-        }
-        
-        /* News Item (THIRD per PRD #5) */
-        .news-item {
-            background: #fff;
-            border: 1px solid #e2e8f0;
-            border-left: 4px solid #3182ce;
-            border-radius: 10px;
-            padding: 16px;
-            margin-bottom: 12px;
-            transition: transform 0.2s;
-        }
-        
-        .news-item:hover {
-            transform: translateX(4px);
-        }
-        
-        .news-item.funding {
-            border-left-color: #d69e2e;
-            background: #fffff0;
-        }
-        
-        .news-item.high-priority {
-            border-left-color: #e53e3e;
-        }
-        
-        .news-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 8px;
-        }
-        
-        .news-source {
-            font-weight: 600;
-            color: #3182ce;
-            font-size: 0.85em;
-        }
-        
-        .news-state {
-            background: #e2e8f0;
-            color: #4a5568;
-            padding: 2px 8px;
-            border-radius: 4px;
-            font-size: 0.75em;
-            font-weight: 600;
-        }
-        
-        .news-title {
-            font-weight: 600;
-            color: #1a365d;
-            margin-bottom: 6px;
-            font-size: 0.95em;
-        }
-        
-        .news-summary {
-            color: #4a5568;
-            font-size: 0.85em;
-            line-height: 1.5;
-            margin-bottom: 8px;
-        }
-        
-        .news-date {
-            color: #a0aec0;
-            font-size: 0.8em;
-        }
-        
-        .news-link {
-            display: inline-block;
-            color: #3182ce;
-            text-decoration: none;
-            font-size: 0.85em;
-            font-weight: 500;
-        }
-        
-        .news-link:hover {
-            text-decoration: underline;
-        }
+        .news-card.funding { border-left-color: #2dd4bf; }
+        .news-source { font-size: 0.85em; color: #888; margin-bottom: 5px; }
+        .news-title { font-size: 1em; color: #e0e0e0; margin-bottom: 8px; line-height: 1.4; }
+        .news-summary { font-size: 0.9em; color: #888; line-height: 1.5; }
         
         /* Sidebar */
-        .sidebar {
-            display: flex;
-            flex-direction: column;
-            gap: 16px;
+        .main-grid { display: grid; grid-template-columns: 1fr 300px; gap: 25px; }
+        @media (max-width: 900px) { .main-grid { grid-template-columns: 1fr; } }
+        .sidebar-widget {
+            background: rgba(30, 42, 58, 0.95); border-radius: 12px;
+            padding: 20px; margin-bottom: 20px;
+            border: 1px solid rgba(77, 166, 255, 0.15);
         }
-        
-        .sidebar-card {
-            background: rgba(255,255,255,0.98);
-            border-radius: 12px;
-            padding: 20px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-        }
-        
-        .sidebar-card h3 {
-            color: #1a365d;
-            font-size: 1em;
-            margin-bottom: 12px;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        
-        /* State Breakdown */
-        .state-list {
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-        
-        .state-row {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 8px;
-            background: #f7fafc;
-            border-radius: 6px;
-        }
-        
-        .state-name {
-            font-weight: 600;
-            color: #1a365d;
-        }
-        
-        .state-count {
-            background: #3182ce;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 10px;
-            font-size: 0.85em;
-            font-weight: 600;
-        }
-        
-        /* DOT Portals */
-        .portal-list {
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-        
+        .widget-title { font-size: 1em; color: #4da6ff; margin-bottom: 15px; }
+        .state-item { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.05); }
+        .state-item:last-child { border-bottom: none; }
         .portal-link {
-            display: block;
-            padding: 10px;
-            background: #f7fafc;
-            border-radius: 6px;
-            text-decoration: none;
-            color: #1a365d;
-            font-size: 0.85em;
-            transition: background 0.2s;
+            display: block; padding: 10px; margin-bottom: 8px; border-radius: 8px;
+            background: rgba(13, 21, 32, 0.8); text-decoration: none;
+            color: #888; font-size: 0.85em; transition: all 0.2s;
         }
-        
-        .portal-link:hover {
-            background: #e2e8f0;
-        }
-        
-        .portal-link strong {
-            display: block;
-            margin-bottom: 2px;
-        }
-        
-        .portal-link span {
-            color: #718096;
-            font-size: 0.85em;
-        }
+        .portal-link:hover { background: rgba(77, 166, 255, 0.1); color: #4da6ff; }
+        .portal-link strong { color: #e0e0e0; display: block; margin-bottom: 3px; }
         
         /* Footer */
-        .footer {
-            text-align: center;
-            padding: 20px;
-            color: rgba(255,255,255,0.8);
-            font-size: 0.85em;
-        }
-        
-        .footer a {
-            color: rgba(255,255,255,0.9);
-        }
-        
-        /* Loading State */
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: #666;
-        }
-        
-        .loading::after {
-            content: '';
-            display: inline-block;
-            width: 20px;
-            height: 20px;
-            border: 2px solid #3182ce;
-            border-top-color: transparent;
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin-left: 10px;
-            vertical-align: middle;
-        }
-        
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-        
-        /* Empty State */
-        .empty-state {
-            text-align: center;
-            padding: 40px;
-            color: #a0aec0;
-        }
-        
-        /* Responsive */
-        @media (max-width: 1024px) {
-            .main-content {
-                grid-template-columns: 1fr;
-            }
-            
-            .sidebar {
-                flex-direction: row;
-                flex-wrap: wrap;
-            }
-            
-            .sidebar-card {
-                flex: 1;
-                min-width: 250px;
-            }
-        }
-        
-        @media (max-width: 600px) {
-            .stats-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-            
-            .stat-value {
-                font-size: 1.5em;
-            }
-            
-            .metrics-grid {
-                grid-template-columns: 1fr;
-            }
-        }
+        .footer { text-align: center; padding: 20px; color: #666; font-size: 0.85em; }
     </style>
 </head>
 <body>
-    <!-- Password Overlay - PRD Requirement #3 -->
-    <div id="password-overlay">
-        <div class="password-box">
+    <!-- Login -->
+    <div class="login-overlay" id="loginOverlay">
+        <div class="login-box">
             <h2>🔐 NECMIS Access</h2>
             <p>Northeast Construction Market Intelligence System</p>
-            <input type="password" id="password-input" placeholder="Enter password" onkeypress="if(event.key==='Enter')checkPassword()">
+            <input type="password" id="passwordInput" placeholder="Enter password" onkeypress="if(event.key==='Enter')checkPassword()">
+            <br>
             <button onclick="checkPassword()">Access Dashboard</button>
-            <p class="password-error" id="password-error">Incorrect password. Please try again.</p>
+            <div class="login-error hidden" id="loginError">Incorrect password. Please try again.</div>
         </div>
     </div>
-    
-    <!-- Main Dashboard Container -->
-    <div class="container" id="main-container">
-        <!-- Header -->
+
+    <div class="container">
         <div class="header">
-            <div class="header-top">
-                <h1>📊 NECMIS - Market Intelligence</h1>
-                <div class="header-date" id="header-date"></div>
-            </div>
-            <div style="color: #666; font-size: 0.9em;">
+            <h1>📊 NECMIS - Market Intelligence</h1>
+            <p class="subtitle">
+                <span class="date" id="currentDate"></span><br>
                 Northeast Construction Market Intelligence System | VT • NH • ME • MA • NY • RI • CT • PA
-            </div>
+            </p>
         </div>
-        
-        <!-- SECTION 1: STATISTICS (FIRST per PRD #5) -->
-        <div class="stats-section">
-            <h2>💰 Pipeline Statistics</h2>
-            <div class="stats-grid" id="stats-grid">
-                <div class="loading">Loading statistics...</div>
-            </div>
+
+        <!-- Stats -->
+        <div class="stats-grid">
+            <div class="stat-card"><div class="value" id="pipelineValue">--</div><div class="label">Pipeline Value</div></div>
+            <div class="stat-card"><div class="value" id="totalOpportunities">--</div><div class="label">Total Opportunities</div></div>
+            <div class="stat-card"><div class="value" id="dotLettings">--</div><div class="label">DOT Lettings</div></div>
+            <div class="stat-card"><div class="value" id="fundingCount">--</div><div class="label">Funding</div></div>
+            <div class="stat-card"><div class="value" id="newsCount">--</div><div class="label">News</div></div>
+            <div class="stat-card"><div class="value" id="totalItems">--</div><div class="label">Total Items</div></div>
         </div>
-        
-        <!-- MARKET HEALTH FRAMEWORK (PRD #6, #8) -->
-        <div class="market-health-section">
-            <h2>📈 Market Health Framework</h2>
-            <p style="color: #666; font-size: 0.85em; margin-bottom: 16px;">6 Public Metrics | Scores + Trends + Actions</p>
-            <div id="market-health-content">
-                <div class="loading">Loading market health data...</div>
+
+        <!-- Market Health -->
+        <div class="market-health">
+            <div class="section-title">📈 Market Health Framework</div>
+            <div class="section-subtitle">6 Public Metrics | Scores + Trends + Actions</div>
+            <div class="overall-score">
+                <div class="score" id="overallScore">--</div>
+                <div class="status" id="overallStatus">Loading...</div>
+                <div class="guidance" id="overallGuidance"></div>
             </div>
+            <div class="metrics-grid" id="metricsGrid"></div>
         </div>
-        
-        <!-- Main Content: DOT Lettings (SECOND) + News (THIRD) -->
-        <div class="main-content">
+
+        <!-- Main Content -->
+        <div class="main-grid">
             <div class="feed-section">
-                <h2>📋 Intelligence Feed</h2>
-                
-                <!-- Feed Tabs -->
-                <div class="feed-tabs">
-                    <button class="feed-tab active" onclick="showFeed('lettings')">🏗️ DOT Lettings</button>
-                    <button class="feed-tab" onclick="showFeed('news')">📰 News</button>
-                    <button class="feed-tab" onclick="showFeed('funding')">💵 Funding</button>
-                    <button class="feed-tab" onclick="showFeed('all')">All</button>
+                <div class="section-title">📋 Intelligence Feed</div>
+                <div class="tabs">
+                    <div class="tab active" data-tab="dot">🏗️ DOT Lettings</div>
+                    <div class="tab" data-tab="news">📰 News</div>
+                    <div class="tab" data-tab="funding">💵 Funding</div>
+                    <div class="tab" data-tab="all">All</div>
                 </div>
-                
-                <!-- Feed Contents -->
-                <div id="feed-lettings" class="feed-content active">
-                    <div class="loading">Loading DOT lettings...</div>
-                </div>
-                <div id="feed-news" class="feed-content">
-                    <div class="loading">Loading news...</div>
-                </div>
-                <div id="feed-funding" class="feed-content">
-                    <div class="loading">Loading funding news...</div>
-                </div>
-                <div id="feed-all" class="feed-content">
-                    <div class="loading">Loading all items...</div>
-                </div>
+                <div class="feed-content active" id="dot-content"></div>
+                <div class="feed-content" id="news-content"></div>
+                <div class="feed-content" id="funding-content"></div>
+                <div class="feed-content" id="all-content"></div>
             </div>
-            
-            <!-- Sidebar -->
+
             <div class="sidebar">
-                <!-- State Breakdown -->
-                <div class="sidebar-card">
-                    <h3>📊 By State</h3>
-                    <div class="state-list" id="state-breakdown">
-                        <div class="loading">Loading...</div>
-                    </div>
+                <div class="sidebar-widget">
+                    <div class="widget-title">📊 By State</div>
+                    <div id="stateBreakdown"></div>
                 </div>
-                
-                <!-- DOT Portals - PRD Section 3.1 -->
-                <div class="sidebar-card">
-                    <h3>🔗 DOT Bid Portals</h3>
-                    <div class="portal-list">
-                        <a href="https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting" target="_blank" class="portal-link">
-                            <strong>VT - VTrans</strong>
-                            <span>Construction Contracting</span>
-                        </a>
-                        <a href="https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid" target="_blank" class="portal-link">
-                            <strong>NH - NHDOT</strong>
-                            <span>Invitation to Bid</span>
-                        </a>
-                        <a href="https://www.maine.gov/mdot/projects/advertised/" target="_blank" class="portal-link">
-                            <strong>ME - MaineDOT</strong>
-                            <span>Advertised Projects</span>
-                        </a>
-                        <a href="https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp" target="_blank" class="portal-link">
-                            <strong>MA - MassDOT</strong>
-                            <span>Status Report</span>
-                        </a>
-                        <a href="https://www.dot.ny.gov/doing-business/opportunities/const-highway" target="_blank" class="portal-link">
-                            <strong>NY - NYSDOT</strong>
-                            <span>Highway Construction</span>
-                        </a>
-                        <a href="https://www.dot.ri.gov/about/current_projects.php" target="_blank" class="portal-link">
-                            <strong>RI - RIDOT</strong>
-                            <span>Current Projects</span>
-                        </a>
-                        <a href="https://portal.ct.gov/DOT/Doing-Business/Contractor-Information" target="_blank" class="portal-link">
-                            <strong>CT - CTDOT</strong>
-                            <span>Contractor Information</span>
-                        </a>
-                        <a href="https://www.penndot.pa.gov/business/Letting/Pages/default.aspx" target="_blank" class="portal-link">
-                            <strong>PA - PennDOT</strong>
-                            <span>Letting Information</span>
-                        </a>
-                    </div>
+                <div class="sidebar-widget">
+                    <div class="widget-title">🔗 DOT Bid Portals</div>
+                    <div id="portalLinks"></div>
                 </div>
             </div>
         </div>
-        
-        <!-- Footer -->
+
         <div class="footer">
-            <p><strong>NECMIS - Northeast Construction Market Intelligence System</strong></p>
-            <p>Data Sources: State DOT Portals (8 states) | Regional News RSS (10 feeds) | Market Health Framework (6 public metrics)</p>
-            <p>Last Updated: <span id="last-updated">--</span></p>
+            <strong>NECMIS - Northeast Construction Market Intelligence System</strong><br>
+            Data Sources: State DOT Portals (8 states) | Regional News RSS (10 feeds) | Market Health Framework (6 public metrics)<br>
+            Last Updated: <span id="lastUpdated">--</span>
         </div>
     </div>
-    
+
     <script>
-        // ============================================
-        // PASSWORD PROTECTION - PRD Requirement #3
-        // Password: NECMIS2026!
-        // ============================================
-        const CORRECT_PASSWORD = 'NECMIS2026!';
-        
+        const PASSWORD = 'NECMIS2026!';
+        const PORTALS = {
+            'VT': { name: 'VTrans', desc: 'Construction Contracting', url: 'https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting' },
+            'NH': { name: 'NHDOT', desc: 'Invitation to Bid', url: 'https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid' },
+            'ME': { name: 'MaineDOT', desc: 'Advertised Projects', url: 'https://www.maine.gov/mdot/projects/advertised/' },
+            'MA': { name: 'MassDOT', desc: 'Status Report', url: 'https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp' },
+            'NY': { name: 'NYSDOT', desc: 'Highway Construction', url: 'https://www.dot.ny.gov/doing-business/opportunities/const-highway' },
+            'RI': { name: 'RIDOT', desc: 'Current Projects', url: 'https://www.dot.ri.gov/about/current_projects.php' },
+            'CT': { name: 'CTDOT', desc: 'Contractor Information', url: 'https://portal.ct.gov/DOT/Doing-Business/Contractor-Information' },
+            'PA': { name: 'PennDOT', desc: 'Letting Information', url: 'https://www.penndot.pa.gov/business/Letting/Pages/default.aspx' }
+        };
+
         function checkPassword() {
-            const input = document.getElementById('password-input').value;
-            if (input === CORRECT_PASSWORD) {
-                document.getElementById('password-overlay').style.display = 'none';
-                document.getElementById('main-container').style.display = 'block';
+            const input = document.getElementById('passwordInput').value;
+            if (input === PASSWORD) {
+                document.getElementById('loginOverlay').classList.add('hidden');
+                localStorage.setItem('necmis_auth', 'true');
                 loadData();
             } else {
-                document.getElementById('password-error').style.display = 'block';
-                document.getElementById('password-input').value = '';
+                document.getElementById('loginError').classList.remove('hidden');
             }
         }
-        
-        // ============================================
-        // DATA LOADING
-        // ============================================
-        let dashboardData = null;
-        
+
+        function init() {
+            document.getElementById('currentDate').textContent = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+            if (localStorage.getItem('necmis_auth') === 'true') {
+                document.getElementById('loginOverlay').classList.add('hidden');
+                loadData();
+            }
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                    document.querySelectorAll('.feed-content').forEach(c => c.classList.remove('active'));
+                    tab.classList.add('active');
+                    document.getElementById(tab.dataset.tab + '-content').classList.add('active');
+                });
+            });
+            renderPortals();
+        }
+
+        function renderPortals() {
+            const container = document.getElementById('portalLinks');
+            container.innerHTML = Object.entries(PORTALS).map(([state, info]) =>
+                `<a href="${info.url}" target="_blank" class="portal-link"><strong>${state} - ${info.name}</strong>${info.desc}</a>`
+            ).join('');
+        }
+
+        function formatCurrency(val) {
+            if (!val) return '--';
+            if (val >= 1e9) return '$' + (val/1e9).toFixed(1) + 'B';
+            if (val >= 1e6) return '$' + (val/1e6).toFixed(1) + 'M';
+            if (val >= 1e3) return '$' + (val/1e3).toFixed(0) + 'K';
+            return '$' + val.toLocaleString();
+        }
+
+        function getProjectTypeClass(type) {
+            if (!type) return '';
+            const t = type.toLowerCase();
+            if (t.includes('bridge')) return 'bridge';
+            if (t.includes('highway') || t.includes('reconstruction')) return 'highway';
+            if (t.includes('pavement') || t.includes('surfacing') || t.includes('resurfacing')) return 'pavement';
+            if (t.includes('drainage') || t.includes('sewer')) return 'drainage';
+            if (t.includes('signal') || t.includes('traffic')) return 'signals';
+            return '';
+        }
+
         async function loadData() {
             try {
-                // Try to load from data/necmis_data.json
-                const response = await fetch('data/necmis_data.json');
-                if (!response.ok) throw new Error('Data file not found');
-                dashboardData = await response.json();
-                renderDashboard();
-            } catch (error) {
-                console.error('Error loading data:', error);
-                // Try alternative path
-                try {
-                    const altResponse = await fetch('./necmis_data.json');
-                    if (!altResponse.ok) throw new Error('Alt data file not found');
-                    dashboardData = await altResponse.json();
-                    renderDashboard();
-                } catch (altError) {
-                    console.error('Error loading alt data:', altError);
-                    showError('Unable to load data. Please check data/necmis_data.json exists.');
-                }
+                const resp = await fetch('data/necmis_data.json?' + Date.now());
+                const data = await resp.json();
+                renderDashboard(data);
+            } catch (e) {
+                console.error('Error loading data:', e);
             }
         }
-        
-        function showError(message) {
-            document.getElementById('stats-grid').innerHTML = `<div class="empty-state">${message}</div>`;
-            document.getElementById('market-health-content').innerHTML = `<div class="empty-state">${message}</div>`;
-            document.getElementById('feed-lettings').innerHTML = `<div class="empty-state">${message}</div>`;
-        }
-        
-        // ============================================
-        // RENDER FUNCTIONS
-        // ============================================
-        function renderDashboard() {
-            if (!dashboardData) return;
-            
-            // Set date
-            document.getElementById('header-date').textContent = new Date().toLocaleDateString('en-US', {
-                weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
-            });
-            document.getElementById('last-updated').textContent = new Date(dashboardData.generated).toLocaleString();
-            
-            // Render each section
-            renderStats();
-            renderMarketHealth();
-            renderFeeds();
-            renderStateBreakdown();
-        }
-        
-        // SECTION 1: STATISTICS (FIRST per PRD #5)
-        function renderStats() {
-            const summary = dashboardData.summary;
-            const html = `
-                <div class="stat-card highlight">
-                    <div class="stat-value">${formatCurrency(summary.total_value_low)} - ${formatCurrency(summary.total_value_high)}</div>
-                    <div class="stat-label">Pipeline Value Range</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-value">${summary.total_opportunities}</div>
-                    <div class="stat-label">Total Opportunities</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-value">${summary.by_category.dot_letting}</div>
-                    <div class="stat-label">DOT Lettings</div>
-                </div>
-                <div class="stat-card warning">
-                    <div class="stat-value">${summary.by_category.funding}</div>
-                    <div class="stat-label">Funding Announcements</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-value">${summary.by_category.news}</div>
-                    <div class="stat-label">News Items</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-value">${dashboardData.dot_lettings.length + dashboardData.news.length}</div>
-                    <div class="stat-label">Total Items</div>
-                </div>
-            `;
-            document.getElementById('stats-grid').innerHTML = html;
-        }
-        
-        // MARKET HEALTH FRAMEWORK (PRD #6, #8)
-        function renderMarketHealth() {
-            const mh = dashboardData.market_health;
-            
-            // Metric labels (matching PRD)
+
+        function renderDashboard(data) {
+            // Stats
+            document.getElementById('pipelineValue').textContent = formatCurrency(data.summary?.total_value_low);
+            document.getElementById('totalOpportunities').textContent = data.summary?.total_opportunities || '--';
+            document.getElementById('dotLettings').textContent = data.summary?.by_category?.dot_letting || '--';
+            document.getElementById('fundingCount').textContent = data.summary?.by_category?.funding || '--';
+            document.getElementById('newsCount').textContent = data.summary?.by_category?.news || '--';
+            const total = (data.dot_lettings?.length || 0) + (data.news?.length || 0);
+            document.getElementById('totalItems').textContent = total;
+            document.getElementById('lastUpdated').textContent = data.generated ? new Date(data.generated).toLocaleString() : '--';
+
+            // Market Health
+            const mh = data.market_health || {};
+            document.getElementById('overallScore').innerHTML = `${mh.overall_score || '--'}<span style="font-size:0.4em;color:#888">/10</span>`;
+            document.getElementById('overallStatus').textContent = `Overall Market Health: ${(mh.overall_status || '').toUpperCase()}`;
+            const guidance = {
+                'growth': '7.5+ — Aggressive expansion, invest in capacity',
+                'stable': '6.0 - 7.5 — Maintain position, selective investments',
+                'watchlist': '< 6.0 — Conservative mode, protect margins'
+            };
+            document.getElementById('overallGuidance').textContent = guidance[mh.overall_status] || '';
+
             const metricLabels = {
-                dot_pipeline: { name: 'DOT Project Pipeline', weight: '15%' },
-                housing_permits: { name: 'Housing Permit Momentum', weight: '10%' },
-                construction_spending: { name: 'Construction Spending', weight: '10%' },
-                migration: { name: 'Migration Patterns', weight: '10%' },
-                input_cost_stability: { name: 'Input Cost Stability', weight: '8%' },
-                infrastructure_funding: { name: 'Infrastructure Funding', weight: '7%' }
+                'dot_pipeline': 'DOT Project Pipeline (15%)',
+                'housing_permits': 'Housing Permit Momentum (10%)',
+                'construction_spending': 'Construction Spending (10%)',
+                'migration': 'Migration Patterns (10%)',
+                'input_cost_stability': 'Input Cost Stability (8%)',
+                'infrastructure_funding': 'Infrastructure Funding (7%)'
             };
-            
-            // Build metrics HTML
-            let metricsHtml = '';
-            for (const [key, label] of Object.entries(metricLabels)) {
-                const metric = mh[key];
-                if (!metric) continue;
-                
-                const trendIcon = metric.trend === 'up' ? '↑' : (metric.trend === 'down' ? '↓' : '→');
-                const trendClass = metric.trend === 'up' ? 'trend-up' : (metric.trend === 'down' ? 'trend-down' : 'trend-stable');
-                
-                metricsHtml += `
-                    <div class="metric-card">
-                        <div class="metric-header">
-                            <span class="metric-name">${label.name} (${label.weight})</span>
-                            <div class="metric-score-trend">
-                                <span class="metric-score">${metric.score}/10</span>
-                                <span class="${trendClass}">${trendIcon}</span>
-                            </div>
-                        </div>
-                        <div class="metric-action">→ ${metric.action}</div>
+            const metricsHtml = Object.entries(metricLabels).map(([key, label]) => {
+                const m = mh[key] || {};
+                const trendClass = m.trend === 'up' ? 'trend-up' : m.trend === 'down' ? 'trend-down' : 'trend-stable';
+                const trendIcon = m.trend === 'up' ? '↑' : m.trend === 'down' ? '↓' : '→';
+                return `<div class="metric-card">
+                    <div class="metric-header">
+                        <span class="metric-name">${label}</span>
+                        <span class="metric-score ${trendClass}">${m.score || '--'}/10</span>
                     </div>
-                `;
-            }
-            
-            const html = `
-                <div class="overall-score">
-                    <div class="score-circle ${mh.overall_status}">
-                        <span class="score-num">${mh.overall_score}</span>
-                        <span class="score-max">/10</span>
-                    </div>
-                    <div class="overall-info">
-                        <h3>Overall Market Health: ${mh.overall_status.toUpperCase()}</h3>
-                        <p>${getStatusDescription(mh.overall_status)}</p>
-                    </div>
-                </div>
-                <div class="metrics-grid">
-                    ${metricsHtml}
-                </div>
-            `;
-            document.getElementById('market-health-content').innerHTML = html;
-        }
-        
-        function getStatusDescription(status) {
-            const descriptions = {
-                growth: '> 7.5 — Expand capacity, pursue aggressive growth',
-                stable: '6.0 - 7.5 — Maintain position, selective investments',
-                watchlist: '5.0 - 6.0 — Monitor closely, focus on efficiency',
-                defensive: '< 5.0 — Cost focus, protect existing business'
-            };
-            return descriptions[status] || '';
-        }
-        
-        // FEEDS: DOT Lettings (SECOND), News (THIRD) per PRD #5
-        function renderFeeds() {
+                    <div class="metric-trend ${trendClass}">${trendIcon}</div>
+                    <div class="metric-action">→ ${m.action || '--'}</div>
+                </div>`;
+            }).join('');
+            document.getElementById('metricsGrid').innerHTML = metricsHtml;
+
+            // State breakdown
+            const states = data.summary?.by_state || {};
+            document.getElementById('stateBreakdown').innerHTML = Object.entries(states)
+                .map(([s, c]) => `<div class="state-item"><span>${s}</span><span>${c}</span></div>`).join('');
+
             // DOT Lettings
-            const lettingsHtml = dashboardData.dot_lettings.map(item => `
-                <div class="dot-item">
-                    <div class="dot-header">
-                        <span class="dot-state">${item.state}</span>
-                        <span class="dot-cost">${item.cost_display || 'Cost TBD'}</span>
+            const dotHtml = (data.dot_lettings || []).map(d => {
+                const typeClass = getProjectTypeClass(d.project_type);
+                const location = d.location || d.state;
+                const projectType = d.project_type ? `<span class="project-type ${typeClass}">${d.project_type}</span>` : '';
+                const adDate = d.ad_date ? `<span>📅 Ad: ${new Date(d.ad_date).toLocaleDateString()}</span>` : '';
+                const district = d.district ? `<span>🏛️ District ${d.district}</span>` : '';
+                const projectId = d.project_id ? `<span>📋 #${d.project_id}</span>` : '';
+                
+                return `<div class="project-card">
+                    <div class="project-header">
+                        <div class="project-location">${d.state} - ${location}</div>
+                        <div class="project-value">${d.cost_display || 'See Portal'}</div>
                     </div>
-                    <div class="dot-title">${item.description}</div>
-                    <div class="dot-meta">
-                        ${item.project_id ? `<span>Project: ${item.project_id}</span>` : ''}
-                        ${item.let_date ? `<span>Letting: ${formatDate(item.let_date)}</span>` : ''}
-                        ${item.project_type ? `<span>Type: ${item.project_type}</span>` : ''}
-                    </div>
-                    <a href="${item.url}" target="_blank" class="dot-link">View on ${item.source} →</a>
-                </div>
-            `).join('');
-            document.getElementById('feed-lettings').innerHTML = lettingsHtml || '<div class="empty-state">No DOT lettings available</div>';
-            
-            // News (non-funding)
-            const newsItems = dashboardData.news.filter(item => item.category === 'news');
-            const newsHtml = newsItems.map(item => renderNewsItem(item)).join('');
-            document.getElementById('feed-news').innerHTML = newsHtml || '<div class="empty-state">No news items available</div>';
-            
+                    <div class="project-name">${projectType}${d.description}</div>
+                    <div class="project-meta">${district}${adDate}${projectId}</div>
+                    <a href="${d.url}" target="_blank" class="project-link">View on ${d.source} →</a>
+                </div>`;
+            }).join('') || '<p style="color:#666">No DOT lettings found</p>';
+            document.getElementById('dot-content').innerHTML = dotHtml;
+
+            // News
+            const newsItems = (data.news || []).filter(n => n.category === 'news');
+            document.getElementById('news-content').innerHTML = newsItems.map(n =>
+                `<div class="news-card">
+                    <div class="news-source">${n.source} (${n.state}) • ${n.date}</div>
+                    <div class="news-title"><a href="${n.url}" target="_blank" style="color:#e0e0e0;text-decoration:none">${n.title}</a></div>
+                    <div class="news-summary">${n.summary || ''}</div>
+                </div>`
+            ).join('') || '<p style="color:#666">No news items found</p>';
+
             // Funding
-            const fundingItems = dashboardData.news.filter(item => item.category === 'funding');
-            const fundingHtml = fundingItems.map(item => renderNewsItem(item)).join('');
-            document.getElementById('feed-funding').innerHTML = fundingHtml || '<div class="empty-state">No funding announcements available</div>';
-            
+            const fundingItems = (data.news || []).filter(n => n.category === 'funding');
+            document.getElementById('funding-content').innerHTML = fundingItems.map(n =>
+                `<div class="news-card funding">
+                    <div class="news-source">${n.source} (${n.state}) • ${n.date}</div>
+                    <div class="news-title"><a href="${n.url}" target="_blank" style="color:#e0e0e0;text-decoration:none">${n.title}</a></div>
+                    <div class="news-summary">${n.summary || ''}</div>
+                </div>`
+            ).join('') || '<p style="color:#666">No funding announcements found</p>';
+
             // All
-            const allHtml = lettingsHtml + dashboardData.news.map(item => renderNewsItem(item)).join('');
-            document.getElementById('feed-all').innerHTML = allHtml || '<div class="empty-state">No items available</div>';
+            const allItems = [...(data.dot_lettings || []).map(d => ({...d, _type: 'dot'})), ...(data.news || []).map(n => ({...n, _type: 'news'}))];
+            document.getElementById('all-content').innerHTML = allItems.slice(0, 50).map(item => {
+                if (item._type === 'dot') {
+                    const typeClass = getProjectTypeClass(item.project_type);
+                    const location = item.location || item.state;
+                    const projectType = item.project_type ? `<span class="project-type ${typeClass}">${item.project_type}</span>` : '';
+                    return `<div class="project-card">
+                        <div class="project-header">
+                            <div class="project-location">${item.state} - ${location}</div>
+                            <div class="project-value">${item.cost_display || 'See Portal'}</div>
+                        </div>
+                        <div class="project-name">${projectType}${item.description}</div>
+                        <a href="${item.url}" target="_blank" class="project-link">View on ${item.source} →</a>
+                    </div>`;
+                } else {
+                    return `<div class="news-card ${item.category === 'funding' ? 'funding' : ''}">
+                        <div class="news-source">${item.source} (${item.state}) • ${item.date}</div>
+                        <div class="news-title"><a href="${item.url}" target="_blank" style="color:#e0e0e0;text-decoration:none">${item.title}</a></div>
+                    </div>`;
+                }
+            }).join('');
         }
-        
-        function renderNewsItem(item) {
-            const priorityClass = item.priority === 'high' ? 'high-priority' : '';
-            const categoryClass = item.category === 'funding' ? 'funding' : '';
-            
-            return `
-                <div class="news-item ${priorityClass} ${categoryClass}">
-                    <div class="news-header">
-                        <span class="news-source">${item.source}</span>
-                        <span class="news-state">${item.state}</span>
-                    </div>
-                    <div class="news-title">${item.title}</div>
-                    ${item.summary ? `<div class="news-summary">${item.summary}</div>` : ''}
-                    <div style="display: flex; justify-content: space-between; align-items: center;">
-                        <span class="news-date">${formatDate(item.date)}</span>
-                        <a href="${item.url}" target="_blank" class="news-link">Read Article →</a>
-                    </div>
-                </div>
-            `;
-        }
-        
-        function renderStateBreakdown() {
-            const byState = dashboardData.summary.by_state;
-            const states = ['VT', 'NH', 'ME', 'MA', 'NY', 'RI', 'CT', 'PA'];
-            
-            const html = states.map(state => `
-                <div class="state-row">
-                    <span class="state-name">${state}</span>
-                    <span class="state-count">${byState[state] || 0}</span>
-                </div>
-            `).join('');
-            
-            document.getElementById('state-breakdown').innerHTML = html;
-        }
-        
-        // ============================================
-        // UTILITY FUNCTIONS
-        // ============================================
-        function formatCurrency(amount) {
-            if (!amount) return '$0';
-            if (amount >= 1000000000) return '$' + (amount / 1000000000).toFixed(1) + 'B';
-            if (amount >= 1000000) return '$' + (amount / 1000000).toFixed(0) + 'M';
-            if (amount >= 1000) return '$' + (amount / 1000).toFixed(0) + 'K';
-            return '$' + amount.toLocaleString();
-        }
-        
-        function formatDate(dateStr) {
-            if (!dateStr) return '';
-            const date = new Date(dateStr);
-            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-        }
-        
-        function showFeed(feedType) {
-            // Update tabs
-            document.querySelectorAll('.feed-tab').forEach(tab => tab.classList.remove('active'));
-            event.target.classList.add('active');
-            
-            // Update content
-            document.querySelectorAll('.feed-content').forEach(content => content.classList.remove('active'));
-            document.getElementById(`feed-${feedType}`).classList.add('active');
-        }
-        
-        // ============================================
-        // INITIALIZE
-        // ============================================
-        document.getElementById('password-input').focus();
+
+        init();
     </script>
 </body>
 </html>
