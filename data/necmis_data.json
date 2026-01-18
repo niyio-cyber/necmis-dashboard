@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-18T03:03:04.972307Z",
+  "generated": "2026-01-18T03:45:18.126563Z",
   "summary": {
     "total_opportunities": 34,
     "total_value_low": 209260596,
@@ -8,7 +8,7 @@
       "VT": 1,
       "NH": 6,
       "ME": 3,
-      "MA": 27,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 32,
-      "news": 7,
+      "news": 6,
       "funding": 2
     }
   },
@@ -674,20 +674,6 @@
       "title": "How to watch Boston Bruins game today free",
       "summary": "The Boston Bruins take their five-game winning streak on the road on Saturday, Jan. 17 to challenge the Chicago Blackhawks.",
       "url": "https://www.masslive.com/tv/2026/01/how-to-watch-boston-bruins-game-today-free.html-7",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-01-17",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d9a1d3566ae0",
-      "title": "How to watch Boston Celtics game today free",
-      "summary": "The Boston Celtics are on the road on Saturday, Jan. 17, matched up against the Atlanta Hawks.",
-      "url": "https://www.masslive.com/tv/2026/01/how-to-watch-boston-celtics-game-today-free.html-6",
       "source": "MassLive",
       "state": "MA",
       "date": "2026-01-17",
