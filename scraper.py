@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-NECMIS Scraper - Phase 2.1 (Refined Parser)
-============================================
-Extracts full project details: name, type, location, value, direct links.
+NECMIS Scraper - Phase 2.1 (Plain Text Parser)
+===============================================
+Converts HTML to plain text, then extracts project details.
 """
 
 import json
@@ -113,26 +113,22 @@ def parse_currency(text: str) -> Optional[float]:
         return None
 
 def clean_location(loc: str) -> str:
-    """Clean up location - capitalize properly, handle DISTRICT names"""
     if not loc:
         return None
     loc = loc.strip()
-    # Handle "DISTRICT1" -> "District 1"
     if loc.upper().startswith('DISTRICT'):
-        num = loc.upper().replace('DISTRICT', '').strip()
-        return f"District {num}" if num else "Various Locations"
-    # Title case for town names
+        num = re.search(r'\d+', loc)
+        return f"District {num.group()}" if num else "Various Locations"
     return loc.title()
 
 
 # =============================================================================
-# MASSDOT PARSER (Refined)
+# MASSDOT PARSER (Plain Text)
 # =============================================================================
 
 def parse_massdot() -> List[Dict]:
     """
-    Parse MassDOT with full project details extraction.
-    Extracts: Location, Description (project name), Type, Value, Project Number, Dates
+    Parse MassDOT by converting HTML to plain text first.
     """
     url = DOT_SOURCES['MA']['portal_url']
     lettings = []
@@ -147,139 +143,149 @@ def parse_massdot() -> List[Dict]:
         
         print(f"    📄 Got {len(html)} bytes")
         
-        # Parse with BeautifulSoup
+        # Convert HTML to plain text using BeautifulSoup
         soup = BeautifulSoup(html, 'html.parser')
+        
+        # Remove script and style elements
+        for script in soup(["script", "style"]):
+            script.decompose()
+        
+        # Get text with newlines preserved between elements
         text = soup.get_text(separator='\n')
         
-        # Extract all project blocks using regex
-        # Pattern: **Location:** *VALUE* followed by **Description:** *VALUE* etc.
+        # Clean up multiple newlines
+        text = re.sub(r'\n\s*\n', '\n', text)
         
-        # Find all locations
-        locations = re.findall(r'\*\*Location:\*\*\s*\*([^*]+)\*', html)
+        print(f"    📝 Converted to {len(text)} chars of text")
         
-        # Find all descriptions (project names)
-        descriptions = re.findall(r'\*\*Description:\*\*\s*\*([^*]+)\*', html)
+        # Debug: show sample
+        sample = text[:800].replace('\n', ' | ')
+        print(f"    🔬 Sample: {sample[:300]}...")
         
-        # Find all project values
-        values = re.findall(r'\*\*Project Value:\*\*\s*\$([0-9,]+\.?\d*)', html)
+        # Extract using plain text patterns
+        # Pattern: Look for Location: followed by text until Description:
+        # Then Description: followed by text until District:
         
-        # Find all project numbers
-        proj_nums = re.findall(r'\*\*Project Number:\*\*\s*(\d+)', html)
+        # Split into project blocks - each starts with "Location:"
+        blocks = re.split(r'(?=Location:)', text)
+        print(f"    📦 Found {len(blocks)} potential project blocks")
         
-        # Find all project types
-        proj_types = re.findall(r'\*\*Project Type:\*\*\s*([^|*\n]+)', html)
-        
-        # Find all ad dates
-        ad_dates = re.findall(r'\*\*Ad Date:\*\*\s*(\d{1,2}/\d{1,2}/\d{4})', html)
-        
-        # Find all districts
-        districts = re.findall(r'\*\*District:\*\*\s*(\d+)', html)
-        
-        # Find bid opening dates (they appear before groups of projects)
-        bid_openings = re.findall(r'Bid Opening:\s*(\d{1,2}/\d{1,2}/\d{4})', html)
-        
-        print(f"    📊 Extracted:")
-        print(f"       Locations: {len(locations)}")
-        print(f"       Descriptions: {len(descriptions)}")
-        print(f"       Values: {len(values)}")
-        print(f"       Project Numbers: {len(proj_nums)}")
-        print(f"       Project Types: {len(proj_types)}")
-        print(f"       Ad Dates: {len(ad_dates)}")
-        print(f"       Districts: {len(districts)}")
-        print(f"       Bid Openings: {len(bid_openings)}")
-        
-        # Build project records
-        num_projects = min(len(values), len(descriptions), 50)
-        
-        if num_projects == 0:
-            print(f"    ⚠ No structured data found, falling back to basic extraction")
-            # Fallback: just find dollar amounts
-            all_values = re.findall(r'\$([0-9,]+\.?\d*)', html)
-            project_values = [parse_currency(v) for v in all_values if parse_currency(v) and 100000 <= parse_currency(v) <= 500000000]
-            for i, val in enumerate(project_values[:25]):
-                lettings.append({
-                    'id': generate_id(f"MA-{i}-{val}"),
-                    'state': 'MA',
-                    'project_id': None,
-                    'description': f"MassDOT Project #{i+1}",
-                    'cost_low': int(val),
-                    'cost_high': int(val),
-                    'cost_display': format_currency(val),
-                    'ad_date': None,
-                    'let_date': None,
-                    'project_type': None,
-                    'location': None,
-                    'district': None,
-                    'url': url,
-                    'source': 'MassDOT',
-                    'business_lines': ['highway']
-                })
-        else:
-            print(f"    📦 Building {num_projects} detailed project records...")
+        projects = []
+        for block in blocks:
+            if 'Project Value:' not in block:
+                continue
             
-            for i in range(num_projects):
-                # Location
-                location = clean_location(locations[i]) if i < len(locations) else None
-                
-                # Description (project name) - clean it up
-                desc = descriptions[i].strip() if i < len(descriptions) else "MassDOT Project"
-                desc = desc.replace('\n', ' ').replace('  ', ' ')
-                
-                # Value
-                cost = parse_currency(values[i]) if i < len(values) else None
-                if not cost:
-                    continue
-                
-                # Project number (for direct link)
-                proj_num = proj_nums[i] if i < len(proj_nums) else None
-                
-                # Project type - clean it up
-                proj_type = None
-                if i < len(proj_types):
-                    proj_type = proj_types[i].strip()
-                    # Remove trailing pipes, extra spaces
-                    proj_type = re.sub(r'\s*\|.*$', '', proj_type).strip()
-                
-                # Ad date
-                ad_date = None
-                if i < len(ad_dates):
-                    try:
-                        ad_date = datetime.strptime(ad_dates[i], '%m/%d/%Y').strftime('%Y-%m-%d')
-                    except:
-                        pass
-                
-                # District
-                district = int(districts[i]) if i < len(districts) else None
-                
-                # Build direct link using project number
-                project_url = url
-                if proj_num:
-                    # MassDOT project detail URL pattern
-                    project_url = f"https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum={proj_num}"
-                
-                # Create clean display description
-                display_desc = desc
-                if len(display_desc) > 150:
-                    display_desc = display_desc[:147] + "..."
-                
-                letting = {
-                    'id': generate_id(f"MA-{proj_num or i}-{desc[:25]}"),
-                    'state': 'MA',
-                    'project_id': proj_num,
-                    'description': display_desc,
-                    'cost_low': int(cost),
-                    'cost_high': int(cost),
-                    'cost_display': format_currency(cost),
-                    'ad_date': ad_date,
-                    'let_date': None,
-                    'project_type': proj_type,
-                    'location': location,
-                    'district': district,
-                    'url': project_url,
-                    'source': 'MassDOT',
-                    'business_lines': get_business_lines(f"{desc} {proj_type or ''}")
-                }
-                lettings.append(letting)
+            # Extract fields from this block
+            loc_match = re.search(r'Location:\s*([A-Z][A-Za-z0-9\s\-,]+?)(?:\s+Description:|$)', block)
+            desc_match = re.search(r'Description:\s*(.+?)(?:\s+District:|$)', block, re.DOTALL)
+            value_match = re.search(r'Project Value:\s*\$([0-9,]+\.?\d*)', block)
+            proj_num_match = re.search(r'Project Number:\s*(\d+)', block)
+            proj_type_match = re.search(r'Project Type:\s*([^\n]+)', block)
+            ad_date_match = re.search(r'Ad Date:\s*(\d{1,2}/\d{1,2}/\d{4})', block)
+            district_match = re.search(r'District:\s*(\d+)', block)
+            
+            if value_match:
+                projects.append({
+                    'location': loc_match.group(1).strip() if loc_match else None,
+                    'description': desc_match.group(1).strip()[:200] if desc_match else None,
+                    'value': value_match.group(1),
+                    'project_num': proj_num_match.group(1) if proj_num_match else None,
+                    'project_type': proj_type_match.group(1).strip() if proj_type_match else None,
+                    'ad_date': ad_date_match.group(1) if ad_date_match else None,
+                    'district': district_match.group(1) if district_match else None
+                })
+        
+        print(f"    📊 Extracted {len(projects)} projects with values")
+        
+        # If block parsing didn't work, try line-by-line extraction
+        if not projects:
+            print(f"    🔄 Trying line-by-line extraction...")
+            
+            # Find all values first
+            values = re.findall(r'Project Value:\s*\$([0-9,]+\.?\d*)', text)
+            locations = re.findall(r'Location:\s*([A-Z][A-Za-z0-9\s\-,]+)', text)
+            descriptions = re.findall(r'Description:\s*(.+?)(?=\s*District:|\n)', text)
+            proj_nums = re.findall(r'Project Number:\s*(\d+)', text)
+            proj_types = re.findall(r'Project Type:\s*([^\n]+)', text)
+            ad_dates = re.findall(r'Ad Date:\s*(\d{1,2}/\d{1,2}/\d{4})', text)
+            districts = re.findall(r'District:\s*(\d+)\s*Ad Date:', text)
+            
+            print(f"    Line extraction: {len(values)} val, {len(locations)} loc, {len(descriptions)} desc")
+            
+            for i in range(len(values)):
+                projects.append({
+                    'location': locations[i] if i < len(locations) else None,
+                    'description': descriptions[i][:200] if i < len(descriptions) else None,
+                    'value': values[i],
+                    'project_num': proj_nums[i] if i < len(proj_nums) else None,
+                    'project_type': proj_types[i].strip() if i < len(proj_types) else None,
+                    'ad_date': ad_dates[i] if i < len(ad_dates) else None,
+                    'district': districts[i] if i < len(districts) else None
+                })
+        
+        # If still nothing, fallback to just dollar amounts
+        if not projects:
+            print(f"    🔄 Falling back to dollar-only extraction...")
+            all_values = re.findall(r'\$([0-9,]+\.?\d*)', text)
+            for i, v in enumerate(all_values):
+                val = parse_currency(v)
+                if val and 100000 <= val <= 500000000:
+                    projects.append({
+                        'location': None,
+                        'description': f"MassDOT Project #{i+1}",
+                        'value': v,
+                        'project_num': None,
+                        'project_type': None,
+                        'ad_date': None,
+                        'district': None
+                    })
+        
+        # Build letting records
+        for p in projects[:50]:
+            cost = parse_currency(p['value'])
+            if not cost:
+                continue
+            
+            location = clean_location(p['location'])
+            desc = p['description'] or f"MassDOT Project - {location or 'Various Locations'}"
+            desc = re.sub(r'\s+', ' ', desc).strip()
+            
+            proj_type = p['project_type']
+            if proj_type:
+                proj_type = re.sub(r'\s*,\s*$', '', proj_type)
+                proj_type = proj_type[:60]
+            
+            ad_date = None
+            if p['ad_date']:
+                try:
+                    ad_date = datetime.strptime(p['ad_date'], '%m/%d/%Y').strftime('%Y-%m-%d')
+                except:
+                    pass
+            
+            district = int(p['district']) if p['district'] else None
+            
+            project_url = url
+            if p['project_num']:
+                project_url = f"{url}?projnum={p['project_num']}"
+            
+            letting = {
+                'id': generate_id(f"MA-{p['project_num'] or cost}-{desc[:25]}"),
+                'state': 'MA',
+                'project_id': p['project_num'],
+                'description': desc[:200],
+                'cost_low': int(cost),
+                'cost_high': int(cost),
+                'cost_display': format_currency(cost),
+                'ad_date': ad_date,
+                'let_date': None,
+                'project_type': proj_type,
+                'location': location,
+                'district': district,
+                'url': project_url,
+                'source': 'MassDOT',
+                'business_lines': get_business_lines(f"{desc} {proj_type or ''}")
+            }
+            lettings.append(letting)
         
         if lettings:
             total = sum(l.get('cost_low') or 0 for l in lettings)
@@ -458,7 +464,7 @@ def build_summary(dot_lettings: List[Dict], news: List[Dict]) -> Dict:
 
 def run_scraper() -> Dict:
     print("=" * 60)
-    print("NECMIS SCRAPER - PHASE 2.1 (Refined Parser)")
+    print("NECMIS SCRAPER - PHASE 2.1 (Plain Text Parser)")
     print("=" * 60)
     print(f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print()
@@ -466,8 +472,9 @@ def run_scraper() -> Dict:
     print("[1/3] DOT Bid Schedules...")
     dot_lettings = fetch_dot_lettings()
     with_cost = len([d for d in dot_lettings if d.get('cost_low')])
+    with_details = len([d for d in dot_lettings if d.get('project_type') or d.get('location')])
     total_val = sum(d.get('cost_low') or 0 for d in dot_lettings)
-    print(f"  Total: {len(dot_lettings)} ({with_cost} with $)")
+    print(f"  Total: {len(dot_lettings)} ({with_cost} with $, {with_details} with details)")
     print(f"  Pipeline: {format_currency(total_val)}")
     print()
     
@@ -495,9 +502,9 @@ def run_scraper() -> Dict:
     print("=" * 60)
     print("SUMMARY")
     print("=" * 60)
-    print(f"Pipeline: {format_currency(summary['total_value_low'])} - {format_currency(summary['total_value_high'])}")
+    print(f"Pipeline: {format_currency(summary['total_value_low'])}")
     print(f"Opportunities: {summary['total_opportunities']}")
-    print(f"DOT Lettings: {summary['by_category']['dot_letting']} ({with_cost} with costs)")
+    print(f"DOT Lettings: {summary['by_category']['dot_letting']} ({with_cost} with costs, {with_details} with details)")
     print(f"News: {summary['by_category']['news']}")
     print(f"Funding: {summary['by_category']['funding']}")
     print("=" * 60)
