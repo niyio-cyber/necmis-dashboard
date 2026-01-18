@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-18T03:55:20.323452Z",
+  "generated": "2026-01-18T11:28:54.712423Z",
   "summary": {
     "total_opportunities": 34,
     "total_value_low": 209260596,
@@ -7,7 +7,7 @@
     "by_state": {
       "VT": 1,
       "NH": 6,
-      "ME": 3,
+      "ME": 4,
       "MA": 26,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 32,
-      "news": 6,
+      "news": 7,
       "funding": 2
     }
   },
@@ -642,27 +642,13 @@
   ],
   "news": [
     {
-      "id": "95693a9c92e5",
-      "title": "DOT workers killed in I-95 crash loved their jobs, family, outdoors",
-      "summary": "James Brown and Dwayne Campbell were a part of a tight-knit community and loved their families.",
-      "url": "https://www.pressherald.com/2026/01/17/dot-workers-killed-in-i-95-crash-loved-their-jobs-family-outdoors/",
+      "id": "f5ce9726bfa9",
+      "title": "Obituary: Nils Peter Mickelson",
+      "summary": "BUXTON - Nils Peter Mickelson, 82, of Waterman Road, passed away peacefully on Jan. 3, 2026 after a long illness.\n\nPete was ...",
+      "url": "https://www.pressherald.com/2026/01/18/obituarynils-peter-mickelson-2/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-01-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6f2d5e8b4bf8",
-      "title": "Light snowfall expected Saturday throughout Maine",
-      "summary": "Drivers should plan on slippery road conditions.",
-      "url": "https://www.pressherald.com/2026/01/17/light-snowfall-expected-saturday-throughout-maine/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-01-17",
+      "date": "2026-01-18",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -670,13 +656,41 @@
       ]
     },
     {
-      "id": "1ac8d9a64345",
-      "title": "How to watch Boston Bruins game today free",
-      "summary": "The Boston Bruins take their five-game winning streak on the road on Saturday, Jan. 17 to challenge the Chicago Blackhawks.",
-      "url": "https://www.masslive.com/tv/2026/01/how-to-watch-boston-bruins-game-today-free.html-7",
+      "id": "1220f1170cff",
+      "title": "Death Notice: Dorothy \u201cDot\u201d (Mullen) Feeney",
+      "summary": "Feeney, Dorothy \u201cDot\u201d (Mullen) 100, of Topsham, Jan. 11. No services, spring burial. Lindquist Funeral Home. ...",
+      "url": "https://www.pressherald.com/2026/01/18/obituarydorothy-dot-mullen-feeney/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-18",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8753b6db03a8",
+      "title": "How a Depression-era \u2018Hooverville\u2019 turned into UMaine\u2019s hippie paradise",
+      "summary": "This story was originally published in April 2023. The area adjacent to the Rangeley Road entrance to the University of Maine campus, off Park Street in Orono, is an empty field now. For nearly 70 years until the 1980s, however, it housed a community of cabins dubbed \u201cHungry Hollow\u201d by residents and",
+      "url": "https://www.bangordailynews.com/2026/01/18/bangor/bangor-culture/bumstock-music-festival-umaine-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-01-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "885be37da75f",
+      "title": "At abandoned Monson Developmental Center, Westmass prepares, slowly, to \u2018create a village\u2019",
+      "summary": "The public will get its first chance to comment on zoning changes at the site 7 p.m. Tuesday, Jan. 20 at Granite Valley School, 21 Thompson St., Monson.",
+      "url": "https://www.masslive.com/westernmass/2026/01/at-abandoned-monson-developmental-center-westmass-prepares-slowly-to-create-a-village.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-01-17",
+      "date": "2026-01-18",
       "category": "news",
       "priority": "medium",
       "business_lines": [
