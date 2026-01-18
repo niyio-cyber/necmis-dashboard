@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-18T01:19:45.548419Z",
+  "generated": "2026-01-18T01:43:26.989858Z",
   "summary": {
-    "total_opportunities": 13,
+    "total_opportunities": 10,
     "total_value_low": 0,
     "total_value_high": 0,
     "by_state": {
       "VT": 1,
-      "NH": 12,
-      "ME": 7,
-      "MA": 4,
+      "NH": 6,
+      "ME": 3,
+      "MA": 3,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,31 +16,13 @@
     },
     "by_category": {
       "dot_letting": 8,
-      "news": 15,
-      "funding": 5
+      "news": 7,
+      "funding": 2
     }
   },
   "dot_lettings": [
     {
-      "id": "e090b2913fa0",
-      "state": "ME",
-      "project_id": null,
-      "description": "MaineDOT Bid Schedule - Visit portal for current lettings",
-      "cost_low": null,
-      "cost_high": null,
-      "cost_display": "See Portal",
-      "ad_date": null,
-      "let_date": null,
-      "project_type": null,
-      "county": null,
-      "url": "https://www.maine.gov/mdot/projects/advertised/",
-      "source": "MaineDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4c6d073ca022",
+      "id": "2462b4920286",
       "state": "MA",
       "project_id": null,
       "description": "MassDOT Bid Schedule - Visit portal for current lettings",
@@ -58,10 +40,10 @@
       ]
     },
     {
-      "id": "aa5c96762962",
-      "state": "PA",
+      "id": "8b98c149c319",
+      "state": "ME",
       "project_id": null,
-      "description": "PennDOT Bid Schedule - Visit portal for current lettings",
+      "description": "MaineDOT Bid Schedule - Visit portal for current lettings",
       "cost_low": null,
       "cost_high": null,
       "cost_display": "See Portal",
@@ -69,32 +51,14 @@
       "let_date": null,
       "project_type": null,
       "county": null,
-      "url": "https://www.penndot.pa.gov/business/Letting/Pages/default.aspx",
-      "source": "PennDOT",
+      "url": "https://www.maine.gov/dot/doing-business/bid-opportunities",
+      "source": "MaineDOT",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "b751e845e171",
-      "state": "VT",
-      "project_id": null,
-      "description": "VTrans Bid Schedule - Visit portal for current lettings",
-      "cost_low": null,
-      "cost_high": null,
-      "cost_display": "See Portal",
-      "ad_date": null,
-      "let_date": null,
-      "project_type": null,
-      "county": null,
-      "url": "https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting",
-      "source": "VTrans",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bffd4869fd78",
+      "id": "2bd36bd2d6e8",
       "state": "NH",
       "project_id": null,
       "description": "NHDOT Bid Schedule - Visit portal for current lettings",
@@ -112,7 +76,25 @@
       ]
     },
     {
-      "id": "493fff7f8bb2",
+      "id": "eaf60f83f209",
+      "state": "VT",
+      "project_id": null,
+      "description": "VTrans Bid Schedule - Visit portal for current lettings",
+      "cost_low": null,
+      "cost_high": null,
+      "cost_display": "See Portal",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting",
+      "source": "VTrans",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b6fe0913cb20",
       "state": "NY",
       "project_id": null,
       "description": "NYSDOT Bid Schedule - Visit portal for current lettings",
@@ -130,7 +112,7 @@
       ]
     },
     {
-      "id": "5d023e61b162",
+      "id": "da912bd1e394",
       "state": "RI",
       "project_id": null,
       "description": "RIDOT Bid Schedule - Visit portal for current lettings",
@@ -148,7 +130,7 @@
       ]
     },
     {
-      "id": "887c95445c9e",
+      "id": "7d0d50e2a5c2",
       "state": "CT",
       "project_id": null,
       "description": "CTDOT Bid Schedule - Visit portal for current lettings",
@@ -164,23 +146,27 @@
       "business_lines": [
         "highway"
       ]
+    },
+    {
+      "id": "680a138aa782",
+      "state": "PA",
+      "project_id": null,
+      "description": "PennDOT Bid Schedule - Visit portal for current lettings",
+      "cost_low": null,
+      "cost_high": null,
+      "cost_display": "See Portal",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://www.penndot.pa.gov/business/Letting/Pages/default.aspx",
+      "source": "PennDOT",
+      "business_lines": [
+        "highway"
+      ]
     }
   ],
   "news": [
-    {
-      "id": "d13fcb696f60",
-      "title": "Thousands of fans celebrate life of legendary Grateful Dead guitarist Bob Weir in San Francisco",
-      "summary": "SAN FRANCISCO (AP) \u2014 Thousands of mourners gathered Saturday at San Francisco\u2019s Civic Center to celebrate the life of Bob Weir, the legendary guitarist and founding member of the Grateful Dead who died last week at age 78. Musicians Joan Baez and John Mayer spoke on a makeshift stage in front of the",
-      "url": "https://www.bangordailynews.com/2026/01/17/nation/thousands-of-fans-celebrate-life-of-legendary-grateful-dead-guitarist-bob-weir-in-san-francisco/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-01-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "aggregates"
-      ]
-    },
     {
       "id": "95693a9c92e5",
       "title": "DOT workers killed in I-95 crash loved their jobs, family, outdoors",
@@ -205,48 +191,6 @@
       "date": "2026-01-17",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e22362458afe",
-      "title": "Why I\u2019m supporting Jordan Wood for Congress | Letter",
-      "summary": "The Maine native understands the affordability challenges facing the state's working families.",
-      "url": "https://www.pressherald.com/2026/01/17/why-im-supporting-jordan-wood-for-congress-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-01-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f61d8f7a3f20",
-      "title": "Portland\u2019s short-term rental restrictions are backfiring | Opinion",
-      "summary": "Intended to increase housing availability and affordability, the opposite is happening.",
-      "url": "https://www.pressherald.com/2026/01/17/portlands-short-term-rental-restrictions-are-backfiring-opinion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-01-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c794d613738e",
-      "title": "Climate activist predicts high electricity prices and Trump\u2019s attacks on green energy will hurt GOP",
-      "summary": "RIPTON, Vermont (AP) \u2014 At a time when the Trump administration rolled back numerous environmental regulations while global temperatures and U.S. carbon pollution spiked, longtime climate activist Bill McKibben finds hope in something that didn\u2019t seem that strong on a recent single-digit-temperature",
-      "url": "https://www.bangordailynews.com/2026/01/17/nation/climate-activist-predicts-high-electricity-prices-and-trumps-attacks-on-green-energy-will-hurt-gop/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-01-17",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -280,38 +224,10 @@
       ]
     },
     {
-      "id": "308eed02882b",
-      "title": "Harvard club to pay back $2.4 million to settle pandemic loan fraud lawsuit",
-      "summary": "The club bills itself as a \u201csocial, intellectual and wellness hub for Harvard alumni.\u201d",
-      "url": "https://www.masslive.com/boston/2026/01/harvard-club-to-pay-back-24-million-to-settle-pandemic-loan-fraud-lawsuit.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-01-17",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "157e0ed7d15b",
       "title": "Supreme Court to hear Bayer's bid to curb Roundup cases",
       "summary": "The Supreme Court agreed on Friday to hear Bayer\u2019s bid to sharply limit lawsuits claiming that the company\u2019s Roundup weed killer causes cancer and potentially avert billions of dollars in damages.",
       "url": "https://www.unionleader.com/news/business/supreme-court-to-hear-bayers-bid-to-curb-roundup-cases/article_1556fb90-8ae6-4342-bb1c-1703916f19fc.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-01-16",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bd3ff05586d7",
-      "title": "Why your power bill is spiking faster than a nearby data center\u2019s",
-      "summary": "Over the past few years, millions of Americans have seen their electricity bills skyrocket. Since February 2020, electricity prices have increased by an average of 40% across the country. In some areas, the rate is even faster \u2014 in Washington,\u2026",
-      "url": "https://www.unionleader.com/news/business/why-your-power-bill-is-spiking-faster-than-a-nearby-data-center-s/article_b3b9dbd0-c5bb-4b90-ad73-ae7fe97977fa.html",
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-01-16",
@@ -336,76 +252,6 @@
       ]
     },
     {
-      "id": "5106c3774fd7",
-      "title": "Push Is On To Bring Back Death Penalty in NH",
-      "summary": "Executions could make a comeback in the Granite State because of several bills introduced in the legislature aimed at overturning the 2019 death penalty repeal.",
-      "url": "https://indepthnh.org/2026/01/14/push-is-on-to-bring-back-death-penalty-in-nh/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-01-15",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b080433d8942",
-      "title": "Verizon's network down for tens of thousands of users in US, Downdetector shows",
-      "summary": "Telecom operator Verizon Communications' network was \u200ddown for tens of thousands \u200cof users in the U.S. on Wednesday, according to outage \u200dtracking website Downdetector.com.",
-      "url": "https://www.unionleader.com/news/business/verizons-network-down-for-tens-of-thousands-of-users-in-us-downdetector-shows/article_f818523b-c340-5b3b-aa4d-ca60936ee431.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-01-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "aggregates"
-      ]
-    },
-    {
-      "id": "f4041c045c2a",
-      "title": "Bill To Require State Oversight On Carbon Sequestration Projects Opposed",
-      "summary": "A bill heard Wednesday that would require property owners enrolled in carbon sequestration programs to submit management plans to the state\u2019s Division of Forest and Lands and Fish and Game was called overreaching and an infringement on property rights.",
-      "url": "https://indepthnh.org/2026/01/14/bill-to-require-state-oversight-on-carbon-sequestration-projects-opposed/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-01-14",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "646f08b6f2be",
-      "title": "Bill To Fund Cyanobacteria Mitigation with Increased Mooring Fees Supported",
-      "summary": "Creating a dedicated cyanobacteria fund by charging $25 more for boat mooring fees was heard by a legislative committee Wednesday with no opposition.",
-      "url": "https://indepthnh.org/2026/01/14/bill-to-fund-cyanobacteria-mitigation-with-increased-mooring-fees-supported/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-01-14",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "265da8bb75be",
-      "title": "Parents Spar in Testimony over Bill on \u2018Parental Alienation\u2019",
-      "summary": "Divorced parents and step-parents recounted personal horror stories Tuesday during testimony on a Republican-sponsored bill that makes \u201cparental alienation\u201d as important as child abuse in family court cases involving divorce and child custody.",
-      "url": "https://indepthnh.org/2026/01/13/parents-spar-in-testimony-over-bill-on-parental-alienation/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-01-13",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "b40e2ab2aeec",
       "title": "Preventing County and State Owned Land To Be Used for Carbon Capture Debated",
       "summary": "Propelled by a change in historic timber cutting practices in the state brought on by the advent of carbon sequestration, a bill that would prohibit state- and county-owned lands from participating in such programs was heard Tuesday before the House Municipal and County Government Committee.",
@@ -414,7 +260,7 @@
       "state": "NH",
       "date": "2026-01-13",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -477,7 +323,7 @@
     "infrastructure_funding": {
       "score": 7.8,
       "trend": "stable",
-      "action": "Major expansion"
+      "action": "Selective growth"
     },
     "overall_score": 7.0,
     "overall_status": "stable"
