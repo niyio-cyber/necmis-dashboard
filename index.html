@@ -3,458 +3,896 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NECMIS - Market Intelligence</title>
+    <title>NECMIS - Northeast Construction Market Intelligence</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
+        
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
             min-height: 100vh;
-            color: #e0e0e0;
+            color: #e8e8e8;
         }
-        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
         
-        /* Login */
-        .login-overlay {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0,0,0,0.95); display: flex; justify-content: center;
-            align-items: center; z-index: 1000;
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 20px;
         }
-        .login-overlay.hidden { display: none; }
-        .login-box {
-            background: #1e2a3a; padding: 40px; border-radius: 16px;
-            text-align: center; box-shadow: 0 20px 60px rgba(0,0,0,0.5);
-        }
-        .login-box h2 { color: #4da6ff; margin-bottom: 10px; }
-        .login-box p { color: #888; margin-bottom: 20px; font-size: 0.9em; }
-        .login-box input {
-            padding: 12px 20px; border: 2px solid #333; border-radius: 8px;
-            background: #0d1520; color: #fff; font-size: 1em; width: 250px;
-            margin-bottom: 15px;
-        }
-        .login-box button {
-            padding: 12px 30px; background: linear-gradient(135deg, #4da6ff, #2d7dd2);
-            border: none; border-radius: 8px; color: white; font-weight: 600;
-            cursor: pointer; font-size: 1em;
-        }
-        .login-error { color: #ff6b6b; margin-top: 10px; font-size: 0.9em; }
-        .login-error.hidden { display: none; }
         
         /* Header */
         .header {
-            background: rgba(30, 42, 58, 0.95); border-radius: 16px;
-            padding: 25px; margin-bottom: 25px;
-            border: 1px solid rgba(77, 166, 255, 0.2);
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 24px;
+            text-align: center;
         }
-        .header h1 { color: #4da6ff; font-size: 1.8em; margin-bottom: 5px; }
-        .header .subtitle { color: #888; font-size: 0.95em; }
-        .header .date { color: #4da6ff; font-weight: 600; }
         
-        /* Stats Grid */
-        .stats-grid {
-            display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 15px; margin-bottom: 25px;
+        .header h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            background: linear-gradient(90deg, #4facfe, #00f2fe);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 8px;
         }
+        
+        .header .subtitle {
+            color: #8892b0;
+            font-size: 1rem;
+        }
+        
+        .last-updated {
+            font-size: 0.85rem;
+            color: #64ffda;
+            margin-top: 8px;
+        }
+        
+        /* Summary Stats */
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+        
         .stat-card {
-            background: rgba(30, 42, 58, 0.9); border-radius: 12px; padding: 20px;
-            text-align: center; border: 1px solid rgba(77, 166, 255, 0.15);
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
         }
-        .stat-card .value { font-size: 1.8em; font-weight: 700; color: #4da6ff; }
-        .stat-card .label { font-size: 0.85em; color: #888; margin-top: 5px; }
         
-        /* Market Health */
-        .market-health {
-            background: rgba(30, 42, 58, 0.95); border-radius: 16px;
-            padding: 25px; margin-bottom: 25px;
-            border: 1px solid rgba(77, 166, 255, 0.2);
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #64ffda;
         }
-        .section-title { color: #4da6ff; font-size: 1.3em; margin-bottom: 15px; display: flex; align-items: center; gap: 10px; }
-        .section-subtitle { color: #666; font-size: 0.85em; margin-bottom: 20px; }
-        .overall-score {
-            text-align: center; padding: 20px; background: rgba(77, 166, 255, 0.1);
-            border-radius: 12px; margin-bottom: 20px;
-        }
-        .overall-score .score { font-size: 3em; font-weight: 700; color: #4da6ff; }
-        .overall-score .status { font-size: 1.1em; color: #888; margin-top: 5px; }
-        .overall-score .guidance { font-size: 0.85em; color: #666; margin-top: 10px; }
-        .metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; }
-        .metric-card {
-            background: rgba(13, 21, 32, 0.8); border-radius: 10px; padding: 15px;
-            border-left: 4px solid #4da6ff;
-        }
-        .metric-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
-        .metric-name { font-weight: 600; color: #e0e0e0; font-size: 0.95em; }
-        .metric-score { font-size: 1.2em; font-weight: 700; }
-        .metric-trend { font-size: 0.9em; }
-        .trend-up { color: #4ade80; }
-        .trend-down { color: #f87171; }
-        .trend-stable { color: #fbbf24; }
-        .metric-action { font-size: 0.85em; color: #888; }
         
-        /* Feed */
-        .feed-section {
-            background: rgba(30, 42, 58, 0.95); border-radius: 16px;
-            padding: 25px; margin-bottom: 25px;
-            border: 1px solid rgba(77, 166, 255, 0.2);
+        .stat-label {
+            font-size: 0.85rem;
+            color: #8892b0;
+            margin-top: 4px;
         }
-        .tabs { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
-        .tab {
-            padding: 10px 20px; border-radius: 8px; cursor: pointer;
-            background: rgba(13, 21, 32, 0.8); color: #888; border: 1px solid transparent;
-            font-size: 0.9em; transition: all 0.2s;
-        }
-        .tab:hover { color: #4da6ff; }
-        .tab.active { background: rgba(77, 166, 255, 0.2); color: #4da6ff; border-color: #4da6ff; }
-        .feed-content { display: none; }
-        .feed-content.active { display: block; }
         
-        /* Project Cards - Refined */
+        /* Main Layout */
+        .main-layout {
+            display: grid;
+            grid-template-columns: 280px 1fr;
+            gap: 24px;
+        }
+        
+        @media (max-width: 1024px) {
+            .main-layout {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        /* State Navigation */
+        .state-nav {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 16px;
+            padding: 20px;
+            height: fit-content;
+            position: sticky;
+            top: 20px;
+        }
+        
+        .nav-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #ccd6f6;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .state-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 14px 16px;
+            margin-bottom: 8px;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            color: #a8b2d1;
+            font-size: 0.95rem;
+        }
+        
+        .state-btn:hover {
+            background: rgba(100, 255, 218, 0.1);
+            border-color: rgba(100, 255, 218, 0.3);
+            color: #64ffda;
+        }
+        
+        .state-btn.active {
+            background: rgba(100, 255, 218, 0.15);
+            border-color: #64ffda;
+            color: #64ffda;
+        }
+        
+        .state-btn .state-name {
+            font-weight: 600;
+        }
+        
+        .state-btn .state-count {
+            background: rgba(255,255,255,0.1);
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+        }
+        
+        .state-btn.active .state-count {
+            background: rgba(100, 255, 218, 0.2);
+        }
+        
+        .state-status {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.75rem;
+            margin-top: 4px;
+            color: #8892b0;
+        }
+        
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+        
+        .status-active { background: #64ffda; }
+        .status-stub { background: #ffbb33; }
+        .status-planned { background: #8892b0; }
+        
+        /* Content Area */
+        .content-area {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 16px;
+            overflow: hidden;
+        }
+        
+        .content-header {
+            padding: 20px 24px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        
+        .content-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: #ccd6f6;
+        }
+        
+        .content-title .highlight {
+            color: #64ffda;
+        }
+        
+        .portal-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 16px;
+            background: rgba(100, 255, 218, 0.1);
+            border: 1px solid rgba(100, 255, 218, 0.3);
+            border-radius: 8px;
+            color: #64ffda;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+        
+        .portal-link:hover {
+            background: rgba(100, 255, 218, 0.2);
+        }
+        
+        /* Project List */
+        .project-list {
+            padding: 16px;
+            max-height: 70vh;
+            overflow-y: auto;
+        }
+        
         .project-card {
-            background: rgba(13, 21, 32, 0.9); border-radius: 12px; padding: 18px;
-            margin-bottom: 12px; border-left: 4px solid #4da6ff;
-            transition: all 0.2s;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 12px;
+            padding: 16px 20px;
+            margin-bottom: 12px;
+            transition: all 0.2s ease;
         }
-        .project-card:hover { transform: translateX(5px); border-left-color: #2dd4bf; }
-        .project-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; }
-        .project-location { 
-            font-size: 1.1em; font-weight: 700; color: #4da6ff;
-            display: flex; align-items: center; gap: 8px;
+        
+        .project-card:hover {
+            background: rgba(255,255,255,0.06);
+            border-color: rgba(255,255,255,0.15);
         }
-        .project-value {
-            font-size: 1.3em; font-weight: 700; color: #2dd4bf;
+        
+        .project-card.high-priority {
+            border-left: 4px solid #ff6b6b;
+        }
+        
+        .project-card.medium-priority {
+            border-left: 4px solid #ffd93d;
+        }
+        
+        .project-card.low-priority {
+            border-left: 4px solid #64ffda;
+        }
+        
+        .project-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 10px;
+            gap: 16px;
+        }
+        
+        .project-title {
+            font-size: 1.05rem;
+            font-weight: 600;
+            color: #ccd6f6;
+            line-height: 1.4;
+        }
+        
+        .project-cost {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #64ffda;
             white-space: nowrap;
         }
-        .project-name {
-            font-size: 0.95em; color: #e0e0e0; line-height: 1.5;
-            margin-bottom: 10px;
-        }
+        
         .project-meta {
-            display: flex; flex-wrap: wrap; gap: 15px; font-size: 0.85em; color: #888;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            font-size: 0.85rem;
+            color: #8892b0;
             margin-bottom: 10px;
         }
-        .project-meta span { display: flex; align-items: center; gap: 5px; }
-        .project-type {
-            display: inline-block; padding: 4px 10px; border-radius: 6px;
-            font-size: 0.8em; font-weight: 600; margin-right: 8px;
-            background: rgba(77, 166, 255, 0.15); color: #4da6ff;
-        }
-        .project-type.bridge { background: rgba(251, 191, 36, 0.15); color: #fbbf24; }
-        .project-type.highway { background: rgba(45, 212, 191, 0.15); color: #2dd4bf; }
-        .project-type.pavement { background: rgba(167, 139, 250, 0.15); color: #a78bfa; }
-        .project-type.drainage { background: rgba(96, 165, 250, 0.15); color: #60a5fa; }
-        .project-type.signals { background: rgba(251, 146, 60, 0.15); color: #fb923c; }
-        .project-link {
-            display: inline-block; padding: 6px 14px; border-radius: 6px;
-            font-size: 0.85em; text-decoration: none;
-            background: rgba(77, 166, 255, 0.2); color: #4da6ff;
-        }
-        .project-link:hover { background: rgba(77, 166, 255, 0.3); }
         
-        /* News Cards */
-        .news-card {
-            background: rgba(13, 21, 32, 0.9); border-radius: 12px; padding: 18px;
-            margin-bottom: 12px; border-left: 4px solid #a78bfa;
+        .project-meta span {
+            display: flex;
+            align-items: center;
+            gap: 4px;
         }
-        .news-card.funding { border-left-color: #2dd4bf; }
-        .news-source { font-size: 0.85em; color: #888; margin-bottom: 5px; }
-        .news-title { font-size: 1em; color: #e0e0e0; margin-bottom: 8px; line-height: 1.4; }
-        .news-summary { font-size: 0.9em; color: #888; line-height: 1.5; }
         
-        /* Sidebar */
-        .main-grid { display: grid; grid-template-columns: 1fr 300px; gap: 25px; }
-        @media (max-width: 900px) { .main-grid { grid-template-columns: 1fr; } }
-        .sidebar-widget {
-            background: rgba(30, 42, 58, 0.95); border-radius: 12px;
-            padding: 20px; margin-bottom: 20px;
-            border: 1px solid rgba(77, 166, 255, 0.15);
+        .project-description {
+            font-size: 0.9rem;
+            color: #a8b2d1;
+            line-height: 1.5;
+            margin-bottom: 12px;
         }
-        .widget-title { font-size: 1em; color: #4da6ff; margin-bottom: 15px; }
-        .state-item { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.05); }
-        .state-item:last-child { border-bottom: none; }
-        .portal-link {
-            display: block; padding: 10px; margin-bottom: 8px; border-radius: 8px;
-            background: rgba(13, 21, 32, 0.8); text-decoration: none;
-            color: #888; font-size: 0.85em; transition: all 0.2s;
-        }
-        .portal-link:hover { background: rgba(77, 166, 255, 0.1); color: #4da6ff; }
-        .portal-link strong { color: #e0e0e0; display: block; margin-bottom: 3px; }
         
-        /* Footer */
-        .footer { text-align: center; padding: 20px; color: #666; font-size: 0.85em; }
+        .project-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        
+        .tag {
+            padding: 4px 10px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 20px;
+            font-size: 0.75rem;
+            color: #8892b0;
+        }
+        
+        .tag.highway { background: rgba(79, 172, 254, 0.2); color: #4facfe; }
+        .tag.hma { background: rgba(255, 107, 107, 0.2); color: #ff6b6b; }
+        .tag.aggregates { background: rgba(255, 217, 61, 0.2); color: #ffd93d; }
+        .tag.ready_mix { background: rgba(100, 255, 218, 0.2); color: #64ffda; }
+        
+        .project-actions {
+            display: flex;
+            gap: 8px;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+        }
+        
+        .action-btn {
+            padding: 6px 12px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 6px;
+            color: #a8b2d1;
+            text-decoration: none;
+            font-size: 0.8rem;
+            transition: all 0.2s ease;
+        }
+        
+        .action-btn:hover {
+            background: rgba(100, 255, 218, 0.1);
+            border-color: rgba(100, 255, 218, 0.3);
+            color: #64ffda;
+        }
+        
+        /* Empty State */
+        .empty-state {
+            padding: 60px 20px;
+            text-align: center;
+            color: #8892b0;
+        }
+        
+        .empty-state .icon {
+            font-size: 3rem;
+            margin-bottom: 16px;
+        }
+        
+        .empty-state h3 {
+            font-size: 1.2rem;
+            color: #ccd6f6;
+            margin-bottom: 8px;
+        }
+        
+        /* Loading */
+        .loading {
+            padding: 60px 20px;
+            text-align: center;
+            color: #8892b0;
+        }
+        
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid rgba(255,255,255,0.1);
+            border-top-color: #64ffda;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 16px;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        /* Filter Bar */
+        .filter-bar {
+            display: flex;
+            gap: 12px;
+            padding: 16px 24px;
+            background: rgba(0,0,0,0.2);
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+            flex-wrap: wrap;
+        }
+        
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .filter-label {
+            font-size: 0.85rem;
+            color: #8892b0;
+        }
+        
+        select, input[type="text"] {
+            padding: 8px 12px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 6px;
+            color: #e8e8e8;
+            font-size: 0.9rem;
+        }
+        
+        select option {
+            background: #1a1a2e;
+        }
+        
+        /* Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: rgba(255,255,255,0.05);
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: rgba(255,255,255,0.2);
+            border-radius: 4px;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(255,255,255,0.3);
+        }
     </style>
 </head>
 <body>
-    <!-- Login -->
-    <div class="login-overlay" id="loginOverlay">
-        <div class="login-box">
-            <h2>🔐 NECMIS Access</h2>
-            <p>Northeast Construction Market Intelligence System</p>
-            <input type="password" id="passwordInput" placeholder="Enter password" onkeypress="if(event.key==='Enter')checkPassword()">
-            <br>
-            <button onclick="checkPassword()">Access Dashboard</button>
-            <div class="login-error hidden" id="loginError">Incorrect password. Please try again.</div>
-        </div>
-    </div>
-
     <div class="container">
         <div class="header">
-            <h1>📊 NECMIS - Market Intelligence</h1>
-            <p class="subtitle">
-                <span class="date" id="currentDate"></span><br>
-                Northeast Construction Market Intelligence System | VT • NH • ME • MA • NY • RI • CT • PA
-            </p>
+            <h1>🏗️ NECMIS - Northeast Construction Market Intelligence</h1>
+            <p class="subtitle">DOT Letting Schedules & Bid Opportunities</p>
+            <p class="last-updated">Last Updated: <span id="lastUpdated">Loading...</span></p>
         </div>
-
-        <!-- Stats -->
-        <div class="stats-grid">
-            <div class="stat-card"><div class="value" id="pipelineValue">--</div><div class="label">Pipeline Value</div></div>
-            <div class="stat-card"><div class="value" id="totalOpportunities">--</div><div class="label">Total Opportunities</div></div>
-            <div class="stat-card"><div class="value" id="dotLettings">--</div><div class="label">DOT Lettings</div></div>
-            <div class="stat-card"><div class="value" id="fundingCount">--</div><div class="label">Funding</div></div>
-            <div class="stat-card"><div class="value" id="newsCount">--</div><div class="label">News</div></div>
-            <div class="stat-card"><div class="value" id="totalItems">--</div><div class="label">Total Items</div></div>
-        </div>
-
-        <!-- Market Health -->
-        <div class="market-health">
-            <div class="section-title">📈 Market Health Framework</div>
-            <div class="section-subtitle">6 Public Metrics | Scores + Trends + Actions</div>
-            <div class="overall-score">
-                <div class="score" id="overallScore">--</div>
-                <div class="status" id="overallStatus">Loading...</div>
-                <div class="guidance" id="overallGuidance"></div>
+        
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="stat-value" id="totalProjects">--</div>
+                <div class="stat-label">Total Projects</div>
             </div>
-            <div class="metrics-grid" id="metricsGrid"></div>
-        </div>
-
-        <!-- Main Content -->
-        <div class="main-grid">
-            <div class="feed-section">
-                <div class="section-title">📋 Intelligence Feed</div>
-                <div class="tabs">
-                    <div class="tab active" data-tab="dot">🏗️ DOT Lettings</div>
-                    <div class="tab" data-tab="news">📰 News</div>
-                    <div class="tab" data-tab="funding">💵 Funding</div>
-                    <div class="tab" data-tab="all">All</div>
-                </div>
-                <div class="feed-content active" id="dot-content"></div>
-                <div class="feed-content" id="news-content"></div>
-                <div class="feed-content" id="funding-content"></div>
-                <div class="feed-content" id="all-content"></div>
+            <div class="stat-card">
+                <div class="stat-value" id="totalValue">--</div>
+                <div class="stat-label">Total Value</div>
             </div>
-
-            <div class="sidebar">
-                <div class="sidebar-widget">
-                    <div class="widget-title">📊 By State</div>
-                    <div id="stateBreakdown"></div>
-                </div>
-                <div class="sidebar-widget">
-                    <div class="widget-title">🔗 DOT Bid Portals</div>
-                    <div id="portalLinks"></div>
-                </div>
+            <div class="stat-card">
+                <div class="stat-value" id="highPriority">--</div>
+                <div class="stat-label">High Priority (&gt;$1M)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="activeStates">--</div>
+                <div class="stat-label">States with Data</div>
             </div>
         </div>
-
-        <div class="footer">
-            <strong>NECMIS - Northeast Construction Market Intelligence System</strong><br>
-            Data Sources: State DOT Portals (8 states) | Regional News RSS (10 feeds) | Market Health Framework (6 public metrics)<br>
-            Last Updated: <span id="lastUpdated">--</span>
+        
+        <div class="main-layout">
+            <nav class="state-nav">
+                <div class="nav-title">Select State</div>
+                <div id="stateButtons"></div>
+            </nav>
+            
+            <main class="content-area">
+                <div class="content-header">
+                    <h2 class="content-title" id="contentTitle">Select a State</h2>
+                    <a href="#" id="portalLink" class="portal-link" target="_blank" style="display:none;">
+                        🔗 DOT Portal
+                    </a>
+                </div>
+                
+                <div class="filter-bar">
+                    <div class="filter-group">
+                        <span class="filter-label">Business Line:</span>
+                        <select id="filterBusinessLine">
+                            <option value="all">All Lines</option>
+                            <option value="highway">Highway</option>
+                            <option value="hma">Hot Mix Asphalt</option>
+                            <option value="aggregates">Aggregates</option>
+                            <option value="ready_mix">Ready Mix</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <span class="filter-label">Priority:</span>
+                        <select id="filterPriority">
+                            <option value="all">All</option>
+                            <option value="high">High (&gt;$1M)</option>
+                            <option value="medium">Medium ($100K-$1M)</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <span class="filter-label">Search:</span>
+                        <input type="text" id="searchInput" placeholder="Route, town, project...">
+                    </div>
+                </div>
+                
+                <div class="project-list" id="projectList">
+                    <div class="empty-state">
+                        <div class="icon">📍</div>
+                        <h3>Select a State</h3>
+                        <p>Choose a state from the left to view DOT letting schedules and bid opportunities.</p>
+                    </div>
+                </div>
+            </main>
         </div>
     </div>
-
+    
     <script>
-        const PASSWORD = 'NECMIS2026!';
-        const PORTALS = {
-            'VT': { name: 'VTrans', desc: 'Construction Contracting', url: 'https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting' },
-            'NH': { name: 'NHDOT', desc: 'Invitation to Bid', url: 'https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid' },
-            'ME': { name: 'MaineDOT', desc: 'Advertised Projects', url: 'https://www.maine.gov/mdot/projects/advertised/' },
-            'MA': { name: 'MassDOT', desc: 'Status Report', url: 'https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp' },
-            'NY': { name: 'NYSDOT', desc: 'Highway Construction', url: 'https://www.dot.ny.gov/doing-business/opportunities/const-highway' },
-            'RI': { name: 'RIDOT', desc: 'Current Projects', url: 'https://www.dot.ri.gov/about/current_projects.php' },
-            'CT': { name: 'CTDOT', desc: 'Contractor Information', url: 'https://portal.ct.gov/DOT/Doing-Business/Contractor-Information' },
-            'PA': { name: 'PennDOT', desc: 'Letting Information', url: 'https://www.penndot.pa.gov/business/Letting/Pages/default.aspx' }
+        // State configuration with parser status
+        const STATE_CONFIG = {
+            ME: {
+                name: 'Maine',
+                agency: 'MaineDOT',
+                status: 'active',
+                portalUrl: 'https://www.maine.gov/dot/major-projects/cap/schedule',
+                dataSource: 'Excel (weekly)',
+                description: 'Weekly schedule updated Mondays'
+            },
+            MA: {
+                name: 'Massachusetts',
+                agency: 'MassDOT',
+                status: 'active',
+                portalUrl: 'https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp',
+                dataSource: 'HTML table',
+                description: 'Real-time bid status'
+            },
+            VT: {
+                name: 'Vermont',
+                agency: 'VTrans',
+                status: 'stub',
+                portalUrl: 'https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting',
+                dataSource: 'CSV export',
+                description: 'Anticipated advertising schedule'
+            },
+            NH: {
+                name: 'New Hampshire',
+                agency: 'NHDOT',
+                status: 'stub',
+                portalUrl: 'https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid',
+                dataSource: 'PDF',
+                description: 'FY advertising schedule'
+            },
+            PA: {
+                name: 'Pennsylvania',
+                agency: 'PennDOT',
+                status: 'stub',
+                portalUrl: 'https://www.penndot.pa.gov/business/Letting/Pages/default.aspx',
+                dataSource: 'PDF',
+                description: '12-month letting schedule'
+            },
+            NY: {
+                name: 'New York',
+                agency: 'NYSDOT',
+                status: 'stub',
+                portalUrl: 'https://www.dot.ny.gov/doing-business/opportunities/const-highway',
+                dataSource: 'HTML database',
+                description: 'Highway construction lettings'
+            },
+            RI: {
+                name: 'Rhode Island',
+                agency: 'RIDOT',
+                status: 'stub',
+                portalUrl: 'https://www.dot.ri.gov/about/current_projects.php',
+                dataSource: 'Quarterly PDF',
+                description: 'Current projects list'
+            },
+            CT: {
+                name: 'Connecticut',
+                agency: 'CTDOT',
+                status: 'stub',
+                portalUrl: 'https://portal.ct.gov/DOT/Doing-Business/Contractor-Information',
+                dataSource: 'ArcGIS API',
+                description: 'Capital projects database'
+            }
         };
-
-        function checkPassword() {
-            const input = document.getElementById('passwordInput').value;
-            if (input === PASSWORD) {
-                document.getElementById('loginOverlay').classList.add('hidden');
-                localStorage.setItem('necmis_auth', 'true');
-                loadData();
-            } else {
-                document.getElementById('loginError').classList.remove('hidden');
-            }
-        }
-
-        function init() {
-            document.getElementById('currentDate').textContent = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-            if (localStorage.getItem('necmis_auth') === 'true') {
-                document.getElementById('loginOverlay').classList.add('hidden');
-                loadData();
-            }
-            document.querySelectorAll('.tab').forEach(tab => {
-                tab.addEventListener('click', () => {
-                    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-                    document.querySelectorAll('.feed-content').forEach(c => c.classList.remove('active'));
-                    tab.classList.add('active');
-                    document.getElementById(tab.dataset.tab + '-content').classList.add('active');
-                });
+        
+        // Global state
+        let allProjects = [];
+        let currentState = null;
+        
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            renderStateButtons();
+            loadData();
+            
+            // Filter listeners
+            document.getElementById('filterBusinessLine').addEventListener('change', renderProjects);
+            document.getElementById('filterPriority').addEventListener('change', renderProjects);
+            document.getElementById('searchInput').addEventListener('input', renderProjects);
+        });
+        
+        function renderStateButtons() {
+            const container = document.getElementById('stateButtons');
+            container.innerHTML = '';
+            
+            Object.entries(STATE_CONFIG).forEach(([code, config]) => {
+                const btn = document.createElement('button');
+                btn.className = 'state-btn';
+                btn.dataset.state = code;
+                btn.innerHTML = `
+                    <div>
+                        <span class="state-name">${config.name}</span>
+                        <div class="state-status">
+                            <span class="status-dot status-${config.status}"></span>
+                            ${config.status === 'active' ? 'Parser Active' : 'Portal Link'}
+                        </div>
+                    </div>
+                    <span class="state-count" id="count-${code}">--</span>
+                `;
+                btn.addEventListener('click', () => selectState(code));
+                container.appendChild(btn);
             });
-            renderPortals();
         }
-
-        function renderPortals() {
-            const container = document.getElementById('portalLinks');
-            container.innerHTML = Object.entries(PORTALS).map(([state, info]) =>
-                `<a href="${info.url}" target="_blank" class="portal-link"><strong>${state} - ${info.name}</strong>${info.desc}</a>`
-            ).join('');
-        }
-
-        function formatCurrency(val) {
-            if (!val) return '--';
-            if (val >= 1e9) return '$' + (val/1e9).toFixed(1) + 'B';
-            if (val >= 1e6) return '$' + (val/1e6).toFixed(1) + 'M';
-            if (val >= 1e3) return '$' + (val/1e3).toFixed(0) + 'K';
-            return '$' + val.toLocaleString();
-        }
-
-        function getProjectTypeClass(type) {
-            if (!type) return '';
-            const t = type.toLowerCase();
-            if (t.includes('bridge')) return 'bridge';
-            if (t.includes('highway') || t.includes('reconstruction')) return 'highway';
-            if (t.includes('pavement') || t.includes('surfacing') || t.includes('resurfacing')) return 'pavement';
-            if (t.includes('drainage') || t.includes('sewer')) return 'drainage';
-            if (t.includes('signal') || t.includes('traffic')) return 'signals';
-            return '';
-        }
-
+        
         async function loadData() {
             try {
-                const resp = await fetch('data/necmis_data.json?' + Date.now());
-                const data = await resp.json();
-                renderDashboard(data);
-            } catch (e) {
-                console.error('Error loading data:', e);
-            }
-        }
-
-        function renderDashboard(data) {
-            // Stats
-            document.getElementById('pipelineValue').textContent = formatCurrency(data.summary?.total_value_low);
-            document.getElementById('totalOpportunities').textContent = data.summary?.total_opportunities || '--';
-            document.getElementById('dotLettings').textContent = data.summary?.by_category?.dot_letting || '--';
-            document.getElementById('fundingCount').textContent = data.summary?.by_category?.funding || '--';
-            document.getElementById('newsCount').textContent = data.summary?.by_category?.news || '--';
-            const total = (data.dot_lettings?.length || 0) + (data.news?.length || 0);
-            document.getElementById('totalItems').textContent = total;
-            document.getElementById('lastUpdated').textContent = data.generated ? new Date(data.generated).toLocaleString() : '--';
-
-            // Market Health
-            const mh = data.market_health || {};
-            document.getElementById('overallScore').innerHTML = `${mh.overall_score || '--'}<span style="font-size:0.4em;color:#888">/10</span>`;
-            document.getElementById('overallStatus').textContent = `Overall Market Health: ${(mh.overall_status || '').toUpperCase()}`;
-            const guidance = {
-                'growth': '7.5+ — Aggressive expansion, invest in capacity',
-                'stable': '6.0 - 7.5 — Maintain position, selective investments',
-                'watchlist': '< 6.0 — Conservative mode, protect margins'
-            };
-            document.getElementById('overallGuidance').textContent = guidance[mh.overall_status] || '';
-
-            const metricLabels = {
-                'dot_pipeline': 'DOT Project Pipeline (15%)',
-                'housing_permits': 'Housing Permit Momentum (10%)',
-                'construction_spending': 'Construction Spending (10%)',
-                'migration': 'Migration Patterns (10%)',
-                'input_cost_stability': 'Input Cost Stability (8%)',
-                'infrastructure_funding': 'Infrastructure Funding (7%)'
-            };
-            const metricsHtml = Object.entries(metricLabels).map(([key, label]) => {
-                const m = mh[key] || {};
-                const trendClass = m.trend === 'up' ? 'trend-up' : m.trend === 'down' ? 'trend-down' : 'trend-stable';
-                const trendIcon = m.trend === 'up' ? '↑' : m.trend === 'down' ? '↓' : '→';
-                return `<div class="metric-card">
-                    <div class="metric-header">
-                        <span class="metric-name">${label}</span>
-                        <span class="metric-score ${trendClass}">${m.score || '--'}/10</span>
-                    </div>
-                    <div class="metric-trend ${trendClass}">${trendIcon}</div>
-                    <div class="metric-action">→ ${m.action || '--'}</div>
-                </div>`;
-            }).join('');
-            document.getElementById('metricsGrid').innerHTML = metricsHtml;
-
-            // State breakdown
-            const states = data.summary?.by_state || {};
-            document.getElementById('stateBreakdown').innerHTML = Object.entries(states)
-                .map(([s, c]) => `<div class="state-item"><span>${s}</span><span>${c}</span></div>`).join('');
-
-            // DOT Lettings
-            const dotHtml = (data.dot_lettings || []).map(d => {
-                const typeClass = getProjectTypeClass(d.project_type);
-                const location = d.location || d.state;
-                const projectType = d.project_type ? `<span class="project-type ${typeClass}">${d.project_type}</span>` : '';
-                const adDate = d.ad_date ? `<span>📅 Ad: ${new Date(d.ad_date).toLocaleDateString()}</span>` : '';
-                const district = d.district ? `<span>🏛️ District ${d.district}</span>` : '';
-                const projectId = d.project_id ? `<span>📋 #${d.project_id}</span>` : '';
+                // Try multiple possible data file locations
+                const paths = ['data/necmis_data.json', 'necmis_data.json', './data/necmis_data.json'];
+                let data = null;
                 
-                return `<div class="project-card">
-                    <div class="project-header">
-                        <div class="project-location">${d.state} - ${location}</div>
-                        <div class="project-value">${d.cost_display || 'See Portal'}</div>
-                    </div>
-                    <div class="project-name">${projectType}${d.description}</div>
-                    <div class="project-meta">${district}${adDate}${projectId}</div>
-                    <a href="${d.url}" target="_blank" class="project-link">View on ${d.source} →</a>
-                </div>`;
-            }).join('') || '<p style="color:#666">No DOT lettings found</p>';
-            document.getElementById('dot-content').innerHTML = dotHtml;
-
-            // News
-            const newsItems = (data.news || []).filter(n => n.category === 'news');
-            document.getElementById('news-content').innerHTML = newsItems.map(n =>
-                `<div class="news-card">
-                    <div class="news-source">${n.source} (${n.state}) • ${n.date}</div>
-                    <div class="news-title"><a href="${n.url}" target="_blank" style="color:#e0e0e0;text-decoration:none">${n.title}</a></div>
-                    <div class="news-summary">${n.summary || ''}</div>
-                </div>`
-            ).join('') || '<p style="color:#666">No news items found</p>';
-
-            // Funding
-            const fundingItems = (data.news || []).filter(n => n.category === 'funding');
-            document.getElementById('funding-content').innerHTML = fundingItems.map(n =>
-                `<div class="news-card funding">
-                    <div class="news-source">${n.source} (${n.state}) • ${n.date}</div>
-                    <div class="news-title"><a href="${n.url}" target="_blank" style="color:#e0e0e0;text-decoration:none">${n.title}</a></div>
-                    <div class="news-summary">${n.summary || ''}</div>
-                </div>`
-            ).join('') || '<p style="color:#666">No funding announcements found</p>';
-
-            // All
-            const allItems = [...(data.dot_lettings || []).map(d => ({...d, _type: 'dot'})), ...(data.news || []).map(n => ({...n, _type: 'news'}))];
-            document.getElementById('all-content').innerHTML = allItems.slice(0, 50).map(item => {
-                if (item._type === 'dot') {
-                    const typeClass = getProjectTypeClass(item.project_type);
-                    const location = item.location || item.state;
-                    const projectType = item.project_type ? `<span class="project-type ${typeClass}">${item.project_type}</span>` : '';
-                    return `<div class="project-card">
-                        <div class="project-header">
-                            <div class="project-location">${item.state} - ${location}</div>
-                            <div class="project-value">${item.cost_display || 'See Portal'}</div>
-                        </div>
-                        <div class="project-name">${projectType}${item.description}</div>
-                        <a href="${item.url}" target="_blank" class="project-link">View on ${item.source} →</a>
-                    </div>`;
-                } else {
-                    return `<div class="news-card ${item.category === 'funding' ? 'funding' : ''}">
-                        <div class="news-source">${item.source} (${item.state}) • ${item.date}</div>
-                        <div class="news-title"><a href="${item.url}" target="_blank" style="color:#e0e0e0;text-decoration:none">${item.title}</a></div>
-                    </div>`;
+                for (const path of paths) {
+                    try {
+                        const response = await fetch(path);
+                        if (response.ok) {
+                            data = await response.json();
+                            console.log(`Loaded data from ${path}`);
+                            break;
+                        }
+                    } catch (e) {
+                        continue;
+                    }
                 }
-            }).join('');
+                
+                if (data) {
+                    // Handle both old format (items) and new format (projects)
+                    allProjects = data.projects || data.items || [];
+                    
+                    // Transform old format items to new format if needed
+                    allProjects = allProjects.map(p => ({
+                        ...p,
+                        state: p.state || 'UNKNOWN',
+                        title: p.title || p.headline || p.description || 'Untitled',
+                        cost: p.cost || p.estimated_cost || 0,
+                        cost_formatted: p.cost_formatted || (p.cost ? `$${(p.cost/1000000).toFixed(1)}M` : 'TBD'),
+                        business_lines: p.business_lines || p.relevance || ['highway'],
+                        priority: p.priority || 'medium'
+                    }));
+                    
+                    document.getElementById('lastUpdated').textContent = 
+                        data.scraped_at || data.generated ? new Date(data.scraped_at || data.generated).toLocaleString() : 'Unknown';
+                } else {
+                    throw new Error('No data file found');
+                }
+            } catch (e) {
+                console.log('No data file found, using sample data');
+                loadSampleData();
+            }
+            
+            updateStats();
+            updateStateCounts();
         }
-
-        init();
+        
+        function loadSampleData() {
+            // Sample data for demonstration
+            allProjects = [
+                {
+                    id: 'me001',
+                    state: 'ME',
+                    title: 'Route 1 Reconstruction, Wiscasset to Damariscotta',
+                    description: 'Full depth reconstruction including drainage improvements',
+                    work_type: 'Highway Preservation Paving',
+                    cost: 12500000,
+                    cost_formatted: '$12,500,000',
+                    ad_date: '2026-01-22',
+                    project_id: '025105.00',
+                    business_lines: ['highway', 'hma'],
+                    priority: 'high',
+                    portal_url: 'https://www.maine.gov/dot/major-projects/cap/schedule'
+                },
+                {
+                    id: 'me002',
+                    state: 'ME',
+                    title: 'Mill Brook Bridge, Town of Wilton, Franklin County',
+                    description: 'Complete bridge replacement over Mill Brook',
+                    work_type: 'Bridge Construction',
+                    cost: 4200000,
+                    cost_formatted: '$4,200,000',
+                    ad_date: '2026-02-05',
+                    project_id: '026282.00',
+                    business_lines: ['highway', 'aggregates', 'ready_mix'],
+                    priority: 'high',
+                    portal_url: 'https://www.maine.gov/dot/major-projects/cap/schedule'
+                },
+                {
+                    id: 'me003',
+                    state: 'ME',
+                    title: 'Route 27 Paving, Farmington to Kingfield',
+                    description: 'Light capital paving - surface treatment',
+                    work_type: 'Highway Light Capital Paving',
+                    cost: 950000,
+                    cost_formatted: '$950,000',
+                    ad_date: '2026-02-12',
+                    project_id: '024892.00',
+                    business_lines: ['highway', 'hma'],
+                    priority: 'medium',
+                    portal_url: 'https://www.maine.gov/dot/major-projects/cap/schedule'
+                },
+                {
+                    id: 'ma001',
+                    state: 'MA',
+                    title: 'Route 38 Reconstruction, Tewksbury',
+                    description: 'Highway reconstruction including signals',
+                    work_type: 'Highway - Construction',
+                    cost: 5704623,
+                    cost_formatted: '$5,704,624',
+                    ad_date: '2026-01-30',
+                    project_id: '614005',
+                    business_lines: ['highway', 'hma', 'aggregates'],
+                    priority: 'high',
+                    portal_url: 'https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp'
+                },
+                {
+                    id: 'ma002',
+                    state: 'MA',
+                    title: 'I-495 Bridge Deck Replacement, Chelmsford',
+                    description: 'Bridge deck replacement over Stony Brook',
+                    work_type: 'Bridge - Construction',
+                    cost: 8900000,
+                    cost_formatted: '$8,900,000',
+                    ad_date: '2026-02-15',
+                    project_id: '608051',
+                    business_lines: ['highway', 'ready_mix'],
+                    priority: 'high',
+                    portal_url: 'https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp'
+                }
+            ];
+            
+            document.getElementById('lastUpdated').textContent = 'Sample Data (Run scraper for live data)';
+        }
+        
+        function updateStats() {
+            const total = allProjects.length;
+            const totalValue = allProjects.reduce((sum, p) => sum + (p.cost || 0), 0);
+            const highPriority = allProjects.filter(p => p.priority === 'high').length;
+            const activeStates = new Set(allProjects.map(p => p.state)).size;
+            
+            document.getElementById('totalProjects').textContent = total;
+            document.getElementById('totalValue').textContent = formatCurrency(totalValue);
+            document.getElementById('highPriority').textContent = highPriority;
+            document.getElementById('activeStates').textContent = activeStates;
+        }
+        
+        function updateStateCounts() {
+            Object.keys(STATE_CONFIG).forEach(code => {
+                const count = allProjects.filter(p => p.state === code).length;
+                const el = document.getElementById(`count-${code}`);
+                if (el) {
+                    el.textContent = count > 0 ? count : '→';
+                }
+            });
+        }
+        
+        function selectState(stateCode) {
+            currentState = stateCode;
+            
+            // Update active button
+            document.querySelectorAll('.state-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.state === stateCode);
+            });
+            
+            // Update header
+            const config = STATE_CONFIG[stateCode];
+            document.getElementById('contentTitle').innerHTML = 
+                `<span class="highlight">${config.name}</span> - ${config.agency} Lettings`;
+            
+            // Update portal link
+            const portalLink = document.getElementById('portalLink');
+            portalLink.href = config.portalUrl;
+            portalLink.style.display = 'inline-flex';
+            
+            renderProjects();
+        }
+        
+        function renderProjects() {
+            const container = document.getElementById('projectList');
+            
+            if (!currentState) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="icon">📍</div>
+                        <h3>Select a State</h3>
+                        <p>Choose a state from the left to view DOT letting schedules.</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            // Filter projects
+            let projects = allProjects.filter(p => p.state === currentState);
+            
+            const businessLine = document.getElementById('filterBusinessLine').value;
+            if (businessLine !== 'all') {
+                projects = projects.filter(p => 
+                    p.business_lines && p.business_lines.includes(businessLine)
+                );
+            }
+            
+            const priority = document.getElementById('filterPriority').value;
+            if (priority !== 'all') {
+                projects = projects.filter(p => p.priority === priority);
+            }
+            
+            const search = document.getElementById('searchInput').value.toLowerCase();
+            if (search) {
+                projects = projects.filter(p => 
+                    (p.title && p.title.toLowerCase().includes(search)) ||
+                    (p.description && p.description.toLowerCase().includes(search)) ||
+                    (p.project_id && p.project_id.toLowerCase().includes(search))
+                );
+            }
+            
+            // Sort by cost descending
+            projects.sort((a, b) => (b.cost || 0) - (a.cost || 0));
+            
+            if (projects.length === 0) {
+                const config = STATE_CONFIG[currentState];
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="icon">📋</div>
+                        <h3>No Projects Found</h3>
+                        <p>${config.status === 'active' 
+                            ? 'No projects match your filters. Try adjusting the filters above.'
+                            : `Parser not yet active. Visit the DOT portal directly.`
+                        }</p>
+                        <a href="${config.portalUrl}" target="_blank" class="action-btn" style="margin-top: 16px; display: inline-block;">
+                            🔗 Open ${config.agency} Portal
+                        </a>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = projects.map(p => `
+                <div class="project-card ${p.priority}-priority">
+                    <div class="project-header">
+                        <div class="project-title">${p.title}</div>
+                        <div class="project-cost">${p.cost_formatted || 'TBD'}</div>
+                    </div>
+                    <div class="project-meta">
+                        ${p.ad_date ? `<span>📅 ${formatDate(p.ad_date)}</span>` : ''}
+                        ${p.project_id ? `<span>📋 ${p.project_id}</span>` : ''}
+                        ${p.work_type ? `<span>🔧 ${p.work_type}</span>` : ''}
+                    </div>
+                    ${p.description ? `<div class="project-description">${p.description}</div>` : ''}
+                    <div class="project-tags">
+                        ${(p.business_lines || []).map(bl => 
+                            `<span class="tag ${bl}">${formatBusinessLine(bl)}</span>`
+                        ).join('')}
+                    </div>
+                    <div class="project-actions">
+                        ${p.portal_url ? `<a href="${p.portal_url}" target="_blank" class="action-btn">🔗 DOT Portal</a>` : ''}
+                        ${p.bid_book_url ? `<a href="${p.bid_book_url}" target="_blank" class="action-btn">📄 Bid Book</a>` : ''}
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        function formatCurrency(value) {
+            if (!value) return '--';
+            if (value >= 1000000000) return `$${(value / 1000000000).toFixed(1)}B`;
+            if (value >= 1000000) return `$${(value / 1000000).toFixed(1)}M`;
+            if (value >= 1000) return `$${(value / 1000).toFixed(0)}K`;
+            return `$${value.toFixed(0)}`;
+        }
+        
+        function formatDate(dateStr) {
+            if (!dateStr) return '';
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        }
+        
+        function formatBusinessLine(bl) {
+            const names = {
+                highway: 'Highway',
+                hma: 'HMA',
+                aggregates: 'Aggregates',
+                ready_mix: 'Ready Mix',
+                liquid_asphalt: 'Liquid Asphalt'
+            };
+            return names[bl] || bl;
+        }
     </script>
 </body>
 </html>
