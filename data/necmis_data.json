@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-18T03:45:18.126563Z",
+  "generated": "2026-01-18T03:46:34.545486Z",
   "summary": {
     "total_opportunities": 34,
     "total_value_low": 209260596,
@@ -519,7 +519,7 @@
       "project_type": null,
       "location": null,
       "district": null,
-      "url": "https://www.maine.gov/dot/doing-business/bid-opportunities",
+      "url": "https://www.maine.gov/dot/major-projects/cap/schedule",
       "source": "MaineDOT",
       "business_lines": [
         "highway"
