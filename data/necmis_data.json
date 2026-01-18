@@ -1,344 +1,454 @@
 {
-  "generated": "2026-01-17T11:00:00Z",
+  "generated": "2026-01-18T01:15:17.657642Z",
   "summary": {
-    "total_opportunities": 47,
-    "total_value_low": 125000000,
-    "total_value_high": 185000000,
+    "total_opportunities": 13,
+    "total_value_low": 0,
+    "total_value_high": 0,
     "by_state": {
-      "VT": 5,
-      "NH": 6,
-      "ME": 8,
-      "MA": 12,
-      "NY": 7,
-      "RI": 3,
-      "CT": 4,
-      "PA": 2
+      "VT": 1,
+      "NH": 12,
+      "ME": 7,
+      "MA": 4,
+      "NY": 1,
+      "RI": 1,
+      "CT": 1,
+      "PA": 1
     },
     "by_category": {
-      "dot_letting": 23,
-      "news": 18,
-      "funding": 6
+      "dot_letting": 8,
+      "news": 15,
+      "funding": 5
     }
   },
   "dot_lettings": [
     {
-      "id": "me-025822",
+      "id": "e090b2913fa0",
       "state": "ME",
-      "project_id": "025822.00",
-      "description": "Route 1 Resurfacing - Brunswick to Bath",
-      "cost_low": 2500000,
-      "cost_high": 5000000,
-      "cost_display": "$2.5M - $5M",
-      "ad_date": "2026-01-22",
-      "let_date": "2026-02-05",
-      "project_type": "resurfacing",
-      "county": "Cumberland",
+      "project_id": null,
+      "description": "MaineDOT Bid Schedule - Visit portal for current lettings",
+      "cost_low": null,
+      "cost_high": null,
+      "cost_display": "See Portal",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
       "url": "https://www.maine.gov/mdot/projects/advertised/",
       "source": "MaineDOT",
-      "business_lines": ["highway", "hma"]
+      "business_lines": [
+        "highway"
+      ]
     },
     {
-      "id": "me-025901",
-      "state": "ME",
-      "project_id": "025901.00",
-      "description": "I-95 Bridge Deck Replacement - Mile 42-44",
-      "cost_low": 8000000,
-      "cost_high": 12000000,
-      "cost_display": "$8M - $12M",
-      "ad_date": "2026-01-29",
-      "let_date": "2026-02-19",
-      "project_type": "bridge",
-      "county": "York",
-      "url": "https://www.maine.gov/mdot/projects/advertised/",
-      "source": "MaineDOT",
-      "business_lines": ["highway"]
-    },
-    {
-      "id": "ma-608721",
+      "id": "4c6d073ca022",
       "state": "MA",
-      "project_id": "608721",
-      "description": "Route 2 Resurfacing - Greenfield to Orange",
-      "cost_low": 4200000,
-      "cost_high": 4200000,
-      "cost_display": "$4.2M",
-      "ad_date": "2026-01-20",
-      "let_date": "2026-02-03",
-      "project_type": "resurfacing",
-      "county": "Franklin",
+      "project_id": null,
+      "description": "MassDOT Bid Schedule - Visit portal for current lettings",
+      "cost_low": null,
+      "cost_high": null,
+      "cost_display": "See Portal",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
       "source": "MassDOT",
-      "business_lines": ["highway", "hma"]
+      "business_lines": [
+        "highway"
+      ]
     },
     {
-      "id": "ma-609102",
-      "state": "MA",
-      "project_id": "609102",
-      "description": "I-93 Mill & Overlay - Methuen Section",
-      "cost_low": 7500000,
-      "cost_high": 7500000,
-      "cost_display": "$7.5M",
-      "ad_date": "2026-01-25",
-      "let_date": "2026-02-10",
-      "project_type": "mill_overlay",
-      "county": "Essex",
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
-      "source": "MassDOT",
-      "business_lines": ["highway", "hma"]
-    },
-    {
-      "id": "nh-43267",
-      "state": "NH",
-      "project_id": "43267",
-      "description": "Route 101 Reconstruction - Bedford to Manchester",
-      "cost_low": 15000000,
-      "cost_high": 20000000,
-      "cost_display": "$15M - $20M",
-      "ad_date": "2026-02-01",
-      "let_date": "2026-02-20",
-      "project_type": "reconstruction",
-      "county": "Hillsborough",
-      "url": "https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid",
-      "source": "NHDOT",
-      "business_lines": ["highway", "hma", "aggregates"]
-    },
-    {
-      "id": "nh-43512",
-      "state": "NH",
-      "project_id": "43512",
-      "description": "I-93 Widening Project - Salem Section Phase 2",
-      "cost_low": 45000000,
-      "cost_high": 55000000,
-      "cost_display": "$45M - $55M",
-      "ad_date": "2026-02-15",
-      "let_date": "2026-03-05",
-      "project_type": "widening",
-      "county": "Rockingham",
-      "url": "https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid",
-      "source": "NHDOT",
-      "business_lines": ["highway", "hma", "aggregates", "ready_mix"]
-    },
-    {
-      "id": "vt-nh019-1",
-      "state": "VT",
-      "project_id": "NH019-1(58)",
-      "description": "Route 100 Resurfacing - Waterbury to Stowe",
-      "cost_low": 3200000,
-      "cost_high": 4500000,
-      "cost_display": "$3.2M - $4.5M",
-      "ad_date": "2026-01-28",
-      "let_date": "2026-02-15",
-      "project_type": "resurfacing",
-      "county": "Washington",
-      "url": "https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting",
-      "source": "VTrans",
-      "business_lines": ["highway", "hma"]
-    },
-    {
-      "id": "vt-brd034",
-      "state": "VT",
-      "project_id": "BRD034(12)",
-      "description": "Bridge Rehabilitation - Route 4 Killington",
-      "cost_low": 6500000,
-      "cost_high": 8000000,
-      "cost_display": "$6.5M - $8M",
-      "ad_date": "2026-02-05",
-      "let_date": "2026-02-25",
-      "project_type": "bridge",
-      "county": "Rutland",
-      "url": "https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting",
-      "source": "VTrans",
-      "business_lines": ["highway", "ready_mix"]
-    },
-    {
-      "id": "ny-d264789",
-      "state": "NY",
-      "project_id": "D264789",
-      "description": "I-87 Pavement Preservation - Albany to Saratoga",
-      "cost_low": 12000000,
-      "cost_high": 15000000,
-      "cost_display": "$12M - $15M",
-      "ad_date": "2026-01-30",
-      "let_date": "2026-02-18",
-      "project_type": "pavement_preservation",
-      "county": "Albany",
-      "url": "https://www.dot.ny.gov/doing-business/opportunities/const-highway",
-      "source": "NYSDOT",
-      "business_lines": ["highway", "hma"]
-    },
-    {
-      "id": "pa-e12456",
+      "id": "aa5c96762962",
       "state": "PA",
-      "project_id": "E12456",
-      "description": "I-81 Bridge Rehabilitation - Scranton Area",
-      "cost_low": 18000000,
-      "cost_high": 22000000,
-      "cost_display": "$18M - $22M",
-      "ad_date": "2026-02-01",
-      "let_date": "2026-02-28",
-      "project_type": "bridge",
-      "county": "Lackawanna",
+      "project_id": null,
+      "description": "PennDOT Bid Schedule - Visit portal for current lettings",
+      "cost_low": null,
+      "cost_high": null,
+      "cost_display": "See Portal",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
       "url": "https://www.penndot.pa.gov/business/Letting/Pages/default.aspx",
       "source": "PennDOT",
-      "business_lines": ["highway", "ready_mix"]
+      "business_lines": [
+        "highway"
+      ]
     },
     {
-      "id": "ri-2026-hwy-04",
+      "id": "b751e845e171",
+      "state": "VT",
+      "project_id": null,
+      "description": "VTrans Bid Schedule - Visit portal for current lettings",
+      "cost_low": null,
+      "cost_high": null,
+      "cost_display": "See Portal",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://vtrans.vermont.gov/contract-admin/bids-requests/construction-contracting",
+      "source": "VTrans",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bffd4869fd78",
+      "state": "NH",
+      "project_id": null,
+      "description": "NHDOT Bid Schedule - Visit portal for current lettings",
+      "cost_low": null,
+      "cost_high": null,
+      "cost_display": "See Portal",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://www.dot.nh.gov/doing-business-nhdot/contractors/invitation-bid",
+      "source": "NHDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "493fff7f8bb2",
+      "state": "NY",
+      "project_id": null,
+      "description": "NYSDOT Bid Schedule - Visit portal for current lettings",
+      "cost_low": null,
+      "cost_high": null,
+      "cost_display": "See Portal",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
+      "url": "https://www.dot.ny.gov/doing-business/opportunities/const-highway",
+      "source": "NYSDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5d023e61b162",
       "state": "RI",
-      "project_id": "2026-HWY-04",
-      "description": "Route 95 Resurfacing - Providence to Warwick",
-      "cost_low": 5500000,
-      "cost_high": 7000000,
-      "cost_display": "$5.5M - $7M",
-      "ad_date": "2026-02-10",
-      "let_date": "2026-03-01",
-      "project_type": "resurfacing",
-      "county": "Providence",
+      "project_id": null,
+      "description": "RIDOT Bid Schedule - Visit portal for current lettings",
+      "cost_low": null,
+      "cost_high": null,
+      "cost_display": "See Portal",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
       "url": "https://www.dot.ri.gov/about/current_projects.php",
       "source": "RIDOT",
-      "business_lines": ["highway", "hma"]
+      "business_lines": [
+        "highway"
+      ]
     },
     {
-      "id": "ct-0170-0398",
+      "id": "887c95445c9e",
       "state": "CT",
-      "project_id": "0170-0398",
-      "description": "I-84 Reconstruction - Waterbury Section",
-      "cost_low": 25000000,
-      "cost_high": 32000000,
-      "cost_display": "$25M - $32M",
-      "ad_date": "2026-02-08",
-      "let_date": "2026-03-10",
-      "project_type": "reconstruction",
-      "county": "New Haven",
+      "project_id": null,
+      "description": "CTDOT Bid Schedule - Visit portal for current lettings",
+      "cost_low": null,
+      "cost_high": null,
+      "cost_display": "See Portal",
+      "ad_date": null,
+      "let_date": null,
+      "project_type": null,
+      "county": null,
       "url": "https://portal.ct.gov/DOT/Doing-Business/Contractor-Information",
       "source": "CTDOT",
-      "business_lines": ["highway", "hma", "aggregates", "ready_mix"]
+      "business_lines": [
+        "highway"
+      ]
     }
   ],
   "news": [
     {
-      "id": "n-vtd-001",
-      "title": "VTrans Announces $45M Route 100 Infrastructure Package",
-      "summary": "Vermont Agency of Transportation releases major infrastructure investment plan for Route 100 corridor improvements through Waterbury, including resurfacing and drainage upgrades.",
-      "url": "https://vtdigger.org/2026/01/15/vtrans-route-100-infrastructure-package/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-01-15",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": ["highway", "hma"]
+      "id": "d13fcb696f60",
+      "title": "Thousands of fans celebrate life of legendary Grateful Dead guitarist Bob Weir in San Francisco",
+      "summary": "SAN FRANCISCO (AP) \u2014 Thousands of mourners gathered Saturday at San Francisco\u2019s Civic Center to celebrate the life of Bob Weir, the legendary guitarist and founding member of the Grateful Dead who died last week at age 78. Musicians Joan Baez and John Mayer spoke on a makeshift stage in front of the",
+      "url": "https://www.bangordailynews.com/2026/01/17/nation/thousands-of-fans-celebrate-life-of-legendary-grateful-dead-guitarist-bob-weir-in-san-francisco/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-01-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
     },
     {
-      "id": "n-ul-001",
-      "title": "NHDOT Releases $280M Ten-Year Transportation Plan",
-      "summary": "New Hampshire DOT unveils comprehensive transportation plan with major I-93 corridor investments through 2035, including widening projects and bridge replacements.",
-      "url": "https://www.unionleader.com/news/transportation/nhdot-280m-plan/",
+      "id": "95693a9c92e5",
+      "title": "DOT workers killed in I-95 crash loved their jobs, family, outdoors",
+      "summary": "James Brown and Dwayne Campbell were a part of a tight-knit community and loved their families.",
+      "url": "https://www.pressherald.com/2026/01/17/dot-workers-killed-in-i-95-crash-loved-their-jobs-family-outdoors/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6f2d5e8b4bf8",
+      "title": "Light snowfall expected Saturday throughout Maine",
+      "summary": "Drivers should plan on slippery road conditions.",
+      "url": "https://www.pressherald.com/2026/01/17/light-snowfall-expected-saturday-throughout-maine/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e22362458afe",
+      "title": "Why I\u2019m supporting Jordan Wood for Congress | Letter",
+      "summary": "The Maine native understands the affordability challenges facing the state's working families.",
+      "url": "https://www.pressherald.com/2026/01/17/why-im-supporting-jordan-wood-for-congress-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f61d8f7a3f20",
+      "title": "Portland\u2019s short-term rental restrictions are backfiring | Opinion",
+      "summary": "Intended to increase housing availability and affordability, the opposite is happening.",
+      "url": "https://www.pressherald.com/2026/01/17/portlands-short-term-rental-restrictions-are-backfiring-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c794d613738e",
+      "title": "Climate activist predicts high electricity prices and Trump\u2019s attacks on green energy will hurt GOP",
+      "summary": "RIPTON, Vermont (AP) \u2014 At a time when the Trump administration rolled back numerous environmental regulations while global temperatures and U.S. carbon pollution spiked, longtime climate activist Bill McKibben finds hope in something that didn\u2019t seem that strong on a recent single-digit-temperature",
+      "url": "https://www.bangordailynews.com/2026/01/17/nation/climate-activist-predicts-high-electricity-prices-and-trumps-attacks-on-green-energy-will-hurt-gop/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-01-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1ac8d9a64345",
+      "title": "How to watch Boston Bruins game today free",
+      "summary": "The Boston Bruins take their five-game winning streak on the road on Saturday, Jan. 17 to challenge the Chicago Blackhawks.",
+      "url": "https://www.masslive.com/tv/2026/01/how-to-watch-boston-bruins-game-today-free.html-7",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-01-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d9a1d3566ae0",
+      "title": "How to watch Boston Celtics game today free",
+      "summary": "The Boston Celtics are on the road on Saturday, Jan. 17, matched up against the Atlanta Hawks.",
+      "url": "https://www.masslive.com/tv/2026/01/how-to-watch-boston-celtics-game-today-free.html-6",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-01-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "308eed02882b",
+      "title": "Harvard club to pay back $2.4 million to settle pandemic loan fraud lawsuit",
+      "summary": "The club bills itself as a \u201csocial, intellectual and wellness hub for Harvard alumni.\u201d",
+      "url": "https://www.masslive.com/boston/2026/01/harvard-club-to-pay-back-24-million-to-settle-pandemic-loan-fraud-lawsuit.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-01-17",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "157e0ed7d15b",
+      "title": "Supreme Court to hear Bayer's bid to curb Roundup cases",
+      "summary": "The Supreme Court agreed on Friday to hear Bayer\u2019s bid to sharply limit lawsuits claiming that the company\u2019s Roundup weed killer causes cancer and potentially avert billions of dollars in damages.",
+      "url": "https://www.unionleader.com/news/business/supreme-court-to-hear-bayers-bid-to-curb-roundup-cases/article_1556fb90-8ae6-4342-bb1c-1703916f19fc.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-01-16",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bd3ff05586d7",
+      "title": "Why your power bill is spiking faster than a nearby data center\u2019s",
+      "summary": "Over the past few years, millions of Americans have seen their electricity bills skyrocket. Since February 2020, electricity prices have increased by an average of 40% across the country. In some areas, the rate is even faster \u2014 in Washington,\u2026",
+      "url": "https://www.unionleader.com/news/business/why-your-power-bill-is-spiking-faster-than-a-nearby-data-center-s/article_b3b9dbd0-c5bb-4b90-ad73-ae7fe97977fa.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-01-16",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6abc946b4c61",
+      "title": "State Police Investigate Crash Involving Conway Police Cruiser",
+      "summary": "At 7:14 p.m. on Monday, January 12, 2026, State Police dispatch received a report of a collision between a Conway Police Department cruiser and a privately-owned SUV on White Mountain Highway near Eastman Road in Conway.",
+      "url": "https://indepthnh.org/2026/01/14/state-police-investigate-crash-involving-conway-police-cruiser/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-01-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5106c3774fd7",
+      "title": "Push Is On To Bring Back Death Penalty in NH",
+      "summary": "Executions could make a comeback in the Granite State because of several bills introduced in the legislature aimed at overturning the 2019 death penalty repeal.",
+      "url": "https://indepthnh.org/2026/01/14/push-is-on-to-bring-back-death-penalty-in-nh/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-01-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b080433d8942",
+      "title": "Verizon's network down for tens of thousands of users in US, Downdetector shows",
+      "summary": "Telecom operator Verizon Communications' network was \u200ddown for tens of thousands \u200cof users in the U.S. on Wednesday, according to outage \u200dtracking website Downdetector.com.",
+      "url": "https://www.unionleader.com/news/business/verizons-network-down-for-tens-of-thousands-of-users-in-us-downdetector-shows/article_f818523b-c340-5b3b-aa4d-ca60936ee431.html",
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-01-14",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": ["highway", "hma", "aggregates"]
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
     },
     {
-      "id": "n-pph-001",
-      "title": "MaineDOT Postpones $60M in Highway Projects Due to Funding Delays",
-      "summary": "Federal funding uncertainty causes Maine DOT to delay several major highway projects originally scheduled for 2026 letting.",
-      "url": "https://www.pressherald.com/2026/01/14/mainedot-postpones-highway-projects/",
-      "source": "Portland Press Herald",
-      "state": "ME",
+      "id": "f4041c045c2a",
+      "title": "Bill To Require State Oversight On Carbon Sequestration Projects Opposed",
+      "summary": "A bill heard Wednesday that would require property owners enrolled in carbon sequestration programs to submit management plans to the state\u2019s Division of Forest and Lands and Fish and Game was called overreaching and an infringement on property rights.",
+      "url": "https://indepthnh.org/2026/01/14/bill-to-require-state-oversight-on-carbon-sequestration-projects-opposed/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-01-14",
       "category": "news",
       "priority": "high",
-      "business_lines": ["highway"]
+      "business_lines": [
+        "highway"
+      ]
     },
     {
-      "id": "n-bdn-001",
-      "title": "Portland Secures $25M Federal Grant for Waterfront Infrastructure",
-      "summary": "City of Portland receives major federal infrastructure grant for waterfront improvements including roadway reconstruction and utilities.",
-      "url": "https://bangordailynews.com/2026/01/13/portland-waterfront-grant/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-01-13",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": ["highway", "ready_mix"]
-    },
-    {
-      "id": "n-idnh-001",
-      "title": "Seacoast Region Announces $35M Wastewater Treatment Upgrade",
-      "summary": "Multi-town wastewater treatment facility upgrade program includes significant concrete and infrastructure work across seacoast communities.",
-      "url": "https://indepthnh.org/2026/01/12/seacoast-wastewater-upgrades/",
+      "id": "646f08b6f2be",
+      "title": "Bill To Fund Cyanobacteria Mitigation with Increased Mooring Fees Supported",
+      "summary": "Creating a dedicated cyanobacteria fund by charging $25 more for boat mooring fees was heard by a legislative committee Wednesday with no opposition.",
+      "url": "https://indepthnh.org/2026/01/14/bill-to-fund-cyanobacteria-mitigation-with-increased-mooring-fees-supported/",
       "source": "InDepthNH",
       "state": "NH",
-      "date": "2026-01-12",
+      "date": "2026-01-14",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": ["ready_mix"]
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
     },
     {
-      "id": "n-vn-001",
-      "title": "Upper Valley Bridge Project Moves Forward with State Funding",
-      "summary": "Vermont-New Hampshire bridge replacement project receives final state funding approval, construction to begin spring 2026.",
-      "url": "https://www.vnews.com/upper-valley-bridge-project/",
-      "source": "Valley News",
-      "state": "VT",
+      "id": "265da8bb75be",
+      "title": "Parents Spar in Testimony over Bill on \u2018Parental Alienation\u2019",
+      "summary": "Divorced parents and step-parents recounted personal horror stories Tuesday during testimony on a Republican-sponsored bill that makes \u201cparental alienation\u201d as important as child abuse in family court cases involving divorce and child custody.",
+      "url": "https://indepthnh.org/2026/01/13/parents-spar-in-testimony-over-bill-on-parental-alienation/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-01-13",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b40e2ab2aeec",
+      "title": "Preventing County and State Owned Land To Be Used for Carbon Capture Debated",
+      "summary": "Propelled by a change in historic timber cutting practices in the state brought on by the advent of carbon sequestration, a bill that would prohibit state- and county-owned lands from participating in such programs was heard Tuesday before the House Municipal and County Government Committee.",
+      "url": "https://indepthnh.org/2026/01/13/preventing-county-and-state-owned-land-to-be-used-for-carbon-capture-debated/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-01-13",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9fc53e02338c",
+      "title": "Plan NH announces free municipal memberships for 2026",
+      "summary": "In recognition of the countless partnerships forged through our Community Design Charrette Program, Plan NH is offering free membership to municipalities in 2026. Our long-standing Design Charrette Program has always centered around municipal collaboration, and offering free memberships is our\u2026",
+      "url": "https://www.unionleader.com/news/business/plan-nh-announces-free-municipal-memberships-for-2026/article_baf8f666-e4e6-4f82-8219-4517a18ae2ae.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-01-11",
       "category": "news",
       "priority": "medium",
-      "business_lines": ["highway", "ready_mix"]
+      "business_lines": [
+        "highway"
+      ]
     },
     {
-      "id": "n-ml-001",
-      "title": "MassDOT Awards $47M Contract for I-90 Improvements",
-      "summary": "Massachusetts DOT announces major contract award for Interstate 90 pavement and bridge improvements in western Massachusetts.",
-      "url": "https://www.masslive.com/news/2026/01/massdot-i90-contract-award/",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-01-10",
-      "category": "news",
-      "priority": "high",
-      "business_lines": ["highway", "hma"]
-    },
-    {
-      "id": "n-tu-001",
-      "title": "Albany County Approves $18M Road Improvement Program",
-      "summary": "County legislature approves comprehensive road improvement program targeting deteriorated local roads with resurfacing and reconstruction.",
-      "url": "https://www.timesunion.com/news/albany-road-program/",
-      "source": "Times Union",
-      "state": "NY",
-      "date": "2026-01-09",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": ["highway", "hma", "aggregates"]
-    },
-    {
-      "id": "n-pj-001",
-      "title": "RIDOT Accelerates I-95 Reconstruction Timeline",
-      "summary": "Rhode Island DOT announces accelerated timeline for major I-95 reconstruction project through Providence metropolitan area.",
-      "url": "https://www.providencejournal.com/story/news/ridot-i95-timeline/",
-      "source": "Providence Journal",
-      "state": "RI",
-      "date": "2026-01-08",
-      "category": "news",
-      "priority": "high",
-      "business_lines": ["highway", "hma", "aggregates"]
-    },
-    {
-      "id": "n-hc-001",
-      "title": "Connecticut DOT Releases 2026 Capital Program",
-      "summary": "CTDOT publishes annual capital program with $1.2B in highway and bridge investments planned for fiscal year 2026.",
-      "url": "https://www.courant.com/news/ctdot-capital-program/",
-      "source": "Hartford Courant",
-      "state": "CT",
-      "date": "2026-01-07",
+      "id": "3be5e0b1dec7",
+      "title": "BrightBridge Credit Union finalizes merger with Arrha Credit Union",
+      "summary": "BrightBridge Credit Union has officially finalized its merger with Arrha Credit Union. The newly merged credit union has expanded its footprint with 23 retail branches, combined assets of nearly $2.4 billion and approximately 125,000 members.",
+      "url": "https://www.unionleader.com/news/business/brightbridge-credit-union-finalizes-merger-with-arrha-credit-union/article_a816291a-3828-40a0-8a07-b320fa4d8300.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-01-11",
       "category": "funding",
       "priority": "high",
-      "business_lines": ["highway", "hma", "aggregates", "ready_mix"]
+      "business_lines": [
+        "highway"
+      ]
     }
   ],
   "market_health": {
-    "overall_score": 6.4,
-    "overall_status": "stable",
     "dot_pipeline": {
       "score": 8.2,
       "trend": "up",
@@ -367,7 +477,9 @@
     "infrastructure_funding": {
       "score": 7.8,
       "trend": "stable",
-      "action": "Selective growth"
-    }
+      "action": "Major expansion"
+    },
+    "overall_score": 7.0,
+    "overall_status": "stable"
   }
 }
