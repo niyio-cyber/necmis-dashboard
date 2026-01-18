@@ -1,20 +1,36 @@
+# NECMIS GitHub Actions Workflow
+# Updated: Phase 2.2 - MA + ME Parsers
+#
+# Changes from previous version:
+# - Added pandas, xlrd, openpyxl for ME Excel parsing
+
 name: NECMIS Daily Scraper
 
 on:
   schedule:
+    # PRD Requirement #4: Daily at 6 AM EST = 11:00 UTC
     - cron: '0 11 * * *'
+  
   workflow_dispatch:
+    # Allow manual trigger from Actions tab
+  
+  push:
+    branches:
+      - main
+    paths:
+      - 'scraper.py'
+      - '.github/workflows/scraper.yml'
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    
     permissions:
       contents: write
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -22,15 +38,35 @@ jobs:
           python-version: '3.11'
       
       - name: Install dependencies
-        run: pip install requests feedparser beautifulsoup4
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests feedparser beautifulsoup4 pandas xlrd openpyxl
       
       - name: Run NECMIS scraper
-        run: python scraper.py
+        run: |
+          echo "Starting NECMIS scraper at $(date)"
+          python scraper.py
+          echo "Scraper completed at $(date)"
+      
+      - name: Verify output
+        run: |
+          echo "Checking output file..."
+          if [ -f "data/necmis_data.json" ]; then
+            echo "✓ Output file exists"
+            echo "File size: $(wc -c < data/necmis_data.json) bytes"
+            echo "Line count: $(wc -l < data/necmis_data.json) lines"
+            echo ""
+            echo "Preview (first 50 lines):"
+            head -50 data/necmis_data.json
+          else
+            echo "✗ Output file not found!"
+            exit 1
+          fi
       
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "NECMIS Bot"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add data/necmis_data.json
-          git diff --staged --quiet || git commit -m "Auto-update: $(date -u '+%Y-%m-%d %H:%M')"
-          git push --force-with-lease || git pull --rebase && git push
+          git diff --staged --quiet || git commit -m "Update NECMIS data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
