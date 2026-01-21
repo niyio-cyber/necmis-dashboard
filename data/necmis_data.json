@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-20T11:42:37.710216Z",
+  "generated": "2026-01-21T11:43:46.187172Z",
   "summary": {
     "total_opportunities": 34,
     "total_value_low": 209260596,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 2,
       "NH": 5,
-      "ME": 2,
-      "MA": 26,
+      "ME": 3,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -642,27 +642,27 @@
   ],
   "news": [
     {
-      "id": "ac153789faee",
-      "title": "Bangor police investigate property manager\u00a0who reportedly owes landlords thousands",
-      "summary": "It represents a major development in the effort by clients to recoup money from Roland \"Chip\" Foss, who shuttered his company last year.",
-      "url": "https://www.bangordailynews.com/2026/01/20/mainefocus/mainefocus-police-courts/bangor-police-investigate-property-manager-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "c6e3ff59609d",
+      "title": "Mainers should be permitted to drive Japanese vehicles | Letter",
+      "summary": "With the ballooning cost of cars, one of the few options for affordable motor vehicles open to us working class folks are imported JDMs (Japanese Domestic Market). These vehicles can be legally imported, as many of them are 25 years or older, yet the state of Maine has made it impossible to import t",
+      "url": "https://www.pressherald.com/2026/01/21/mainers-should-be-permitted-to-drive-japanese-vehicles-letter/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-01-20",
+      "date": "2026-01-21",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "aggregates"
+        "highway"
       ]
     },
     {
-      "id": "b001bd51017f",
-      "title": "Celtics road trip sends crucial trade deadline message to Brad Stevens",
-      "summary": "The Celtics held their own yet again against a contender on Monday night in Detroit.",
-      "url": "https://www.masslive.com/celtics/2026/01/celtics-road-trip-sends-crucial-trade-deadline-message-to-brad-stevens.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-01-20",
+      "id": "73ed8d5f09df",
+      "title": "One year in, Trump\u2019s Maine supporters say he\u2019s \u2018doing a great job\u2019",
+      "summary": "President Trump has brought a flurry of broad-reaching changes since taking office one year ago, and they've been largely welcomed by Republican voters.",
+      "url": "https://www.pressherald.com/2026/01/21/one-year-in-trumps-maine-supporters-say-hes-doing-a-great-job/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-21",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -671,8 +671,8 @@
     },
     {
       "id": "c2c18dd62dbf",
-      "title": "After three decades of work, Randolph housing organization to shutter",
-      "summary": "The Randolph Area Community Development Corporation announced it will dissolve over the course of 2026, citing dwindling federal funding and project pipeline issues.\nRead the story on VTDigger here:  After three decades of work, Randolph housing organization to shutter.",
+      "title": "After 3 decades of work, Randolph housing organization to shutter",
+      "summary": "The Randolph Area Community Development Corporation announced it will dissolve over the course of 2026, citing dwindling federal funding and project pipeline issues.\nRead the story on VTDigger here:  After 3 decades of work, Randolph housing organization to shutter.",
       "url": "https://vtdigger.org/2026/01/19/after-three-decades-of-work-randolph-housing-organization-to-shutter/",
       "source": "VTDigger",
       "state": "VT",
