@@ -1,23 +1,23 @@
 {
-  "generated": "2026-01-23T11:39:20.414141Z",
+  "generated": "2026-01-24T11:30:23.110762Z",
   "summary": {
-    "total_opportunities": 32,
-    "total_value_low": 207824906,
-    "total_value_high": 207824906,
+    "total_opportunities": 36,
+    "total_value_low": 222617581,
+    "total_value_high": 222617581,
     "by_state": {
       "VT": 3,
-      "NH": 5,
+      "NH": 4,
       "ME": 6,
-      "MA": 25,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 30,
-      "news": 11,
-      "funding": 2
+      "dot_letting": 33,
+      "news": 7,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -330,6 +330,44 @@
       ]
     },
     {
+      "id": "90c34c080f66",
+      "state": "MA",
+      "project_id": "614092",
+      "description": "Scheduled And Emergency Traffic Signal Repairs and Improvements at Various Locations",
+      "cost_low": 2334825,
+      "cost_high": 2334825,
+      "cost_display": "$2.3M",
+      "ad_date": "2026-01-24",
+      "let_date": null,
+      "project_type": "Traffic Signals",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614092",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "513abdee884b",
+      "state": "MA",
+      "project_id": "607342",
+      "description": "Intersection Improvements at Route 28 (Randolph Avenue) & Chickatawbut Road",
+      "cost_low": 10460000,
+      "cost_high": 10460000,
+      "cost_display": "$10.5M",
+      "ad_date": "2026-01-24",
+      "let_date": null,
+      "project_type": "Highway Construction",
+      "location": "Milton",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=607342",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "6abbbc16961e",
       "state": "MA",
       "project_id": "609409",
@@ -426,6 +464,25 @@
       "business_lines": [
         "highway",
         "hma"
+      ]
+    },
+    {
+      "id": "6c9295a9e87d",
+      "state": "MA",
+      "project_id": "614066",
+      "description": "Roadside Barrier Reconstruction & Repair at Various Locations",
+      "cost_low": 1997850,
+      "cost_high": 1997850,
+      "cost_display": "$2.0M",
+      "ad_date": "2026-01-24",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614066",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -604,13 +661,13 @@
   ],
   "news": [
     {
-      "id": "88a850b63bc4",
-      "title": "Obituary: Orella P. Milliard",
-      "summary": "BIDDEFORD - Orella P. Milliard, 97, of Biddeford, passed away peacefully on Monday, Jan. 19, 2026, at St. Andre\u2019s Health Care ...",
-      "url": "https://www.pressherald.com/2026/01/23/obituaryorella-p-milliard-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-01-23",
+      "id": "2beebd6d9f9a",
+      "title": "Dan Petherbridge: Stop treating camps like a cash cow",
+      "summary": "Second homes already pay more, and squeezing them further won\u2019t solve Vermont\u2019s education crisis.\nRead the story on VTDigger here:  Dan Petherbridge: Stop treating camps like a cash cow.",
+      "url": "https://vtdigger.org/2026/01/23/dan-petherbridge-stop-treating-camps-like-a-cash-cow/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-01-24",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -618,13 +675,13 @@
       ]
     },
     {
-      "id": "4f335cad80c7",
-      "title": "Obituary: Dr. Thomas J. Trott",
-      "summary": "BIDDEFORD - Dr. Thomas J. Trott, noted benthic ecologist, passed away on Tuesday, Jan. 13, 2026, at his home in Biddeford, ...",
-      "url": "https://www.pressherald.com/2026/01/23/obituarydr-thomas-j-trott-2/",
+      "id": "8b6528f42952",
+      "title": "We need to refresh our rhetoric when it comes to Trump | Letter",
+      "summary": "I am getting tired of two phrases being used by and about the Trump administration. The first phrase is \u201cweaponizing the Department of Justice.\u201d Remember when Trump accused the Biden administration of \u201cweaponizing the DOJ\u201d against him, especially concerning the Jan. 6, 2021\u00a0attack on the Capitol?\u00a0I",
+      "url": "https://www.pressherald.com/2026/01/24/we-need-to-refresh-our-rhetoric-when-it-comes-to-trump-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-01-23",
+      "date": "2026-01-24",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -632,13 +689,27 @@
       ]
     },
     {
-      "id": "88745d033278",
-      "title": "Death Notice: Orella P. Milliard",
-      "summary": "Milliard, Orella P. 97, of Biddeford, Jan. 19. Visitation, 11 a.m. to 1 p.m. with a funeral service at 1 p.m., ...",
-      "url": "https://www.pressherald.com/2026/01/23/obituaryorella-p-milliard/",
+      "id": "bd45d235512e",
+      "title": "Power belongs with voters, not Planning Board, on Portland tower | Letter",
+      "summary": "An op-ed by Robert Kahn opposing the construction of a 30-story building in the Old Port (\u201cProposed tower does not match Portland\u2019s character or identity,\u201d Oct. 18) stopped short of suggesting how Portland Planning Board approval of this project may be withheld. First, I would note that Mr. Kahn\u2019s v",
+      "url": "https://www.pressherald.com/2026/01/24/power-belongs-with-voters-not-planning-board-on-portland-tower-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-01-23",
+      "date": "2026-01-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1e6a870cff79",
+      "title": "Obituary: Keith Aaron Sweezey",
+      "summary": "BIDDEFORD - It is with heavy hearts that our family announces the passing of Keith Aaron Sweezey. The Lord brought him ...",
+      "url": "https://www.pressherald.com/2026/01/24/obituarykeith-aaron-sweezey-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-24",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -646,13 +717,13 @@
       ]
     },
     {
-      "id": "06323ec2f87e",
-      "title": "Death Notice: Dr. Thomas J. Trott",
-      "summary": "Trott, Dr. Thomas J. 71, of Biddeford, Jan. 13. Funeral, Most Holy Trinity Church, Saco, Jan. 30, 1 p.m. ...",
-      "url": "https://www.pressherald.com/2026/01/23/obituarydr-thomas-j-trott/",
+      "id": "c2320ffe7ad6",
+      "title": "Death Notice: Keith Aaron Sweezey",
+      "summary": "Sweezey, Keith Aaron 35, of Biddeford, Jan. 18. Celebration at a later date. ...",
+      "url": "https://www.pressherald.com/2026/01/24/obituarykeith-aaron-sweezey/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-01-23",
+      "date": "2026-01-24",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -660,42 +731,14 @@
       ]
     },
     {
-      "id": "54ad4369b0b7",
-      "title": "Texas and Oklahoma brace for snow and ice as winter storm barrels toward eastern two-thirds of US",
-      "summary": "DALLAS (AP) \u2014 Texas and Oklahoma braced for heavy snow and ice that could make roadways treacherous Friday in what forecasters predict will be some of the initial effects of a huge, dayslong winter storm threatening catastrophic damage, extensive power outages and bitterly cold weather to the easter",
-      "url": "https://www.bangordailynews.com/2026/01/23/nation/texas-and-oklahoma-brace-for-snow-and-ice-as-winter-storm-barrels-toward-eastern-two-thirds-of-us/",
+      "id": "95e42682dec8",
+      "title": "Over 8,000 flights canceled as major winter storm bears down across much of the US",
+      "summary": "DALLAS (AP) \u2014 More than 8,000 flights across the U.S. set to take off over the weekend have been canceled as a major storm expected to wreak havoc across much of the country bears down, threatening to knock out power for days and snarl major roadways. Roughly 140 million people were under a winter s",
+      "url": "https://www.bangordailynews.com/2026/01/24/nation/over-8000-flights-canceled-as-major-winter-storm-bears-down-across-much-of-the-us/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-01-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f88eb1625614",
-      "title": "Crepes Tea House owner back in front of Planning Board",
-      "summary": "Before the Southwick Planning Board tackled a request by Art Ribinskas, the owner of Crepes Tea House, to continue outdoor cooking once a week at his restaurant on Feeding Hill Road, he had to answer why there had been two complaints about it over the last few months.",
-      "url": "https://www.masslive.com/westfieldnews/2026/01/crepes-tea-house-owner-back-in-front-of-planning-board.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-01-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "848b5e344829",
-      "title": "A year after snow plowing debacle, Worcester hopes to dig out of bad reputation",
-      "summary": "With a major storm coming, some residents are concerned whether the DPW can clear the roads efficiently.",
-      "url": "https://www.masslive.com/worcester/2026/01/a-year-after-snow-plowing-debacle-worcester-hopes-to-dig-out-of-bad-reputation.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-01-23",
-      "category": "news",
+      "date": "2026-01-24",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -710,20 +753,6 @@
       "state": "VT",
       "date": "2026-01-22",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d21f731b7034",
-      "title": "Norwich University appoints new provost",
-      "summary": "Lea Williams has previously served as the university\u2019s faculty development coordinator and a department chair. \nRead the story on VTDigger here:  Norwich University appoints new provost.",
-      "url": "https://vtdigger.org/2026/01/21/norwich-university-appoints-new-provost/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-01-21",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -753,20 +782,6 @@
       "date": "2026-01-19",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "34ac4a8dd1cd",
-      "title": "Expats and Tourists Join To Denounce ICE in Mexican City",
-      "summary": "Under Article 33 of the Mexican constitution, foreigners can\u2019t meddle in Mexican politics, but they otherwise are entitled to human rights, including freedom of expression.\u00a0 Democrats Abroad has held sidewalk protests and rallies before.",
-      "url": "https://indepthnh.org/2026/01/18/expats-and-tourists-join-to-denounce-ice-in-mexican-city/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-01-19",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
