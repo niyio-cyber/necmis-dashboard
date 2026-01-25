@@ -1,7 +1,7 @@
 {
-  "generated": "2026-01-24T11:30:23.110762Z",
+  "generated": "2026-01-25T11:30:42.253232Z",
   "summary": {
-    "total_opportunities": 36,
+    "total_opportunities": 35,
     "total_value_low": 222617581,
     "total_value_high": 222617581,
     "by_state": {
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 7,
-      "funding": 3
+      "news": 8,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -661,6 +661,76 @@
   ],
   "news": [
     {
+      "id": "9308827e4097",
+      "title": "Obituary: Robert C. Peary Jr.",
+      "summary": "SCARBOROUGH - Robert C. Peary Jr. \u201cBobby\u201d, 77, of Black Point Road, passed away on Jan. 16, 2026, at Maine Medical ...",
+      "url": "https://www.pressherald.com/2026/01/25/obituaryrobert-c-peary-jr-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-25",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a354a8f1967d",
+      "title": "Obituary: Doris Paulette Denison",
+      "summary": "SACO - Doris Paulette Denison of Saco, passed away on Christmas Eve of 2025.\n\nShe was born and raised in Biddeford to ...",
+      "url": "https://www.pressherald.com/2026/01/25/obituarydoris-paulette-denison-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-25",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9d802877c395",
+      "title": "Obituary: Peter Boroyan",
+      "summary": "SCARBOROUGH - Peter Boroyan, 86, died Wednesday, Jan. 21, 2026, at Maine Medical Center in Portland.\n\nBorn May 15, 1939, in Cambridge, ...",
+      "url": "https://www.pressherald.com/2026/01/25/obituarypeter-boroyan-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-25",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2a5d67b0f700",
+      "title": "Death Notice: Doris Paulette Denison",
+      "summary": "Denison, Doris Paulette 78, of Saco, Dec. 24, 2025. Service 3 p.m., Feb. 6, Hope Memorial Chapel, Biddeford. ...",
+      "url": "https://www.pressherald.com/2026/01/25/obituarydoris-paulette-denison/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-01-25",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3276b1e01cc0",
+      "title": "From frigid quiet to outraged sorrow, a few hours on Minneapolis street where agents killed man",
+      "summary": "MINNEAPOLIS (AP) \u2014 Saturday morning started frigid and quiet on Minneapolis\u2019 \u201cEat Street,\u201d a stretch of road south of downtown famous for its small coffee shops and restaurants ranging from New American to Vietnamese. Within five hours, seemingly everything had changed. A protester was dead. Videos",
+      "url": "https://www.bangordailynews.com/2026/01/24/nation/from-frigid-quiet-to-outraged-sorrow-a-few-hours-on-minneapolis-street-where-agents-killed-man/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-01-25",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "2beebd6d9f9a",
       "title": "Dan Petherbridge: Stop treating camps like a cash cow",
       "summary": "Second homes already pay more, and squeezing them further won\u2019t solve Vermont\u2019s education crisis.\nRead the story on VTDigger here:  Dan Petherbridge: Stop treating camps like a cash cow.",
@@ -670,76 +740,6 @@
       "date": "2026-01-24",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8b6528f42952",
-      "title": "We need to refresh our rhetoric when it comes to Trump | Letter",
-      "summary": "I am getting tired of two phrases being used by and about the Trump administration. The first phrase is \u201cweaponizing the Department of Justice.\u201d Remember when Trump accused the Biden administration of \u201cweaponizing the DOJ\u201d against him, especially concerning the Jan. 6, 2021\u00a0attack on the Capitol?\u00a0I",
-      "url": "https://www.pressherald.com/2026/01/24/we-need-to-refresh-our-rhetoric-when-it-comes-to-trump-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-01-24",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bd45d235512e",
-      "title": "Power belongs with voters, not Planning Board, on Portland tower | Letter",
-      "summary": "An op-ed by Robert Kahn opposing the construction of a 30-story building in the Old Port (\u201cProposed tower does not match Portland\u2019s character or identity,\u201d Oct. 18) stopped short of suggesting how Portland Planning Board approval of this project may be withheld. First, I would note that Mr. Kahn\u2019s v",
-      "url": "https://www.pressherald.com/2026/01/24/power-belongs-with-voters-not-planning-board-on-portland-tower-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-01-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1e6a870cff79",
-      "title": "Obituary: Keith Aaron Sweezey",
-      "summary": "BIDDEFORD - It is with heavy hearts that our family announces the passing of Keith Aaron Sweezey. The Lord brought him ...",
-      "url": "https://www.pressherald.com/2026/01/24/obituarykeith-aaron-sweezey-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-01-24",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c2320ffe7ad6",
-      "title": "Death Notice: Keith Aaron Sweezey",
-      "summary": "Sweezey, Keith Aaron 35, of Biddeford, Jan. 18. Celebration at a later date. ...",
-      "url": "https://www.pressherald.com/2026/01/24/obituarykeith-aaron-sweezey/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-01-24",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "95e42682dec8",
-      "title": "Over 8,000 flights canceled as major winter storm bears down across much of the US",
-      "summary": "DALLAS (AP) \u2014 More than 8,000 flights across the U.S. set to take off over the weekend have been canceled as a major storm expected to wreak havoc across much of the country bears down, threatening to knock out power for days and snarl major roadways. Roughly 140 million people were under a winter s",
-      "url": "https://www.bangordailynews.com/2026/01/24/nation/over-8000-flights-canceled-as-major-winter-storm-bears-down-across-much-of-the-us/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-01-24",
-      "category": "funding",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
