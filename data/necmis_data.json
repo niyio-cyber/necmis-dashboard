@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-26T11:38:47.773056Z",
+  "generated": "2026-01-27T11:42:13.781068Z",
   "summary": {
-    "total_opportunities": 36,
+    "total_opportunities": 33,
     "total_value_low": 222617581,
     "total_value_high": 222617581,
     "by_state": {
-      "VT": 3,
+      "VT": 2,
       "NH": 4,
-      "ME": 4,
-      "MA": 26,
+      "ME": 1,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 33,
       "news": 5,
-      "funding": 3
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -661,28 +661,13 @@
   ],
   "news": [
     {
-      "id": "b1ff9b4f21ab",
-      "title": "Maine must continue to support public broadcasting | Letter",
-      "summary": "On Friday, Jan. 9, the moderators of PBS NewsHour ended their broadcast with the\u00a0 announcement that \u2014 because of the fiscal crisis created by the Trump administration\u2019s defunding of the Corporation For Public Broadcasting \u2014 PBS News Weekend would have to be discontinued. The regret voiced by Geoff B",
-      "url": "https://www.pressherald.com/2026/01/25/maine-must-continue-to-support-public-broadcasting-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-01-26",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "7a6ffd6a035a",
-      "title": "Northeast gets last brunt of winter storm that brought ice, snow, cold to much of the US",
-      "summary": "The U.S. work week opened with yet more snow dumping on the Northeast under the tail end of a colossal winter storm that brought ice and power outages, impassable roads, canceled flights and frigid cold to much of the southern and eastern United States. Deep snow \u2014 over a foot (30 centimeters) exten",
-      "url": "https://www.bangordailynews.com/2026/01/26/nation/northeast-gets-last-brunt-of-winter-storm-that-brought-ice-snow-cold-to-much-of-the-us/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-01-26",
+      "id": "ac94100f5241",
+      "title": "Planning Board to discuss Master Plan recommendation to temporarily limit new development",
+      "summary": "While the chair of Southwick's Planning Board threw cold water on a Master Plan recommendation to limit new developments while the town\u2019s zoning regulations are being updated, she agreed to talking more about it.",
+      "url": "https://www.masslive.com/westfieldnews/2026/01/planning-board-to-discuss-master-plan-recommendation-to-temporarily-limit-new-development.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-01-27",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -690,17 +675,17 @@
       ]
     },
     {
-      "id": "1d3871ecdb92",
-      "title": "Emergency bill to let towns, counties file for bankruptcy protection garners little support",
-      "summary": "The Maine County Commissioners Association and the Maine Municipal Association testified against the bill Wednesday, citing concerns that interest rates could rise if banks get nervous about lending.",
-      "url": "https://www.pressherald.com/2026/01/25/emergency-bill-to-let-towns-counties-file-for-bankruptcy-protection-garners-little-support/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-01-25",
+      "id": "c79a456c8fe6",
+      "title": "NHMA: Statewide Zoning Mandates Didn\u2019t Help NH\u2019s Housing Crisis",
+      "summary": "Statewide zoning mandates enacted in 2025 did little to address housing affordability and risked undermining the local decision-making that is central to New Hampshire\u2019s identity, according to a whitepaper by the New Hampshire Municipal Association.",
+      "url": "https://indepthnh.org/2026/01/26/nhma-statewide-zoning-mandates-didnt-help-nhs-housing-crisis/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-01-26",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "highway"
+        "hma"
       ]
     },
     {
@@ -713,20 +698,6 @@
       "date": "2026-01-24",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cdb9dd62a527",
-      "title": "Economic development leader denies embezzling as court records reveal new details of probe",
-      "summary": "Melissa Bounty was charged with stealing more than $70,000 from the Central Vermont Economic Development Corporation to pay for personal expenses, such as buying meals at restaurants and renting luxury vehicles.\nRead the story on VTDigger here:  Economic development leader denies embezzling as cour",
-      "url": "https://vtdigger.org/2026/01/22/economic-development-leader-denies-embezzling-as-court-records-reveal-new-details-of-probe/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-01-22",
-      "category": "funding",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -754,20 +725,6 @@
       "state": "NH",
       "date": "2026-01-19",
       "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "157e0ed7d15b",
-      "title": "Supreme Court to hear Bayer's bid to curb Roundup cases",
-      "summary": "The Supreme Court agreed on Friday to hear Bayer\u2019s bid to sharply limit lawsuits claiming that the company\u2019s Roundup weed killer causes cancer and potentially avert billions of dollars in damages.",
-      "url": "https://www.unionleader.com/news/business/supreme-court-to-hear-bayers-bid-to-curb-roundup-cases/article_1556fb90-8ae6-4342-bb1c-1703916f19fc.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-01-16",
-      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
