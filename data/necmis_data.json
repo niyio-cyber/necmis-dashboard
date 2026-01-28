@@ -1,141 +1,26 @@
 {
-  "generated": "2026-01-27T11:42:13.781068Z",
+  "generated": "2026-01-28T11:41:28.042756Z",
   "summary": {
-    "total_opportunities": 33,
-    "total_value_low": 222617581,
-    "total_value_high": 222617581,
+    "total_opportunities": 27,
+    "total_value_low": 214080098,
+    "total_value_high": 214080098,
     "by_state": {
-      "VT": 2,
+      "VT": 1,
       "NH": 4,
       "ME": 1,
-      "MA": 27,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 33,
+      "dot_letting": 27,
       "news": 5,
       "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "3100593790d2",
-      "state": "MA",
-      "project_id": "609531",
-      "description": "Stratton School Improvements (SRTS)",
-      "cost_low": 1841317,
-      "cost_high": 1841317,
-      "cost_display": "$1.8M",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Highway - Construction , Highway - Sidewalk And Curbing",
-      "location": "Arlington",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609531",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "95829d6503fb",
-      "state": "MA",
-      "project_id": "614139",
-      "description": "Bridge Shielding and Shoring Towers at Various Locations",
-      "cost_low": 345452,
-      "cost_high": 345452,
-      "cost_display": "$345K",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "District 2",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614139",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a31c291b51cc",
-      "state": "MA",
-      "project_id": "614113",
-      "description": "Crack Sealing at Various Locations",
-      "cost_low": 929902,
-      "cost_high": 929902,
-      "cost_display": "$930K",
-      "ad_date": "2025-12-20",
-      "let_date": null,
-      "project_type": "Crack Sealing",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614113",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "73cafc9fd11c",
-      "state": "MA",
-      "project_id": "614100",
-      "description": "Bridge Drainage Cleaning and Related Work at Various Locations",
-      "cost_low": 879250,
-      "cost_high": 879250,
-      "cost_display": "$879K",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Painting - Structural",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614100",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "74c8dfecdfa0",
-      "state": "MA",
-      "project_id": "614112",
-      "description": "Scheduled and Emergency Guardrail and Fence Repairs and Improvements at Various Locations",
-      "cost_low": 2778147,
-      "cost_high": 2778147,
-      "cost_display": "$2.8M",
-      "ad_date": "2026-01-03",
-      "let_date": null,
-      "project_type": "Guard Rail & Fencing",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614112",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "443cd24b7082",
-      "state": "MA",
-      "project_id": "614088",
-      "description": "Scheduled and Emergency Steel and Concrete Beam Repairs at Various Locations",
-      "cost_low": 1763415,
-      "cost_high": 1763415,
-      "cost_display": "$1.8M",
-      "ad_date": "2025-12-20",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "District 5",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614088",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
     {
       "id": "9de24d51a0c6",
       "state": "MA",
@@ -661,15 +546,29 @@
   ],
   "news": [
     {
-      "id": "ac94100f5241",
-      "title": "Planning Board to discuss Master Plan recommendation to temporarily limit new development",
-      "summary": "While the chair of Southwick's Planning Board threw cold water on a Master Plan recommendation to limit new developments while the town\u2019s zoning regulations are being updated, she agreed to talking more about it.",
-      "url": "https://www.masslive.com/westfieldnews/2026/01/planning-board-to-discuss-master-plan-recommendation-to-temporarily-limit-new-development.html",
+      "id": "f97c328f2586",
+      "title": "Southwick snow removal costs continue to climb",
+      "summary": "After four snow events this winter, it\u2019s clear when Southwick's Town Meeting convenes in May it will have to dip into free cash to pay off the deficit spending the town is incurring to keep the town\u2019s roads and streets clear.",
+      "url": "https://www.masslive.com/westfieldnews/2026/01/southwick-snow-removal-costs-continue-to-climb.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "86cf258e28c6",
+      "title": "Revolutionary War icon to get his due at Central Mass. events 250 years after heroic act",
+      "summary": "Revolutionary war cannons, militia men and animals will all be present in Sturbridge and Worcester this weekend for the two celebrations.",
+      "url": "https://www.masslive.com/destinations/2026/01/revolutionary-war-icon-to-get-his-due-at-central-mass-events-250-years-after-heroic-act.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-01-28",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -686,20 +585,6 @@
       "priority": "medium",
       "business_lines": [
         "hma"
-      ]
-    },
-    {
-      "id": "2beebd6d9f9a",
-      "title": "Dan Petherbridge: Stop treating camps like a cash cow",
-      "summary": "Second homes already pay more, and squeezing them further won\u2019t solve Vermont\u2019s education crisis.\nRead the story on VTDigger here:  Dan Petherbridge: Stop treating camps like a cash cow.",
-      "url": "https://vtdigger.org/2026/01/23/dan-petherbridge-stop-treating-camps-like-a-cash-cow/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-01-24",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
       ]
     },
     {
