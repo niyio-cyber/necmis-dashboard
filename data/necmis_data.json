@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-28T11:41:28.042756Z",
+  "generated": "2026-01-29T11:56:31.996914Z",
   "summary": {
-    "total_opportunities": 27,
+    "total_opportunities": 28,
     "total_value_low": 214080098,
     "total_value_high": 214080098,
     "by_state": {
-      "VT": 1,
+      "VT": 2,
       "NH": 4,
-      "ME": 1,
-      "MA": 22,
+      "ME": 2,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 5,
-      "funding": 0
+      "news": 4,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -546,26 +546,26 @@
   ],
   "news": [
     {
-      "id": "f97c328f2586",
-      "title": "Southwick snow removal costs continue to climb",
-      "summary": "After four snow events this winter, it\u2019s clear when Southwick's Town Meeting convenes in May it will have to dip into free cash to pay off the deficit spending the town is incurring to keep the town\u2019s roads and streets clear.",
-      "url": "https://www.masslive.com/westfieldnews/2026/01/southwick-snow-removal-costs-continue-to-climb.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-01-28",
-      "category": "news",
-      "priority": "medium",
+      "id": "32dbcab9bc47",
+      "title": "FBI raid in Georgia highlights Trump\u2019s 2020 election obsession and hints at possible future actions",
+      "summary": "DENVER (AP) \u2014 Donald Trump lost his bid for reelection in 2020. But for more than five years, he\u2019s been trying to convince Americans the opposite is true by falsely saying the election was marred by widespread fraud. Now that he\u2019s president again, Trump is pushing the federal government to back up t",
+      "url": "https://www.bangordailynews.com/2026/01/29/nation/fbi-raid-in-georgia-highlights-trumps-2020-election-obsession-and-hints-at-possible-future-actions/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-01-29",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "86cf258e28c6",
-      "title": "Revolutionary War icon to get his due at Central Mass. events 250 years after heroic act",
-      "summary": "Revolutionary war cannons, militia men and animals will all be present in Sturbridge and Worcester this weekend for the two celebrations.",
-      "url": "https://www.masslive.com/destinations/2026/01/revolutionary-war-icon-to-get-his-due-at-central-mass-events-250-years-after-heroic-act.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "da3abd05d361",
+      "title": "Esther Charlestin, Gov. Scott challenger in 2024, launches lieutenant governor bid",
+      "summary": "Charlestin is the third Democrat to throw their hat in the ring for this year\u2019s race for the state\u2019s second-highest office.\nRead the story on VTDigger here:  Esther Charlestin, Gov. Scott challenger in 2024, launches lieutenant governor bid.",
+      "url": "https://vtdigger.org/2026/01/28/esther-charlestin-gov-scott-challenger-in-2024-launches-lieutenant-governor-bid/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-01-28",
       "category": "news",
       "priority": "high",
