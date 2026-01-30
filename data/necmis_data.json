@@ -1,13 +1,13 @@
 {
-  "generated": "2026-01-29T11:56:31.996914Z",
+  "generated": "2026-01-30T11:54:07.841636Z",
   "summary": {
-    "total_opportunities": 28,
-    "total_value_low": 214080098,
-    "total_value_high": 214080098,
+    "total_opportunities": 27,
+    "total_value_low": 214190548,
+    "total_value_high": 214190548,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 4,
-      "ME": 2,
+      "ME": 1,
       "MA": 20,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 4,
-      "funding": 1
+      "news": 5,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -375,9 +375,9 @@
       "state": "MA",
       "project_id": "86461",
       "description": "Superstructure Replacement, L-12-002, Concord Road (Route 126) over MBTA/CSX Railroad",
-      "cost_low": 13028888,
-      "cost_high": 13028888,
-      "cost_display": "$13.0M",
+      "cost_low": 13139338,
+      "cost_high": 13139338,
+      "cost_display": "$13.1M",
       "ad_date": "2025-09-13",
       "let_date": null,
       "project_type": "Bridge - Construction",
@@ -546,15 +546,29 @@
   ],
   "news": [
     {
-      "id": "32dbcab9bc47",
-      "title": "FBI raid in Georgia highlights Trump\u2019s 2020 election obsession and hints at possible future actions",
-      "summary": "DENVER (AP) \u2014 Donald Trump lost his bid for reelection in 2020. But for more than five years, he\u2019s been trying to convince Americans the opposite is true by falsely saying the election was marred by widespread fraud. Now that he\u2019s president again, Trump is pushing the federal government to back up t",
-      "url": "https://www.bangordailynews.com/2026/01/29/nation/fbi-raid-in-georgia-highlights-trumps-2020-election-obsession-and-hints-at-possible-future-actions/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "a6f2b5612f0e",
+      "title": "A \u2018top priority in this building\u2019: Senate health committee seeks to broaden access to primary care",
+      "summary": "An expansive bill seeks to change the way patients access primary care by changing the ways the state pays for it.\nRead the story on VTDigger here:  A \u2018top priority in this building\u2019: Senate health committee seeks to broaden access to primary care.",
+      "url": "https://vtdigger.org/2026/01/29/a-top-priority-in-this-building-senate-health-committee-seeks-to-broaden-access-to-primary-care/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-01-29",
-      "category": "funding",
-      "priority": "high",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0d77125e8f1a",
+      "title": "Senate Approves Open School Enrollment; Kills Or Modifies Bills Related To Municipalities",
+      "summary": "Republicans dispatched efforts by Senate Democrats to create enabling legislation for municipal governments to have tourists pay more for their local impacts with fees, nixed a measure to provide tariff relief to local businesses, and heavily amended a bill related to zoning for development of futur",
+      "url": "https://indepthnh.org/2026/01/29/senate-approves-open-school-enrollment-kills-or-modifies-bills-related-to-municipalities/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-01-29",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -571,20 +585,6 @@
       "priority": "high",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "c79a456c8fe6",
-      "title": "NHMA: Statewide Zoning Mandates Didn\u2019t Help NH\u2019s Housing Crisis",
-      "summary": "Statewide zoning mandates enacted in 2025 did little to address housing affordability and risked undermining the local decision-making that is central to New Hampshire\u2019s identity, according to a whitepaper by the New Hampshire Municipal Association.",
-      "url": "https://indepthnh.org/2026/01/26/nhma-statewide-zoning-mandates-didnt-help-nhs-housing-crisis/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-01-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "hma"
       ]
     },
     {
