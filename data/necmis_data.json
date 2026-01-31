@@ -1,21 +1,21 @@
 {
-  "generated": "2026-01-30T11:54:07.841636Z",
+  "generated": "2026-01-31T11:38:54.458725Z",
   "summary": {
-    "total_opportunities": 27,
-    "total_value_low": 214190548,
-    "total_value_high": 214190548,
+    "total_opportunities": 30,
+    "total_value_low": 216932859,
+    "total_value_high": 216932859,
     "by_state": {
-      "VT": 3,
+      "VT": 2,
       "NH": 4,
-      "ME": 1,
-      "MA": 20,
+      "ME": 2,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 27,
+      "dot_letting": 30,
       "news": 5,
       "funding": 0
     }
@@ -352,6 +352,25 @@
       ]
     },
     {
+      "id": "e38a33a3d685",
+      "state": "MA",
+      "project_id": "614016",
+      "description": "Crack Sealing at Various Locations",
+      "cost_low": 558000,
+      "cost_high": 558000,
+      "cost_display": "$558K",
+      "ad_date": "2026-01-31",
+      "let_date": null,
+      "project_type": "Crack Sealing",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614016",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "6c9295a9e87d",
       "state": "MA",
       "project_id": "614066",
@@ -375,9 +394,9 @@
       "state": "MA",
       "project_id": "86461",
       "description": "Superstructure Replacement, L-12-002, Concord Road (Route 126) over MBTA/CSX Railroad",
-      "cost_low": 13139338,
-      "cost_high": 13139338,
-      "cost_display": "$13.1M",
+      "cost_low": 13037209,
+      "cost_high": 13037209,
+      "cost_display": "$13.0M",
       "ad_date": "2025-09-13",
       "let_date": null,
       "project_type": "Bridge - Construction",
@@ -408,6 +427,44 @@
       "business_lines": [
         "highway",
         "hma"
+      ]
+    },
+    {
+      "id": "05dafb2dfaac",
+      "state": "MA",
+      "project_id": "614151",
+      "description": "Scheduled & Emergency Fence Repairs at Various Locations",
+      "cost_low": 500000,
+      "cost_high": 500000,
+      "cost_display": "$500K",
+      "ad_date": "2026-01-31",
+      "let_date": null,
+      "project_type": "Guard Rail & Fencing",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614151",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c6763d8922f4",
+      "state": "MA",
+      "project_id": "614067",
+      "description": "Scheduled & Emergency Vegetation Management (Mechanical) at Various Locations",
+      "cost_low": 1786440,
+      "cost_high": 1786440,
+      "cost_display": "$1.8M",
+      "ad_date": "2026-01-31",
+      "let_date": null,
+      "project_type": "Mowing and Spraying",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614067",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -546,6 +603,20 @@
   ],
   "news": [
     {
+      "id": "9db182a474a4",
+      "title": "Rockland police seek driver who hit person on electric scooter",
+      "summary": "The crash happened at about 3:10 p.m. Thursday at the intersection of Broadway and Park Street.",
+      "url": "https://www.bangordailynews.com/2026/01/30/midcoast/midcoast-police-courts/rockland-hit-and-run-electric-scooter/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-01-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "a6f2b5612f0e",
       "title": "A \u2018top priority in this building\u2019: Senate health committee seeks to broaden access to primary care",
       "summary": "An expansive bill seeks to change the way patients access primary care by changing the ways the state pays for it.\nRead the story on VTDigger here:  A \u2018top priority in this building\u2019: Senate health committee seeks to broaden access to primary care.",
@@ -569,20 +640,6 @@
       "date": "2026-01-29",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "da3abd05d361",
-      "title": "Esther Charlestin, Gov. Scott challenger in 2024, launches lieutenant governor bid",
-      "summary": "Charlestin is the third Democrat to throw their hat in the ring for this year\u2019s race for the state\u2019s second-highest office.\nRead the story on VTDigger here:  Esther Charlestin, Gov. Scott challenger in 2024, launches lieutenant governor bid.",
-      "url": "https://vtdigger.org/2026/01/28/esther-charlestin-gov-scott-challenger-in-2024-launches-lieutenant-governor-bid/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-01-28",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
