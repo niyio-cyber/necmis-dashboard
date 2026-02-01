@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-31T11:38:54.458725Z",
+  "generated": "2026-02-01T11:40:30.812795Z",
   "summary": {
-    "total_opportunities": 30,
+    "total_opportunities": 31,
     "total_value_low": 216932859,
     "total_value_high": 216932859,
     "by_state": {
       "VT": 2,
       "NH": 4,
       "ME": 2,
-      "MA": 23,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 30,
       "news": 5,
-      "funding": 0
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -603,13 +603,27 @@
   ],
   "news": [
     {
-      "id": "9db182a474a4",
-      "title": "Rockland police seek driver who hit person on electric scooter",
-      "summary": "The crash happened at about 3:10 p.m. Thursday at the intersection of Broadway and Park Street.",
-      "url": "https://www.bangordailynews.com/2026/01/30/midcoast/midcoast-police-courts/rockland-hit-and-run-electric-scooter/",
-      "source": "Bangor Daily News",
+      "id": "5135dc974227",
+      "title": "As Maine student enrollment declines, districts face consequences, and seek opportunities",
+      "summary": "The 2025-26 data shows a drop of more than 2,000 students statewide since last year. The decline has ripple effects for Maine's school funding formula and construction backlog.",
+      "url": "https://www.pressherald.com/2026/02/01/as-maine-student-enrollment-declines-districts-face-consequences-and-seek-opportunities/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-01-30",
+      "date": "2026-02-01",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "dcfebdd9a5ca",
+      "title": "Springfield Thunderbirds cruise past Hartford in front of a sold-out MassMutual Center crowd",
+      "summary": "The Thunderbirds won their second in a row before heading on a six-game road trip.",
+      "url": "https://www.masslive.com/thunderbirds/2026/02/springfield-thunderbirds-cruise-past-hartford-in-front-of-a-sold-out-massmutual-center-crowd.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-01",
       "category": "news",
       "priority": "medium",
       "business_lines": [
