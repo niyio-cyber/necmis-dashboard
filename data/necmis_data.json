@@ -1,104 +1,26 @@
 {
-  "generated": "2026-02-03T11:59:57.284147Z",
+  "generated": "2026-02-04T11:58:13.434821Z",
   "summary": {
-    "total_opportunities": 30,
-    "total_value_low": 216784988,
-    "total_value_high": 216784988,
+    "total_opportunities": 28,
+    "total_value_low": 165715257,
+    "total_value_high": 165715257,
     "by_state": {
-      "VT": 1,
+      "VT": 2,
       "NH": 3,
-      "ME": 3,
-      "MA": 23,
+      "ME": 4,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 30,
-      "news": 4,
-      "funding": 0
+      "dot_letting": 26,
+      "news": 5,
+      "funding": 2
     }
   },
   "dot_lettings": [
-    {
-      "id": "9de24d51a0c6",
-      "state": "MA",
-      "project_id": "614009",
-      "description": "Interstate Pavement Preservation on I-91",
-      "cost_low": 10788291,
-      "cost_high": 10788291,
-      "cost_display": "$10.8M",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Highway - Construction , Pavement - Surfacing",
-      "location": "Deerfield - Hatfield - Northampton - Whately",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614009",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "cbbdf9094a3b",
-      "state": "MA",
-      "project_id": "614060",
-      "description": "Installation & Refurbishment of Impact Attenuator Systems at Various Locations",
-      "cost_low": 722750,
-      "cost_high": 722750,
-      "cost_display": "$723K",
-      "ad_date": "2026-01-10",
-      "let_date": null,
-      "project_type": "Impact Attenuators",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614060",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "983262f61146",
-      "state": "MA",
-      "project_id": "608456",
-      "description": "Culvert Replacement, Milford Street (Route 140) over Unnamed Tributary to Center Brook",
-      "cost_low": 2314427,
-      "cost_high": 2314427,
-      "cost_display": "$2.3M",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Upton",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608456",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "400d1c9db7b0",
-      "state": "MA",
-      "project_id": "608051",
-      "description": "Reconstruction on Route 38 (Main Street), from Route 62 to the Woburn C.L.",
-      "cost_low": 37383813,
-      "cost_high": 37383813,
-      "cost_display": "$37.4M",
-      "ad_date": "2025-09-13",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Wilmington",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608051",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "239f640bfff6",
       "state": "MA",
@@ -394,9 +316,9 @@
       "state": "MA",
       "project_id": "86461",
       "description": "Superstructure Replacement, L-12-002, Concord Road (Route 126) over MBTA/CSX Railroad",
-      "cost_low": 12889338,
-      "cost_high": 12889338,
-      "cost_display": "$12.9M",
+      "cost_low": 13028888,
+      "cost_high": 13028888,
+      "cost_display": "$13.0M",
       "ad_date": "2025-09-13",
       "let_date": null,
       "project_type": "Bridge - Construction",
@@ -603,13 +525,13 @@
   ],
   "news": [
     {
-      "id": "06fb7cc7af56",
-      "title": "Obituary: Donald J. Chaisson",
-      "summary": "YARMOUTH - With grace in our hearts, we bid farewell to Donald J. Chaisson, known affectionately as Don. Born on Dec. ...",
-      "url": "https://www.pressherald.com/2026/02/03/obituarydonald-j-chaisson-2/",
+      "id": "8353870e4bac",
+      "title": "Biddeford girls basketball takes down undefeated Cheverus",
+      "summary": "The Tigers rally in the third quarter and close it out in the fourth to topple Class A South's top team in their second-to-last game of the regular season.",
+      "url": "https://www.pressherald.com/2026/02/03/biddeford-girls-basketball-takes-down-undefeated-cheverus/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-02-03",
+      "date": "2026-02-04",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -617,15 +539,57 @@
       ]
     },
     {
-      "id": "f9aeee0b1f63",
-      "title": "Bangor hospital failed to test pregnant woman for infection that sickened\u00a0her twins, lawsuit says",
-      "summary": "Three and a half years later the babies continue to live with developmental delays, Alanna Love\u2019s attorney said.",
-      "url": "https://www.bangordailynews.com/2026/02/03/bangor/bangor-police-courts/bangor-hospital-failed-to-test-syphilis-sickened-twins-lawsuit-joam40zk0w/",
+      "id": "b8cab620c58c",
+      "title": "Biddeford council approves $20,000 parking plan implemented by former officials",
+      "summary": "Councilors belatedly approved a downtown parking plan that was originally greenlit by the former mayor and city manager.",
+      "url": "https://www.pressherald.com/2026/02/03/biddeford-council-approves-20000-parking-plan-implemented-by-former-officials/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-04",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "55c70776d8df",
+      "title": "Judge set to hear arguments as court gives Trump another shot at nixing hush money conviction",
+      "summary": "NEW YORK (AP) \u2014 A federal judge is set to hear arguments Wednesday after an appeals court directed him to take a fresh look at President Donald Trump\u2019s bid to erase his hush money conviction. The 2nd U.S. Circuit Court of Appeals in November ordered U.S. District Judge Alvin K. Hellerstein to recons",
+      "url": "https://www.bangordailynews.com/2026/02/04/nation/judge-set-to-hear-arguments-as-court-gives-trump-another-shot-at-nixing-hush-money-conviction/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-02-03",
+      "date": "2026-02-04",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a2e17a66c538",
+      "title": "Election season starts in Southwick; nomination papers now available",
+      "summary": "Southwick's Town Clerk has nomination papers ready for those who are seeking to fill the 16 board, commission, and committee seats up for election during the May municipal election.",
+      "url": "https://www.masslive.com/westfieldnews/2026/02/election-season-starts-in-southwick-nomination-papers-now-available.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-04",
       "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "95c88b1d4cfe",
+      "title": "Vermont Senate president wants state dollars to cover policing costs if anti-ICE protests break out",
+      "summary": "Also in Final Reading: Lt. Gov. Rodgers announces reelection bid, House advances bill to protect voters, a nurse\u2019s family affair.\nRead the story on VTDigger here:  Vermont Senate president wants state dollars to cover policing costs if anti-ICE protests break out.",
+      "url": "https://vtdigger.org/2026/02/03/vermont-senate-president-wants-state-dollars-to-cover-policing-costs-if-anti-ice-protests-break-out/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-03",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
