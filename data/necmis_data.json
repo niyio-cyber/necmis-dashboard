@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-04T11:58:13.434821Z",
+  "generated": "2026-02-05T12:00:45.697366Z",
   "summary": {
-    "total_opportunities": 28,
+    "total_opportunities": 27,
     "total_value_low": 165715257,
     "total_value_high": 165715257,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 3,
-      "ME": 4,
-      "MA": 20,
+      "ME": 6,
+      "MA": 19,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 5,
-      "funding": 2
+      "news": 8,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -525,13 +525,27 @@
   ],
   "news": [
     {
-      "id": "8353870e4bac",
-      "title": "Biddeford girls basketball takes down undefeated Cheverus",
-      "summary": "The Tigers rally in the third quarter and close it out in the fourth to topple Class A South's top team in their second-to-last game of the regular season.",
-      "url": "https://www.pressherald.com/2026/02/03/biddeford-girls-basketball-takes-down-undefeated-cheverus/",
+      "id": "d948b0c13b8c",
+      "title": "Celtics trounce Rockets with makeshift lineup",
+      "summary": "Playing without Jaylen Brown, Boston easily wins on the road against one of the top teams in the Western Conference.",
+      "url": "https://www.pressherald.com/2026/02/04/celtics-trounce-rockets-with-makeshift-lineup/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-02-04",
+      "date": "2026-02-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3c12c623d4d8",
+      "title": "Aroostook town unveils 4-season blueprint to boost tourism",
+      "summary": "The longterm project includes a downtown riverfront park with a pedestrian bridge and amphitheater, and nearly 70 miles of trails.",
+      "url": "https://www.bangordailynews.com/2026/02/05/aroostook/aroostook-business/island-falls-maine-tourism-plan-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-05",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -539,27 +553,55 @@
       ]
     },
     {
-      "id": "b8cab620c58c",
-      "title": "Biddeford council approves $20,000 parking plan implemented by former officials",
-      "summary": "Councilors belatedly approved a downtown parking plan that was originally greenlit by the former mayor and city manager.",
-      "url": "https://www.pressherald.com/2026/02/03/biddeford-council-approves-20000-parking-plan-implemented-by-former-officials/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-04",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "55c70776d8df",
-      "title": "Judge set to hear arguments as court gives Trump another shot at nixing hush money conviction",
-      "summary": "NEW YORK (AP) \u2014 A federal judge is set to hear arguments Wednesday after an appeals court directed him to take a fresh look at President Donald Trump\u2019s bid to erase his hush money conviction. The 2nd U.S. Circuit Court of Appeals in November ordered U.S. District Judge Alvin K. Hellerstein to recons",
-      "url": "https://www.bangordailynews.com/2026/02/04/nation/judge-set-to-hear-arguments-as-court-gives-trump-another-shot-at-nixing-hush-money-conviction/",
+      "id": "0fe89267faee",
+      "title": "We must learn from difficult histories",
+      "summary": "\"We now must ask ourselves how Americans today compare to citizens here and abroad in the 1930s.\"",
+      "url": "https://www.bangordailynews.com/2026/02/05/opinion/opinion-contributor/we-must-learn-from-difficult-histories-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-02-04",
+      "date": "2026-02-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8c62fe643257",
+      "title": "Jesse Jackson Jr. pitches redemption in bid for old House seat years after campaign fraud conviction",
+      "summary": "COUNTRY CLUB HILLS, Ill. (AP) \u2014 As Jesse Jackson Jr. campaigns for his old U.S. House seat at Chicago-area churches, banquet halls and on Black radio shows, he often takes a moment to address the obvious matter hanging over his political comeback. The son of the civil rights icon tries to bring it u",
+      "url": "https://www.bangordailynews.com/2026/02/05/nation/jesse-jackson-jr-pitches-redemption-in-bid-for-old-house-seat-years-after-campaign-fraud-conviction/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4b160dc2988d",
+      "title": "His mom died in a Maine jail nearly 2 years ago. Now, he\u2019s suing.",
+      "summary": "A medical examiner found that Bridgett Toulan died of \u201cacute intoxication,\u201d according to the lawsuit.",
+      "url": "https://www.bangordailynews.com/2026/02/04/portland/portland-police-courts/mom-died-maine-jail-lawsuit/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4427bb264f2c",
+      "title": "State Faces More Confusion and $55,000 a Day Fines Due To Flawed Law To End Inspections",
+      "summary": "In addition to leaving the public and inspection stations now scrambling to understand what this all means, Commissioner Scott said the potential exists not only to pay the federal government $1.6 million a month for violation of the act, but the state could lose highway funds after 18 months of non",
+      "url": "https://indepthnh.org/2026/02/04/state-faces-more-confusion-and-fined-55000-a-day-due-to-flawed-law-to-end-inspections/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-02-05",
       "category": "funding",
       "priority": "high",
       "business_lines": [
@@ -567,12 +609,12 @@
       ]
     },
     {
-      "id": "a2e17a66c538",
-      "title": "Election season starts in Southwick; nomination papers now available",
-      "summary": "Southwick's Town Clerk has nomination papers ready for those who are seeking to fill the 16 board, commission, and committee seats up for election during the May municipal election.",
-      "url": "https://www.masslive.com/westfieldnews/2026/02/election-season-starts-in-southwick-nomination-papers-now-available.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "dfbab0eeb956",
+      "title": "Ugandan minister Steven Tendo, who faced brutal torture abroad, detained by ICE",
+      "summary": "Tendo, who fled his native country to seek asylum and has lived in Vermont since 2021, was detained outside a health care facility in Shelburne where he works, advocates said.\nRead the story on VTDigger here:  Ugandan minister Steven Tendo, who faced brutal torture abroad, detained by ICE.",
+      "url": "https://vtdigger.org/2026/02/04/ugandan-asylum-seeker-steven-tendo-detained-by-ice/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-02-04",
       "category": "news",
       "priority": "medium",
@@ -588,20 +630,6 @@
       "source": "VTDigger",
       "state": "VT",
       "date": "2026-02-03",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "846973089858",
-      "title": "White Mountain National Forest To Temporarily Close Part of Lincoln Woods Trail for Construction",
-      "summary": "Beginning February 9, the Lincoln Woods Trail from Route 112-Kancamagus Highway to the junction of the Osseo trail will be closed.",
-      "url": "https://indepthnh.org/2026/02/02/white-mountain-national-forest-to-temporarily-part-of-lincoln-woods-trail-for-construction/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-02-02",
       "category": "news",
       "priority": "high",
       "business_lines": [
