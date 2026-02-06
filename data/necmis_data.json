@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-05T12:00:45.697366Z",
+  "generated": "2026-02-06T11:58:24.228163Z",
   "summary": {
     "total_opportunities": 27,
     "total_value_low": 165715257,
     "total_value_high": 165715257,
     "by_state": {
-      "VT": 3,
-      "NH": 3,
-      "ME": 6,
+      "VT": 5,
+      "NH": 4,
+      "ME": 2,
       "MA": 19,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 8,
+      "news": 7,
       "funding": 1
     }
   },
@@ -525,12 +525,40 @@
   ],
   "news": [
     {
-      "id": "d948b0c13b8c",
-      "title": "Celtics trounce Rockets with makeshift lineup",
-      "summary": "Playing without Jaylen Brown, Boston easily wins on the road against one of the top teams in the Western Conference.",
-      "url": "https://www.pressherald.com/2026/02/04/celtics-trounce-rockets-with-makeshift-lineup/",
+      "id": "ab255a8e061a",
+      "title": "Hannaford attack ads driven by animal rights activism, store officials say",
+      "summary": "When a Pennsylvania nonprofit\u2019s attacks on Hannaford supermarket\u2019s cage-free egg roadmap received little traction they shifted to targeting the Maine-founded grocer with online posts and a political-action-committee-like ad campaign about prices and quality with little mention of animal welfare.",
+      "url": "https://www.unionleader.com/news/business/hannaford-attack-ads-driven-by-animal-rights-activism-store-officials-say/article_bb5f4eda-06a6-4cb6-b980-a05b3c7883a6.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-02-06",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c9b7e8545629",
+      "title": "Maine State Police called immigration authorities about 60 times last year",
+      "summary": "Troopers were told they were allowed to hold people on the side of the road for immigration officials, even if there was no suspected criminal conduct.",
+      "url": "https://www.pressherald.com/2026/02/06/maine-state-police-called-immigration-authorities-about-60-times-last-year/",
       "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-02-06",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6916a4b4ebaa",
+      "title": "Vermont\u2019s school enrollment is declining. Students needing special education are on the rise.",
+      "summary": "Also in Final Reading: Road salt, prison labor and a stronger ban on voyeurism.\nRead the story on VTDigger here:  Vermont\u2019s school enrollment is declining. Students needing special education are on the rise.\u00a0.",
+      "url": "https://vtdigger.org/2026/02/05/vermonts-school-enrollment-is-declining-students-needing-special-education-are-on-the-rise/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-02-05",
       "category": "news",
       "priority": "medium",
@@ -539,57 +567,15 @@
       ]
     },
     {
-      "id": "3c12c623d4d8",
-      "title": "Aroostook town unveils 4-season blueprint to boost tourism",
-      "summary": "The longterm project includes a downtown riverfront park with a pedestrian bridge and amphitheater, and nearly 70 miles of trails.",
-      "url": "https://www.bangordailynews.com/2026/02/05/aroostook/aroostook-business/island-falls-maine-tourism-plan-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0fe89267faee",
-      "title": "We must learn from difficult histories",
-      "summary": "\"We now must ask ourselves how Americans today compare to citizens here and abroad in the 1930s.\"",
-      "url": "https://www.bangordailynews.com/2026/02/05/opinion/opinion-contributor/we-must-learn-from-difficult-histories-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "2f77465fc109",
+      "title": "Vermont is overhauling Act 250. Here\u2019s what the development maps look like so far",
+      "summary": "The idea is to loosen the rules for building housing in some areas, and tighten up the permit requirements in environmentally sensitive areas. It\u2019s getting complicated.\nRead the story on VTDigger here:  Vermont is overhauling Act 250. Here\u2019s what the development maps look like so far\u00a0.",
+      "url": "https://vtdigger.org/2026/02/05/vermont-is-overhauling-act-250-heres-what-the-development-maps-look-like-so-far/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-02-05",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8c62fe643257",
-      "title": "Jesse Jackson Jr. pitches redemption in bid for old House seat years after campaign fraud conviction",
-      "summary": "COUNTRY CLUB HILLS, Ill. (AP) \u2014 As Jesse Jackson Jr. campaigns for his old U.S. House seat at Chicago-area churches, banquet halls and on Black radio shows, he often takes a moment to address the obvious matter hanging over his political comeback. The son of the civil rights icon tries to bring it u",
-      "url": "https://www.bangordailynews.com/2026/02/05/nation/jesse-jackson-jr-pitches-redemption-in-bid-for-old-house-seat-years-after-campaign-fraud-conviction/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4b160dc2988d",
-      "title": "His mom died in a Maine jail nearly 2 years ago. Now, he\u2019s suing.",
-      "summary": "A medical examiner found that Bridgett Toulan died of \u201cacute intoxication,\u201d according to the lawsuit.",
-      "url": "https://www.bangordailynews.com/2026/02/04/portland/portland-police-courts/mom-died-maine-jail-lawsuit/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-05",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
