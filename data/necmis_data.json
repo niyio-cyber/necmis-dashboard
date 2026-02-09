@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-08T11:42:10.707740Z",
+  "generated": "2026-02-09T14:37:42.438424Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 32,
     "total_value_low": 189479458,
     "total_value_high": 189479458,
     "by_state": {
-      "VT": 6,
-      "NH": 3,
-      "ME": 4,
+      "VT": 7,
+      "NH": 2,
+      "ME": 5,
       "MA": 24,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 8,
-      "funding": 2
+      "news": 10,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -621,12 +621,68 @@
   ],
   "news": [
     {
-      "id": "4bc2dc70f3ee",
-      "title": "Maine needs an independent governor to bridge the political divide | Letter",
-      "summary": "We are living in a time of two separate Maines and two separate Americas. Our nation and our people are perhaps the most divided since the Civil War. As an independent candidate for governor, I also see it in the two gubernatorial campaigns. That\u2019s right, there are two very separate gubernatorial ca",
-      "url": "https://www.pressherald.com/2026/02/08/maine-needs-an-independent-governor-to-bridge-the-political-divide-letter/",
-      "source": "Portland Press Herald",
+      "id": "c0939f121040",
+      "title": "Home is best: creating affordable and accessible housing for Vermonters with disabilities",
+      "summary": "Facing Vermont\u2019s housing shortage, partners across the state are advancing community-integrated homes for people with intellectual and developmental disabilities. Upper Valley Services\u2019 projects highlight solutions that pair affordable housing with supports.\nRead the story on VTDigger here:  Home i",
+      "url": "https://vtdigger.org/2026/02/09/home-is-best-creating-affordable-and-accessible-housing-for-vermonters-with-disabilities/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "12d68bea18ad",
+      "title": "Rare copy of Declaration of Independence will tour around Maine this year",
+      "summary": "It's one of 26 copies of the Dunlap Broadside that have survived since 1776.",
+      "url": "https://www.bangordailynews.com/2026/02/09/state/state-culture/maine-declaration-of-independence-dunlap-broadside-tour/",
+      "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-02-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f7d9c89d3789",
+      "title": "Here\u2019s where the most new housing is being built in Maine",
+      "summary": "Two southern Maine counties have built more than 5,400 homes between them since 2020 \u2014 but other parts of the state are lagging behind in new construction.",
+      "url": "https://www.bangordailynews.com/2026/02/09/business/business-housing/where-most-housing-built-in-maine-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e67f05e24175",
+      "title": "See how much new housing has been built in your Maine\u00a0town",
+      "summary": "U.S. census estimates show which parts of Maine have welcomed the most new housing from 2020 to 2024 and where new developments stalled.",
+      "url": "https://www.bangordailynews.com/2026/02/09/business/business-housing/see-how-much-housing-built-in-your-maine-town-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "51abdd51ff0d",
+      "title": "Young Writers Project: \u2018Longhand\u2019",
+      "summary": "This week\u2019s Young Writers Project entry is \u201cLonghand\u201d by Olivia Guevin, 14, of Brandon. Art is \u201cBridges,\u201d by Ursa Goldenrose, 16, of Hardwick.\nRead the story on VTDigger here:  Young Writers Project: \u2018Longhand\u2019.",
+      "url": "https://vtdigger.org/2026/02/08/young-writers-project-longhand/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-02-08",
       "category": "news",
       "priority": "high",
@@ -635,11 +691,11 @@
       ]
     },
     {
-      "id": "e6a93d88d829",
-      "title": "Discover Maine\u2019s newest trails: Mount Tuck and 2 others",
-      "summary": "\"Mount Tuck is located just west of the Penobscot River, perhaps a mile or so south of the magnificent Penobscot Narrows Bridge.\"",
-      "url": "https://www.bangordailynews.com/2026/02/08/outdoors/outdoors-contributors/mount-tuck-and-2-others-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "b0f7dcd4972c",
+      "title": "Lindsey Vonn breaks left leg in Olympic downhill, airlifted off course",
+      "summary": "Vonn comeback bid ends just seconds into the race with a scary crash. American Breezy Johnson wins the gold.",
+      "url": "https://www.pressherald.com/2026/02/08/lindsey-vonn-crashes-in-olympic-downhill-airlifted-off-course/",
+      "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-02-08",
       "category": "news",
@@ -672,20 +728,6 @@
       "date": "2026-02-07",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7a87d9a664d",
-      "title": "Brooksville man killed in 3-vehicle crash",
-      "summary": "The crash on Blue Hill Road in Surry occurred at around 2:45 p.m. Friday, when a vehicle crossed the center line.",
-      "url": "https://www.bangordailynews.com/2026/02/07/hancock/hancock-police-courts/brooksville-man-killed-in-3-vehicle-crash/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-07",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -728,34 +770,6 @@
       "date": "2026-02-05",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2f77465fc109",
-      "title": "Vermont is overhauling Act 250. Here\u2019s what the development maps look like so far",
-      "summary": "The idea is to loosen the rules for building housing in some areas, and tighten up the permit requirements in environmentally sensitive areas. It\u2019s getting complicated.\nRead the story on VTDigger here:  Vermont is overhauling Act 250. Here\u2019s what the development maps look like so far\u00a0.",
-      "url": "https://vtdigger.org/2026/02/05/vermont-is-overhauling-act-250-heres-what-the-development-maps-look-like-so-far/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-05",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4427bb264f2c",
-      "title": "State Faces More Confusion and $55,000 a Day Fines Due To Flawed Law To End Inspections",
-      "summary": "In addition to leaving the public and inspection stations now scrambling to understand what this all means, Commissioner Scott said the potential exists not only to pay the federal government $1.6 million a month for violation of the act, but the state could lose highway funds after 18 months of non",
-      "url": "https://indepthnh.org/2026/02/04/state-faces-more-confusion-and-fined-55000-a-day-due-to-flawed-law-to-end-inspections/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-02-05",
-      "category": "funding",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
