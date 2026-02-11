@@ -1,102 +1,26 @@
 {
-  "generated": "2026-02-10T14:45:12.819890Z",
+  "generated": "2026-02-11T14:39:10.160390Z",
   "summary": {
-    "total_opportunities": 32,
-    "total_value_low": 189479458,
-    "total_value_high": 189479458,
+    "total_opportunities": 27,
+    "total_value_low": 179985017,
+    "total_value_high": 179985017,
     "by_state": {
-      "VT": 5,
-      "NH": 2,
-      "ME": 4,
-      "MA": 25,
+      "VT": 2,
+      "NH": 3,
+      "ME": 3,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 31,
-      "news": 8,
-      "funding": 1
+      "dot_letting": 27,
+      "news": 5,
+      "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "239f640bfff6",
-      "state": "MA",
-      "project_id": "614021",
-      "description": "Scheduled and Emergency Tree Trimming, Removal and Sight Distance Clearing at Various Locations on I-90",
-      "cost_low": 855000,
-      "cost_high": 855000,
-      "cost_display": "$855K",
-      "ad_date": "2026-01-17",
-      "let_date": null,
-      "project_type": "Tree Trimming, Maintenance and Removal",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614021",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6817eed2cbd6",
-      "state": "MA",
-      "project_id": "614133",
-      "description": "Scheduled and Emergency Fence and Guardrail Repairs and Improvements at Various Locations",
-      "cost_low": 1801691,
-      "cost_high": 1801691,
-      "cost_display": "$1.8M",
-      "ad_date": "2026-01-17",
-      "let_date": null,
-      "project_type": "Guard Rail & Fencing",
-      "location": "District 2",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614133",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2ee3f7ebfe97",
-      "state": "MA",
-      "project_id": "614140",
-      "description": "Scheduled and Emergency Structural and Substructure Repairs at Various Locations on I-90",
-      "cost_low": 977750,
-      "cost_high": 977750,
-      "cost_display": "$978K",
-      "ad_date": "2026-01-17",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "District 2",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614140",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e53f154284f5",
-      "state": "MA",
-      "project_id": "614080",
-      "description": "Scheduled and Emergency Pavement Repairs at Various Locations (Area D)",
-      "cost_low": 5860000,
-      "cost_high": 5860000,
-      "cost_display": "$5.9M",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Pavement - Surfacing",
-      "location": "District 5",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614080",
-      "source": "MassDOT",
-      "business_lines": [
-        "hma"
-      ]
-    },
     {
       "id": "73e330652fbd",
       "state": "MA",
@@ -621,27 +545,27 @@
   ],
   "news": [
     {
-      "id": "c941baf01a85",
-      "title": "Small plane makes emergency landing on a busy Georgia road and strikes 3 vehicles",
-      "summary": "GAINESVILLE, Ga. (AP) \u2014 A single-engine plane made an emergency landing on a busy road in a Georgia, striking three vehicles and leaving two people with minor injuries, authorities said. The Hawker Beechcraft BE-36 landed Monday on Browns Bridge Road in Gainesville, about 50 miles (80 kilometers) no",
-      "url": "https://www.bangordailynews.com/2026/02/10/nation/small-plane-makes-emergency-landing-on-a-busy-georgia-road-and-strikes-3-vehicles/",
-      "source": "Bangor Daily News",
+      "id": "5f8d5037e2d2",
+      "title": "Angolans targeted most by immigration enforcement in Maine. Community leaders tried to prevent this.",
+      "summary": "The Biden administration declined to provide legal protection for people from the Democratic Republic of Congo and Angola. Now their citizens are top targets of the deportation operation in Maine.",
+      "url": "https://www.pressherald.com/2026/02/11/angolans-targeted-most-by-immigration-enforcement-in-maine-community-leaders-tried-to-prevent-this/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-02-10",
+      "date": "2026-02-11",
       "category": "news",
       "priority": "high",
       "business_lines": [
-        "highway"
+        "ready_mix"
       ]
     },
     {
-      "id": "3164a6e308ab",
-      "title": "A new Penobscot County Jail is a moral and practical necessity",
-      "summary": "\"This is not a choice between compassion and construction. It is a call to meet our obligations with humanity, responsibility and leadership.\"",
-      "url": "https://www.bangordailynews.com/2026/02/10/opinion/opinion-contributor/a-new-penobscot-county-jail-is-a-moral-and-practical-necessity/",
+      "id": "582ac9e2f878",
+      "title": "MDF\u2019s Maine Downtown Center announces new Advisory Council members",
+      "summary": "New members join continuing Advisory Council members in providing critical guidance to MDC\u2019s work in communities across Maine\u00a0 AUGUSTA \u2014 The Maine Downtown Center, a program of Maine Development Foundation, is pleased to announce five new members will be joining our Advisory Council. MDC\u2019s Advisory",
+      "url": "https://www.bangordailynews.com/2026/02/11/bdn-maine/mdfs-maine-downtown-center-announces-new-advisory-council-members/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-02-10",
+      "date": "2026-02-11",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -649,28 +573,13 @@
       ]
     },
     {
-      "id": "d7ed678d0d0e",
-      "title": "Letter: Unplowed Bangor sidewalks are unsafe",
-      "summary": "\"Even when plowed, the sidewalks are not cleared to the pavement, nor are they sanded or salted, so a layer of snow is left on the surface.\"",
-      "url": "https://www.bangordailynews.com/2026/02/10/opinion/letters/letter-unplowed-bangor-sidewalks-are-unsafe/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-10",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "hma",
-        "aggregates"
-      ]
-    },
-    {
-      "id": "aab7602ea777",
-      "title": "Mass. weather: 5 maps show what to expect from snow, ice Tuesday",
-      "summary": "Snow and ice could make Massachusetts roads hazardous Tuesday and Wednesday.",
-      "url": "https://www.masslive.com/weather/2026/02/mass-weather-5-maps-show-what-to-expect-from-snow-ice-tuesday.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-10",
+      "id": "8aefeebad253",
+      "title": "Advocates for Derry Rail Trail Win Tunnel Case",
+      "summary": "Advocates for the Derry Rail Trail will get a bicycling and pedestrian tunnel, as originally planned, under a six-lane access road being built to serve the new Exit 4A off Interstate 93 in North Derry, according to a settlement announced Tuesday.",
+      "url": "https://indepthnh.org/2026/02/10/advocates-for-derry-rail-trail-win-tunnel-case/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-02-11",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -687,48 +596,6 @@
       "date": "2026-02-09",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "51abdd51ff0d",
-      "title": "Young Writers Project: \u2018Longhand\u2019",
-      "summary": "This week\u2019s Young Writers Project entry is \u201cLonghand\u201d by Olivia Guevin, 14, of Brandon. Art is \u201cBridges,\u201d by Ursa Goldenrose, 16, of Hardwick.\nRead the story on VTDigger here:  Young Writers Project: \u2018Longhand\u2019.",
-      "url": "https://vtdigger.org/2026/02/08/young-writers-project-longhand/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-08",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "be79413ee891",
-      "title": "Vermont\u2019s US senators celebrate more than $58 million in earmarks for local projects",
-      "summary": "The federal funds will be spread across the state for priorities like housing and infrastructure development, access to dental care and more. \nRead the story on VTDigger here:  Vermont\u2019s US senators celebrate more than $58 million in earmarks for local projects\u00a0.",
-      "url": "https://vtdigger.org/2026/02/06/vermonts-u-s-senators-celebrate-more-than-58-million-in-earmarks-for-local-projects/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-07",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6a6ad70a10ff",
-      "title": "Cold snap expected to hit Vermont, exacerbating risks of heating fuel shortages",
-      "summary": "The season's cold temperatures have strained heating infrastructure, creating dire situations as some Vermonters run low on fuel. \nRead the story on VTDigger here:  Cold snap expected to hit Vermont, exacerbating risks of heating fuel shortages\u00a0.",
-      "url": "https://vtdigger.org/2026/02/06/cold-snap-expected-to-hit-vermont-exacerbating-risks-of-heating-fuel-shortages/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-07",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
