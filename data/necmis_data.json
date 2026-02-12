@@ -1,12 +1,12 @@
 {
-  "generated": "2026-02-11T14:39:10.160390Z",
+  "generated": "2026-02-12T12:06:09.211766Z",
   "summary": {
-    "total_opportunities": 27,
+    "total_opportunities": 28,
     "total_value_low": 179985017,
     "total_value_high": 179985017,
     "by_state": {
-      "VT": 2,
-      "NH": 3,
+      "VT": 3,
+      "NH": 4,
       "ME": 3,
       "MA": 20,
       "NY": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 5,
-      "funding": 0
+      "news": 6,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -77,45 +77,6 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "513abdee884b",
-      "state": "MA",
-      "project_id": "607342",
-      "description": "Intersection Improvements at Route 28 (Randolph Avenue) & Chickatawbut Road",
-      "cost_low": 10460000,
-      "cost_high": 10460000,
-      "cost_display": "$10.5M",
-      "ad_date": "2026-01-24",
-      "let_date": null,
-      "project_type": "Highway Construction",
-      "location": "Milton",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=607342",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6abbbc16961e",
-      "state": "MA",
-      "project_id": "609409",
-      "description": "Bridge Replacement, S-24-016, Armory Street over CSX Mainline & S-24-026, Armory Street over Abandoned CSX",
-      "cost_low": 51303970,
-      "cost_high": 51303970,
-      "cost_display": "$51.3M",
-      "ad_date": "2025-12-20",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Springfield",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609409",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
       ]
     },
     {
@@ -410,6 +371,45 @@
       ]
     },
     {
+      "id": "513abdee884b",
+      "state": "MA",
+      "project_id": "607342",
+      "description": "Intersection Improvements at Route 28 (Randolph Avenue) & Chickatawbut Road",
+      "cost_low": 10460000,
+      "cost_high": 10460000,
+      "cost_display": "$10.5M",
+      "ad_date": "2026-01-24",
+      "let_date": null,
+      "project_type": "Highway Construction",
+      "location": "Milton",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=607342",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6abbbc16961e",
+      "state": "MA",
+      "project_id": "609409",
+      "description": "Bridge Replacement, S-24-016, Armory Street over CSX Mainline & S-24-026, Armory Street over Abandoned CSX",
+      "cost_low": 51303970,
+      "cost_high": 51303970,
+      "cost_display": "$51.3M",
+      "ad_date": "2025-12-20",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Springfield",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609409",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
       "id": "8b98c149c319",
       "state": "ME",
       "project_id": null,
@@ -545,26 +545,68 @@
   ],
   "news": [
     {
-      "id": "5f8d5037e2d2",
-      "title": "Angolans targeted most by immigration enforcement in Maine. Community leaders tried to prevent this.",
-      "summary": "The Biden administration declined to provide legal protection for people from the Democratic Republic of Congo and Angola. Now their citizens are top targets of the deportation operation in Maine.",
-      "url": "https://www.pressherald.com/2026/02/11/angolans-targeted-most-by-immigration-enforcement-in-maine-community-leaders-tried-to-prevent-this/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-11",
-      "category": "news",
-      "priority": "high",
+      "id": "95bd74d29fe0",
+      "title": "Vermont receives $93 million in federal funds to expand broadband access",
+      "summary": "The new resources will allow high-speed internet connections to reach over 99% of Vermonters, according to Vermont Community Broadband Board Executive Director Christine Hallquist.\nRead the story on VTDigger here:  Vermont receives $93 million in federal funds to expand broadband access.",
+      "url": "https://vtdigger.org/2026/02/12/vermont-receives-93-million-in-federal-funds-to-expand-broadband-access/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-12",
+      "category": "funding",
+      "priority": "medium",
       "business_lines": [
-        "ready_mix"
+        "highway"
       ]
     },
     {
-      "id": "582ac9e2f878",
-      "title": "MDF\u2019s Maine Downtown Center announces new Advisory Council members",
-      "summary": "New members join continuing Advisory Council members in providing critical guidance to MDC\u2019s work in communities across Maine\u00a0 AUGUSTA \u2014 The Maine Downtown Center, a program of Maine Development Foundation, is pleased to announce five new members will be joining our Advisory Council. MDC\u2019s Advisory",
-      "url": "https://www.bangordailynews.com/2026/02/11/bdn-maine/mdfs-maine-downtown-center-announces-new-advisory-council-members/",
+      "id": "fee65e723b33",
+      "title": "Cheverus girls hockey returns to fourth straight state final",
+      "summary": "The Stags take down Biddeford/Kennebunk/Thornton/Wells behind a stellar performance from Ellie Skolnekovich in the South final.",
+      "url": "https://www.pressherald.com/2026/02/11/cheverus-girls-hockey-returns-to-fourth-straight-state-final/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-12",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e4d7c4c654ff",
+      "title": "Vermont Conversation: Rep. Becca Balint warns state may be \u2018in the crosshairs\u2019 of Trump",
+      "summary": "\u201cThis is about the president punishing states and municipalities that he does not feel like give him enough fealty,\u201d Balint said. \nRead the story on VTDigger here:  Vermont Conversation: Rep. Becca Balint warns state may be \u2018in the crosshairs\u2019 of Trump.",
+      "url": "https://vtdigger.org/2026/02/11/vermont-conversation-rep-becca-balint-on-ice-epstein-and-presidential-fealty/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "63dfd28b5b9e",
+      "title": "Business group argues that Bar Harbor\u2019s new limits unfairly target cruise ships",
+      "summary": "Wednesday\u2019s hearing was the latest development in a yearslong debate over limiting cruise ship visits to Bar Harbor.",
+      "url": "https://www.bangordailynews.com/2026/02/11/hancock/hancock-police-courts/bar-harbor-cruise-ship-limits-federal-court/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-02-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "54af625ffdfb",
+      "title": "Lawmakers Want to Ban Data Center Construction for a Year",
+      "summary": "Banning the construction of new mega data centers for a year would give lawmakers time to study their effects on a small state like New Hampshire, a House committee was told Wednesday.",
+      "url": "https://indepthnh.org/2026/02/11/lawmakers-want-to-ban-data-center-construction-for-a-year/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-02-11",
       "category": "news",
       "priority": "medium",
@@ -580,20 +622,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-02-11",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c0939f121040",
-      "title": "Home is best: creating affordable and accessible housing for Vermonters with disabilities",
-      "summary": "Facing Vermont\u2019s housing shortage, partners across the state are advancing community-integrated homes for people with intellectual and developmental disabilities. Upper Valley Services\u2019 projects highlight solutions that pair affordable housing with supports.\nRead the story on VTDigger here:  Home i",
-      "url": "https://vtdigger.org/2026/02/09/home-is-best-creating-affordable-and-accessible-housing-for-vermonters-with-disabilities/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-09",
       "category": "news",
       "priority": "medium",
       "business_lines": [
