@@ -1,22 +1,22 @@
 {
-  "generated": "2026-02-13T11:57:49.082253Z",
+  "generated": "2026-02-14T11:42:26.967102Z",
   "summary": {
-    "total_opportunities": 28,
-    "total_value_low": 179985017,
-    "total_value_high": 179985017,
+    "total_opportunities": 32,
+    "total_value_low": 189838529,
+    "total_value_high": 189838529,
     "by_state": {
-      "VT": 3,
+      "VT": 4,
       "NH": 4,
       "ME": 2,
-      "MA": 21,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 27,
-      "news": 6,
+      "dot_letting": 31,
+      "news": 8,
       "funding": 1
     }
   },
@@ -352,6 +352,44 @@
       ]
     },
     {
+      "id": "770f1594d423",
+      "state": "MA",
+      "project_id": "614111",
+      "description": "Scheduled and Emergency Drainage Structure and Pipe Cleaning at Various Locations",
+      "cost_low": 772880,
+      "cost_high": 772880,
+      "cost_display": "$773K",
+      "ad_date": "2026-02-14",
+      "let_date": null,
+      "project_type": "Catch Basin Cleaning",
+      "location": "District 3",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614111",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d42183da8c4a",
+      "state": "MA",
+      "project_id": "614114",
+      "description": "Application of Reflectorized Pavement Markings at Various Locations",
+      "cost_low": 1379765,
+      "cost_high": 1379765,
+      "cost_display": "$1.4M",
+      "ad_date": "2026-02-14",
+      "let_date": null,
+      "project_type": "Pavement Markings",
+      "location": "District 3",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614114",
+      "source": "MassDOT",
+      "business_lines": [
+        "hma"
+      ]
+    },
+    {
       "id": "bf1f7b51eaaf",
       "state": "MA",
       "project_id": "614079",
@@ -371,6 +409,25 @@
       ]
     },
     {
+      "id": "20b2a67c7a05",
+      "state": "MA",
+      "project_id": "610657",
+      "description": "Installation of a Shared-Use Path along Mount Tom Road from the Manhan Trail to Atwood Drive",
+      "cost_low": 5510100,
+      "cost_high": 5510100,
+      "cost_display": "$5.5M",
+      "ad_date": "2026-02-14",
+      "let_date": null,
+      "project_type": "Highway - Construction , Highway - Bike Paths",
+      "location": "Easthampton - Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610657",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "513abdee884b",
       "state": "MA",
       "project_id": "607342",
@@ -387,6 +444,26 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "ff19a9ea8bec",
+      "state": "MA",
+      "project_id": "611942",
+      "description": "Superstructure Replacement, S-10-024, County Road over Ironworks Brook",
+      "cost_low": 2190767,
+      "cost_high": 2190767,
+      "cost_display": "$2.2M",
+      "ad_date": "2026-02-14",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Sheffield",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611942",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
       ]
     },
     {
@@ -545,13 +622,42 @@
   ],
   "news": [
     {
-      "id": "7ea9fe5864e8",
-      "title": "Death Notice: Kevin L. Foran",
-      "summary": "Foran, Kevin L. 52, of Saco, Feb. 9, 2026, at home. Mass, Feb. 13, 11 a.m., St. Joseph Church, Biddeford. ...",
-      "url": "https://www.pressherald.com/2026/02/13/obituarykevin-l-foran/",
-      "source": "Portland Press Herald",
+      "id": "db17fd19dd4d",
+      "title": "Law enforcement block road near Nancy Guthrie\u2019s home during investigation into her disappearance",
+      "summary": "TUCSON, Ariz. (AP) \u2014 Law enforcement investigating the disappearance of \u201cToday\u201d show host Savannah Guthrie \u2018s mother sealed off a road near Nancy Guthrie\u2019s home in Arizona late Friday night. A parade of sheriff\u2019s and FBI vehicles, including forensics vehicles, passed through the roadblock that was s",
+      "url": "https://www.bangordailynews.com/2026/02/14/nation/law-enforcement-block-road-near-nancy-guthries-home-during-investigation-into-her-disappearance/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-02-13",
+      "date": "2026-02-14",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "414d3a8cdb94",
+      "title": "Road success as Springfield Thunderbirds double up Iowa",
+      "summary": "The Thunderbirds will complete their weekend set in Iowa on Saturday night.",
+      "url": "https://www.masslive.com/thunderbirds/2026/02/road-success-as-springfield-thunderbirds-double-up-iowa.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-14",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d8d98192cca3",
+      "title": "Braintree boys basketball\u2019s comeback bid falls short against Norwell despite Ellie\u2019s big night",
+      "summary": "Ethan Elie led all scorers with 28 points in the Wamps' loss.",
+      "url": "https://www.masslive.com/highschoolsports/2026/02/braintree-boys-basketballs-comeback-bid-falls-short-against-norwell-despite-ellies-big-night.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-14",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -559,12 +665,12 @@
       ]
     },
     {
-      "id": "674fa7e94954",
-      "title": "State of the Sox: The roster construction is (mostly) done. Did the Red Sox do enough?",
-      "summary": "After initially saying that wanted to add power, the Red Sox changed their philosophical approach midway through the winter. Will it be enough?",
-      "url": "https://www.masslive.com/redsox/2026/02/state-of-the-sox-the-roster-construction-is-mostly-done-did-the-red-sox-do-enough.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "902827d9e6ab",
+      "title": "Vermont legislators hear the benefits \u2014 and costs \u2014 of road crossings for wildlife",
+      "summary": "Also in Final Reading: Budget tuneup, airborne scares and paranormal musings.\nRead the story on VTDigger here:  Vermont legislators hear the benefits \u2014 and costs \u2014 of road crossings for wildlife.",
+      "url": "https://vtdigger.org/2026/02/13/vermont-legislators-hear-the-benefits-and-costs-of-road-crossings-for-wildlife/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-02-13",
       "category": "news",
       "priority": "medium",
