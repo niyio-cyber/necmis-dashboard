@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-14T11:42:26.967102Z",
+  "generated": "2026-02-15T11:42:14.105486Z",
   "summary": {
     "total_opportunities": 32,
     "total_value_low": 189838529,
     "total_value_high": 189838529,
     "by_state": {
       "VT": 4,
-      "NH": 4,
+      "NH": 3,
       "ME": 2,
-      "MA": 26,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 8,
+      "news": 5,
       "funding": 1
     }
   },
@@ -622,41 +622,12 @@
   ],
   "news": [
     {
-      "id": "db17fd19dd4d",
-      "title": "Law enforcement block road near Nancy Guthrie\u2019s home during investigation into her disappearance",
-      "summary": "TUCSON, Ariz. (AP) \u2014 Law enforcement investigating the disappearance of \u201cToday\u201d show host Savannah Guthrie \u2018s mother sealed off a road near Nancy Guthrie\u2019s home in Arizona late Friday night. A parade of sheriff\u2019s and FBI vehicles, including forensics vehicles, passed through the roadblock that was s",
-      "url": "https://www.bangordailynews.com/2026/02/14/nation/law-enforcement-block-road-near-nancy-guthries-home-during-investigation-into-her-disappearance/",
+      "id": "5e0c84222142",
+      "title": "Hermon woman charged with manslaughter 4 months after fatal bridge crash",
+      "summary": "Lacey Wiles, 26, faces felony charges after an October crash in Topsham that killed her passenger.",
+      "url": "https://www.bangordailynews.com/2026/02/14/midcoast/midcoast-police-courts/lacey-wiles-hermon-topsham-crash-marcus-steinman/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-02-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "414d3a8cdb94",
-      "title": "Road success as Springfield Thunderbirds double up Iowa",
-      "summary": "The Thunderbirds will complete their weekend set in Iowa on Saturday night.",
-      "url": "https://www.masslive.com/thunderbirds/2026/02/road-success-as-springfield-thunderbirds-double-up-iowa.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d8d98192cca3",
-      "title": "Braintree boys basketball\u2019s comeback bid falls short against Norwell despite Ellie\u2019s big night",
-      "summary": "Ethan Elie led all scorers with 28 points in the Wamps' loss.",
-      "url": "https://www.masslive.com/highschoolsports/2026/02/braintree-boys-basketballs-comeback-bid-falls-short-against-norwell-despite-ellies-big-night.html",
-      "source": "MassLive",
-      "state": "MA",
       "date": "2026-02-14",
       "category": "news",
       "priority": "high",
@@ -725,20 +696,6 @@
       "title": "Lawmakers Want to Ban Data Center Construction for a Year",
       "summary": "Banning the construction of new mega data centers for a year would give lawmakers time to study their effects on a small state like New Hampshire, a House committee was told Wednesday.",
       "url": "https://indepthnh.org/2026/02/11/lawmakers-want-to-ban-data-center-construction-for-a-year/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-02-11",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8aefeebad253",
-      "title": "Advocates for Derry Rail Trail Win Tunnel Case",
-      "summary": "Advocates for the Derry Rail Trail will get a bicycling and pedestrian tunnel, as originally planned, under a six-lane access road being built to serve the new Exit 4A off Interstate 93 in North Derry, according to a settlement announced Tuesday.",
-      "url": "https://indepthnh.org/2026/02/10/advocates-for-derry-rail-trail-win-tunnel-case/",
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-02-11",
