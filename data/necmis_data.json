@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-15T11:42:14.105486Z",
+  "generated": "2026-02-16T12:04:11.722328Z",
   "summary": {
-    "total_opportunities": 32,
+    "total_opportunities": 33,
     "total_value_low": 189838529,
     "total_value_high": 189838529,
     "by_state": {
-      "VT": 4,
-      "NH": 3,
-      "ME": 2,
+      "VT": 5,
+      "NH": 2,
+      "ME": 7,
       "MA": 24,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 5,
-      "funding": 1
+      "news": 9,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -622,15 +622,127 @@
   ],
   "news": [
     {
-      "id": "5e0c84222142",
-      "title": "Hermon woman charged with manslaughter 4 months after fatal bridge crash",
-      "summary": "Lacey Wiles, 26, faces felony charges after an October crash in Topsham that killed her passenger.",
-      "url": "https://www.bangordailynews.com/2026/02/14/midcoast/midcoast-police-courts/lacey-wiles-hermon-topsham-crash-marcus-steinman/",
+      "id": "509c1b823a78",
+      "title": "Maine congressional offices\u00a0are fighting ICE to get immigrants\u2019 documents back",
+      "summary": "Immigrants are seeking help retrieving personal documents, like work permits and passports, that weren't returned when they were released.",
+      "url": "https://www.bangordailynews.com/2026/02/16/mainefocus/mainefocus-government/maine-congressional-offices-returning-immigrants-documents-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-02-14",
+      "date": "2026-02-16",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d54e3b081e96",
+      "title": "Sprawling complex including a resort and nearly 100 housing units proposed for Katahdin\u00a0area",
+      "summary": "The development would be added to existing cabins and event spaces owned by the New England Outdoor Center.",
+      "url": "https://www.bangordailynews.com/2026/02/16/penobscot/penobscot-business/resort-100-housing-units-proposed-katahdin-area-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e3a3f0c8f6d1",
+      "title": "Young Writers Project: \u2018How many roads\u2019",
+      "summary": "This week\u2019s Young Writers Project entry is \u201cHow many roads,\u201d by Maelyn Slavik, 15, of Burlington. Artwork is \u201cSnow Day\u201d by Amelia Van Driesche, 19, of Burlington. \nRead the story on VTDigger here:  Young Writers Project: \u2018How many roads\u2019.",
+      "url": "https://vtdigger.org/2026/02/15/young-writers-project-how-many-roads/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f08c6fb7dc30",
+      "title": "Police investigate suspicious death in Corinth",
+      "summary": "Vermont State Police are investigating a death after receiving a 911 call late Saturday that a man had been shot at a home on Richardson Road in Corinth. Police said troopers responded at about 11:15 p.m. and found a man unresponsive inside the residence. Emergency medical personnel pronounced him",
+      "url": "https://vtdigger.org/2026/02/15/police-investigate-suspicious-death-in-corinth/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9a203f58f792",
+      "title": "March bond requests down 84% in Vermont\u2019s biggest cities and towns",
+      "summary": "Amid concerns about affordability, the state\u2019s 29 municipalities with at least 5,000 people will ask Town Meeting voters for a collective $44 million in capital projects \u2014 a steep drop from last year\u2019s $275 million in proposals.\nRead the story on VTDigger here:  March bond requests down 84% in Verm",
+      "url": "https://vtdigger.org/2026/02/15/march-bond-requests-down-84-in-vermonts-biggest-cities-and-towns/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-15",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "52e0efde644a",
+      "title": "\u2018Antiques Roadshow\u2019 to air first Maine episode on Monday",
+      "summary": "The popular PBS show held its first appraisal event in Maine last summer at the Coastal Maine Botanical Gardens in Boothbay.",
+      "url": "https://www.pressherald.com/2026/02/15/antiques-roadshow-to-air-first-maine-episode-on-monday/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a557008f8dd0",
+      "title": "Maine leaders pitch solutions to enhance grid as temperatures drop and electricity prices soar",
+      "summary": "Natural gas prices spiked to their highest level ever in New England in January, driving up the cost of electricity. Experts said the state should hasten energy project permitting and transmission interconnection to bring electricity prices down long-term.",
+      "url": "https://www.pressherald.com/2026/02/15/maine-leaders-pitch-solutions-to-enhance-grid-as-temperatures-drop-and-electricity-prices-soar/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d784a247030a",
+      "title": "Hermon woman charged with manslaughter, OUI for fatal Topsham crash",
+      "summary": "The crash near the Merrymeeting Bridge on Oct. 4 resulted in the death of the woman\u2019s 23-year-old passenger.",
+      "url": "https://www.pressherald.com/2026/02/15/hermon-woman-charged-with-manslaughter-oui-for-fatal-topsham-crash/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-15",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a8bc502c7a67",
+      "title": "FBI: DNA recovered from glove found near Guthrie home that appears to match glove worn by suspect",
+      "summary": "TUCSON, Ariz. (AP) \u2014 The FBI says a glove containing DNA was found about two miles from \u201cToday\u201d show host Savannah Guthrie\u2019s mother and appears to match those worn by a masked person outside her front door in Tucson the night she vanished. The glove, found in a field near the side of the road, [\u2026]",
+      "url": "https://www.bangordailynews.com/2026/02/15/nation/fbi-dna-recovered-from-glove-found-near-guthrie-home-that-appears-to-match-glove-worn-by-suspect/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-15",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -650,20 +762,6 @@
       ]
     },
     {
-      "id": "95bd74d29fe0",
-      "title": "Vermont receives $93 million in federal funds to expand broadband access",
-      "summary": "The new resources will allow high-speed internet connections to reach over 99% of Vermonters, according to Vermont Community Broadband Board Executive Director Christine Hallquist.\nRead the story on VTDigger here:  Vermont receives $93 million in federal funds to expand broadband access.",
-      "url": "https://vtdigger.org/2026/02/12/vermont-receives-93-million-in-federal-funds-to-expand-broadband-access/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-12",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "56e48d7ddbd1",
       "title": "YDC Victims, Lawyers Back Returning Selection of YDC Administrator To Supreme Court",
       "summary": "Restoring the structure of the selection of the Youth Development Center child abuse claims administrator to the state's Supreme Court was supported by all who testified Thursday, including several victims and their lawyers.",
@@ -671,34 +769,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-02-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e4d7c4c654ff",
-      "title": "Vermont Conversation: Rep. Becca Balint warns state may be \u2018in the crosshairs\u2019 of Trump",
-      "summary": "\u201cThis is about the president punishing states and municipalities that he does not feel like give him enough fealty,\u201d Balint said. \nRead the story on VTDigger here:  Vermont Conversation: Rep. Becca Balint warns state may be \u2018in the crosshairs\u2019 of Trump.",
-      "url": "https://vtdigger.org/2026/02/11/vermont-conversation-rep-becca-balint-on-ice-epstein-and-presidential-fealty/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-11",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "54af625ffdfb",
-      "title": "Lawmakers Want to Ban Data Center Construction for a Year",
-      "summary": "Banning the construction of new mega data centers for a year would give lawmakers time to study their effects on a small state like New Hampshire, a House committee was told Wednesday.",
-      "url": "https://indepthnh.org/2026/02/11/lawmakers-want-to-ban-data-center-construction-for-a-year/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-02-11",
       "category": "news",
       "priority": "medium",
       "business_lines": [
