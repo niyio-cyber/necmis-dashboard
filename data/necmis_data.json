@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-16T12:04:11.722328Z",
+  "generated": "2026-02-17T11:30:51.704692Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 32,
     "total_value_low": 189838529,
     "total_value_high": 189838529,
     "by_state": {
-      "VT": 5,
+      "VT": 6,
       "NH": 2,
-      "ME": 7,
-      "MA": 24,
+      "ME": 3,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 9,
-      "funding": 2
+      "news": 8,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -622,26 +622,68 @@
   ],
   "news": [
     {
-      "id": "509c1b823a78",
-      "title": "Maine congressional offices\u00a0are fighting ICE to get immigrants\u2019 documents back",
-      "summary": "Immigrants are seeking help retrieving personal documents, like work permits and passports, that weren't returned when they were released.",
-      "url": "https://www.bangordailynews.com/2026/02/16/mainefocus/mainefocus-government/maine-congressional-offices-returning-immigrants-documents-joam40zk0w/",
+      "id": "12a8083afbe1",
+      "title": "Hancock County towns grapple with keeping coastal roads above\u00a0rising seas",
+      "summary": "Moving \u201ccoastal resiliency\u201d projects from planning to construction has been difficult\u00a0for small communities that suffered damage from a pair of historic 2024 storms.",
+      "url": "https://www.bangordailynews.com/2026/02/17/hancock/hancock-government/maine-coastal-roads-rising-seas-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-02-16",
-      "category": "funding",
+      "date": "2026-02-17",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "d54e3b081e96",
-      "title": "Sprawling complex including a resort and nearly 100 housing units proposed for Katahdin\u00a0area",
-      "summary": "The development would be added to existing cabins and event spaces owned by the New England Outdoor Center.",
-      "url": "https://www.bangordailynews.com/2026/02/16/penobscot/penobscot-business/resort-100-housing-units-proposed-katahdin-area-joam40zk0w/",
+      "id": "2f69e39e7589",
+      "title": "Anderson Cooper says he\u2019s exiting from \u201960 Minutes,\u2019 but staying with CNN",
+      "summary": "Anderson Cooper, who has reported for CBS\u2019 \u201c60 Minutes\u201d for the past two decades in addition to hosting a weeknight news program on CNN, said Monday that he\u2019s leaving the CBS broadcast to spend more time with his family. His decision comes at a time of turmoil at \u201c60 Minutes.\u201d Cooper appeared on the",
+      "url": "https://www.bangordailynews.com/2026/02/16/nation/anderson-cooper-says-hes-exiting-from-60-minutes-but-staying-with-cnn/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-02-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "aabe3b95315c",
+      "title": "Rome at home: At Mass. Sistine Chapel exhibition see Michelangelo\u2019s famed frescoes up close",
+      "summary": "A new exhibition in Cambridge offers an up-close view and new perspectives on Renaissance artist Michelangelo\u2019s famed Sistine Chapel frescoes.",
+      "url": "https://www.masslive.com/destinations/2026/02/see-sistine-chapel-frescoes-without-going-to-rome-at-mass-art-exhibition.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "895c2eeff68e",
+      "title": "Health department urges caution after rabid bat bites Strafford resident",
+      "summary": "Department officials collected the bat for testing Feb. 4 and notified Strafford Health Officer Stephen Marx a couple of days later.\nRead the story on VTDigger here:  Health department urges caution after rabid bat bites Strafford resident.",
+      "url": "https://vtdigger.org/2026/02/16/health-department-urges-caution-after-rabid-bat-bites-strafford-resident/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-16",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4f51d0c3f34a",
+      "title": "Crossroads intensive transitional-aged youth outpatient program: a lifeline of hope and recovery for those with mental health needs",
+      "summary": "Vermont faces a deepening youth mental health crisis, with rising depression, anxiety, and suicide risk, especially among Transitional-Aged Youth. NFI Crossroads\u2019 Dialectical Behavior Therapy-based intensive outpatient program provides skills-focused treatment that builds coping abilities, strength",
+      "url": "https://vtdigger.org/2026/02/16/crossroads-intensive-transitional-aged-youth-outpatient-program-a-lifeline-of-hope-and-recovery-for-those-with-mental-health-needs/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-02-16",
       "category": "news",
       "priority": "medium",
@@ -664,20 +706,6 @@
       ]
     },
     {
-      "id": "f08c6fb7dc30",
-      "title": "Police investigate suspicious death in Corinth",
-      "summary": "Vermont State Police are investigating a death after receiving a 911 call late Saturday that a man had been shot at a home on Richardson Road in Corinth. Police said troopers responded at about 11:15 p.m. and found a man unresponsive inside the residence. Emergency medical personnel pronounced him",
-      "url": "https://vtdigger.org/2026/02/15/police-investigate-suspicious-death-in-corinth/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "9a203f58f792",
       "title": "March bond requests down 84% in Vermont\u2019s biggest cities and towns",
       "summary": "Amid concerns about affordability, the state\u2019s 29 municipalities with at least 5,000 people will ask Town Meeting voters for a collective $44 million in capital projects \u2014 a steep drop from last year\u2019s $275 million in proposals.\nRead the story on VTDigger here:  March bond requests down 84% in Verm",
@@ -686,62 +714,6 @@
       "state": "VT",
       "date": "2026-02-15",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "52e0efde644a",
-      "title": "\u2018Antiques Roadshow\u2019 to air first Maine episode on Monday",
-      "summary": "The popular PBS show held its first appraisal event in Maine last summer at the Coastal Maine Botanical Gardens in Boothbay.",
-      "url": "https://www.pressherald.com/2026/02/15/antiques-roadshow-to-air-first-maine-episode-on-monday/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a557008f8dd0",
-      "title": "Maine leaders pitch solutions to enhance grid as temperatures drop and electricity prices soar",
-      "summary": "Natural gas prices spiked to their highest level ever in New England in January, driving up the cost of electricity. Experts said the state should hasten energy project permitting and transmission interconnection to bring electricity prices down long-term.",
-      "url": "https://www.pressherald.com/2026/02/15/maine-leaders-pitch-solutions-to-enhance-grid-as-temperatures-drop-and-electricity-prices-soar/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d784a247030a",
-      "title": "Hermon woman charged with manslaughter, OUI for fatal Topsham crash",
-      "summary": "The crash near the Merrymeeting Bridge on Oct. 4 resulted in the death of the woman\u2019s 23-year-old passenger.",
-      "url": "https://www.pressherald.com/2026/02/15/hermon-woman-charged-with-manslaughter-oui-for-fatal-topsham-crash/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-15",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a8bc502c7a67",
-      "title": "FBI: DNA recovered from glove found near Guthrie home that appears to match glove worn by suspect",
-      "summary": "TUCSON, Ariz. (AP) \u2014 The FBI says a glove containing DNA was found about two miles from \u201cToday\u201d show host Savannah Guthrie\u2019s mother and appears to match those worn by a masked person outside her front door in Tucson the night she vanished. The glove, found in a field near the side of the road, [\u2026]",
-      "url": "https://www.bangordailynews.com/2026/02/15/nation/fbi-dna-recovered-from-glove-found-near-guthrie-home-that-appears-to-match-glove-worn-by-suspect/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-15",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
