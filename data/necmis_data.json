@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-17T11:30:51.704692Z",
+  "generated": "2026-02-18T11:29:35.634756Z",
   "summary": {
-    "total_opportunities": 32,
+    "total_opportunities": 31,
     "total_value_low": 189838529,
     "total_value_high": 189838529,
     "by_state": {
-      "VT": 6,
-      "NH": 2,
-      "ME": 3,
-      "MA": 25,
+      "VT": 3,
+      "NH": 3,
+      "ME": 2,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 8,
-      "funding": 1
+      "news": 5,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -622,43 +622,43 @@
   ],
   "news": [
     {
-      "id": "12a8083afbe1",
-      "title": "Hancock County towns grapple with keeping coastal roads above\u00a0rising seas",
-      "summary": "Moving \u201ccoastal resiliency\u201d projects from planning to construction has been difficult\u00a0for small communities that suffered damage from a pair of historic 2024 storms.",
-      "url": "https://www.bangordailynews.com/2026/02/17/hancock/hancock-government/maine-coastal-roads-rising-seas-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "d8416cd32bbe",
+      "title": "Tuesday\u2019s Class A South girls basketball: Biddeford survives Windham\u2019s upset bid",
+      "summary": "The 2025 regional champion is pushed to the limit but escapes and advances to the semifinals.",
+      "url": "https://www.pressherald.com/2026/02/17/tuesdays-class-a-south-girls-basketball-south-portland-rallies-past-westbrook/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "2f69e39e7589",
-      "title": "Anderson Cooper says he\u2019s exiting from \u201960 Minutes,\u2019 but staying with CNN",
-      "summary": "Anderson Cooper, who has reported for CBS\u2019 \u201c60 Minutes\u201d for the past two decades in addition to hosting a weeknight news program on CNN, said Monday that he\u2019s leaving the CBS broadcast to spend more time with his family. His decision comes at a time of turmoil at \u201c60 Minutes.\u201d Cooper appeared on the",
-      "url": "https://www.bangordailynews.com/2026/02/16/nation/anderson-cooper-says-hes-exiting-from-60-minutes-but-staying-with-cnn/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-17",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "aabe3b95315c",
-      "title": "Rome at home: At Mass. Sistine Chapel exhibition see Michelangelo\u2019s famed frescoes up close",
-      "summary": "A new exhibition in Cambridge offers an up-close view and new perspectives on Renaissance artist Michelangelo\u2019s famed Sistine Chapel frescoes.",
-      "url": "https://www.masslive.com/destinations/2026/02/see-sistine-chapel-frescoes-without-going-to-rome-at-mass-art-exhibition.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "4bd40588e20c",
+      "title": "AI Oversight Draws Rebuke from Industry",
+      "summary": "An attempt to regulate AI in the state is a bridge too far for the businesses that provide telecom, internet and similar services.",
+      "url": "https://indepthnh.org/2026/02/17/ai-oversight-draws-rebuke-from-industry/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-02-17",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ac337d62e2e0",
+      "title": "Bill Targets State Surplus Property for Affordable Housing Projects",
+      "summary": "The House Committee on Housing held a public hearing Tuesday for House Bill 1726, which would direct state agencies to identify and dispose of surplus property for the development of affordable housing units.",
+      "url": "https://indepthnh.org/2026/02/17/bill-targets-state-surplus-property-for-affordable-housing-projects/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-02-17",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -685,62 +685,6 @@
       "source": "VTDigger",
       "state": "VT",
       "date": "2026-02-16",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e3a3f0c8f6d1",
-      "title": "Young Writers Project: \u2018How many roads\u2019",
-      "summary": "This week\u2019s Young Writers Project entry is \u201cHow many roads,\u201d by Maelyn Slavik, 15, of Burlington. Artwork is \u201cSnow Day\u201d by Amelia Van Driesche, 19, of Burlington. \nRead the story on VTDigger here:  Young Writers Project: \u2018How many roads\u2019.",
-      "url": "https://vtdigger.org/2026/02/15/young-writers-project-how-many-roads/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9a203f58f792",
-      "title": "March bond requests down 84% in Vermont\u2019s biggest cities and towns",
-      "summary": "Amid concerns about affordability, the state\u2019s 29 municipalities with at least 5,000 people will ask Town Meeting voters for a collective $44 million in capital projects \u2014 a steep drop from last year\u2019s $275 million in proposals.\nRead the story on VTDigger here:  March bond requests down 84% in Verm",
-      "url": "https://vtdigger.org/2026/02/15/march-bond-requests-down-84-in-vermonts-biggest-cities-and-towns/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-15",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "902827d9e6ab",
-      "title": "Vermont legislators hear the benefits \u2014 and costs \u2014 of road crossings for wildlife",
-      "summary": "Also in Final Reading: Budget tuneup, airborne scares and paranormal musings.\nRead the story on VTDigger here:  Vermont legislators hear the benefits \u2014 and costs \u2014 of road crossings for wildlife.",
-      "url": "https://vtdigger.org/2026/02/13/vermont-legislators-hear-the-benefits-and-costs-of-road-crossings-for-wildlife/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "56e48d7ddbd1",
-      "title": "YDC Victims, Lawyers Back Returning Selection of YDC Administrator To Supreme Court",
-      "summary": "Restoring the structure of the selection of the Youth Development Center child abuse claims administrator to the state's Supreme Court was supported by all who testified Thursday, including several victims and their lawyers.",
-      "url": "https://indepthnh.org/2026/02/12/ydc-victims-lawyers-back-returning-selection-of-ydc-administrator-to-supreme-court/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-02-12",
       "category": "news",
       "priority": "medium",
       "business_lines": [
