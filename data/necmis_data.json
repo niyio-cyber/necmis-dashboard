@@ -1,9 +1,9 @@
 {
-  "generated": "2026-02-18T11:29:35.634756Z",
+  "generated": "2026-02-19T11:29:24.075955Z",
   "summary": {
-    "total_opportunities": 31,
-    "total_value_low": 189838529,
-    "total_value_high": 189838529,
+    "total_opportunities": 28,
+    "total_value_low": 174726930,
+    "total_value_high": 174726930,
     "by_state": {
       "VT": 3,
       "NH": 3,
@@ -15,70 +15,12 @@
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 31,
-      "news": 5,
+      "dot_letting": 28,
+      "news": 8,
       "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "73e330652fbd",
-      "state": "MA",
-      "project_id": "610537",
-      "description": "Ellis Elementary Traffic Calming (SRTS)",
-      "cost_low": 2003817,
-      "cost_high": 2003817,
-      "cost_display": "$2.0M",
-      "ad_date": "2026-01-17",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610537",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3696c5ae345b",
-      "state": "MA",
-      "project_id": "612050",
-      "description": "Resurfacing and Related Work on Route 3",
-      "cost_low": 10772957,
-      "cost_high": 10772957,
-      "cost_display": "$10.8M",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Braintree - Weymouth",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612050",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "90c34c080f66",
-      "state": "MA",
-      "project_id": "614092",
-      "description": "Scheduled And Emergency Traffic Signal Repairs and Improvements at Various Locations",
-      "cost_low": 2334825,
-      "cost_high": 2334825,
-      "cost_display": "$2.3M",
-      "ad_date": "2026-01-24",
-      "let_date": null,
-      "project_type": "Traffic Signals",
-      "location": "District 5",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614092",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "32c261c73ba9",
       "state": "MA",
@@ -622,15 +564,85 @@
   ],
   "news": [
     {
-      "id": "d8416cd32bbe",
-      "title": "Tuesday\u2019s Class A South girls basketball: Biddeford survives Windham\u2019s upset bid",
-      "summary": "The 2025 regional champion is pushed to the limit but escapes and advances to the semifinals.",
-      "url": "https://www.pressherald.com/2026/02/17/tuesdays-class-a-south-girls-basketball-south-portland-rallies-past-westbrook/",
-      "source": "Portland Press Herald",
+      "id": "dfb6431035f5",
+      "title": "Maine\u2019s 2025 moose harvest report is out. Here are the key takeaways.",
+      "summary": "The report covers harvest totals and permit success, and moose age data and population structure.",
+      "url": "https://www.bangordailynews.com/2026/02/19/outdoors/hunting/maines-2025-moose-harvest-report-is-out-here-are-the-key-takeaways/",
+      "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-02-19",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2e8dfdb79c27",
+      "title": "\u2018Maple Days\u2019 shares history of New England sugaring season at Old Sturbridge Village",
+      "summary": "Demonstrations are available on select days at the historic village.",
+      "url": "https://www.masslive.com/entertainment/2026/02/maple-days-shares-history-of-new-england-sugaring-season-at-old-sturbridge-village.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-19",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "eb7ef8032ed6",
+      "title": "Who does USA men\u2019s hockey play next? See Olympics bracket, schedule",
+      "summary": "The other semifinal will feature Canada against Finland at 10:40 a.m. ET. NBC will broadcast both games.",
+      "url": "https://www.masslive.com/tv/2026/02/who-does-usa-mens-hockey-play-next-see-olympics-bracket-schedule.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-19",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bc4bb5cec1d9",
+      "title": "\u2018Chaos in the streets\u2019: Inside the debate over who\u2019s at fault for violent ICE arrests",
+      "summary": "With ICE\u2019s expanded power leaving blood on Massachusetts pavement, violent street arrests are rising \u2014 and officials are battling over who\u2019s to blame.",
+      "url": "https://www.masslive.com/news/2026/02/chaos-in-the-streets-inside-the-debate-over-whos-at-fault-for-violent-ice-arrests.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-19",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "hma"
+      ]
+    },
+    {
+      "id": "cb5aa278969c",
+      "title": "Vermont\u2019s county fairs are thriving. Now they worry updated water rules could threaten that.",
+      "summary": "Also in Final Reading: Limits on AI campaign ads, paving the way for clinical shrooms, Ticklenaked Pond. \nRead the story on VTDigger here:  Vermont\u2019s county fairs are thriving. Now they worry updated water rules could threaten that..",
+      "url": "https://vtdigger.org/2026/02/18/vermonts-county-fairs-are-thriving-now-they-worry-updated-water-rules-could-threaten-that/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-02-18",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "hma"
+      ]
+    },
+    {
+      "id": "0668b8ec170a",
+      "title": "Samantha\u2019s road to a brighter future",
+      "summary": "After facing difficult living circumstances, health challenges, and single parenthood, Samantha found the courage to begin again. She earned academic honors and discovered her path. Soon graduating with her bachelor\u2019s degree, she\u2019s accelerating toward her master\u2019s\u2014and a career in helping children.",
+      "url": "https://vtdigger.org/2026/02/18/samanthas-road-to-a-brighter-future/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-18",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -657,34 +669,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-02-17",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "895c2eeff68e",
-      "title": "Health department urges caution after rabid bat bites Strafford resident",
-      "summary": "Department officials collected the bat for testing Feb. 4 and notified Strafford Health Officer Stephen Marx a couple of days later.\nRead the story on VTDigger here:  Health department urges caution after rabid bat bites Strafford resident.",
-      "url": "https://vtdigger.org/2026/02/16/health-department-urges-caution-after-rabid-bat-bites-strafford-resident/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-16",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4f51d0c3f34a",
-      "title": "Crossroads intensive transitional-aged youth outpatient program: a lifeline of hope and recovery for those with mental health needs",
-      "summary": "Vermont faces a deepening youth mental health crisis, with rising depression, anxiety, and suicide risk, especially among Transitional-Aged Youth. NFI Crossroads\u2019 Dialectical Behavior Therapy-based intensive outpatient program provides skills-focused treatment that builds coping abilities, strength",
-      "url": "https://vtdigger.org/2026/02/16/crossroads-intensive-transitional-aged-youth-outpatient-program-a-lifeline-of-hope-and-recovery-for-those-with-mental-health-needs/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-16",
       "category": "news",
       "priority": "medium",
       "business_lines": [
