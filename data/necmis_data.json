@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-19T11:29:24.075955Z",
+  "generated": "2026-02-20T11:21:49.288778Z",
   "summary": {
-    "total_opportunities": 28,
+    "total_opportunities": 29,
     "total_value_low": 174726930,
     "total_value_high": 174726930,
     "by_state": {
-      "VT": 3,
-      "NH": 3,
-      "ME": 2,
+      "VT": 4,
+      "NH": 4,
+      "ME": 3,
       "MA": 24,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 28,
-      "news": 8,
-      "funding": 0
+      "news": 10,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -564,27 +564,13 @@
   ],
   "news": [
     {
-      "id": "dfb6431035f5",
-      "title": "Maine\u2019s 2025 moose harvest report is out. Here are the key takeaways.",
-      "summary": "The report covers harvest totals and permit success, and moose age data and population structure.",
-      "url": "https://www.bangordailynews.com/2026/02/19/outdoors/hunting/maines-2025-moose-harvest-report-is-out-here-are-the-key-takeaways/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2e8dfdb79c27",
-      "title": "\u2018Maple Days\u2019 shares history of New England sugaring season at Old Sturbridge Village",
-      "summary": "Demonstrations are available on select days at the historic village.",
-      "url": "https://www.masslive.com/entertainment/2026/02/maple-days-shares-history-of-new-england-sugaring-season-at-old-sturbridge-village.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-19",
+      "id": "ccd3757596fb",
+      "title": "Michael M. Cohen: Build bridges, not walls",
+      "summary": "Instead of symbolic resolutions that deepen division, Vermonters should support Israelis and Palestinians building peace together.\nRead the story on VTDigger here:  Michael M. Cohen: Build bridges, not walls.",
+      "url": "https://vtdigger.org/2026/02/20/michael-m-cohen-build-bridges-not-walls/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-20",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -592,13 +578,56 @@
       ]
     },
     {
-      "id": "eb7ef8032ed6",
-      "title": "Who does USA men\u2019s hockey play next? See Olympics bracket, schedule",
-      "summary": "The other semifinal will feature Canada against Finland at 10:40 a.m. ET. NBC will broadcast both games.",
-      "url": "https://www.masslive.com/tv/2026/02/who-does-usa-mens-hockey-play-next-see-olympics-bracket-schedule.html",
+      "id": "7399a87349f0",
+      "title": "Homeowner discovered immediate issues in newly built Hampden house, lawsuit says",
+      "summary": "The owner of the Stearns Farm Road house is seeking $40,000 to cover a variety of repairs.",
+      "url": "https://www.bangordailynews.com/2026/02/20/bangor/bangor-police-courts/homeowner-discovered-immediate-issues-in-newly-built-hampden-house-lawsuit-says/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-20",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "34152248aee3",
+      "title": "Alaska to replace Black Veterans Memorial Bridge, saving part as tribute to Alaska Highway builders",
+      "summary": "ANCHORAGE, Alaska (AP) \u2014 Thousands of Black soldiers performed the backbreaking work of transforming rough-hewn wilderness in extreme weather swings during World War II to help build the first road link between Alaska and the Lower 48. The work of the segregated Black soldiers is credited with bring",
+      "url": "https://www.bangordailynews.com/2026/02/20/nation/alaska-to-replace-black-veterans-memorial-bridge-saving-part-as-tribute-to-alaska-highway-builders/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-20",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway",
+        "aggregates"
+      ]
+    },
+    {
+      "id": "9fcf246d4b9e",
+      "title": "Senate Republicans Kill Efforts to Fund Housing Champions, Increase Oversight of EFAs",
+      "summary": "As hard as they tried, Democrats could not get a single Republican vote in the Senate to pass a number of initiatives offered, including bills to help support infrastructure development for new housing, allow for redistricting maps to be developed before public hearings, and a number of bills that w",
+      "url": "https://indepthnh.org/2026/02/19/senate-republicans-kill-efforts-to-fund-housing-champions-increase-oversight-of-efas/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-02-20",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c9e04d1e5f52",
+      "title": "Wanted: Resident to tell Southwick\u2019s stories on Channel 15",
+      "summary": "Recognizing that the town\u2019s public access station Channel 15 is underutilized, Select Board member Russ Anderson is reaching out to residents to get them involved in creating content specific to Southwick to broadcast.",
+      "url": "https://www.masslive.com/westfieldnews/2026/02/wanted-resident-to-tell-southwicks-stories-on-channel-15.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-02-19",
+      "date": "2026-02-20",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -606,17 +635,31 @@
       ]
     },
     {
-      "id": "bc4bb5cec1d9",
-      "title": "\u2018Chaos in the streets\u2019: Inside the debate over who\u2019s at fault for violent ICE arrests",
-      "summary": "With ICE\u2019s expanded power leaving blood on Massachusetts pavement, violent street arrests are rising \u2014 and officials are battling over who\u2019s to blame.",
-      "url": "https://www.masslive.com/news/2026/02/chaos-in-the-streets-inside-the-debate-over-whos-at-fault-for-violent-ice-arrests.html",
+      "id": "3fed034f835e",
+      "title": "Westfield comeback falls short in Class A boys ice hockey finals",
+      "summary": "Three weeks ago, the Westfield High School boys ice hockey team scored three goals in the final 2:06 to complete a stunning 4-3, come-from-behind victory on the road against Greenfield.\nUnfortunately for the Bombers, a repeat performance was not in the cards in their championship game.",
+      "url": "https://www.masslive.com/westfieldnews/2026/02/westfield-comeback-falls-short-in-class-a-boys-ice-hockey-finals.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-02-19",
+      "date": "2026-02-20",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "hma"
+        "highway"
+      ]
+    },
+    {
+      "id": "7e3d46926834",
+      "title": "4 takeaways as Celtics beat Warriors after holding off unexpected rally",
+      "summary": "The Celtics got a late scare from the Warriors but were able to kick off their road trip on a high note.",
+      "url": "https://www.masslive.com/celtics/2026/02/4-takeaways-as-celtics-beat-warriors-after-holding-off-unexpected-rally.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
       ]
     },
     {
