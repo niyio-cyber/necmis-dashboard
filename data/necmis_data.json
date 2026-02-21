@@ -1,23 +1,23 @@
 {
-  "generated": "2026-02-20T11:21:49.288778Z",
+  "generated": "2026-02-21T11:11:45.046461Z",
   "summary": {
     "total_opportunities": 29,
-    "total_value_low": 174726930,
-    "total_value_high": 174726930,
+    "total_value_low": 174861930,
+    "total_value_high": 174861930,
     "by_state": {
-      "VT": 4,
-      "NH": 4,
-      "ME": 3,
-      "MA": 24,
+      "VT": 3,
+      "NH": 3,
+      "ME": 5,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 28,
-      "news": 10,
-      "funding": 1
+      "dot_letting": 29,
+      "news": 9,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -429,6 +429,25 @@
       ]
     },
     {
+      "id": "571090d3f56b",
+      "state": "MA",
+      "project_id": "614118",
+      "description": "Scheduled and Emergency Standpipe and Fire Safety Inspection, Testing and Repairs at Various Locations",
+      "cost_low": 135000,
+      "cost_high": 135000,
+      "cost_display": "$135K",
+      "ad_date": "2026-02-21",
+      "let_date": null,
+      "project_type": "DCAMM-Fire Protection Sprinkler Systems",
+      "location": "District 3",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614118",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "8b98c149c319",
       "state": "ME",
       "project_id": null,
@@ -564,6 +583,62 @@
   ],
   "news": [
     {
+      "id": "70ffae1c05a7",
+      "title": "Maine\u2019s electrical grid investment can\u2019t be deferred | Opinion",
+      "summary": "Every year we wait, our aging infrastructure becomes more vulnerable and more expensive to fix.",
+      "url": "https://www.pressherald.com/2026/02/21/maines-electrical-grid-investment-cant-be-deferred-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-21",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3d6e4587c7ef",
+      "title": "Biddeford City Council should approve sale of convent to UNE | Letter",
+      "summary": "It has come to my attention that the Biddeford City Council has placed a moratorium on allowing the University of New England (UNE) to purchase the convent of the Good Shepherd Sisters. The convent sits near the Saco River.\u00a0 Members of that order first came to Biddeford in 1882 to teach the children",
+      "url": "https://www.pressherald.com/2026/02/21/biddeford-city-council-should-approve-sale-of-convent-to-une-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-21",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "65a70bc7579b",
+      "title": "Mariners make it three wins in a row",
+      "summary": "Maine continues its long stretch of road games with a victory over Bloomington.",
+      "url": "https://www.pressherald.com/2026/02/20/mariners-make-it-three-wins-in-a-row/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-21",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "68e9ccb43331",
+      "title": "Public hearing on Southampton Road intersection improvement scheduled for Feb. 25",
+      "summary": "The state Department of Transportation is holding a public hearing on Wednesday, Feb. 25 to learn more about a project to improve the intersection of Servistar Industrial Way and Barnes Airport Drive intersection on Southampton Road in Westfield.",
+      "url": "https://www.masslive.com/westfieldnews/2026/02/public-hearing-on-southampton-road-intersection-improvement-scheduled-for-feb-25.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-21",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "ccd3757596fb",
       "title": "Michael M. Cohen: Build bridges, not walls",
       "summary": "Instead of symbolic resolutions that deepen division, Vermonters should support Israelis and Palestinians building peace together.\nRead the story on VTDigger here:  Michael M. Cohen: Build bridges, not walls.",
@@ -578,32 +653,31 @@
       ]
     },
     {
-      "id": "7399a87349f0",
-      "title": "Homeowner discovered immediate issues in newly built Hampden house, lawsuit says",
-      "summary": "The owner of the Stearns Farm Road house is seeking $40,000 to cover a variety of repairs.",
-      "url": "https://www.bangordailynews.com/2026/02/20/bangor/bangor-police-courts/homeowner-discovered-immediate-issues-in-newly-built-hampden-house-lawsuit-says/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-20",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "34152248aee3",
-      "title": "Alaska to replace Black Veterans Memorial Bridge, saving part as tribute to Alaska Highway builders",
-      "summary": "ANCHORAGE, Alaska (AP) \u2014 Thousands of Black soldiers performed the backbreaking work of transforming rough-hewn wilderness in extreme weather swings during World War II to help build the first road link between Alaska and the Lower 48. The work of the segregated Black soldiers is credited with bring",
-      "url": "https://www.bangordailynews.com/2026/02/20/nation/alaska-to-replace-black-veterans-memorial-bridge-saving-part-as-tribute-to-alaska-highway-builders/",
+      "id": "3b75fcdc898a",
+      "title": "Trump administration to stand by tough Biden-era mandates to replace lead pipes",
+      "summary": "WASHINGTON (AP) \u2014 The Trump administration said Friday it backs a 10-year deadline for most cities and towns to replace their harmful lead pipes, giving notice that it will support a tough rule approved under the Biden administration to reduce lead in drinking water. The Environmental Protection Age",
+      "url": "https://www.bangordailynews.com/2026/02/20/nation/trump-administration-to-stand-by-tough-biden-era-mandates-to-replace-lead-pipes/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-02-20",
       "category": "news",
       "priority": "high",
       "business_lines": [
-        "highway",
-        "aggregates"
+        "highway"
+      ]
+    },
+    {
+      "id": "136433cea5ce",
+      "title": "House Bills Targeting the Transgender Community Face Protesters",
+      "summary": "About a dozen people protested House Bills that would permit classification of people based on biological sex under certain circumstances, and restrict the use of certain public and private facilities on the basis of sex Friday at a House Judiciary Committee hearing at Granite Place.",
+      "url": "https://indepthnh.org/2026/02/20/house-bills-targeting-the-transgender-community-face-protesters/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-02-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -621,48 +695,6 @@
       ]
     },
     {
-      "id": "c9e04d1e5f52",
-      "title": "Wanted: Resident to tell Southwick\u2019s stories on Channel 15",
-      "summary": "Recognizing that the town\u2019s public access station Channel 15 is underutilized, Select Board member Russ Anderson is reaching out to residents to get them involved in creating content specific to Southwick to broadcast.",
-      "url": "https://www.masslive.com/westfieldnews/2026/02/wanted-resident-to-tell-southwicks-stories-on-channel-15.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3fed034f835e",
-      "title": "Westfield comeback falls short in Class A boys ice hockey finals",
-      "summary": "Three weeks ago, the Westfield High School boys ice hockey team scored three goals in the final 2:06 to complete a stunning 4-3, come-from-behind victory on the road against Greenfield.\nUnfortunately for the Bombers, a repeat performance was not in the cards in their championship game.",
-      "url": "https://www.masslive.com/westfieldnews/2026/02/westfield-comeback-falls-short-in-class-a-boys-ice-hockey-finals.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7e3d46926834",
-      "title": "4 takeaways as Celtics beat Warriors after holding off unexpected rally",
-      "summary": "The Celtics got a late scare from the Warriors but were able to kick off their road trip on a high note.",
-      "url": "https://www.masslive.com/celtics/2026/02/4-takeaways-as-celtics-beat-warriors-after-holding-off-unexpected-rally.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "cb5aa278969c",
       "title": "Vermont\u2019s county fairs are thriving. Now they worry updated water rules could threaten that.",
       "summary": "Also in Final Reading: Limits on AI campaign ads, paving the way for clinical shrooms, Ticklenaked Pond. \nRead the story on VTDigger here:  Vermont\u2019s county fairs are thriving. Now they worry updated water rules could threaten that..",
@@ -674,48 +706,6 @@
       "priority": "high",
       "business_lines": [
         "hma"
-      ]
-    },
-    {
-      "id": "0668b8ec170a",
-      "title": "Samantha\u2019s road to a brighter future",
-      "summary": "After facing difficult living circumstances, health challenges, and single parenthood, Samantha found the courage to begin again. She earned academic honors and discovered her path. Soon graduating with her bachelor\u2019s degree, she\u2019s accelerating toward her master\u2019s\u2014and a career in helping children.",
-      "url": "https://vtdigger.org/2026/02/18/samanthas-road-to-a-brighter-future/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4bd40588e20c",
-      "title": "AI Oversight Draws Rebuke from Industry",
-      "summary": "An attempt to regulate AI in the state is a bridge too far for the businesses that provide telecom, internet and similar services.",
-      "url": "https://indepthnh.org/2026/02/17/ai-oversight-draws-rebuke-from-industry/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-02-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ac337d62e2e0",
-      "title": "Bill Targets State Surplus Property for Affordable Housing Projects",
-      "summary": "The House Committee on Housing held a public hearing Tuesday for House Bill 1726, which would direct state agencies to identify and dispose of surplus property for the development of affordable housing units.",
-      "url": "https://indepthnh.org/2026/02/17/bill-targets-state-surplus-property-for-affordable-housing-projects/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-02-17",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     }
   ],
