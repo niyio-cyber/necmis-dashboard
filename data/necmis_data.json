@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-21T11:11:45.046461Z",
+  "generated": "2026-02-22T11:12:04.542309Z",
   "summary": {
-    "total_opportunities": 29,
+    "total_opportunities": 30,
     "total_value_low": 174861930,
     "total_value_high": 174861930,
     "by_state": {
       "VT": 3,
       "NH": 3,
-      "ME": 5,
+      "ME": 2,
       "MA": 23,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 9,
-      "funding": 0
+      "news": 5,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -583,41 +583,13 @@
   ],
   "news": [
     {
-      "id": "70ffae1c05a7",
-      "title": "Maine\u2019s electrical grid investment can\u2019t be deferred | Opinion",
-      "summary": "Every year we wait, our aging infrastructure becomes more vulnerable and more expensive to fix.",
-      "url": "https://www.pressherald.com/2026/02/21/maines-electrical-grid-investment-cant-be-deferred-opinion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-21",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3d6e4587c7ef",
-      "title": "Biddeford City Council should approve sale of convent to UNE | Letter",
-      "summary": "It has come to my attention that the Biddeford City Council has placed a moratorium on allowing the University of New England (UNE) to purchase the convent of the Good Shepherd Sisters. The convent sits near the Saco River.\u00a0 Members of that order first came to Biddeford in 1882 to teach the children",
-      "url": "https://www.pressherald.com/2026/02/21/biddeford-city-council-should-approve-sale-of-convent-to-une-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-21",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "65a70bc7579b",
-      "title": "Mariners make it three wins in a row",
-      "summary": "Maine continues its long stretch of road games with a victory over Bloomington.",
-      "url": "https://www.pressherald.com/2026/02/20/mariners-make-it-three-wins-in-a-row/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-21",
+      "id": "54d2ce3884ca",
+      "title": "More cash-strapped Vermont communities seek local taxes on rooms, meals, alcohol and sales",
+      "summary": "Almost 20 municipalities will ask March Town Meeting voters to join the nearly 40 cities and towns now piggybacking on state charges with their own 1% fee on various tourism-related purchases.\nRead the story on VTDigger here:  More cash-strapped Vermont communities seek local taxes on rooms, meals,",
+      "url": "https://vtdigger.org/2026/02/22/more-cash-strapped-vermont-communities-seek-local-taxes-on-rooms-meals-alcohol-and-sales/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-22",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -625,14 +597,28 @@
       ]
     },
     {
-      "id": "68e9ccb43331",
-      "title": "Public hearing on Southampton Road intersection improvement scheduled for Feb. 25",
-      "summary": "The state Department of Transportation is holding a public hearing on Wednesday, Feb. 25 to learn more about a project to improve the intersection of Servistar Industrial Way and Barnes Airport Drive intersection on Southampton Road in Westfield.",
-      "url": "https://www.masslive.com/westfieldnews/2026/02/public-hearing-on-southampton-road-intersection-improvement-scheduled-for-feb-25.html",
+      "id": "0c23a4e02f26",
+      "title": "Cutting property taxes in Maine? That\u2019s gonna be a no from me, dawg. | Victoria Hugo-Vidal",
+      "summary": "As imperfect as our system is, it beats starving municipal government of needed revenue and watching public schools crumble.",
+      "url": "https://www.pressherald.com/2026/02/22/cutting-property-taxes-in-maine-thats-gonna-be-a-no-from-me-dawg-victoria-hugo-vidal/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "53bfdc34eeb4",
+      "title": "Hampton Beach is losing its iconic casino for three summers. What's coming next is massive",
+      "summary": "After hosting legends from Louis Armstrong to Janis Joplin since 1899, the iconic venue will make way for a $600 million luxury development.",
+      "url": "https://www.masslive.com/news/2026/02/new-hotel-and-casino-planned-at-nhs-hampton-beach-what-we-know.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-02-21",
-      "category": "news",
+      "date": "2026-02-22",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -645,20 +631,6 @@
       "url": "https://vtdigger.org/2026/02/20/michael-m-cohen-build-bridges-not-walls/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-02-20",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3b75fcdc898a",
-      "title": "Trump administration to stand by tough Biden-era mandates to replace lead pipes",
-      "summary": "WASHINGTON (AP) \u2014 The Trump administration said Friday it backs a 10-year deadline for most cities and towns to replace their harmful lead pipes, giving notice that it will support a tough rule approved under the Biden administration to reduce lead in drinking water. The Environmental Protection Age",
-      "url": "https://www.bangordailynews.com/2026/02/20/nation/trump-administration-to-stand-by-tough-biden-era-mandates-to-replace-lead-pipes/",
-      "source": "Bangor Daily News",
-      "state": "ME",
       "date": "2026-02-20",
       "category": "news",
       "priority": "high",
@@ -692,20 +664,6 @@
       "priority": "high",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "cb5aa278969c",
-      "title": "Vermont\u2019s county fairs are thriving. Now they worry updated water rules could threaten that.",
-      "summary": "Also in Final Reading: Limits on AI campaign ads, paving the way for clinical shrooms, Ticklenaked Pond. \nRead the story on VTDigger here:  Vermont\u2019s county fairs are thriving. Now they worry updated water rules could threaten that..",
-      "url": "https://vtdigger.org/2026/02/18/vermonts-county-fairs-are-thriving-now-they-worry-updated-water-rules-could-threaten-that/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-18",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "hma"
       ]
     }
   ],
