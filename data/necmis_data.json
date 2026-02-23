@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-22T11:12:04.542309Z",
+  "generated": "2026-02-23T11:30:49.157533Z",
   "summary": {
-    "total_opportunities": 30,
+    "total_opportunities": 29,
     "total_value_low": 174861930,
     "total_value_high": 174861930,
     "by_state": {
       "VT": 3,
-      "NH": 3,
+      "NH": 4,
       "ME": 2,
-      "MA": 23,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 5,
-      "funding": 1
+      "news": 6,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -583,6 +583,20 @@
   ],
   "news": [
     {
+      "id": "5fd1c791a0d1",
+      "title": "Gas station approved for S. River Road in Bedford",
+      "summary": "A parcel on South River Road in Bedford approved to become a Tesla dealership got approval last week to use a portion of the land as a gas station, convenience store and drive-thru restaurant.",
+      "url": "https://www.unionleader.com/news/business/gas-station-approved-for-s-river-road-in-bedford/article_286fc1ed-e811-44a6-b311-523291a4f70f.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-02-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "54d2ce3884ca",
       "title": "More cash-strapped Vermont communities seek local taxes on rooms, meals, alcohol and sales",
       "summary": "Almost 20 municipalities will ask March Town Meeting voters to join the nearly 40 cities and towns now piggybacking on state charges with their own 1% fee on various tourism-related purchases.\nRead the story on VTDigger here:  More cash-strapped Vermont communities seek local taxes on rooms, meals,",
@@ -597,28 +611,14 @@
       ]
     },
     {
-      "id": "0c23a4e02f26",
-      "title": "Cutting property taxes in Maine? That\u2019s gonna be a no from me, dawg. | Victoria Hugo-Vidal",
-      "summary": "As imperfect as our system is, it beats starving municipal government of needed revenue and watching public schools crumble.",
-      "url": "https://www.pressherald.com/2026/02/22/cutting-property-taxes-in-maine-thats-gonna-be-a-no-from-me-dawg-victoria-hugo-vidal/",
-      "source": "Portland Press Herald",
+      "id": "0302911952d7",
+      "title": "Pedestrian killed by vehicle in Waterville gas station parking lot",
+      "summary": "The Waterville Police Department said it appears a vehicle left the roadway and struck a vehicle at a Big Apple gas pump.",
+      "url": "https://www.bangordailynews.com/2026/02/22/central-maine/central-maine-police-courts/waterville-fatal-crash-pedestrian/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-02-22",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "53bfdc34eeb4",
-      "title": "Hampton Beach is losing its iconic casino for three summers. What's coming next is massive",
-      "summary": "After hosting legends from Louis Armstrong to Janis Joplin since 1899, the iconic venue will make way for a $600 million luxury development.",
-      "url": "https://www.masslive.com/news/2026/02/new-hotel-and-casino-planned-at-nhs-hampton-beach-what-we-know.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-22",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
