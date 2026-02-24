@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-23T11:30:49.157533Z",
+  "generated": "2026-02-24T11:31:01.151292Z",
   "summary": {
     "total_opportunities": 29,
     "total_value_low": 174861930,
     "total_value_high": 174861930,
     "by_state": {
-      "VT": 3,
+      "VT": 2,
       "NH": 4,
-      "ME": 2,
+      "ME": 3,
       "MA": 22,
       "NY": 1,
       "RI": 1,
@@ -120,65 +120,6 @@
       ]
     },
     {
-      "id": "6c9295a9e87d",
-      "state": "MA",
-      "project_id": "614066",
-      "description": "Roadside Barrier Reconstruction & Repair at Various Locations",
-      "cost_low": 1997850,
-      "cost_high": 1997850,
-      "cost_display": "$2.0M",
-      "ad_date": "2026-01-24",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614066",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c3d941ee2d38",
-      "state": "MA",
-      "project_id": "86461",
-      "description": "Superstructure Replacement, L-12-002, Concord Road (Route 126) over MBTA/CSX Railroad",
-      "cost_low": 13028888,
-      "cost_high": 13028888,
-      "cost_display": "$13.0M",
-      "ad_date": "2025-09-13",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Lincoln",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=86461",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "17d10466e789",
-      "state": "MA",
-      "project_id": "609399",
-      "description": "Resurfacing and Related Work on Route 28",
-      "cost_low": 5060511,
-      "cost_high": 5060511,
-      "cost_display": "$5.1M",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Randolph",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609399",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
       "id": "60a1bc4ef87f",
       "state": "MA",
       "project_id": "614013",
@@ -236,6 +177,25 @@
       ]
     },
     {
+      "id": "6c9295a9e87d",
+      "state": "MA",
+      "project_id": "614066",
+      "description": "Roadside Barrier Reconstruction & Repair at Various Locations",
+      "cost_low": 1997850,
+      "cost_high": 1997850,
+      "cost_display": "$2.0M",
+      "ad_date": "2026-01-24",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614066",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "c6763d8922f4",
       "state": "MA",
       "project_id": "614067",
@@ -271,6 +231,46 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "c3d941ee2d38",
+      "state": "MA",
+      "project_id": "86461",
+      "description": "Superstructure Replacement, L-12-002, Concord Road (Route 126) over MBTA/CSX Railroad",
+      "cost_low": 13028888,
+      "cost_high": 13028888,
+      "cost_display": "$13.0M",
+      "ad_date": "2025-09-13",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Lincoln",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=86461",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "17d10466e789",
+      "state": "MA",
+      "project_id": "609399",
+      "description": "Resurfacing and Related Work on Route 28",
+      "cost_low": 5060511,
+      "cost_high": 5060511,
+      "cost_display": "$5.1M",
+      "ad_date": "2025-12-27",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Randolph",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609399",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
       ]
     },
     {
@@ -583,6 +583,34 @@
   ],
   "news": [
     {
+      "id": "7f958d840862",
+      "title": "Support independent Rick Bennett for governor | Letter",
+      "summary": "I\u2019m a former commercial fisherman, executive director of the Biddeford+Saco Chamber of Commerce+Industry and director of transportation for Biddeford Saco Old Orchard Beach Transit. In 2024, I ran for state Senate as an independent and committed to running a positive issue-based campaign. Unfortunat",
+      "url": "https://www.pressherald.com/2026/02/24/support-independent-rick-bennett-for-governor-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "533385d3171a",
+      "title": "She put a roadkill deer in her new car. It attracted 2 rare golden eagles.",
+      "summary": "\"I kept telling myself to be cautious. After all, Occam\u2019s razor, right? When you hear hoofbeats, think horse, not unicorn.\u201d",
+      "url": "https://www.bangordailynews.com/2026/02/24/outdoors/wildlife/roadkill-deer-attracted-rare-golden-eagles-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "5fd1c791a0d1",
       "title": "Gas station approved for S. River Road in Bedford",
       "summary": "A parcel on South River Road in Bedford approved to become a Tesla dealership got approval last week to use a portion of the land as a gas station, convenience store and drive-thru restaurant.",
@@ -606,34 +634,6 @@
       "date": "2026-02-22",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0302911952d7",
-      "title": "Pedestrian killed by vehicle in Waterville gas station parking lot",
-      "summary": "The Waterville Police Department said it appears a vehicle left the roadway and struck a vehicle at a Big Apple gas pump.",
-      "url": "https://www.bangordailynews.com/2026/02/22/central-maine/central-maine-police-courts/waterville-fatal-crash-pedestrian/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ccd3757596fb",
-      "title": "Michael M. Cohen: Build bridges, not walls",
-      "summary": "Instead of symbolic resolutions that deepen division, Vermonters should support Israelis and Palestinians building peace together.\nRead the story on VTDigger here:  Michael M. Cohen: Build bridges, not walls.",
-      "url": "https://vtdigger.org/2026/02/20/michael-m-cohen-build-bridges-not-walls/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-20",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
