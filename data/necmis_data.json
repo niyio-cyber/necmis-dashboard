@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-24T11:31:01.151292Z",
+  "generated": "2026-02-25T11:31:32.459053Z",
   "summary": {
     "total_opportunities": 29,
     "total_value_low": 174861930,
     "total_value_high": 174861930,
     "by_state": {
       "VT": 2,
-      "NH": 4,
-      "ME": 3,
+      "NH": 2,
+      "ME": 4,
       "MA": 22,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 6,
+      "news": 5,
       "funding": 0
     }
   },
@@ -583,13 +583,13 @@
   ],
   "news": [
     {
-      "id": "7f958d840862",
-      "title": "Support independent Rick Bennett for governor | Letter",
-      "summary": "I\u2019m a former commercial fisherman, executive director of the Biddeford+Saco Chamber of Commerce+Industry and director of transportation for Biddeford Saco Old Orchard Beach Transit. In 2024, I ran for state Senate as an independent and committed to running a positive issue-based campaign. Unfortunat",
-      "url": "https://www.pressherald.com/2026/02/24/support-independent-rick-bennett-for-governor-letter/",
-      "source": "Portland Press Herald",
+      "id": "6dc4bb726b94",
+      "title": "An Aroostook bridge needs repairs that could disrupt 2 communities for months",
+      "summary": "The average lifespan of a bridge surface is around 50 years. The one spanning the Aroostook River in Caribou has held up for nearly 75.",
+      "url": "https://www.bangordailynews.com/2026/02/25/aroostook/aroostook-government/caribou-aroostook-river-bridge-repairs-joam40zk0w/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-02-24",
+      "date": "2026-02-25",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -597,10 +597,24 @@
       ]
     },
     {
-      "id": "533385d3171a",
-      "title": "She put a roadkill deer in her new car. It attracted 2 rare golden eagles.",
-      "summary": "\"I kept telling myself to be cautious. After all, Occam\u2019s razor, right? When you hear hoofbeats, think horse, not unicorn.\u201d",
-      "url": "https://www.bangordailynews.com/2026/02/24/outdoors/wildlife/roadkill-deer-attracted-rare-golden-eagles-joam40zk0w/",
+      "id": "cc27fc28c957",
+      "title": "Searsport plans repairs to\u00a0reopen part of municipal pier",
+      "summary": "The section, often referred to as \u201cthe finger,\u201d dates back to the 1960s and has been closed for safety reasons since 2023.",
+      "url": "https://www.bangordailynews.com/2026/02/25/midcoast/midcoast-government/searsport-plans-repairs-to-municipal-pier-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-02-25",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b810db020e05",
+      "title": "Watch: Donald Trump issues State of the Union address",
+      "summary": "The address will start around 9 p.m. Tuesday, and will be broadcast on CSpan.",
+      "url": "https://www.bangordailynews.com/2026/02/24/politics/washington/watch-donald-trump-issues-state-of-the-union-address/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-02-24",
@@ -634,34 +648,6 @@
       "date": "2026-02-22",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "136433cea5ce",
-      "title": "House Bills Targeting the Transgender Community Face Protesters",
-      "summary": "About a dozen people protested House Bills that would permit classification of people based on biological sex under certain circumstances, and restrict the use of certain public and private facilities on the basis of sex Friday at a House Judiciary Committee hearing at Granite Place.",
-      "url": "https://indepthnh.org/2026/02/20/house-bills-targeting-the-transgender-community-face-protesters/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-02-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9fcf246d4b9e",
-      "title": "Senate Republicans Kill Efforts to Fund Housing Champions, Increase Oversight of EFAs",
-      "summary": "As hard as they tried, Democrats could not get a single Republican vote in the Senate to pass a number of initiatives offered, including bills to help support infrastructure development for new housing, allow for redistricting maps to be developed before public hearings, and a number of bills that w",
-      "url": "https://indepthnh.org/2026/02/19/senate-republicans-kill-efforts-to-fund-housing-champions-increase-oversight-of-efas/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-02-20",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
