@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-26T11:30:34.544012Z",
+  "generated": "2026-02-27T11:22:47.777066Z",
   "summary": {
-    "total_opportunities": 30,
+    "total_opportunities": 29,
     "total_value_low": 174861930,
     "total_value_high": 174861930,
     "by_state": {
-      "VT": 3,
-      "NH": 2,
-      "ME": 8,
-      "MA": 25,
+      "VT": 4,
+      "NH": 3,
+      "ME": 2,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 12,
-      "funding": 1
+      "news": 8,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -583,6 +583,62 @@
   ],
   "news": [
     {
+      "id": "60f5f4e879ce",
+      "title": "Emily Anderson: Fragile wetlands could lose protection",
+      "summary": "New proposal would ease permitting in some unmapped wetlands, raising concerns about impacts on vernal pools.\nRead the story on VTDigger here:  Emily Anderson: Fragile wetlands could lose protection.",
+      "url": "https://vtdigger.org/2026/02/26/emily-anderson-fragile-wetlands-could-lose-protection/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-02-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cc5a4a9fa631",
+      "title": "New program helps dozens of York County families find stable housing",
+      "summary": "The Biddeford school district and York County Community Action Corporation have doled out assistance to 84 families as part of the Maine Housing Student Homelessness Prevention Pilot.",
+      "url": "https://www.pressherald.com/2026/02/27/new-program-helps-dozens-of-york-county-families-find-stable-housing/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-27",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "56277cea3696",
+      "title": "Gem Marina asks Planning Board to convert boat slips from transient to long-term",
+      "summary": "The Southwick Planning Board closed a public hearing on a request by the owner of Gem Marina at 141 Congamond Road asking it to modify its special permit to allow it to convert four of its transient-use boat slips, which now total 16, to increase the number of long-term slip rentals to 28.",
+      "url": "https://www.masslive.com/westfieldnews/2026/02/gem-marina-asks-planning-board-to-convert-boat-slips-from-transient-to-long-term.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5413ae9d8299",
+      "title": "Westfield Police Department construction project to go before Planning Board",
+      "summary": "The appearance and details of the long-awaited project to build a new Westfield police station will be informally announced during the initial site plan review in front of the Planning Board meeting on Tuesday, March 3 in the City Council Chambers with the initial site plan review.",
+      "url": "https://www.masslive.com/westfieldnews/2026/02/westfield-police-department-construction-project-to-go-before-planning-board.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-02-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "f0b4c156f8a1",
       "title": "Francine Miller: Why I\u2019m voting for the Apartheid-Free Communities pledge",
       "summary": "Bridge-building matters, but it does not address a deep imbalance of power between Israel and the Palestinians.\nRead the story on VTDigger here:  Francine Miller: Why I\u2019m voting for the Apartheid-Free Communities pledge.",
@@ -597,127 +653,15 @@
       ]
     },
     {
-      "id": "8397eac083ed",
-      "title": "Pausing work permits for asylum seekers would hurt Maine\u2019s economy, officials say",
-      "summary": "The Trump administration has proposed halting work permits from being issued until a backlog of over 1.4 million asylum applications is eliminated.",
-      "url": "https://www.pressherald.com/2026/02/26/pausing-work-permits-for-asylum-seekers-would-hurt-maines-economy-officials-say/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-26",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8aba388af301",
-      "title": "Obituary: Daniel Hatt",
-      "summary": "BIDDEFORD - Daniel was born in Pictou, Nova Scotia on June 5, 1973, the son of Delbert Hatt and Jacqueline Hayes ...",
-      "url": "https://www.pressherald.com/2026/02/26/obituarydaniel-hatt-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
+      "id": "1a9d8206acad",
+      "title": "Paramount Skydance apparent winner of Warner Bros; Netflix walks away and its shares jump",
+      "summary": "Paramount Skydance emerged as the likely winner in a months-long battle to acquire Warner Bros. Discovery, after streaming giant Netflix on Thursday refused to raise its bid for the storied Hollywood studio.",
+      "url": "https://www.unionleader.com/news/business/paramount-skydance-apparent-winner-of-warner-bros-netflix-walks-away-and-its-shares-jump/article_4969a8a6-4606-55b2-a23e-6b8b62eb7392.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-02-26",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "41bf308eda0d",
-      "title": "Death Notice: Daniel Hatt",
-      "summary": "Hatt, Daniel 52, of Biddeford, Feb. 23. Visit 2-5 p.m. and Service 5 p.m., Feb. 28, Hope Memorial Chapel, Biddeford. Spring ...",
-      "url": "https://www.pressherald.com/2026/02/26/obituarydaniel-hatt/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-26",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2f8e873281ec",
-      "title": "Letter: Too early to applaud Susan Collins on health care",
-      "summary": "\"While the challenges of rural healthcare are complex, the goals of the Rural Health Transformation Program are broad and vague.\"",
-      "url": "https://www.bangordailynews.com/2026/02/26/opinion/letters/letter-too-early-to-applaud-susan-collins-on-health-care-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ba6eca8d98c9",
-      "title": "Letter: Trump\u2019s immigration Catch 22",
-      "summary": "\"A new memo\u00a0from the Department of Homeland Security will permit the arrest and detention of fully vetted refugees well on the road to their promised \u201cpath to citizenship\u201d who have yet to obtain a green card.\"",
-      "url": "https://www.bangordailynews.com/2026/02/26/opinion/letters/letter-trumps-immigration-catch-22-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "da1e1f62fe93",
-      "title": "Houlton club pitches snowmobile and ATV trailhead to boost tourism",
-      "summary": "The initiative is part of a broader regional focus to boost the outdoor recreation infrastructure across southern Aroostook and neighboring Penobscot and Washington counties.",
-      "url": "https://www.bangordailynews.com/2026/02/26/aroostook/aroostook-culture/houlton-club-snowmobile-and-atv-trailhead-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-02-26",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "68f3c6c898fd",
-      "title": "Red Sox roster projection: Who will be No. 5 starter, Romy Gonzalez\u2019s replacement in Cincinnati?",
-      "summary": "Spring training is in full swing and it has \u2014 in a positive development for the Red Sox \u2014 been a relatively mellow one in Fort Myers. With four weeks to go, here's how we project the 26-man roster will look in Cincinnati.",
-      "url": "https://www.masslive.com/redsox/2026/02/red-sox-roster-projection-who-will-be-no-5-starter-romy-gonzalezs-replacement-in-cincinnati.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "4b5180143220",
-      "title": "Derrick White is the Celtics \u2018Name to Know\u2019 Player of the Game in Wednesday\u2019s loss to Nuggets",
-      "summary": "Derrick White scored 18 points in the first half for the Celtics, who lost to the Nuggets to close out their four-game road trip.",
-      "url": "https://www.masslive.com/celtics/2026/02/derrick-white-is-the-celtics-name-to-know-player-of-the-game-in-wednesdays-loss-to-nuggets.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "59be6efa3f3d",
-      "title": "4 takeaways as Celtics lose to Nuggets after dismal second half",
-      "summary": "The Celtics closed out their road trip on a sour note in Denver Wednesday night.",
-      "url": "https://www.masslive.com/celtics/2026/02/4-takeaways-as-celtics-lose-to-nuggets-after-dismal-second-half.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-26",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -732,20 +676,6 @@
       "date": "2026-02-25",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bfbbc6ed3715",
-      "title": "Beach to Beacon 10K announces 2026 registration dates",
-      "summary": "Online registration for the 28th edition of the road race begins April 14 (for Cape Elizabeth residents only) and April 15.",
-      "url": "https://www.pressherald.com/2026/02/25/beach-to-beacon-10k-announces-2026-registration-dates/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-25",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
