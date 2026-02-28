@@ -1,22 +1,22 @@
 {
-  "generated": "2026-02-27T11:22:47.777066Z",
+  "generated": "2026-02-28T11:01:27.006031Z",
   "summary": {
-    "total_opportunities": 29,
-    "total_value_low": 174861930,
-    "total_value_high": 174861930,
+    "total_opportunities": 35,
+    "total_value_low": 207775473,
+    "total_value_high": 207775473,
     "by_state": {
-      "VT": 4,
+      "VT": 3,
       "NH": 3,
-      "ME": 2,
-      "MA": 24,
+      "ME": 3,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 29,
-      "news": 8,
+      "dot_letting": 35,
+      "news": 6,
       "funding": 0
     }
   },
@@ -410,6 +410,25 @@
       ]
     },
     {
+      "id": "c9eff8245392",
+      "state": "MA",
+      "project_id": "614015",
+      "description": "Traffic Signal Repair/Replacement at Various Locations",
+      "cost_low": 210610,
+      "cost_high": 210610,
+      "cost_display": "$211K",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "Traffic Signals",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614015",
+      "source": "MassDOT",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
       "id": "571090d3f56b",
       "state": "MA",
       "project_id": "614118",
@@ -442,6 +461,103 @@
       "location": "Milton",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=607342",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c31b72a62e68",
+      "state": "MA",
+      "project_id": "613295",
+      "description": "Deck Replacement, G-12-022 (144), Log Plain Road West over G&W Railroad",
+      "cost_low": 4574165,
+      "cost_high": 4574165,
+      "cost_display": "$4.6M",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Greenfield",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613295",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "0739b2088d23",
+      "state": "MA",
+      "project_id": "613404",
+      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.5 ELECTRICAL WORK",
+      "cost_low": 77100,
+      "cost_high": 77100,
+      "cost_display": "$77K",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0739b2088d23",
+      "state": "MA",
+      "project_id": "613404",
+      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.6 PLUMBING WORK",
+      "cost_low": 108450,
+      "cost_high": 108450,
+      "cost_display": "$108K",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "809a94ed8c2e",
+      "state": "MA",
+      "project_id": "613383",
+      "description": "Interstate Pavement Preservation and Related Work on I-95",
+      "cost_low": 26479138,
+      "cost_high": 26479138,
+      "cost_display": "$26.5M",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Lynnfield - Wakefield",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613383",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
+      ]
+    },
+    {
+      "id": "0739b2088d23",
+      "state": "MA",
+      "project_id": "613404",
+      "description": "HVAC Repairs to District Administration Building at 811 North King Street",
+      "cost_low": 1464080,
+      "cost_high": 1464080,
+      "cost_display": "$1.5M",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "DCAMM-HVAC",
+      "location": "Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -583,27 +699,13 @@
   ],
   "news": [
     {
-      "id": "60f5f4e879ce",
-      "title": "Emily Anderson: Fragile wetlands could lose protection",
-      "summary": "New proposal would ease permitting in some unmapped wetlands, raising concerns about impacts on vernal pools.\nRead the story on VTDigger here:  Emily Anderson: Fragile wetlands could lose protection.",
-      "url": "https://vtdigger.org/2026/02/26/emily-anderson-fragile-wetlands-could-lose-protection/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-27",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cc5a4a9fa631",
-      "title": "New program helps dozens of York County families find stable housing",
-      "summary": "The Biddeford school district and York County Community Action Corporation have doled out assistance to 84 families as part of the Maine Housing Student Homelessness Prevention Pilot.",
-      "url": "https://www.pressherald.com/2026/02/27/new-program-helps-dozens-of-york-county-families-find-stable-housing/",
+      "id": "944b951796b3",
+      "title": "Gardiner boys basketball beats Yarmouth to win 1st state title",
+      "summary": "The Tigers hold off a comeback bid by the Clippers in the Class B final.",
+      "url": "https://www.pressherald.com/2026/02/27/gardiner-boys-basketball-beats-yarmouth-to-win-1st-state-title/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-02-27",
+      "date": "2026-02-28",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -611,13 +713,13 @@
       ]
     },
     {
-      "id": "56277cea3696",
-      "title": "Gem Marina asks Planning Board to convert boat slips from transient to long-term",
-      "summary": "The Southwick Planning Board closed a public hearing on a request by the owner of Gem Marina at 141 Congamond Road asking it to modify its special permit to allow it to convert four of its transient-use boat slips, which now total 16, to increase the number of long-term slip rentals to 28.",
-      "url": "https://www.masslive.com/westfieldnews/2026/02/gem-marina-asks-planning-board-to-convert-boat-slips-from-transient-to-long-term.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-02-27",
+      "id": "b4623beb0d05",
+      "title": "Maine Mariners extend streak to six",
+      "summary": "Robert Cronin, Brooklyn Kalmikov and Nick Anderson all notch a goal and three assists in another road victory, this time at Adirondack.",
+      "url": "https://www.pressherald.com/2026/02/27/maine-mariners-extend-streak-to-six/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-02-28",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -625,12 +727,12 @@
       ]
     },
     {
-      "id": "5413ae9d8299",
-      "title": "Westfield Police Department construction project to go before Planning Board",
-      "summary": "The appearance and details of the long-awaited project to build a new Westfield police station will be informally announced during the initial site plan review in front of the Planning Board meeting on Tuesday, March 3 in the City Council Chambers with the initial site plan review.",
-      "url": "https://www.masslive.com/westfieldnews/2026/02/westfield-police-department-construction-project-to-go-before-planning-board.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "60f5f4e879ce",
+      "title": "Emily Anderson: Fragile wetlands could lose protection",
+      "summary": "New proposal would ease permitting in some unmapped wetlands, raising concerns about impacts on vernal pools.\nRead the story on VTDigger here:  Emily Anderson: Fragile wetlands could lose protection.",
+      "url": "https://vtdigger.org/2026/02/26/emily-anderson-fragile-wetlands-could-lose-protection/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-02-27",
       "category": "news",
       "priority": "medium",
@@ -660,20 +762,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-02-26",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8cb7d926c36a",
-      "title": "Vermont Supreme Court sides with Tunbridge in longstanding trails case",
-      "summary": "The closely watched case called into question municipalities\u2019 authority to maintain trails that pass through private property and the public\u2019s access to those trails. \nRead the story on VTDigger here:  Vermont Supreme Court sides with Tunbridge in longstanding trails case.",
-      "url": "https://vtdigger.org/2026/02/25/vermont-supreme-court-sides-with-tunbridge-in-longstanding-trails-case/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-25",
       "category": "news",
       "priority": "high",
       "business_lines": [
