@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-28T11:01:27.006031Z",
+  "generated": "2026-03-01T11:10:12.584224Z",
   "summary": {
     "total_opportunities": 35,
     "total_value_low": 207775473,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 3,
       "NH": 3,
-      "ME": 3,
-      "MA": 28,
+      "ME": 1,
+      "MA": 29,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 35,
-      "news": 6,
+      "news": 5,
       "funding": 0
     }
   },
@@ -699,27 +699,13 @@
   ],
   "news": [
     {
-      "id": "944b951796b3",
-      "title": "Gardiner boys basketball beats Yarmouth to win 1st state title",
-      "summary": "The Tigers hold off a comeback bid by the Clippers in the Class B final.",
-      "url": "https://www.pressherald.com/2026/02/27/gardiner-boys-basketball-beats-yarmouth-to-win-1st-state-title/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-28",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b4623beb0d05",
-      "title": "Maine Mariners extend streak to six",
-      "summary": "Robert Cronin, Brooklyn Kalmikov and Nick Anderson all notch a goal and three assists in another road victory, this time at Adirondack.",
-      "url": "https://www.pressherald.com/2026/02/27/maine-mariners-extend-streak-to-six/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-02-28",
+      "id": "76baa57da756",
+      "title": "Why more Massachusetts drivers failed the road test in 2025",
+      "summary": "The pass rate in Massachusetts has dropped to its lowest in about a decade, with experts blaming phone distractions and skipping driver\u2019s ed.",
+      "url": "https://www.masslive.com/news/2026/02/why-more-massachusetts-drivers-failed-the-road-test-in-2025.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-01",
       "category": "news",
       "priority": "medium",
       "business_lines": [
