@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-01T11:10:12.584224Z",
+  "generated": "2026-03-02T11:24:38.536298Z",
   "summary": {
-    "total_opportunities": 35,
+    "total_opportunities": 37,
     "total_value_low": 207775473,
     "total_value_high": 207775473,
     "by_state": {
-      "VT": 3,
-      "NH": 3,
-      "ME": 1,
-      "MA": 29,
+      "VT": 4,
+      "NH": 4,
+      "ME": 4,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 35,
-      "news": 5,
-      "funding": 0
+      "news": 7,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -699,15 +699,71 @@
   ],
   "news": [
     {
-      "id": "76baa57da756",
-      "title": "Why more Massachusetts drivers failed the road test in 2025",
-      "summary": "The pass rate in Massachusetts has dropped to its lowest in about a decade, with experts blaming phone distractions and skipping driver\u2019s ed.",
-      "url": "https://www.masslive.com/news/2026/02/why-more-massachusetts-drivers-failed-the-road-test-in-2025.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-01",
+      "id": "f922f982e1ea",
+      "title": "In Vermont prisons, religious volunteers provide support and hope",
+      "summary": "Faith-based volunteers are an anchor for people inside the prisons and a bridge for those getting out. \nRead the story on VTDigger here:  In Vermont prisons, religious volunteers provide support and hope.",
+      "url": "https://vtdigger.org/2026/03/02/in-vermont-prisons-religious-volunteers-provide-support-and-hope/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-02",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "49a18f8d38f0",
+      "title": "Portland restaurateurs open second Bethel-area eatery",
+      "summary": "Harding and Sarah Smith's Mayville Union House replaces Grace Note Inn at 174 Mayville Road.",
+      "url": "https://www.pressherald.com/2026/03/02/portland-restaurateurs-open-second-bethel-area-eatery/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-02",
       "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "985ccc635d2a",
+      "title": "VTDigger\u2019s 2026 guide to Vermont Town Meeting voting",
+      "summary": "The state\u2019s 247 municipalities are set to decide annual local government and school spending, leaders, advisory articles and a few unusual extras \u2014 such as Underhill\u2019s request for a $60,000 preowned rubber-tired backhoe.\nRead the story on VTDigger here:  VTDigger\u2019s 2026 guide to Vermont Town Meetin",
+      "url": "https://vtdigger.org/2026/03/01/vtdiggers-2026-guide-to-vermont-town-meeting-voting/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-01",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "de4f0de9eb32",
+      "title": "Southern Maine women\u2019s basketball earns NCAA D-III tourney bid",
+      "summary": "The Huskies pull away in the 2nd half to beat Rhode Island College for their 1st Little East Conference title since 2013.",
+      "url": "https://www.pressherald.com/2026/03/01/southern-maine-womens-basketball-earns-ncaa-d-iii-tourney-bid/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-01",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "95a7cf26664b",
+      "title": "Memorial honors MaineDOT workers killed in Waterville overpass crash",
+      "summary": "A procession honored two men who were working on an overpass bridge  on Jan. 13 when a minivan hit them and another worker.",
+      "url": "https://www.bangordailynews.com/2026/03/01/central-maine/james-brown-dwayne-campbell-mdot-workers-killed-waterville-overpass-crash-memorial/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-01",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -727,20 +783,6 @@
       ]
     },
     {
-      "id": "f0b4c156f8a1",
-      "title": "Francine Miller: Why I\u2019m voting for the Apartheid-Free Communities pledge",
-      "summary": "Bridge-building matters, but it does not address a deep imbalance of power between Israel and the Palestinians.\nRead the story on VTDigger here:  Francine Miller: Why I\u2019m voting for the Apartheid-Free Communities pledge.",
-      "url": "https://vtdigger.org/2026/02/25/francine-miller-why-im-voting-for-the-apartheid-free-communities-pledge/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-26",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "1a9d8206acad",
       "title": "Paramount Skydance apparent winner of Warner Bros; Netflix walks away and its shares jump",
       "summary": "Paramount Skydance emerged as the likely winner in a months-long battle to acquire Warner Bros. Discovery, after streaming giant Netflix on Thursday refused to raise its bid for the storied Hollywood studio.",
@@ -749,6 +791,20 @@
       "state": "NH",
       "date": "2026-02-26",
       "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3a377bb1a5e3",
+      "title": "Can AI tell us how much to pay for art?",
+      "summary": "Stephen Smith, 56, a UK-based art collector, has bought prints through MyArtBroker, a sales and management platform for secondary-market prints and editions, since 2024, when he purchased Echo by British abstract artist Bridget Riley for \u00a37,500 ($10,300). He uses the\u2026",
+      "url": "https://www.unionleader.com/news/business/can-ai-tell-us-how-much-to-pay-for-art/article_52128d55-8146-4075-9cd9-3cec8f8002f2.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-02-24",
+      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
