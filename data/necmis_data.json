@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-02T11:24:38.536298Z",
+  "generated": "2026-03-03T11:22:31.899163Z",
   "summary": {
-    "total_opportunities": 37,
+    "total_opportunities": 38,
     "total_value_low": 207775473,
     "total_value_high": 207775473,
     "by_state": {
       "VT": 4,
       "NH": 4,
-      "ME": 4,
-      "MA": 28,
+      "ME": 5,
+      "MA": 31,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 35,
-      "news": 7,
-      "funding": 2
+      "news": 10,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -699,6 +699,76 @@
   ],
   "news": [
     {
+      "id": "7ae8ed9f9556",
+      "title": "Biddeford residents discuss UNE projects at public hearing",
+      "summary": "Those attending the newly revived Institutional Zone Review Committee's first public hearing said they are looking for transparency and communication from the university.",
+      "url": "https://www.pressherald.com/2026/03/02/biddeford-residents-discuss-une-projects-at-public-hearing/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-03",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e357a1d944f2",
+      "title": "Informational meeting to be held for residents to learn more about reentry facility opening on Southampton Road",
+      "summary": "With the imminent opening of a reentry facility on Southampton Road for former inmates to assist with their transition back into the community, two city councilors have organized an information meeting with representatives of the nonprofit that will run the facility for Wednesday, March 4 at the Wes",
+      "url": "https://www.masslive.com/westfieldnews/2026/03/informational-meeting-to-be-held-for-residents-to-learn-more-about-reentry-facility-opening-on-southampton-road.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-03",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "29d327e8449d",
+      "title": "A few newcomers pull papers for Southwick\u2019s May municipal election",
+      "summary": "It\u2019s still early in the election season, but in the last couple of weeks, three residents with no formal political experience have pulled papers for seats opening on the Southwick's Planning Board, Board of Assessors and for a board seat on the Dickinson School Trust.",
+      "url": "https://www.masslive.com/westfieldnews/2026/03/a-few-newcomers-pull-papers-for-southwicks-may-municipal-election.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-03",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6aa192c279ad",
+      "title": "Police: Adult couple charged with throwing rocks at passing vehicles in Southwick",
+      "summary": "When the first reports from motorists about their vehicles being damaged by rocks thrown from a passing truck on College Highway trickled into the police station last week, officers initially thought it was simply a stupid, but dangerous, prank by wayward teenagers.",
+      "url": "https://www.masslive.com/westfieldnews/2026/03/police-adult-couple-charged-with-throwing-rocks-at-passing-vehicles-in-southwick.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-03",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ede57c904301",
+      "title": "Bradford voters reject proposal to double police force",
+      "summary": "All other articles before voters at the Bradford Town Meeting on Saturday passed, including the proposed annual general and highway budgets of $1.69 million and $1.4 million, respectively.\nRead the story on VTDigger here:  Bradford voters reject proposal to double police force.",
+      "url": "https://vtdigger.org/2026/03/02/bradford-voters-reject-proposal-to-double-police-force/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-02",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "f922f982e1ea",
       "title": "In Vermont prisons, religious volunteers provide support and hope",
       "summary": "Faith-based volunteers are an anchor for people inside the prisons and a bridge for those getting out. \nRead the story on VTDigger here:  In Vermont prisons, religious volunteers provide support and hope.",
@@ -713,11 +783,53 @@
       ]
     },
     {
-      "id": "49a18f8d38f0",
-      "title": "Portland restaurateurs open second Bethel-area eatery",
-      "summary": "Harding and Sarah Smith's Mayville Union House replaces Grace Note Inn at 174 Mayville Road.",
-      "url": "https://www.pressherald.com/2026/03/02/portland-restaurateurs-open-second-bethel-area-eatery/",
+      "id": "e46e86826c08",
+      "title": "Not a fear, a reality: Researchers leaving for abroad, red states",
+      "summary": "At his home in New Hampshire on a warm May day last year, Charles Crabtree thought it was time to start looking abroad for jobs.",
+      "url": "https://www.unionleader.com/news/scitech/not-a-fear-a-reality-researchers-leaving-for-abroad-red-states/article_96edd2d4-f80a-4213-8ae9-90399c20da9e.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-03-02",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "65e65f41b392",
+      "title": "Maine basketball teams learn their NCAA DIII tournament draws",
+      "summary": "Bowdoin, Bates women will host during first and second rounds, while the Bates, Saint Joseph's and UMF men, and UMF women, will hit the road.",
+      "url": "https://www.pressherald.com/2026/03/02/maine-basketball-teams-learn-of-ncaa-d-iii-tournament-draws/",
       "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-02",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a913695993f9",
+      "title": "DOT reverses plan to close Aroostook bridge during construction",
+      "summary": "Locals had slammed the bridge closure as \u201ccrazy,\u201d \u201cunacceptable\u201d and \u201cdevastating.\u201d",
+      "url": "https://www.bangordailynews.com/2026/03/02/aroostook/aroostook-government/aroostook-bridge-construction-change/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-02",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "94f13a1b3fda",
+      "title": "Dogs thought to have started Maine house fire that killed them",
+      "summary": "A house fire in Belgrade on Saturday that claimed the lives of two dogs is believed to have been started when the dogs accidentally turned on a stove burner. The fire was reported at about 11 a.m. at 138 Augusta Road. The homeowners were not there at the time, according to the state fire marshal\u2019s [",
+      "url": "https://www.bangordailynews.com/2026/03/02/central-maine/central-maine-police-courts/dogs-thought-to-have-started-maine-house-fire-that-killed-them/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-03-02",
       "category": "news",
@@ -735,48 +847,6 @@
       "state": "VT",
       "date": "2026-03-01",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "de4f0de9eb32",
-      "title": "Southern Maine women\u2019s basketball earns NCAA D-III tourney bid",
-      "summary": "The Huskies pull away in the 2nd half to beat Rhode Island College for their 1st Little East Conference title since 2013.",
-      "url": "https://www.pressherald.com/2026/03/01/southern-maine-womens-basketball-earns-ncaa-d-iii-tourney-bid/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-01",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "95a7cf26664b",
-      "title": "Memorial honors MaineDOT workers killed in Waterville overpass crash",
-      "summary": "A procession honored two men who were working on an overpass bridge  on Jan. 13 when a minivan hit them and another worker.",
-      "url": "https://www.bangordailynews.com/2026/03/01/central-maine/james-brown-dwayne-campbell-mdot-workers-killed-waterville-overpass-crash-memorial/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-01",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "60f5f4e879ce",
-      "title": "Emily Anderson: Fragile wetlands could lose protection",
-      "summary": "New proposal would ease permitting in some unmapped wetlands, raising concerns about impacts on vernal pools.\nRead the story on VTDigger here:  Emily Anderson: Fragile wetlands could lose protection.",
-      "url": "https://vtdigger.org/2026/02/26/emily-anderson-fragile-wetlands-could-lose-protection/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-02-27",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -806,20 +876,6 @@
       "date": "2026-02-24",
       "category": "funding",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5fd1c791a0d1",
-      "title": "Gas station approved for S. River Road in Bedford",
-      "summary": "A parcel on South River Road in Bedford approved to become a Tesla dealership got approval last week to use a portion of the land as a gas station, convenience store and drive-thru restaurant.",
-      "url": "https://www.unionleader.com/news/business/gas-station-approved-for-s-river-road-in-bedford/article_286fc1ed-e811-44a6-b311-523291a4f70f.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-02-23",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
