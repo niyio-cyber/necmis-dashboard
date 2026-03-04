@@ -1,278 +1,26 @@
 {
-  "generated": "2026-03-03T11:22:31.899163Z",
+  "generated": "2026-03-04T11:20:26.499993Z",
   "summary": {
-    "total_opportunities": 38,
-    "total_value_low": 207775473,
-    "total_value_high": 207775473,
+    "total_opportunities": 25,
+    "total_value_low": 126206421,
+    "total_value_high": 126206421,
     "by_state": {
-      "VT": 4,
-      "NH": 4,
-      "ME": 5,
-      "MA": 31,
+      "VT": 5,
+      "NH": 3,
+      "ME": 3,
+      "MA": 15,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 35,
-      "news": 10,
+      "dot_letting": 22,
+      "news": 5,
       "funding": 3
     }
   },
   "dot_lettings": [
-    {
-      "id": "32c261c73ba9",
-      "state": "MA",
-      "project_id": "612056",
-      "description": "Resurfacing and Related Work on I-95",
-      "cost_low": 17834423,
-      "cost_high": 17834423,
-      "cost_display": "$17.8M",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Pavement - Surfacing",
-      "location": "Attleboro",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612056",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "cb20295eb142",
-      "state": "MA",
-      "project_id": "613196",
-      "description": "Bridge Preservation of 10 Bridges carrying I-95",
-      "cost_low": 11387460,
-      "cost_high": 11387460,
-      "cost_display": "$11.4M",
-      "ad_date": "2026-01-03",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Burlington - Lynnfield - Wakefield - Woburn",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613196",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4c80cc21f280",
-      "state": "MA",
-      "project_id": "612064",
-      "description": "Resurfacing and Related Work on I-195",
-      "cost_low": 7544537,
-      "cost_high": 7544537,
-      "cost_display": "$7.5M",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Pavement - Surfacing",
-      "location": "Dartmouth - Westport",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612064",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "0de58c3d2509",
-      "state": "MA",
-      "project_id": "614260",
-      "description": "Resurfacing and Related Work at Various Locations",
-      "cost_low": 19647138,
-      "cost_high": 19647138,
-      "cost_display": "$19.6M",
-      "ad_date": "2026-01-10",
-      "let_date": null,
-      "project_type": "Pavement - Surfacing",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614260",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "e38a33a3d685",
-      "state": "MA",
-      "project_id": "614016",
-      "description": "Crack Sealing at Various Locations",
-      "cost_low": 558000,
-      "cost_high": 558000,
-      "cost_display": "$558K",
-      "ad_date": "2026-01-31",
-      "let_date": null,
-      "project_type": "Crack Sealing",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614016",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "60a1bc4ef87f",
-      "state": "MA",
-      "project_id": "614013",
-      "description": "Deployment of Temporary Traffic Control at Various Locations",
-      "cost_low": 90745,
-      "cost_high": 90745,
-      "cost_display": "$91K",
-      "ad_date": "2026-02-07",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614013",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "05dafb2dfaac",
-      "state": "MA",
-      "project_id": "614151",
-      "description": "Scheduled & Emergency Fence Repairs at Various Locations",
-      "cost_low": 500000,
-      "cost_high": 500000,
-      "cost_display": "$500K",
-      "ad_date": "2026-01-31",
-      "let_date": null,
-      "project_type": "Guard Rail & Fencing",
-      "location": "District 4",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614151",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d67896e5f035",
-      "state": "MA",
-      "project_id": "614150",
-      "description": "Litter Control at Various Locations",
-      "cost_low": 581460,
-      "cost_high": 581460,
-      "cost_display": "$581K",
-      "ad_date": "2026-02-07",
-      "let_date": null,
-      "project_type": "Highway - Construction , Mowing and Spraying",
-      "location": "District 4",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614150",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6c9295a9e87d",
-      "state": "MA",
-      "project_id": "614066",
-      "description": "Roadside Barrier Reconstruction & Repair at Various Locations",
-      "cost_low": 1997850,
-      "cost_high": 1997850,
-      "cost_display": "$2.0M",
-      "ad_date": "2026-01-24",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614066",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c6763d8922f4",
-      "state": "MA",
-      "project_id": "614067",
-      "description": "Scheduled & Emergency Vegetation Management (Mechanical) at Various Locations",
-      "cost_low": 1786440,
-      "cost_high": 1786440,
-      "cost_display": "$1.8M",
-      "ad_date": "2026-01-31",
-      "let_date": null,
-      "project_type": "Mowing and Spraying",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614067",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7f3bf41938d8",
-      "state": "MA",
-      "project_id": "614068",
-      "description": "Inspection, Testing, Maintenance & Repair of Fire Detection Systems at Various Locations",
-      "cost_low": 1551600,
-      "cost_high": 1551600,
-      "cost_display": "$1.6M",
-      "ad_date": "2026-02-07",
-      "let_date": null,
-      "project_type": "DCAMM-Alarm Systems",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614068",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c3d941ee2d38",
-      "state": "MA",
-      "project_id": "86461",
-      "description": "Superstructure Replacement, L-12-002, Concord Road (Route 126) over MBTA/CSX Railroad",
-      "cost_low": 13028888,
-      "cost_high": 13028888,
-      "cost_display": "$13.0M",
-      "ad_date": "2025-09-13",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Lincoln",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=86461",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "17d10466e789",
-      "state": "MA",
-      "project_id": "609399",
-      "description": "Resurfacing and Related Work on Route 28",
-      "cost_low": 5060511,
-      "cost_high": 5060511,
-      "cost_display": "$5.1M",
-      "ad_date": "2025-12-27",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Randolph",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609399",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
     {
       "id": "c3444cabe112",
       "state": "MA",
@@ -390,26 +138,6 @@
       ]
     },
     {
-      "id": "6abbbc16961e",
-      "state": "MA",
-      "project_id": "609409",
-      "description": "Bridge Replacement, S-24-016, Armory Street over CSX Mainline & S-24-026, Armory Street over Abandoned CSX",
-      "cost_low": 51303970,
-      "cost_high": 51303970,
-      "cost_display": "$51.3M",
-      "ad_date": "2025-12-20",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Springfield",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609409",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
       "id": "c9eff8245392",
       "state": "MA",
       "project_id": "614015",
@@ -480,6 +208,26 @@
       "location": "Greenfield",
       "district": 2,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613295",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "6abbbc16961e",
+      "state": "MA",
+      "project_id": "609409",
+      "description": "Bridge Replacement, S-24-016, Armory Street over CSX Mainline & S-24-026, Armory Street over Abandoned CSX",
+      "cost_low": 51303970,
+      "cost_high": 51303970,
+      "cost_display": "$51.3M",
+      "ad_date": "2025-12-20",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Springfield",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609409",
       "source": "MassDOT",
       "business_lines": [
         "highway",
@@ -699,57 +447,43 @@
   ],
   "news": [
     {
-      "id": "7ae8ed9f9556",
-      "title": "Biddeford residents discuss UNE projects at public hearing",
-      "summary": "Those attending the newly revived Institutional Zone Review Committee's first public hearing said they are looking for transparency and communication from the university.",
-      "url": "https://www.pressherald.com/2026/03/02/biddeford-residents-discuss-une-projects-at-public-hearing/",
-      "source": "Portland Press Herald",
+      "id": "7e3009288bae",
+      "title": "Injury-riddled UMaine men\u2019s basketball team falls in regular season finale",
+      "summary": "With the loss, the Black Bears drop to 8-23 overall on the year and 6-10 in the conference, but they have still earned a playoff spot and will see postseason action on the road this Saturday.",
+      "url": "https://www.bangordailynews.com/2026/03/03/sports/college-basketball/umaine-mens-basketball-loss-season-finale/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-04",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c18d7521025f",
+      "title": "Latest results: 2026 Vermont Town Meeting voting",
+      "summary": "As the state\u2019s 247 municipalities decided local and school leaders and spending, Kirby moderator John McClaughry won for his 60th time, and at least a half-dozen communities debated President Donald Trump and his actions.\nRead the story on VTDigger here:  Latest results: 2026 Vermont Town Meeting v",
+      "url": "https://vtdigger.org/2026/03/03/latest-results-2026-vermont-town-meeting-voting/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-03",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "55bc0ad3ac64",
+      "title": "Freedom officials opt to go to trial over road access dispute",
+      "summary": "Since mid-2024, the dispute has cost the town's taxpayers $30,200 in legal expenses.",
+      "url": "https://www.bangordailynews.com/2026/03/03/midcoast/midcoast-government/freedom-maine-road-lawsuit/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-03-03",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e357a1d944f2",
-      "title": "Informational meeting to be held for residents to learn more about reentry facility opening on Southampton Road",
-      "summary": "With the imminent opening of a reentry facility on Southampton Road for former inmates to assist with their transition back into the community, two city councilors have organized an information meeting with representatives of the nonprofit that will run the facility for Wednesday, March 4 at the Wes",
-      "url": "https://www.masslive.com/westfieldnews/2026/03/informational-meeting-to-be-held-for-residents-to-learn-more-about-reentry-facility-opening-on-southampton-road.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-03",
-      "category": "news",
+      "category": "funding",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "29d327e8449d",
-      "title": "A few newcomers pull papers for Southwick\u2019s May municipal election",
-      "summary": "It\u2019s still early in the election season, but in the last couple of weeks, three residents with no formal political experience have pulled papers for seats opening on the Southwick's Planning Board, Board of Assessors and for a board seat on the Dickinson School Trust.",
-      "url": "https://www.masslive.com/westfieldnews/2026/03/a-few-newcomers-pull-papers-for-southwicks-may-municipal-election.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-03",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6aa192c279ad",
-      "title": "Police: Adult couple charged with throwing rocks at passing vehicles in Southwick",
-      "summary": "When the first reports from motorists about their vehicles being damaged by rocks thrown from a passing truck on College Highway trickled into the police station last week, officers initially thought it was simply a stupid, but dangerous, prank by wayward teenagers.",
-      "url": "https://www.masslive.com/westfieldnews/2026/03/police-adult-couple-charged-with-throwing-rocks-at-passing-vehicles-in-southwick.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-03",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -797,48 +531,6 @@
       ]
     },
     {
-      "id": "65e65f41b392",
-      "title": "Maine basketball teams learn their NCAA DIII tournament draws",
-      "summary": "Bowdoin, Bates women will host during first and second rounds, while the Bates, Saint Joseph's and UMF men, and UMF women, will hit the road.",
-      "url": "https://www.pressherald.com/2026/03/02/maine-basketball-teams-learn-of-ncaa-d-iii-tournament-draws/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-02",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a913695993f9",
-      "title": "DOT reverses plan to close Aroostook bridge during construction",
-      "summary": "Locals had slammed the bridge closure as \u201ccrazy,\u201d \u201cunacceptable\u201d and \u201cdevastating.\u201d",
-      "url": "https://www.bangordailynews.com/2026/03/02/aroostook/aroostook-government/aroostook-bridge-construction-change/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-02",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "94f13a1b3fda",
-      "title": "Dogs thought to have started Maine house fire that killed them",
-      "summary": "A house fire in Belgrade on Saturday that claimed the lives of two dogs is believed to have been started when the dogs accidentally turned on a stove burner. The fire was reported at about 11 a.m. at 138 Augusta Road. The homeowners were not there at the time, according to the state fire marshal\u2019s [",
-      "url": "https://www.bangordailynews.com/2026/03/02/central-maine/central-maine-police-courts/dogs-thought-to-have-started-maine-house-fire-that-killed-them/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-02",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "985ccc635d2a",
       "title": "VTDigger\u2019s 2026 guide to Vermont Town Meeting voting",
       "summary": "The state\u2019s 247 municipalities are set to decide annual local government and school spending, leaders, advisory articles and a few unusual extras \u2014 such as Underhill\u2019s request for a $60,000 preowned rubber-tired backhoe.\nRead the story on VTDigger here:  VTDigger\u2019s 2026 guide to Vermont Town Meetin",
@@ -861,20 +553,6 @@
       "state": "NH",
       "date": "2026-02-26",
       "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3a377bb1a5e3",
-      "title": "Can AI tell us how much to pay for art?",
-      "summary": "Stephen Smith, 56, a UK-based art collector, has bought prints through MyArtBroker, a sales and management platform for secondary-market prints and editions, since 2024, when he purchased Echo by British abstract artist Bridget Riley for \u00a37,500 ($10,300). He uses the\u2026",
-      "url": "https://www.unionleader.com/news/business/can-ai-tell-us-how-much-to-pay-for-art/article_52128d55-8146-4075-9cd9-3cec8f8002f2.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-02-24",
-      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
