@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-04T11:20:26.499993Z",
+  "generated": "2026-03-05T11:24:04.359426Z",
   "summary": {
-    "total_opportunities": 25,
+    "total_opportunities": 23,
     "total_value_low": 126206421,
     "total_value_high": 126206421,
     "by_state": {
-      "VT": 5,
+      "VT": 4,
       "NH": 3,
-      "ME": 3,
-      "MA": 15,
+      "ME": 4,
+      "MA": 16,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 22,
-      "news": 5,
-      "funding": 3
+      "news": 8,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -447,11 +447,67 @@
   ],
   "news": [
     {
-      "id": "7e3009288bae",
-      "title": "Injury-riddled UMaine men\u2019s basketball team falls in regular season finale",
-      "summary": "With the loss, the Black Bears drop to 8-23 overall on the year and 6-10 in the conference, but they have still earned a playoff spot and will see postseason action on the road this Saturday.",
-      "url": "https://www.bangordailynews.com/2026/03/03/sports/college-basketball/umaine-mens-basketball-loss-season-finale/",
-      "source": "Bangor Daily News",
+      "id": "fdfe5e9d2a32",
+      "title": "Maine is wrongly penalizing law-abiding cannabis growers | Letter",
+      "summary": "Every few years, Maine tackles \u201cillicit grows,\u201d usually by applying more restrictions on the legal cannabis market. Are we fighting illegal activity or simply layering Prohibition-era suspicion onto a legal industry? While compliant caregivers and small businesses follow strict regulations, pay taxe",
+      "url": "https://www.pressherald.com/2026/03/05/maine-is-wrongly-penalizing-law-abiding-cannabis-growers-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c73ed30ac5c4",
+      "title": "The York/ Biddeford/ OOB co-op hockey team finds glory in year one",
+      "summary": "After Wednesday's regional final win, the team will play in Saturday's Class B state championship.",
+      "url": "https://www.pressherald.com/2026/03/04/the-york-biddeford-oob-co-op-hockey-team-finds-glory-in-year-one/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8a19680d988f",
+      "title": "Western Mass. construction worker who killed 18-month-old child given parole",
+      "summary": "The Massachusetts man avoided parole hearings for years before finally facing the board and taking accountability for killing his girlfriend's toddler.",
+      "url": "https://www.masslive.com/westernmass/2026/03/western-mass-construction-worker-who-killed-18-month-old-child-given-parole.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "dde08618c75a",
+      "title": "Local option tax proposals see mixed reception in nearly 20 Vermont communities",
+      "summary": "After Town Meeting Day decisions, a dozen municipalities will see new revenue streams to shore up local projects.\nRead the story on VTDigger here:  Local option tax proposals see mixed reception in nearly 20 Vermont communities.",
+      "url": "https://vtdigger.org/2026/03/04/local-option-tax-proposals-see-mixed-reception-in-nearly-20-vermont-communities/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-04",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7c2a5d6fc1bc",
+      "title": "What to expect from Sanford\u2019s municipal, school budget proposals",
+      "summary": "City leaders say they are trying to limit next year's tax increase to around 5% when all is said and done.",
+      "url": "https://www.pressherald.com/2026/03/04/what-to-expect-from-sanfords-municipal-school-budget-proposals/",
+      "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-03-04",
       "category": "news",
@@ -475,20 +531,6 @@
       ]
     },
     {
-      "id": "55bc0ad3ac64",
-      "title": "Freedom officials opt to go to trial over road access dispute",
-      "summary": "Since mid-2024, the dispute has cost the town's taxpayers $30,200 in legal expenses.",
-      "url": "https://www.bangordailynews.com/2026/03/03/midcoast/midcoast-government/freedom-maine-road-lawsuit/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-03",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "ede57c904301",
       "title": "Bradford voters reject proposal to double police force",
       "summary": "All other articles before voters at the Bradford Town Meeting on Saturday passed, including the proposed annual general and highway budgets of $1.69 million and $1.4 million, respectively.\nRead the story on VTDigger here:  Bradford voters reject proposal to double police force.",
@@ -503,20 +545,6 @@
       ]
     },
     {
-      "id": "f922f982e1ea",
-      "title": "In Vermont prisons, religious volunteers provide support and hope",
-      "summary": "Faith-based volunteers are an anchor for people inside the prisons and a bridge for those getting out. \nRead the story on VTDigger here:  In Vermont prisons, religious volunteers provide support and hope.",
-      "url": "https://vtdigger.org/2026/03/02/in-vermont-prisons-religious-volunteers-provide-support-and-hope/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-02",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "e46e86826c08",
       "title": "Not a fear, a reality: Researchers leaving for abroad, red states",
       "summary": "At his home in New Hampshire on a warm May day last year, Charles Crabtree thought it was time to start looking abroad for jobs.",
@@ -525,20 +553,6 @@
       "state": "NH",
       "date": "2026-03-02",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "985ccc635d2a",
-      "title": "VTDigger\u2019s 2026 guide to Vermont Town Meeting voting",
-      "summary": "The state\u2019s 247 municipalities are set to decide annual local government and school spending, leaders, advisory articles and a few unusual extras \u2014 such as Underhill\u2019s request for a $60,000 preowned rubber-tired backhoe.\nRead the story on VTDigger here:  VTDigger\u2019s 2026 guide to Vermont Town Meetin",
-      "url": "https://vtdigger.org/2026/03/01/vtdiggers-2026-guide-to-vermont-town-meeting-voting/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-01",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
