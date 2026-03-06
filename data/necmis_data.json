@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-05T11:24:04.359426Z",
+  "generated": "2026-03-06T11:18:47.319746Z",
   "summary": {
-    "total_opportunities": 23,
+    "total_opportunities": 24,
     "total_value_low": 126206421,
     "total_value_high": 126206421,
     "by_state": {
-      "VT": 4,
+      "VT": 5,
       "NH": 3,
       "ME": 4,
-      "MA": 16,
+      "MA": 15,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 22,
-      "news": 8,
-      "funding": 1
+      "news": 7,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -447,43 +447,85 @@
   ],
   "news": [
     {
-      "id": "fdfe5e9d2a32",
-      "title": "Maine is wrongly penalizing law-abiding cannabis growers | Letter",
-      "summary": "Every few years, Maine tackles \u201cillicit grows,\u201d usually by applying more restrictions on the legal cannabis market. Are we fighting illegal activity or simply layering Prohibition-era suspicion onto a legal industry? While compliant caregivers and small businesses follow strict regulations, pay taxe",
-      "url": "https://www.pressherald.com/2026/03/05/maine-is-wrongly-penalizing-law-abiding-cannabis-growers-letter/",
+      "id": "66809db6d161",
+      "title": "A wall collapsed in an Augusta Civic Center locker room. Monmouth Academy players were inside.",
+      "summary": "The non-load-bearing concrete wall was not built to modern standards, Augusta Director of Code Enforcement Robert Overton said.",
+      "url": "https://www.pressherald.com/2026/03/06/a-wall-collapsed-in-an-augusta-civic-center-locker-room-monmouth-academy-players-were-inside/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-03-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c73ed30ac5c4",
-      "title": "The York/ Biddeford/ OOB co-op hockey team finds glory in year one",
-      "summary": "After Wednesday's regional final win, the team will play in Saturday's Class B state championship.",
-      "url": "https://www.pressherald.com/2026/03/04/the-york-biddeford-oob-co-op-hockey-team-finds-glory-in-year-one/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8a19680d988f",
-      "title": "Western Mass. construction worker who killed 18-month-old child given parole",
-      "summary": "The Massachusetts man avoided parole hearings for years before finally facing the board and taking accountability for killing his girlfriend's toddler.",
-      "url": "https://www.masslive.com/westernmass/2026/03/western-mass-construction-worker-who-killed-18-month-old-child-given-parole.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-05",
+      "date": "2026-03-06",
       "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "3a62781998e5",
+      "title": "Presque Isle Bypass work will start Monday",
+      "summary": "Workers will start by clearing trees where the road will connect with Route 1 in Westfield, about a half-mile south of Presque Isle.",
+      "url": "https://www.bangordailynews.com/2026/03/06/aroostook/aroostook-government/presque-isle-bypass-work-starts-monday-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-06",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cfe9b7facba0",
+      "title": "Residents question Colchester board\u2019s approval of a $8M waterfront hotel project",
+      "summary": "Residents are concerned that if regulations designed to protect Lake Champlain are not enforced, the project could set a dangerous precedent for development in Malletts Bay.\nRead the story on VTDigger here:  Residents question Colchester board\u2019s approval of a $8M waterfront hotel project.",
+      "url": "https://vtdigger.org/2026/03/05/residents-question-colchester-boards-approval-of-a-8m-waterfront-hotel-project/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-05",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a3e8bf3b9e8f",
+      "title": "Sen. Alison Clarkson to retire after more than two decades in Vermont\u2019s Legislature",
+      "summary": "Clarkson helped negotiate a major deal last spring to create a new financing program for infrastructure. In retirement, she wants to help reestablish a culinary institute in Vermont.\nRead the story on VTDigger here:  Sen. Alison Clarkson to retire after more than two decades in Vermont\u2019s Legislatur",
+      "url": "https://vtdigger.org/2026/03/05/sen-alison-clarkson-to-retire-after-more-than-two-decades-in-vermonts-legislature/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "416c423fea43",
+      "title": "Maine supreme court weighs MDI dispute over $230K code violation",
+      "summary": "The owners have maintained that their property was an \u201caborted construction site\" not an unpermitted junkyard.",
+      "url": "https://www.bangordailynews.com/2026/03/05/hancock/hancock-police-courts/maine-supreme-court-mdi-junkyard-fines/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-05",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "715c6219aec9",
+      "title": "NH Senate Votes To Hike Turnpike Tolls for Out-of-State Vehicles",
+      "summary": "While Republican Gov. Kelly Ayotte has said she opposes increasing highway toll rates across the state, the Senate voted Thursday to increase rates for out-of-state license plate holders.",
+      "url": "https://indepthnh.org/2026/03/05/nh-senate-votes-to-hike-turnpike-tolls-for-out-of-state-vehicles/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-03-05",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -495,20 +537,6 @@
       "url": "https://vtdigger.org/2026/03/04/local-option-tax-proposals-see-mixed-reception-in-nearly-20-vermont-communities/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-03-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7c2a5d6fc1bc",
-      "title": "What to expect from Sanford\u2019s municipal, school budget proposals",
-      "summary": "City leaders say they are trying to limit next year's tax increase to around 5% when all is said and done.",
-      "url": "https://www.pressherald.com/2026/03/04/what-to-expect-from-sanfords-municipal-school-budget-proposals/",
-      "source": "Portland Press Herald",
-      "state": "ME",
       "date": "2026-03-04",
       "category": "news",
       "priority": "medium",
@@ -531,20 +559,6 @@
       ]
     },
     {
-      "id": "ede57c904301",
-      "title": "Bradford voters reject proposal to double police force",
-      "summary": "All other articles before voters at the Bradford Town Meeting on Saturday passed, including the proposed annual general and highway budgets of $1.69 million and $1.4 million, respectively.\nRead the story on VTDigger here:  Bradford voters reject proposal to double police force.",
-      "url": "https://vtdigger.org/2026/03/02/bradford-voters-reject-proposal-to-double-police-force/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-02",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "e46e86826c08",
       "title": "Not a fear, a reality: Researchers leaving for abroad, red states",
       "summary": "At his home in New Hampshire on a warm May day last year, Charles Crabtree thought it was time to start looking abroad for jobs.",
@@ -554,20 +568,6 @@
       "date": "2026-03-02",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1a9d8206acad",
-      "title": "Paramount Skydance apparent winner of Warner Bros; Netflix walks away and its shares jump",
-      "summary": "Paramount Skydance emerged as the likely winner in a months-long battle to acquire Warner Bros. Discovery, after streaming giant Netflix on Thursday refused to raise its bid for the storied Hollywood studio.",
-      "url": "https://www.unionleader.com/news/business/paramount-skydance-apparent-winner-of-warner-bros-netflix-walks-away-and-its-shares-jump/article_4969a8a6-4606-55b2-a23e-6b8b62eb7392.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-02-26",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
