@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-07T11:09:36.946170Z",
+  "generated": "2026-03-08T11:10:45.858662Z",
   "summary": {
-    "total_opportunities": 31,
+    "total_opportunities": 30,
     "total_value_low": 195772054,
     "total_value_high": 195772054,
     "by_state": {
       "VT": 4,
       "NH": 3,
-      "ME": 5,
-      "MA": 23,
+      "ME": 3,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 8,
-      "funding": 2
+      "news": 6,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -581,71 +581,29 @@
   ],
   "news": [
     {
-      "id": "013d1f39aa20",
-      "title": "Portland Foreside Development price tag rises above $1B",
-      "summary": "The developers say they've upgraded planned construction to meet the expectations of potential tenants, and the mixed-use project has faced significant financial challenges.",
-      "url": "https://www.pressherald.com/2026/03/07/portland-foreside-development-price-tag-rises-above-1b/",
-      "source": "Portland Press Herald",
+      "id": "90647f9e7aee",
+      "title": "I discovered this epic 12-mile ski loop in Acadia National Park",
+      "summary": "Around-the-Mountain is one of several circuits in Acadia's winter carriage road system, which totals about 30 miles of cross-country skiing.",
+      "url": "https://www.bangordailynews.com/2026/03/08/outdoors/outdoors-contributors/epic-12-mile-ski-loop-acadia-national-park-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "11fde7a83220",
+      "title": "York holds off Hampden Academy co-op team for first Class B hockey title in 15 years",
+      "summary": "The York-Biddeford-Old Orchard Beach cooperative hockey team received second-period goals from seniors Henry Ober, Bronson Eldredge and Brett Aceto to build a 3-0 lead and held off a rally by the youthful Hampden Academy-Ellsworth-Mount Desert Island-Nokomis of Newport coop team to edge the Broncos",
+      "url": "https://www.bangordailynews.com/2026/03/07/sports/york-hampden-hockey-final/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-03-07",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b415eabeb11d",
-      "title": "Portland\u2019s Bayside parcels could transform city | Letter",
-      "summary": "The city and development partners should approach this part of town as a cohesive neighborhood.",
-      "url": "https://www.pressherald.com/2026/03/07/portlands-bayside-parcels-could-transform-city-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-07",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "34874205a785",
-      "title": "Planning Board backs new police headquarters project",
-      "summary": "A new police station is well on its way in Westfield after the city\u2019s Planning Board unanimously approved the site plan, stormwater permit and special permit for the project.",
-      "url": "https://www.masslive.com/westfieldnews/2026/03/planning-board-backs-new-police-headquarters-project.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-07",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "26edecdce88d",
-      "title": "Gray prepares to reshape its town center",
-      "summary": "The Village Transformation Project would rework the town's roads and sewer systems to become more business and pedestrian friendly.",
-      "url": "https://www.pressherald.com/2026/03/06/gray-prepares-to-reshape-its-town-center/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-06",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "512d6268ca03",
-      "title": "Mariners beat Trois-Rivi\u00e8res for ninth straight win",
-      "summary": "Maine continues its climb up the ECHL standings with another victory on the road.",
-      "url": "https://www.pressherald.com/2026/03/06/mariners-kalmikov-promoted-to-providence/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-06",
-      "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
