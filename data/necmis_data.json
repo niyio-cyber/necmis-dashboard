@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-08T11:10:45.858662Z",
+  "generated": "2026-03-09T11:26:15.560755Z",
   "summary": {
     "total_opportunities": 30,
     "total_value_low": 195772054,
     "total_value_high": 195772054,
     "by_state": {
       "VT": 4,
-      "NH": 3,
+      "NH": 4,
       "ME": 3,
-      "MA": 22,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 6,
+      "news": 9,
       "funding": 1
     }
   },
@@ -581,6 +581,62 @@
   ],
   "news": [
     {
+      "id": "05d1dc766afe",
+      "title": "Smart stream crossings benefit wildlife, public safety",
+      "summary": "\"We can either pay for Stream Smart crossings or pay to repair roads washed out by the bigger and more frequent storms we\u2019re seeing today.\"",
+      "url": "https://www.bangordailynews.com/2026/03/09/opinion/opinion-contributor/smart-stream-crossings-benefit-wildlife-public-safety/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "69c8781170b5",
+      "title": "Print Lab celebrates one year at Southampton Road location",
+      "summary": "The Print Lab celebrated its one-year anniversary at its current location on 383 Southampton Road with a ribbon-cutting ceremony on March 5.",
+      "url": "https://www.masslive.com/news/2026/03/print-lab-celebrates-one-year-at-southampton-road-location.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "777458704c18",
+      "title": "Road woes continue for Bruins, but OT loss to Penguins was \u2018step in the right direction\u2019",
+      "summary": "The Bruins' road woes continued Sunday with an overtime loss to the Penguins, but it was \"a step in the right direction\" for the team as a whole.",
+      "url": "https://www.masslive.com/bruins/2026/03/road-woes-continued-for-bruins-but-ot-loss-to-penguins-was-step-in-the-right-direction.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "96885a56d32f",
+      "title": "The Moore Center welcomes new members to its board of directors",
+      "summary": "The Moore Center, a Manchester-based nonprofit providing services to individuals with developmental and intellectual disabilities and acquired brain disorders as well as services to children and senior citizens, recently named five area leaders to their board of directors, strengthening the\u2026",
+      "url": "https://www.unionleader.com/news/business/the-moore-center-welcomes-new-members-to-its-board-of-directors/article_06775f7f-3c9e-448b-b7ea-cdd59933280c.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-03-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "90647f9e7aee",
       "title": "I discovered this epic 12-mile ski loop in Acadia National Park",
       "summary": "Around-the-Mountain is one of several circuits in Acadia's winter carriage road system, which totals about 30 miles of cross-country skiing.",
@@ -590,20 +646,6 @@
       "date": "2026-03-08",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "11fde7a83220",
-      "title": "York holds off Hampden Academy co-op team for first Class B hockey title in 15 years",
-      "summary": "The York-Biddeford-Old Orchard Beach cooperative hockey team received second-period goals from seniors Henry Ober, Bronson Eldredge and Brett Aceto to build a 3-0 lead and held off a rally by the youthful Hampden Academy-Ellsworth-Mount Desert Island-Nokomis of Newport coop team to edge the Broncos",
-      "url": "https://www.bangordailynews.com/2026/03/07/sports/york-hampden-hockey-final/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-07",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
