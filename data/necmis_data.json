@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-09T11:26:15.560755Z",
+  "generated": "2026-03-10T11:23:07.870560Z",
   "summary": {
     "total_opportunities": 30,
     "total_value_low": 195772054,
     "total_value_high": 195772054,
     "by_state": {
-      "VT": 4,
-      "NH": 4,
-      "ME": 3,
-      "MA": 24,
+      "VT": 2,
+      "NH": 2,
+      "ME": 5,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 9,
+      "news": 5,
       "funding": 1
     }
   },
@@ -581,43 +581,71 @@
   ],
   "news": [
     {
-      "id": "05d1dc766afe",
-      "title": "Smart stream crossings benefit wildlife, public safety",
-      "summary": "\"We can either pay for Stream Smart crossings or pay to repair roads washed out by the bigger and more frequent storms we\u2019re seeing today.\"",
-      "url": "https://www.bangordailynews.com/2026/03/09/opinion/opinion-contributor/smart-stream-crossings-benefit-wildlife-public-safety/",
+      "id": "4b9b36cd1c6d",
+      "title": "Spring is coming. But first, mud.",
+      "summary": "As winter gives way to spring in Maine, mud season brings thawing ground, soft roads, frost heaves and temporary weight limits that affect daily travel and outdoor activity.",
+      "url": "https://www.pressherald.com/2026/03/10/spring-is-coming-but-first-mud/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "df7361a3a691",
+      "title": "Cryptozoology museum set to open in Bangor next month",
+      "summary": "The museum dedicated to unknown creatures like Bigfoot and the Loch Ness Monster will soon welcome visitors at 490 Broadway.",
+      "url": "https://www.bangordailynews.com/2026/03/10/bangor/bangor-culture/cryptozoology-museum-opening-bangor-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "de7df33b47f7",
+      "title": "Maine\u2019s proposed data center ban could restrict\u00a0facility planned at Loring",
+      "summary": "A bill headed to the Legislature would halt permits for facilities using more than 20 megawatts of power until late 2027.",
+      "url": "https://www.bangordailynews.com/2026/03/10/aroostook/aroostook-business/maine-data-center-ban-loring-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cd82d1089bec",
+      "title": "New shelter addresses \u2018real gap in our system\u2019 for unhoused people in recovery from addiction",
+      "summary": "The Bridges Recovery Shelter in Burlington will have clinicians on site, as well as recovery group meetings and peer-to-peer support.\nRead the story on VTDigger here:  New shelter addresses \u2018real gap in our system\u2019 for unhoused people in recovery from addiction.",
+      "url": "https://vtdigger.org/2026/03/09/new-shelter-addresses-real-gap-in-our-system-for-unhoused-people-in-recovery-from-addiction/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-09",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d20108ce3688",
+      "title": "Ellsworth supports library\u2019s bid for $3M in federal funding",
+      "summary": "Under the terms of the federal grant, the city would pay half of the expected $6 million library expansion project.",
+      "url": "https://www.bangordailynews.com/2026/03/09/hancock/hancock-government/ellsworth-library-federal-grant/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-03-09",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "69c8781170b5",
-      "title": "Print Lab celebrates one year at Southampton Road location",
-      "summary": "The Print Lab celebrated its one-year anniversary at its current location on 383 Southampton Road with a ribbon-cutting ceremony on March 5.",
-      "url": "https://www.masslive.com/news/2026/03/print-lab-celebrates-one-year-at-southampton-road-location.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-09",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "777458704c18",
-      "title": "Road woes continue for Bruins, but OT loss to Penguins was \u2018step in the right direction\u2019",
-      "summary": "The Bruins' road woes continued Sunday with an overtime loss to the Penguins, but it was \"a step in the right direction\" for the team as a whole.",
-      "url": "https://www.masslive.com/bruins/2026/03/road-woes-continued-for-bruins-but-ot-loss-to-penguins-was-step-in-the-right-direction.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-09",
-      "category": "news",
-      "priority": "medium",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -630,90 +658,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-03-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "90647f9e7aee",
-      "title": "I discovered this epic 12-mile ski loop in Acadia National Park",
-      "summary": "Around-the-Mountain is one of several circuits in Acadia's winter carriage road system, which totals about 30 miles of cross-country skiing.",
-      "url": "https://www.bangordailynews.com/2026/03/08/outdoors/outdoors-contributors/epic-12-mile-ski-loop-acadia-national-park-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cfe9b7facba0",
-      "title": "Residents question Colchester board\u2019s approval of a $8M waterfront hotel project",
-      "summary": "Residents are concerned that if regulations designed to protect Lake Champlain are not enforced, the project could set a dangerous precedent for development in Malletts Bay.\nRead the story on VTDigger here:  Residents question Colchester board\u2019s approval of a $8M waterfront hotel project.",
-      "url": "https://vtdigger.org/2026/03/05/residents-question-colchester-boards-approval-of-a-8m-waterfront-hotel-project/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-05",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a3e8bf3b9e8f",
-      "title": "Sen. Alison Clarkson to retire after more than two decades in Vermont\u2019s Legislature",
-      "summary": "Clarkson helped negotiate a major deal last spring to create a new financing program for infrastructure. In retirement, she wants to help reestablish a culinary institute in Vermont.\nRead the story on VTDigger here:  Sen. Alison Clarkson to retire after more than two decades in Vermont\u2019s Legislatur",
-      "url": "https://vtdigger.org/2026/03/05/sen-alison-clarkson-to-retire-after-more-than-two-decades-in-vermonts-legislature/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "715c6219aec9",
-      "title": "NH Senate Votes To Hike Turnpike Tolls for Out-of-State Vehicles",
-      "summary": "While Republican Gov. Kelly Ayotte has said she opposes increasing highway toll rates across the state, the Senate voted Thursday to increase rates for out-of-state license plate holders.",
-      "url": "https://indepthnh.org/2026/03/05/nh-senate-votes-to-hike-turnpike-tolls-for-out-of-state-vehicles/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-03-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "dde08618c75a",
-      "title": "Local option tax proposals see mixed reception in nearly 20 Vermont communities",
-      "summary": "After Town Meeting Day decisions, a dozen municipalities will see new revenue streams to shore up local projects.\nRead the story on VTDigger here:  Local option tax proposals see mixed reception in nearly 20 Vermont communities.",
-      "url": "https://vtdigger.org/2026/03/04/local-option-tax-proposals-see-mixed-reception-in-nearly-20-vermont-communities/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e46e86826c08",
-      "title": "Not a fear, a reality: Researchers leaving for abroad, red states",
-      "summary": "At his home in New Hampshire on a warm May day last year, Charles Crabtree thought it was time to start looking abroad for jobs.",
-      "url": "https://www.unionleader.com/news/scitech/not-a-fear-a-reality-researchers-leaving-for-abroad-red-states/article_96edd2d4-f80a-4213-8ae9-90399c20da9e.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-03-02",
       "category": "news",
       "priority": "medium",
       "business_lines": [
