@@ -1,84 +1,26 @@
 {
-  "generated": "2026-03-10T11:23:07.870560Z",
+  "generated": "2026-03-11T11:23:37.029962Z",
   "summary": {
-    "total_opportunities": 30,
-    "total_value_low": 195772054,
-    "total_value_high": 195772054,
+    "total_opportunities": 29,
+    "total_value_low": 192339013,
+    "total_value_high": 192339013,
     "by_state": {
       "VT": 2,
-      "NH": 2,
+      "NH": 3,
       "ME": 5,
-      "MA": 22,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 29,
+      "dot_letting": 26,
       "news": 5,
-      "funding": 1
+      "funding": 3
     }
   },
   "dot_lettings": [
-    {
-      "id": "c3444cabe112",
-      "state": "MA",
-      "project_id": "614141",
-      "description": "Scheduled and Emergency Bridge Deck and Joint Repairs at Various Locations",
-      "cost_low": 1280396,
-      "cost_high": 1280396,
-      "cost_display": "$1.3M",
-      "ad_date": "2026-02-07",
-      "let_date": null,
-      "project_type": "Bridge - Construction    , Bridge - Deck Repairs",
-      "location": "District 2",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614141",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "770f1594d423",
-      "state": "MA",
-      "project_id": "614111",
-      "description": "Scheduled and Emergency Drainage Structure and Pipe Cleaning at Various Locations",
-      "cost_low": 772880,
-      "cost_high": 772880,
-      "cost_display": "$773K",
-      "ad_date": "2026-02-14",
-      "let_date": null,
-      "project_type": "Catch Basin Cleaning",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614111",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d42183da8c4a",
-      "state": "MA",
-      "project_id": "614114",
-      "description": "Application of Reflectorized Pavement Markings at Various Locations",
-      "cost_low": 1379765,
-      "cost_high": 1379765,
-      "cost_display": "$1.4M",
-      "ad_date": "2026-02-14",
-      "let_date": null,
-      "project_type": "Pavement Markings",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614114",
-      "source": "MassDOT",
-      "business_lines": [
-        "hma"
-      ]
-    },
     {
       "id": "bf1f7b51eaaf",
       "state": "MA",
@@ -581,38 +523,81 @@
   ],
   "news": [
     {
-      "id": "4b9b36cd1c6d",
-      "title": "Spring is coming. But first, mud.",
-      "summary": "As winter gives way to spring in Maine, mud season brings thawing ground, soft roads, frost heaves and temporary weight limits that affect daily travel and outdoor activity.",
-      "url": "https://www.pressherald.com/2026/03/10/spring-is-coming-but-first-mud/",
+      "id": "b5e7d1027b12",
+      "title": "Biddeford\u2019s preliminary spending plan up 12.5%",
+      "summary": "The proposed $54 million municipal budget includes increases in personnel costs and a new public safety initiative, 'Wellness on Wheels.'",
+      "url": "https://www.pressherald.com/2026/03/10/biddefords-preliminary-spending-plan-up-12-5/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-03-10",
-      "category": "news",
-      "priority": "medium",
+      "date": "2026-03-11",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "df7361a3a691",
-      "title": "Cryptozoology museum set to open in Bangor next month",
-      "summary": "The museum dedicated to unknown creatures like Bigfoot and the Loch Ness Monster will soon welcome visitors at 490 Broadway.",
-      "url": "https://www.bangordailynews.com/2026/03/10/bangor/bangor-culture/cryptozoology-museum-opening-bangor-joam40zk0w/",
+      "id": "8410b8cf7337",
+      "title": "Former sporting camp on northern Maine island is for sale\u00a0for $2.4M",
+      "summary": "The 9.6-acre Zella Island\u00a0sits in the northern part of Fish River Lake in the North Maine Woods and is dotted with modernized cabins.",
+      "url": "https://www.bangordailynews.com/2026/03/11/business/business-housing/northern-maine-island-sporting-camp-for-sale-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-11",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "eff66b251bdd",
+      "title": "Boston Bucket List: There\u2019s a cultural icon hiding in Seaport. It\u2019s free once a week",
+      "summary": "An iconic Boston museum is more than just another wall of glass and concrete in Boston\u2019s trendiest neighborhood.",
+      "url": "https://www.masslive.com/destinations/2026/03/boston-bucket-list-theres-a-cultural-icon-hiding-in-seaport-its-free-once-a-week.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "a9b4d6284b20",
+      "title": "NHTSA takes 'milestone' step toward robotaxi commercial deployment",
+      "summary": "The federal government has begun the process of exempting the nation\u2019s first purpose-built robotaxi from certain safety standards so it can deploy commercially on American roads.",
+      "url": "https://www.unionleader.com/news/business/nhtsa-takes-milestone-step-toward-robotaxi-commercial-deployment/article_4fe590cf-e952-44c8-a225-0b2845d36c8c.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-03-10",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "aggregates"
+      ]
+    },
+    {
+      "id": "aa3eaca653d6",
+      "title": "Former Madawaska border station will soon become a brewery",
+      "summary": "The former border station was put up for auction in August, sparking a bidding war that extended the auction multiple times.",
+      "url": "https://www.bangordailynews.com/2026/03/10/aroostook/aroostook-business/former-madawaska-border-station-will-soon-become-a-brewery/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-03-10",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "de7df33b47f7",
-      "title": "Maine\u2019s proposed data center ban could restrict\u00a0facility planned at Loring",
-      "summary": "A bill headed to the Legislature would halt permits for facilities using more than 20 megawatts of power until late 2027.",
-      "url": "https://www.bangordailynews.com/2026/03/10/aroostook/aroostook-business/maine-data-center-ban-loring-joam40zk0w/",
+      "id": "55cd95ec4b67",
+      "title": "Fort Kent residents could see lower tax bills",
+      "summary": "Fort Kent will hold a town meeting next Tuesday, as well as a municipal election to fill a seat for a three-year term on the town council.",
+      "url": "https://www.bangordailynews.com/2026/03/10/aroostook/aroostook-government/fort-kent-residents-could-see-lower-tax-bills/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-03-10",
@@ -631,20 +616,6 @@
       "state": "VT",
       "date": "2026-03-09",
       "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d20108ce3688",
-      "title": "Ellsworth supports library\u2019s bid for $3M in federal funding",
-      "summary": "Under the terms of the federal grant, the city would pay half of the expected $6 million library expansion project.",
-      "url": "https://www.bangordailynews.com/2026/03/09/hancock/hancock-government/ellsworth-library-federal-grant/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-09",
-      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
