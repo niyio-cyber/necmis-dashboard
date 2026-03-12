@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-11T11:23:37.029962Z",
+  "generated": "2026-03-12T11:23:42.278716Z",
   "summary": {
-    "total_opportunities": 29,
+    "total_opportunities": 28,
     "total_value_low": 192339013,
     "total_value_high": 192339013,
     "by_state": {
       "VT": 2,
       "NH": 3,
-      "ME": 5,
-      "MA": 20,
+      "ME": 7,
+      "MA": 19,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 5,
-      "funding": 3
+      "news": 7,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -523,45 +523,101 @@
   ],
   "news": [
     {
-      "id": "b5e7d1027b12",
-      "title": "Biddeford\u2019s preliminary spending plan up 12.5%",
-      "summary": "The proposed $54 million municipal budget includes increases in personnel costs and a new public safety initiative, 'Wellness on Wheels.'",
-      "url": "https://www.pressherald.com/2026/03/10/biddefords-preliminary-spending-plan-up-12-5/",
+      "id": "0d706fb13410",
+      "title": "He\u2019s been to every town in Maine, mostly for something to say. | Column",
+      "summary": "Wanting fodder for a future obituary, Jeff Hewett gave himself a challenge: Visit every municipal office in the state and take a picture to prove he'd been there.",
+      "url": "https://www.pressherald.com/2026/03/12/hes-been-to-every-town-in-maine-mostly-for-something-to-say-column/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-03-11",
-      "category": "funding",
-      "priority": "high",
+      "date": "2026-03-12",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "8410b8cf7337",
-      "title": "Former sporting camp on northern Maine island is for sale\u00a0for $2.4M",
-      "summary": "The 9.6-acre Zella Island\u00a0sits in the northern part of Fish River Lake in the North Maine Woods and is dotted with modernized cabins.",
-      "url": "https://www.bangordailynews.com/2026/03/11/business/business-housing/northern-maine-island-sporting-camp-for-sale-joam40zk0w/",
+      "id": "583f0276cacd",
+      "title": "Maine\u2019s manufactured-home communities are being exploited | Letter",
+      "summary": "Maine\u2019s manufactured-home communities are facing a crisis that municipalities can no longer afford to ignore. These parks represent our state\u2019s last remaining \u201cnaturally affordable\u201d housing, yet residents are being squeezed by steep, unregulated rent hikes and predatory utility fees. When towns fail",
+      "url": "https://www.pressherald.com/2026/03/12/maines-manufactured-home-communities-are-being-exploited-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-12",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "19477e21cca4",
+      "title": "Road race across Penobscot Narrows Bridge returns next month after year hiatus",
+      "summary": "On April 18, runners will once again run across the bridge connecting Waldo and Hancock counties over the Penobscot River.",
+      "url": "https://www.bangordailynews.com/2026/03/12/hancock/hancock-culture/road-race-penobscot-narrows-bucksport-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-03-11",
-      "category": "funding",
+      "date": "2026-03-12",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "eff66b251bdd",
-      "title": "Boston Bucket List: There\u2019s a cultural icon hiding in Seaport. It\u2019s free once a week",
-      "summary": "An iconic Boston museum is more than just another wall of glass and concrete in Boston\u2019s trendiest neighborhood.",
-      "url": "https://www.masslive.com/destinations/2026/03/boston-bucket-list-theres-a-cultural-icon-hiding-in-seaport-its-free-once-a-week.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "455566354902",
+      "title": "School consolidation efforts reach an inflection point as lawmakers hit familiar roadblocks",
+      "summary": "Halfway through the legislative session, lawmakers are at loggerheads over how to consolidate Vermont's school districts, with two very different proposals in the House and Senate.\nRead the story on VTDigger here:  School consolidation efforts reach an inflection point as lawmakers hit familiar roa",
+      "url": "https://vtdigger.org/2026/03/11/school-consolidation-efforts-reach-an-inflection-point-as-lawmakers-hit-familiar-roadblocks/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-03-11",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "ready_mix"
+        "highway"
+      ]
+    },
+    {
+      "id": "82ba5f4816b5",
+      "title": "Bath discontinues road to clear way for shipyard parking",
+      "summary": "The discontinuation of a section of Fisher Court will lead to expanded parking for Bath Iron Works employees as the shipyard prepares to build a parking garage.",
+      "url": "https://www.pressherald.com/2026/03/11/bath-discontinues-road-to-clear-way-for-shipyard-parking/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "23f371cd0df5",
+      "title": "Riley honored for lifetime of public service with UMaine Alumni Career Award",
+      "summary": "ORONO \u2014 On Sunday afternoons, Trish Riley would sit at the kitchen table of a University of Maine professor\u2019s home on Chapel Road, drafting recommendations for the campus Commission on the Status of Women. The professor, Connie Carlson, had become more than a teacher. \u201cShe was very important to me a",
+      "url": "https://www.bangordailynews.com/2026/03/11/bdn-maine/riley-honored-for-lifetime-of-public-service-with-umaine-alumni-career-award/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-11",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "238f9cdb2e18",
+      "title": "Jared Golden: My thoughts on the conflict in Iran",
+      "summary": "\u201cI have seen nation-building fail firsthand in Afghanistan and Iraq. I spent years in the region and never found broad buy-in for America\u2019s mission to stand up democracy.\u201d",
+      "url": "https://www.bangordailynews.com/2026/03/11/opinion/opinion-contributor/jared-golden-thoughts-on-iran-conflict/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -577,48 +633,6 @@
       "business_lines": [
         "highway",
         "aggregates"
-      ]
-    },
-    {
-      "id": "aa3eaca653d6",
-      "title": "Former Madawaska border station will soon become a brewery",
-      "summary": "The former border station was put up for auction in August, sparking a bidding war that extended the auction multiple times.",
-      "url": "https://www.bangordailynews.com/2026/03/10/aroostook/aroostook-business/former-madawaska-border-station-will-soon-become-a-brewery/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-10",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "55cd95ec4b67",
-      "title": "Fort Kent residents could see lower tax bills",
-      "summary": "Fort Kent will hold a town meeting next Tuesday, as well as a municipal election to fill a seat for a three-year term on the town council.",
-      "url": "https://www.bangordailynews.com/2026/03/10/aroostook/aroostook-government/fort-kent-residents-could-see-lower-tax-bills/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-10",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cd82d1089bec",
-      "title": "New shelter addresses \u2018real gap in our system\u2019 for unhoused people in recovery from addiction",
-      "summary": "The Bridges Recovery Shelter in Burlington will have clinicians on site, as well as recovery group meetings and peer-to-peer support.\nRead the story on VTDigger here:  New shelter addresses \u2018real gap in our system\u2019 for unhoused people in recovery from addiction.",
-      "url": "https://vtdigger.org/2026/03/09/new-shelter-addresses-real-gap-in-our-system-for-unhoused-people-in-recovery-from-addiction/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-09",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
       ]
     },
     {
