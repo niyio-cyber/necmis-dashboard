@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-12T11:23:42.278716Z",
+  "generated": "2026-03-13T11:21:32.279430Z",
   "summary": {
-    "total_opportunities": 28,
+    "total_opportunities": 30,
     "total_value_low": 192339013,
     "total_value_high": 192339013,
     "by_state": {
       "VT": 2,
-      "NH": 3,
-      "ME": 7,
-      "MA": 19,
+      "NH": 5,
+      "ME": 2,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 7,
-      "funding": 2
+      "news": 3,
+      "funding": 4
     }
   },
   "dot_lettings": [
@@ -523,42 +523,42 @@
   ],
   "news": [
     {
-      "id": "0d706fb13410",
-      "title": "He\u2019s been to every town in Maine, mostly for something to say. | Column",
-      "summary": "Wanting fodder for a future obituary, Jeff Hewett gave himself a challenge: Visit every municipal office in the state and take a picture to prove he'd been there.",
-      "url": "https://www.pressherald.com/2026/03/12/hes-been-to-every-town-in-maine-mostly-for-something-to-say-column/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "583f0276cacd",
-      "title": "Maine\u2019s manufactured-home communities are being exploited | Letter",
-      "summary": "Maine\u2019s manufactured-home communities are facing a crisis that municipalities can no longer afford to ignore. These parks represent our state\u2019s last remaining \u201cnaturally affordable\u201d housing, yet residents are being squeezed by steep, unregulated rent hikes and predatory utility fees. When towns fail",
-      "url": "https://www.pressherald.com/2026/03/12/maines-manufactured-home-communities-are-being-exploited-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "19477e21cca4",
-      "title": "Road race across Penobscot Narrows Bridge returns next month after year hiatus",
-      "summary": "On April 18, runners will once again run across the bridge connecting Waldo and Hancock counties over the Penobscot River.",
-      "url": "https://www.bangordailynews.com/2026/03/12/hancock/hancock-culture/road-race-penobscot-narrows-bucksport-joam40zk0w/",
+      "id": "556f507e6b02",
+      "title": "No one has used the free housing plans Bangor\u00a0spent $182K designing",
+      "summary": "The city commissioned the plans for four homes of various sizes\u00a0to encourage new housing construction.",
+      "url": "https://www.bangordailynews.com/2026/03/13/business/business-housing/bangor-housing-plans-unused/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "18c64484c688",
+      "title": "Final decision on Crepes Tea House seating arrangements delayed once again",
+      "summary": "Crepes Tea House\u2019s request to modify its special permit to allow it to use one of three outbuildings on the property as outdoor dining was the primary topic at the meetings of the Southwick Board of Health and Planning Board Tuesday and, as it\u2019s been since last July, there is still no resolution.",
+      "url": "https://www.masslive.com/westfieldnews/2026/03/final-decision-on-crepes-tea-house-seating-arrangements-delayed-once-again.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-13",
       "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8591a8f6037c",
+      "title": "NH House Approves $4.7 Billion 10-Year Highway Plan",
+      "summary": "The House Thursday approved a $4.7 billion 10-year highway improvement plan constrained by a lack of state and federal funds.",
+      "url": "https://indepthnh.org/2026/03/12/nh-house-approves-4-7-billion-10-year-highway-plan/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-03-12",
+      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
@@ -579,43 +579,15 @@
       ]
     },
     {
-      "id": "82ba5f4816b5",
-      "title": "Bath discontinues road to clear way for shipyard parking",
-      "summary": "The discontinuation of a section of Fisher Court will lead to expanded parking for Bath Iron Works employees as the shipyard prepares to build a parking garage.",
-      "url": "https://www.pressherald.com/2026/03/11/bath-discontinues-road-to-clear-way-for-shipyard-parking/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-11",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "23f371cd0df5",
-      "title": "Riley honored for lifetime of public service with UMaine Alumni Career Award",
-      "summary": "ORONO \u2014 On Sunday afternoons, Trish Riley would sit at the kitchen table of a University of Maine professor\u2019s home on Chapel Road, drafting recommendations for the campus Commission on the Status of Women. The professor, Connie Carlson, had become more than a teacher. \u201cShe was very important to me a",
-      "url": "https://www.bangordailynews.com/2026/03/11/bdn-maine/riley-honored-for-lifetime-of-public-service-with-umaine-alumni-career-award/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "26e0a75db59d",
+      "title": "How fossil fuel disruptions lead to booms in solar and batteries",
+      "summary": "The war in the Middle East has roiled oil and gas markets. Under a severe scenario, with more strikes on energy infrastructure, Bloomberg Economics estimates that crude could reach $108 a barrel, adding a significant boost to inflation and even\u2026",
+      "url": "https://www.unionleader.com/news/business/how-fossil-fuel-disruptions-lead-to-booms-in-solar-and-batteries/article_1d1d30ac-2cf9-405f-8641-0d3c1e8d367c.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-03-11",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "238f9cdb2e18",
-      "title": "Jared Golden: My thoughts on the conflict in Iran",
-      "summary": "\u201cI have seen nation-building fail firsthand in Afghanistan and Iraq. I spent years in the region and never found broad buy-in for America\u2019s mission to stand up democracy.\u201d",
-      "url": "https://www.bangordailynews.com/2026/03/11/opinion/opinion-contributor/jared-golden-thoughts-on-iran-conflict/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-11",
-      "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
