@@ -1,22 +1,22 @@
 {
-  "generated": "2026-03-13T11:21:32.279430Z",
+  "generated": "2026-03-14T11:13:28.616649Z",
   "summary": {
-    "total_opportunities": 30,
-    "total_value_low": 192339013,
-    "total_value_high": 192339013,
+    "total_opportunities": 33,
+    "total_value_low": 196208508,
+    "total_value_high": 196208508,
     "by_state": {
       "VT": 2,
       "NH": 5,
-      "ME": 2,
-      "MA": 20,
+      "ME": 4,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 26,
-      "news": 3,
+      "dot_letting": 29,
+      "news": 8,
       "funding": 4
     }
   },
@@ -234,6 +234,44 @@
       ]
     },
     {
+      "id": "f0a09a5722a1",
+      "state": "MA",
+      "project_id": "614152",
+      "description": "Scheduled & Emergency Guardrail Repairs at Various Locations",
+      "cost_low": 1800000,
+      "cost_high": 1800000,
+      "cost_display": "$1.8M",
+      "ad_date": "2026-03-14",
+      "let_date": null,
+      "project_type": "Guard Rail & Fencing",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614152",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cf125414b5c3",
+      "state": "MA",
+      "project_id": "614069",
+      "description": "Scheduled and Emergency Fabrication and Installation of Overhead and Ground Mounted Guide Signs at Various Locations",
+      "cost_low": 736625,
+      "cost_high": 736625,
+      "cost_display": "$737K",
+      "ad_date": "2026-03-14",
+      "let_date": null,
+      "project_type": "Signing - Structural",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614069",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "1c39e630ce50",
       "state": "MA",
       "project_id": "614262",
@@ -289,6 +327,26 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "4f1660f81309",
+      "state": "MA",
+      "project_id": "614142",
+      "description": "Bridge Deck Wearing Surface Repairs at Various Locations",
+      "cost_low": 1332870,
+      "cost_high": 1332870,
+      "cost_display": "$1.3M",
+      "ad_date": "2026-03-14",
+      "let_date": null,
+      "project_type": "Bridge - Deck Repairs",
+      "location": "District 2",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614142",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
       ]
     },
     {
@@ -523,27 +581,97 @@
   ],
   "news": [
     {
-      "id": "556f507e6b02",
-      "title": "No one has used the free housing plans Bangor\u00a0spent $182K designing",
-      "summary": "The city commissioned the plans for four homes of various sizes\u00a0to encourage new housing construction.",
-      "url": "https://www.bangordailynews.com/2026/03/13/business/business-housing/bangor-housing-plans-unused/",
-      "source": "Bangor Daily News",
+      "id": "7385b55d7440",
+      "title": "Maine\u2019s municipal governments need to ask themselves some basic questions | Letter",
+      "summary": "Across Maine, I keep hearing the same line: \u201cWe just need to grow our way out of it.\u201d More housing. More valuation. More development. More revenue. That thinking is exactly what got many towns into the position they\u2019re in now. Lisbon is feeling it, but it won\u2019t be the last community. Service costs a",
+      "url": "https://www.pressherald.com/2026/03/14/maines-municipal-governments-need-to-ask-themselves-some-basic-questions-letter/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-03-13",
-      "category": "funding",
+      "date": "2026-03-14",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "18c64484c688",
-      "title": "Final decision on Crepes Tea House seating arrangements delayed once again",
-      "summary": "Crepes Tea House\u2019s request to modify its special permit to allow it to use one of three outbuildings on the property as outdoor dining was the primary topic at the meetings of the Southwick Board of Health and Planning Board Tuesday and, as it\u2019s been since last July, there is still no resolution.",
-      "url": "https://www.masslive.com/westfieldnews/2026/03/final-decision-on-crepes-tea-house-seating-arrangements-delayed-once-again.html",
+      "id": "19753d25c97d",
+      "title": "With friends like these, Riverton doesn\u2019t need enemies | Opinion",
+      "summary": "The group of locals opposing the construction of Belfort Landing, a 50-unit housing project, have taken a narrow view of community in a neighborhood where it used to flourish.",
+      "url": "https://www.pressherald.com/2026/03/14/with-friends-like-these-riverton-doesnt-need-enemies-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-14",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d07dd992ab15",
+      "title": "Ousted Freedom town official falls short in return bid",
+      "summary": "Heather Donahue, a former actor who starred in \u201cThe Blair Witch Project,\u201d came in second in the three-way Select Board race.",
+      "url": "https://www.bangordailynews.com/2026/03/13/midcoast/midcoast-government/freedom-select-board-election/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-14",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a81963f83c00",
+      "title": "Westfield Health Bulletin: Reducing access to education will exacerbate country\u2019s health care crisis",
+      "summary": "Excluding nursing from the federal list of professional advanced degree programs is part of the One Big Beautiful Bill Act. Of all government departments, one would think the Department of Education would recognize and abide by the definition of a professional.",
+      "url": "https://www.masslive.com/westfieldnews/2026/03/westfield-health-bulletin-reducing-access-to-education-will-exacerbate-countrys-health-care-crisis.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-03-13",
+      "date": "2026-03-14",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "df8e49aed083",
+      "title": "Mass. city passes state\u2019s first data center moratorium",
+      "summary": "Lowell residents spoke out this week in support of a moratorium on data center construction and development. It will impact the state's largest data center currently in operation.",
+      "url": "https://www.masslive.com/news/2026/03/lowell-enacts-first-data-center-moratorium-in-massachusetts.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-14",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "25c23e16edde",
+      "title": "Mass. looks for new off-ramp to revamped service plazas. Here\u2019s what we know",
+      "summary": "MassDOT said it's looking \u201cto modernize all 18 service plazas to better serve residents and visitors while optimizing rent revenues.\"",
+      "url": "https://www.masslive.com/politics/2026/03/mass-looks-for-new-off-ramp-to-revamped-service-plazas-heres-what-we-know.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-14",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "90542b7cc9d3",
+      "title": "To reach playoffs, Bruins need to be better on the road, starting with 3-game trip",
+      "summary": "The Bruins will need to be better on the road if they want to make the playoffs.",
+      "url": "https://www.masslive.com/bruins/2026/03/to-reach-playoffs-bruins-need-to-be-better-on-the-road-starting-with-3-game-trip.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-14",
       "category": "news",
       "priority": "medium",
       "business_lines": [
