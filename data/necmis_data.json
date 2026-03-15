@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-14T11:13:28.616649Z",
+  "generated": "2026-03-15T11:14:49.492255Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 32,
     "total_value_low": 196208508,
     "total_value_high": 196208508,
     "by_state": {
-      "VT": 2,
+      "VT": 1,
       "NH": 5,
-      "ME": 4,
-      "MA": 26,
+      "ME": 3,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 8,
-      "funding": 4
+      "news": 4,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -581,13 +581,13 @@
   ],
   "news": [
     {
-      "id": "7385b55d7440",
-      "title": "Maine\u2019s municipal governments need to ask themselves some basic questions | Letter",
-      "summary": "Across Maine, I keep hearing the same line: \u201cWe just need to grow our way out of it.\u201d More housing. More valuation. More development. More revenue. That thinking is exactly what got many towns into the position they\u2019re in now. Lisbon is feeling it, but it won\u2019t be the last community. Service costs a",
-      "url": "https://www.pressherald.com/2026/03/14/maines-municipal-governments-need-to-ask-themselves-some-basic-questions-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-14",
+      "id": "0b65724ea9ee",
+      "title": "Third period guides Worcester Railers past Royals on road",
+      "summary": "The Railers scored three goals in the third period on Saturday night.",
+      "url": "https://www.masslive.com/worcesterrailers/2026/03/third-period-guides-worcester-railers-past-royals-on-road.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-15",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -595,15 +595,15 @@
       ]
     },
     {
-      "id": "19753d25c97d",
-      "title": "With friends like these, Riverton doesn\u2019t need enemies | Opinion",
-      "summary": "The group of locals opposing the construction of Belfort Landing, a 50-unit housing project, have taken a narrow view of community in a neighborhood where it used to flourish.",
-      "url": "https://www.pressherald.com/2026/03/14/with-friends-like-these-riverton-doesnt-need-enemies-opinion/",
-      "source": "Portland Press Herald",
+      "id": "6145af4b023b",
+      "title": "Iran signals defiance as Trump threatens to hit Kharg Island oil network",
+      "summary": "Donald Trump threatened to strike the oil infrastructure of Iran's Kharg Island hub unless Tehran stopped attacking vessels in the Strait of Hormuz.",
+      "url": "https://www.bangordailynews.com/2026/03/14/nation/iran-signals-defiance-as-trump-threatens-to-hit-kharg-island-oil-network/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-03-14",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -623,62 +623,6 @@
       ]
     },
     {
-      "id": "a81963f83c00",
-      "title": "Westfield Health Bulletin: Reducing access to education will exacerbate country\u2019s health care crisis",
-      "summary": "Excluding nursing from the federal list of professional advanced degree programs is part of the One Big Beautiful Bill Act. Of all government departments, one would think the Department of Education would recognize and abide by the definition of a professional.",
-      "url": "https://www.masslive.com/westfieldnews/2026/03/westfield-health-bulletin-reducing-access-to-education-will-exacerbate-countrys-health-care-crisis.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-14",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "df8e49aed083",
-      "title": "Mass. city passes state\u2019s first data center moratorium",
-      "summary": "Lowell residents spoke out this week in support of a moratorium on data center construction and development. It will impact the state's largest data center currently in operation.",
-      "url": "https://www.masslive.com/news/2026/03/lowell-enacts-first-data-center-moratorium-in-massachusetts.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "25c23e16edde",
-      "title": "Mass. looks for new off-ramp to revamped service plazas. Here\u2019s what we know",
-      "summary": "MassDOT said it's looking \u201cto modernize all 18 service plazas to better serve residents and visitors while optimizing rent revenues.\"",
-      "url": "https://www.masslive.com/politics/2026/03/mass-looks-for-new-off-ramp-to-revamped-service-plazas-heres-what-we-know.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-14",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "90542b7cc9d3",
-      "title": "To reach playoffs, Bruins need to be better on the road, starting with 3-game trip",
-      "summary": "The Bruins will need to be better on the road if they want to make the playoffs.",
-      "url": "https://www.masslive.com/bruins/2026/03/to-reach-playoffs-bruins-need-to-be-better-on-the-road-starting-with-3-game-trip.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "8591a8f6037c",
       "title": "NH House Approves $4.7 Billion 10-Year Highway Plan",
       "summary": "The House Thursday approved a $4.7 billion 10-year highway improvement plan constrained by a lack of state and federal funds.",
@@ -688,20 +632,6 @@
       "date": "2026-03-12",
       "category": "funding",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "455566354902",
-      "title": "School consolidation efforts reach an inflection point as lawmakers hit familiar roadblocks",
-      "summary": "Halfway through the legislative session, lawmakers are at loggerheads over how to consolidate Vermont's school districts, with two very different proposals in the House and Senate.\nRead the story on VTDigger here:  School consolidation efforts reach an inflection point as lawmakers hit familiar roa",
-      "url": "https://vtdigger.org/2026/03/11/school-consolidation-efforts-reach-an-inflection-point-as-lawmakers-hit-familiar-roadblocks/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-11",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
