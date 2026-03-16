@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-15T11:14:49.492255Z",
+  "generated": "2026-03-16T11:37:19.631614Z",
   "summary": {
     "total_opportunities": 32,
     "total_value_low": 196208508,
     "total_value_high": 196208508,
     "by_state": {
       "VT": 1,
-      "NH": 5,
-      "ME": 3,
-      "MA": 23,
+      "NH": 4,
+      "ME": 2,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 4,
+      "news": 1,
       "funding": 3
     }
   },
@@ -581,43 +581,15 @@
   ],
   "news": [
     {
-      "id": "0b65724ea9ee",
-      "title": "Third period guides Worcester Railers past Royals on road",
-      "summary": "The Railers scored three goals in the third period on Saturday night.",
-      "url": "https://www.masslive.com/worcesterrailers/2026/03/third-period-guides-worcester-railers-past-royals-on-road.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "ad8f0805d49e",
+      "title": "US, China economic chiefs meet in Paris to clear path to Trump-Xi summit",
+      "summary": "The talks, at the Paris headquarters of the Organization for Economic Co-operation and Development, were expected to continue on Monday.",
+      "url": "https://www.bangordailynews.com/2026/03/15/politics/washington/us-china-economic-chiefs-meet-paris-path-to-trump-xi-summit/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-03-15",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6145af4b023b",
-      "title": "Iran signals defiance as Trump threatens to hit Kharg Island oil network",
-      "summary": "Donald Trump threatened to strike the oil infrastructure of Iran's Kharg Island hub unless Tehran stopped attacking vessels in the Strait of Hormuz.",
-      "url": "https://www.bangordailynews.com/2026/03/14/nation/iran-signals-defiance-as-trump-threatens-to-hit-kharg-island-oil-network/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-14",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d07dd992ab15",
-      "title": "Ousted Freedom town official falls short in return bid",
-      "summary": "Heather Donahue, a former actor who starred in \u201cThe Blair Witch Project,\u201d came in second in the three-way Select Board race.",
-      "url": "https://www.bangordailynews.com/2026/03/13/midcoast/midcoast-government/freedom-select-board-election/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-14",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -663,20 +635,6 @@
       "business_lines": [
         "highway",
         "aggregates"
-      ]
-    },
-    {
-      "id": "96885a56d32f",
-      "title": "The Moore Center welcomes new members to its board of directors",
-      "summary": "The Moore Center, a Manchester-based nonprofit providing services to individuals with developmental and intellectual disabilities and acquired brain disorders as well as services to children and senior citizens, recently named five area leaders to their board of directors, strengthening the\u2026",
-      "url": "https://www.unionleader.com/news/business/the-moore-center-welcomes-new-members-to-its-board-of-directors/article_06775f7f-3c9e-448b-b7ea-cdd59933280c.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-03-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     }
   ],
