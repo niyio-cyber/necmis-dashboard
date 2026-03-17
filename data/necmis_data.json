@@ -1,12 +1,12 @@
 {
-  "generated": "2026-03-16T11:37:19.631614Z",
+  "generated": "2026-03-17T11:34:02.878924Z",
   "summary": {
-    "total_opportunities": 32,
+    "total_opportunities": 33,
     "total_value_low": 196208508,
     "total_value_high": 196208508,
     "by_state": {
-      "VT": 1,
-      "NH": 4,
+      "VT": 4,
+      "NH": 5,
       "ME": 2,
       "MA": 22,
       "NY": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 1,
-      "funding": 3
+      "news": 4,
+      "funding": 4
     }
   },
   "dot_lettings": [
@@ -581,13 +581,69 @@
   ],
   "news": [
     {
-      "id": "ad8f0805d49e",
-      "title": "US, China economic chiefs meet in Paris to clear path to Trump-Xi summit",
-      "summary": "The talks, at the Paris headquarters of the Organization for Economic Co-operation and Development, were expected to continue on Monday.",
-      "url": "https://www.bangordailynews.com/2026/03/15/politics/washington/us-china-economic-chiefs-meet-paris-path-to-trump-xi-summit/",
-      "source": "Bangor Daily News",
+      "id": "a8c77e128290",
+      "title": "Bennington agency settles with the state over service failures for adults with developmental disabilities",
+      "summary": "United Counseling Service is paying the state $483,460 for failures in care for those with developmental disabilities who may pose a risk to themselves and the community. \nRead the story on VTDigger here:  Bennington agency settles with the state over service failures for adults with developmental",
+      "url": "https://vtdigger.org/2026/03/17/bennington-agency-settles-with-the-state-over-service-failures-for-adults-with-developmental-disabilities/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-17",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "88122fcf3b6b",
+      "title": "Bruins fall to Devils in overtime",
+      "summary": "Boston's road struggles continue, as New Jersey's Connor Brown scores on a breakaway late in overtime.",
+      "url": "https://www.pressherald.com/2026/03/16/bruins-2-2/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-03-15",
+      "date": "2026-03-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2a0f9eb9fde1",
+      "title": "Addison County State\u2019s Attorney Eva Vekos fires back against bid to suspend her law license",
+      "summary": "Vekos\u2019 lawyer contends penalty is premature, citing Alice in Wonderland\u2019s \u201csentence first \u2013 verdict afterwards,\" system of justice.\nRead the story on VTDigger here:  Addison County State\u2019s Attorney Eva Vekos fires back against bid to suspend her law license.",
+      "url": "https://vtdigger.org/2026/03/16/addison-county-states-attorney-eva-vekos-fires-back-against-bid-to-suspend-her-law-license/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-16",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "60ebe31ec680",
+      "title": "Charles (Chuck) Vile",
+      "summary": "Chuck found joy in the simple pleasures of Vermont life: visiting the animals at the Champlain Valley Fair, apple season at Chapin Orchard, savoring maple creemees and taking long walks on Chapin Road with wife Helen by his side.\nRead the story on VTDigger here:  Charles (Chuck) Vile.",
+      "url": "https://vtdigger.org/2026/03/16/charles-chuck-vile/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "271e403078c1",
+      "title": "Two local developers in mix for I-95 service area redevelopment",
+      "summary": "Two local developers have submitted proposals to transform the two liquor stores off Interstate 95 in Hampton into service areas after the process was put in place by Gov. Kelly Ayotte last fall when it appeared the liquor commission favored\u2026",
+      "url": "https://www.unionleader.com/news/business/two-local-developers-in-mix-for-i-95-service-area-redevelopment/article_9886c3da-ffb6-49b1-895e-da550415903b.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-03-16",
       "category": "news",
       "priority": "medium",
       "business_lines": [
