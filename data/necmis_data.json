@@ -1,84 +1,26 @@
 {
-  "generated": "2026-03-17T11:34:02.878924Z",
+  "generated": "2026-03-18T11:35:24.167245Z",
   "summary": {
-    "total_opportunities": 33,
-    "total_value_low": 196208508,
-    "total_value_high": 196208508,
+    "total_opportunities": 29,
+    "total_value_low": 168247641,
+    "total_value_high": 168247641,
     "by_state": {
       "VT": 4,
-      "NH": 5,
+      "NH": 4,
       "ME": 2,
-      "MA": 22,
+      "MA": 19,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 29,
+      "dot_letting": 26,
       "news": 4,
-      "funding": 4
+      "funding": 3
     }
   },
   "dot_lettings": [
-    {
-      "id": "bf1f7b51eaaf",
-      "state": "MA",
-      "project_id": "614079",
-      "description": "Scheduled and Emergency Pavement Repairs at Various Locations (Areas A, B & C)",
-      "cost_low": 20260000,
-      "cost_high": 20260000,
-      "cost_display": "$20.3M",
-      "ad_date": "2026-02-07",
-      "let_date": null,
-      "project_type": "Pavement - Surfacing",
-      "location": "Attleboro - Mattapoisett - Norton - Norwood - Taunton",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614079",
-      "source": "MassDOT",
-      "business_lines": [
-        "hma"
-      ]
-    },
-    {
-      "id": "20b2a67c7a05",
-      "state": "MA",
-      "project_id": "610657",
-      "description": "Installation of a Shared-Use Path along Mount Tom Road from the Manhan Trail to Atwood Drive",
-      "cost_low": 5510100,
-      "cost_high": 5510100,
-      "cost_display": "$5.5M",
-      "ad_date": "2026-02-14",
-      "let_date": null,
-      "project_type": "Highway - Construction , Highway - Bike Paths",
-      "location": "Easthampton - Northampton",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610657",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ff19a9ea8bec",
-      "state": "MA",
-      "project_id": "611942",
-      "description": "Superstructure Replacement, S-10-024, County Road over Ironworks Brook",
-      "cost_low": 2190767,
-      "cost_high": 2190767,
-      "cost_display": "$2.2M",
-      "ad_date": "2026-02-14",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Sheffield",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611942",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
     {
       "id": "c9eff8245392",
       "state": "MA",
@@ -581,6 +523,20 @@
   ],
   "news": [
     {
+      "id": "ace2d6d345e0",
+      "title": "Obituary: James P. Cole",
+      "summary": "DAYTON - James P. Cole, 65, of Cole Farm Road, passed away Tuesday, March 10, 2026, at Maine Medical Center following ...",
+      "url": "https://www.pressherald.com/2026/03/18/obituaryjames-p-cole-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "a8c77e128290",
       "title": "Bennington agency settles with the state over service failures for adults with developmental disabilities",
       "summary": "United Counseling Service is paying the state $483,460 for failures in care for those with developmental disabilities who may pose a risk to themselves and the community. \nRead the story on VTDigger here:  Bennington agency settles with the state over service failures for adults with developmental",
@@ -589,20 +545,6 @@
       "state": "VT",
       "date": "2026-03-17",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "88122fcf3b6b",
-      "title": "Bruins fall to Devils in overtime",
-      "summary": "Boston's road struggles continue, as New Jersey's Connor Brown scores on a breakaway late in overtime.",
-      "url": "https://www.pressherald.com/2026/03/16/bruins-2-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-17",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -646,20 +588,6 @@
       "date": "2026-03-16",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8591a8f6037c",
-      "title": "NH House Approves $4.7 Billion 10-Year Highway Plan",
-      "summary": "The House Thursday approved a $4.7 billion 10-year highway improvement plan constrained by a lack of state and federal funds.",
-      "url": "https://indepthnh.org/2026/03/12/nh-house-approves-4-7-billion-10-year-highway-plan/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-03-12",
-      "category": "funding",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
