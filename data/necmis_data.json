@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-18T11:35:24.167245Z",
+  "generated": "2026-03-19T11:25:34.898657Z",
   "summary": {
-    "total_opportunities": 29,
+    "total_opportunities": 30,
     "total_value_low": 168247641,
     "total_value_high": 168247641,
     "by_state": {
       "VT": 4,
       "NH": 4,
-      "ME": 2,
-      "MA": 19,
+      "ME": 3,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 4,
-      "funding": 3
+      "news": 9,
+      "funding": 4
     }
   },
   "dot_lettings": [
@@ -523,11 +523,95 @@
   ],
   "news": [
     {
-      "id": "ace2d6d345e0",
-      "title": "Obituary: James P. Cole",
-      "summary": "DAYTON - James P. Cole, 65, of Cole Farm Road, passed away Tuesday, March 10, 2026, at Maine Medical Center following ...",
-      "url": "https://www.pressherald.com/2026/03/18/obituaryjames-p-cole-2/",
-      "source": "Portland Press Herald",
+      "id": "66fcb848aae9",
+      "title": "Request to modify pier hints at plans for long-dormant Bucksport riverfront site",
+      "summary": "The former oil terminal north of the town center off River Road, known as Sprague North and called the \u201ccoal pocket\u201d locally, has been vacant for decades.",
+      "url": "https://www.bangordailynews.com/2026/03/19/hancock/hancock-government/bucksport-industrial-property-revival-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-19",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "753c87e62c0a",
+      "title": "2026 St. Patrick\u2019s Parade: \u2019It\u2019s like a giant party\u2019 as annual Road Race returns to Holyoke",
+      "summary": "The Saturday event also boasts a 2-mile walking option and a free Kid's Fun Run.",
+      "url": "https://www.masslive.com/living/2026/03/2026-st-patricks-parade-its-like-a-giant-party-as-annual-road-race-returns-to-holyoke.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-19",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e627df138e50",
+      "title": "Celtics star shares unusual development about team after Warriors rout",
+      "summary": "Jaylen Brown reflected on this Celtics team Wednesday night after hitting a franchise milestone.",
+      "url": "https://www.masslive.com/celtics/2026/03/celtics-star-shares-unusual-development-about-team-after-warriors-rout.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-19",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "36176a233eca",
+      "title": "Climate Matters: Land conservation a critical weapon in climate change fight",
+      "summary": "Every year, globally millions of acres of forests are cleared for development, grazing or crops. When this happens, most of the organic carbon stored in the original forest is released into the atmosphere.",
+      "url": "https://www.masslive.com/westfieldnews/2026/03/climate-matters-land-conservation-a-critical-weapon-in-climate-change-fight.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-19",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b73ab6d8b9b5",
+      "title": "With double duty at MassDOT and the T, Phil Eng is living out a leadership experiment",
+      "summary": "In the span of a few hours last week, Phil Eng switched roles in front of lawmakers without ever leaving the witness table.",
+      "url": "https://www.masslive.com/politics/2026/03/with-double-duty-at-massdot-and-the-t-phil-eng-is-living-out-a-leadership-experiment.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-19",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1690085c15d1",
+      "title": "Restaurant co-owned by former Patriots player named best vegan spot in America",
+      "summary": "A Cambridge restaurant co-owned by a former Patriots player just got some huge national praise.",
+      "url": "https://www.masslive.com/destinations/2026/03/restaurant-co-owned-by-former-patriots-player-named-best-vegan-spot-in-america.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-19",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "92be976d4560",
+      "title": "Acadia building new path to protect pedestrians at Cadillac Mountain summit",
+      "summary": "The project is part of a broader push to invest more in pedestrian accessibility at Acadia, which draws in visitors from across the nation.",
+      "url": "https://www.bangordailynews.com/2026/03/18/hancock/hancock-environment/acadia-cadillac-mountain-trail-accessibility-n6hjn1me0n/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-03-18",
       "category": "news",
