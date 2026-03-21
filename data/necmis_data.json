@@ -1,23 +1,23 @@
 {
-  "generated": "2026-03-20T11:21:08.628907Z",
+  "generated": "2026-03-21T11:12:46.855304Z",
   "summary": {
     "total_opportunities": 28,
-    "total_value_low": 168247641,
-    "total_value_high": 168247641,
+    "total_value_low": 171892429,
+    "total_value_high": 171892429,
     "by_state": {
-      "VT": 1,
+      "VT": 2,
       "NH": 3,
       "ME": 2,
-      "MA": 19,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 26,
-      "news": 1,
-      "funding": 2
+      "dot_letting": 28,
+      "news": 5,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -214,6 +214,25 @@
       ]
     },
     {
+      "id": "b1093f48b13c",
+      "state": "MA",
+      "project_id": "616297",
+      "description": "Sidewalk Repairs and Improvements at Various Locations",
+      "cost_low": 969093,
+      "cost_high": 969093,
+      "cost_display": "$969K",
+      "ad_date": "2026-03-21",
+      "let_date": null,
+      "project_type": "Highway - Construction , Highway - Sidewalk And Curbing",
+      "location": "District 2",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616297",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "1c39e630ce50",
       "state": "MA",
       "project_id": "614262",
@@ -289,6 +308,25 @@
       "business_lines": [
         "highway",
         "ready_mix"
+      ]
+    },
+    {
+      "id": "c1ab856c353b",
+      "state": "MA",
+      "project_id": "610670",
+      "description": "Harwich Elementary School Improvements (SRTS)",
+      "cost_low": 2675695,
+      "cost_high": 2675695,
+      "cost_display": "$2.7M",
+      "ad_date": "2026-03-21",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Harwich",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610670",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -523,15 +561,57 @@
   ],
   "news": [
     {
-      "id": "6f4239dfd458",
-      "title": "South Portland sewer rates expected to increase by 22% in each of the next 3 years",
-      "summary": "The average customer's current annual bill will go from about $670 a year to roughly $1,100 in 2029 as the city takes on overdue wastewater infrastructure improvements.",
-      "url": "https://www.pressherald.com/2026/03/19/south-portland-sewage-rates-expected-to-increase-by-22-in-each-of-the-next-3-years/",
-      "source": "Portland Press Herald",
+      "id": "69aebbe750a9",
+      "title": "Everything BC coach Greg Brown said about Bruins prospect James Hagens\u2019 future",
+      "summary": "BC coach Greg Brown was asked about James Hagens development and whether he was likely to turn pro.",
+      "url": "https://www.masslive.com/bruins/2026/03/everything-bc-coach-greg-brown-said-about-bruins-prospect-james-hagens-future.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-21",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6f25ef541bb4",
+      "title": "Emily Bridges: No one should have to choose between family and a paycheck",
+      "summary": "Without paid leave, Vermont workers facing health crises must choose between caring for loved ones and keeping their jobs.\nRead the story on VTDigger here:  Emily Bridges: No one should have to choose between family and a paycheck.",
+      "url": "https://vtdigger.org/2026/03/20/opinion-emily-bridges-no-one-should-have-to-choose-between-family-and-a-paycheck/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-20",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a16d6d56c3a5",
+      "title": "Road project will create long detour in Hancock County town",
+      "summary": "The roadwork aims to let the tide move freely under Route 175, improve fish and wildlife passage and help the road withstand storms.",
+      "url": "https://www.bangordailynews.com/2026/03/20/hancock/hancock-government/penobscot-route-175-closure/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-03-20",
-      "category": "funding",
-      "priority": "high",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "439759117f65",
+      "title": "NH\u2019s First Turtle Tunnels Aim To Save Their Lives on the Road",
+      "summary": "Turtles and salamanders just got some help crossing the roads of New Hampshire.",
+      "url": "https://indepthnh.org/2026/03/20/states-first-turtle-tunnels-aimed-at-saving-lives-on-the-road/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-03-20",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -546,20 +626,6 @@
       "date": "2026-03-16",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "26e0a75db59d",
-      "title": "How fossil fuel disruptions lead to booms in solar and batteries",
-      "summary": "The war in the Middle East has roiled oil and gas markets. Under a severe scenario, with more strikes on energy infrastructure, Bloomberg Economics estimates that crude could reach $108 a barrel, adding a significant boost to inflation and even\u2026",
-      "url": "https://www.unionleader.com/news/business/how-fossil-fuel-disruptions-lead-to-booms-in-solar-and-batteries/article_1d1d30ac-2cf9-405f-8641-0d3c1e8d367c.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-03-11",
-      "category": "funding",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
