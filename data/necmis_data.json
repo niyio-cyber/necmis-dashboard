@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-21T11:12:46.855304Z",
+  "generated": "2026-03-22T11:13:27.408556Z",
   "summary": {
-    "total_opportunities": 28,
+    "total_opportunities": 29,
     "total_value_low": 171892429,
     "total_value_high": 171892429,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 3,
-      "ME": 2,
-      "MA": 22,
+      "ME": 3,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 28,
-      "news": 5,
-      "funding": 0
+      "news": 7,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -561,17 +561,75 @@
   ],
   "news": [
     {
-      "id": "69aebbe750a9",
-      "title": "Everything BC coach Greg Brown said about Bruins prospect James Hagens\u2019 future",
-      "summary": "BC coach Greg Brown was asked about James Hagens development and whether he was likely to turn pro.",
-      "url": "https://www.masslive.com/bruins/2026/03/everything-bc-coach-greg-brown-said-about-bruins-prospect-james-hagens-future.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-21",
+      "id": "bbace794b39f",
+      "title": "As warming climate brings bears out of hibernation earlier, preventing backyards from becoming buffets is key to coexistence",
+      "summary": "A growing bear population, human development and a warming climate are changing bears\u2019 behavior in Vermont. \nRead the story on VTDigger here:  As warming climate brings bears out of hibernation earlier, preventing backyards from becoming buffets is key to coexistence.",
+      "url": "https://vtdigger.org/2026/03/22/as-warming-climate-brings-bears-out-of-hibernation-earlier-preventing-backyards-from-becoming-buffets-is-key-to-coexistence/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-22",
       "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "2ba3394fea1b",
+      "title": "Are there no red lines when it comes to the Middle East? | Letter",
+      "summary": "Drunk on fossil fuels, militarist bravado and Zionist ideology, the U.S. is once again engaged in all-out, illegal and immoral war. The Biden and Trump administrations\u2019 funding Israel\u2019s genocide in Gaza wasn\u2019t enough for warmongers in Washington, D.C. In just the first two days of attacks on Iran, t",
+      "url": "https://www.pressherald.com/2026/03/22/are-there-no-red-lines-when-it-comes-to-the-middle-east-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-22",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0267121ad33f",
+      "title": "Bruins edge Red Wings in a critical win in Eastern Conference playoff picture",
+      "summary": "The Bruins got a big road win in a game with playoff implications.",
+      "url": "https://www.masslive.com/bruins/2026/03/bruins-edge-red-wings-in-a-critical-win-in-eastern-conference-playoff-picture.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "276abe308a5e",
+      "title": "2026 Holyoke St. Patrick\u2019s Road Race draws thousands",
+      "summary": "The annual race is as much a part of Holyoke's Irish tradition as the annual parade.",
+      "url": "https://www.masslive.com/westernmass/2026/03/2026-holyoke-st-patricks-road-race-draws-thousands.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "aggregates"
+      ]
+    },
+    {
+      "id": "ff5de1933810",
+      "title": "U.S. Customs and Border Protection establishes Bangor office in building owned by Dana White",
+      "summary": "The agency\u2019s Office of Professional Responsibility is  sandwiched between a college and driving school on Farm Road, in a building owned by Dana White.",
+      "url": "https://www.bangordailynews.com/2026/03/21/bangor/bangor-police-courts/customs-border-protection-bangor-office-dana-white/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-21",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "aggregates"
       ]
     },
     {
@@ -584,20 +642,6 @@
       "date": "2026-03-20",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a16d6d56c3a5",
-      "title": "Road project will create long detour in Hancock County town",
-      "summary": "The roadwork aims to let the tide move freely under Route 175, improve fish and wildlife passage and help the road withstand storms.",
-      "url": "https://www.bangordailynews.com/2026/03/20/hancock/hancock-government/penobscot-route-175-closure/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-20",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
