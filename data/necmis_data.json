@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-22T11:13:27.408556Z",
+  "generated": "2026-03-23T11:34:53.445701Z",
   "summary": {
-    "total_opportunities": 29,
+    "total_opportunities": 28,
     "total_value_low": 171892429,
     "total_value_high": 171892429,
     "by_state": {
-      "VT": 3,
+      "VT": 4,
       "NH": 3,
       "ME": 3,
-      "MA": 23,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 28,
-      "news": 7,
-      "funding": 1
+      "news": 8,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -561,6 +561,34 @@
   ],
   "news": [
     {
+      "id": "f5741d07209d",
+      "title": "Major sidewalk installation project on Southwick Road and Mill Street to begin soon",
+      "summary": "Work on a reconfiguration of Westfield's Mill Street and Crane Avenue intersection and the installation of new sidewalks and bicycle lanes extending south on Southwick Road from Cowles Bridge will begin in the next month or so.",
+      "url": "https://www.masslive.com/westfieldnews/2026/03/major-sidewalk-installation-project-on-southwick-road-and-mill-street-to-begin-soon.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-23",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "125ac22e3204",
+      "title": "Towns ban heavy rigs from muddy roads",
+      "summary": "Towns are posting weight restrictions on certain town-owned roads, targeting large trucks and commercial vehicles.\nRead the story on VTDigger here:  Towns ban heavy rigs from muddy roads.",
+      "url": "https://vtdigger.org/2026/03/22/towns-ban-heavy-rigs-from-muddy-roads/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "bbace794b39f",
       "title": "As warming climate brings bears out of hibernation earlier, preventing backyards from becoming buffets is key to coexistence",
       "summary": "A growing bear population, human development and a warming climate are changing bears\u2019 behavior in Vermont. \nRead the story on VTDigger here:  As warming climate brings bears out of hibernation earlier, preventing backyards from becoming buffets is key to coexistence.",
@@ -575,61 +603,31 @@
       ]
     },
     {
-      "id": "2ba3394fea1b",
-      "title": "Are there no red lines when it comes to the Middle East? | Letter",
-      "summary": "Drunk on fossil fuels, militarist bravado and Zionist ideology, the U.S. is once again engaged in all-out, illegal and immoral war. The Biden and Trump administrations\u2019 funding Israel\u2019s genocide in Gaza wasn\u2019t enough for warmongers in Washington, D.C. In just the first two days of attacks on Iran, t",
-      "url": "https://www.pressherald.com/2026/03/22/are-there-no-red-lines-when-it-comes-to-the-middle-east-letter/",
+      "id": "4b82d7127efd",
+      "title": "UNE has earned better than a stop sign | Opinion",
+      "summary": "Biddeford officials' decision to freeze all development on the university's campus is a mistake. UNE is not a problem to be managed.",
+      "url": "https://www.pressherald.com/2026/03/22/une-is-a-jewel-lets-treat-it-that-way-opinion/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-03-22",
-      "category": "funding",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "0267121ad33f",
-      "title": "Bruins edge Red Wings in a critical win in Eastern Conference playoff picture",
-      "summary": "The Bruins got a big road win in a game with playoff implications.",
-      "url": "https://www.masslive.com/bruins/2026/03/bruins-edge-red-wings-in-a-critical-win-in-eastern-conference-playoff-picture.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "dcdd48c80fe1",
+      "title": "Snow, slippery roads expected across Maine through Monday",
+      "summary": "Snow will pick up midday Sunday and continue into the evening, according to the National Weather Service,",
+      "url": "https://www.bangordailynews.com/2026/03/22/weather/spring-snow-snowstorm-maine/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-03-22",
       "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "276abe308a5e",
-      "title": "2026 Holyoke St. Patrick\u2019s Road Race draws thousands",
-      "summary": "The annual race is as much a part of Holyoke's Irish tradition as the annual parade.",
-      "url": "https://www.masslive.com/westernmass/2026/03/2026-holyoke-st-patricks-road-race-draws-thousands.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway",
-        "aggregates"
-      ]
-    },
-    {
-      "id": "ff5de1933810",
-      "title": "U.S. Customs and Border Protection establishes Bangor office in building owned by Dana White",
-      "summary": "The agency\u2019s Office of Professional Responsibility is  sandwiched between a college and driving school on Farm Road, in a building owned by Dana White.",
-      "url": "https://www.bangordailynews.com/2026/03/21/bangor/bangor-police-courts/customs-border-protection-bangor-office-dana-white/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-21",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway",
-        "aggregates"
       ]
     },
     {
