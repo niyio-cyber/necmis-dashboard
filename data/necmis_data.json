@@ -1,12 +1,12 @@
 {
-  "generated": "2026-03-23T11:34:53.445701Z",
+  "generated": "2026-03-24T11:35:48.077349Z",
   "summary": {
     "total_opportunities": 28,
     "total_value_low": 171892429,
     "total_value_high": 171892429,
     "by_state": {
-      "VT": 4,
-      "NH": 3,
+      "VT": 5,
+      "NH": 2,
       "ME": 3,
       "MA": 22,
       "NY": 1,
@@ -561,12 +561,54 @@
   ],
   "news": [
     {
-      "id": "f5741d07209d",
-      "title": "Major sidewalk installation project on Southwick Road and Mill Street to begin soon",
-      "summary": "Work on a reconfiguration of Westfield's Mill Street and Crane Avenue intersection and the installation of new sidewalks and bicycle lanes extending south on Southwick Road from Cowles Bridge will begin in the next month or so.",
-      "url": "https://www.masslive.com/westfieldnews/2026/03/major-sidewalk-installation-project-on-southwick-road-and-mill-street-to-begin-soon.html",
+      "id": "78b4d35a27ce",
+      "title": "Letter: Vote for people who will stop Donald Trump",
+      "summary": "\u201cI feel ashamed that now my country is the one attacking without provocation and is the enemy of the law-abiding nations that once were our allies.\u201d",
+      "url": "https://www.bangordailynews.com/2026/03/24/opinion/letters/letter-vote-for-people-who-will-stop-donald-trump/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a3cf932c0e9b",
+      "title": "Northport to vote on banning RV parks in response to controversial blueberry barren development",
+      "summary": "The 180-day moratorium would apply to new commercial campgrounds and RV resorts.",
+      "url": "https://www.bangordailynews.com/2026/03/23/midcoast/midcoast-government/northport-moratorium-blueberry-barren-rv-park/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d2e06a289349",
+      "title": "Asking Eric: My son and I found peace after years of distance. Here\u2019s what I learned",
+      "summary": "A father reflects on how he bridged the gap with his once-distant son and shares insights into overcoming control and ego to rekindle their relationship.",
+      "url": "https://www.masslive.com/advice/2026/03/asking-eric-my-son-and-i-found-peace-after-years-of-distance-heres-what-i-learned.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-03-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "705ec59317f8",
+      "title": "Royalton residents chafe at costs of ongoing Foxstand Bridge closure",
+      "summary": "Come April, the Foxstand Bridge will have been closed for two years, and it isn\u2019t slated to reopen until fall of 2028. \nRead the story on VTDigger here:  Royalton residents chafe at costs of ongoing Foxstand Bridge closure.",
+      "url": "https://vtdigger.org/2026/03/23/royalton-residents-chafe-at-costs-of-ongoing-foxstand-bridge-closure/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-03-23",
       "category": "news",
       "priority": "high",
@@ -603,34 +645,6 @@
       ]
     },
     {
-      "id": "4b82d7127efd",
-      "title": "UNE has earned better than a stop sign | Opinion",
-      "summary": "Biddeford officials' decision to freeze all development on the university's campus is a mistake. UNE is not a problem to be managed.",
-      "url": "https://www.pressherald.com/2026/03/22/une-is-a-jewel-lets-treat-it-that-way-opinion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-22",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "dcdd48c80fe1",
-      "title": "Snow, slippery roads expected across Maine through Monday",
-      "summary": "Snow will pick up midday Sunday and continue into the evening, according to the National Weather Service,",
-      "url": "https://www.bangordailynews.com/2026/03/22/weather/spring-snow-snowstorm-maine/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "6f25ef541bb4",
       "title": "Emily Bridges: No one should have to choose between family and a paycheck",
       "summary": "Without paid leave, Vermont workers facing health crises must choose between caring for loved ones and keeping their jobs.\nRead the story on VTDigger here:  Emily Bridges: No one should have to choose between family and a paycheck.",
@@ -640,20 +654,6 @@
       "date": "2026-03-20",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "439759117f65",
-      "title": "NH\u2019s First Turtle Tunnels Aim To Save Their Lives on the Road",
-      "summary": "Turtles and salamanders just got some help crossing the roads of New Hampshire.",
-      "url": "https://indepthnh.org/2026/03/20/states-first-turtle-tunnels-aimed-at-saving-lives-on-the-road/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-03-20",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
