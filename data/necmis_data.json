@@ -1,83 +1,26 @@
 {
-  "generated": "2026-03-24T11:35:48.077349Z",
+  "generated": "2026-03-25T11:32:15.642927Z",
   "summary": {
-    "total_opportunities": 28,
-    "total_value_low": 171892429,
-    "total_value_high": 171892429,
+    "total_opportunities": 25,
+    "total_value_low": 161086819,
+    "total_value_high": 161086819,
     "by_state": {
       "VT": 5,
       "NH": 2,
       "ME": 3,
-      "MA": 22,
+      "MA": 18,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 28,
-      "news": 8,
+      "dot_letting": 25,
+      "news": 7,
       "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "c9eff8245392",
-      "state": "MA",
-      "project_id": "614015",
-      "description": "Traffic Signal Repair/Replacement at Various Locations",
-      "cost_low": 210610,
-      "cost_high": 210610,
-      "cost_display": "$211K",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "Traffic Signals",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614015",
-      "source": "MassDOT",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "571090d3f56b",
-      "state": "MA",
-      "project_id": "614118",
-      "description": "Scheduled and Emergency Standpipe and Fire Safety Inspection, Testing and Repairs at Various Locations",
-      "cost_low": 135000,
-      "cost_high": 135000,
-      "cost_display": "$135K",
-      "ad_date": "2026-02-21",
-      "let_date": null,
-      "project_type": "DCAMM-Fire Protection Sprinkler Systems",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614118",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "513abdee884b",
-      "state": "MA",
-      "project_id": "607342",
-      "description": "Intersection Improvements at Route 28 (Randolph Avenue) & Chickatawbut Road",
-      "cost_low": 10460000,
-      "cost_high": 10460000,
-      "cost_display": "$10.5M",
-      "ad_date": "2026-01-24",
-      "let_date": null,
-      "project_type": "Highway Construction",
-      "location": "Milton",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=607342",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "761da05ee6b5",
       "state": "MA",
@@ -561,26 +504,26 @@
   ],
   "news": [
     {
-      "id": "78b4d35a27ce",
-      "title": "Letter: Vote for people who will stop Donald Trump",
-      "summary": "\u201cI feel ashamed that now my country is the one attacking without provocation and is the enemy of the law-abiding nations that once were our allies.\u201d",
-      "url": "https://www.bangordailynews.com/2026/03/24/opinion/letters/letter-vote-for-people-who-will-stop-donald-trump/",
+      "id": "9dc6323d6e85",
+      "title": "New outpatient clinic could close methadone gap in Ellsworth",
+      "summary": "Everest Recovery, which owns four opioid use treatment centers in Maine and Massachusetts, is set to open a site at 190 Bangor Road.",
+      "url": "https://www.bangordailynews.com/2026/03/25/hancock/hancock-health/new-methadone-clinic-ellsworth-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "a3cf932c0e9b",
-      "title": "Northport to vote on banning RV parks in response to controversial blueberry barren development",
-      "summary": "The 180-day moratorium would apply to new commercial campgrounds and RV resorts.",
-      "url": "https://www.bangordailynews.com/2026/03/23/midcoast/midcoast-government/northport-moratorium-blueberry-barren-rv-park/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "f39cf0b19580",
+      "title": "Alana Stevenson: In Vermont, it\u2019s easier to kill wildlife than to help it",
+      "summary": "State law allows wildlife to be trapped and killed under regulated methods, but restricts the public from caring for injured animals without permits.\nRead the story on VTDigger here:  Alana Stevenson: In Vermont, it\u2019s easier to kill wildlife than to help it.",
+      "url": "https://vtdigger.org/2026/03/24/opinion-alana-stevenson-in-vermont-its-easier-to-kill-wildlife-than-to-help-it/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-03-24",
       "category": "news",
       "priority": "medium",
@@ -589,12 +532,12 @@
       ]
     },
     {
-      "id": "d2e06a289349",
-      "title": "Asking Eric: My son and I found peace after years of distance. Here\u2019s what I learned",
-      "summary": "A father reflects on how he bridged the gap with his once-distant son and shares insights into overcoming control and ego to rekindle their relationship.",
-      "url": "https://www.masslive.com/advice/2026/03/asking-eric-my-son-and-i-found-peace-after-years-of-distance-heres-what-i-learned.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "eacde0a43d5e",
+      "title": "2 hit by car during emergency stop on snowy I-95 in Veazie",
+      "summary": "The crash involving three drivers started when an 18-year-old Bangor woman driving north went off the highway into the median.",
+      "url": "https://www.bangordailynews.com/2026/03/24/bangor/car-crash-i95-veazie-maine/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-03-24",
       "category": "news",
       "priority": "high",
@@ -640,20 +583,6 @@
       "date": "2026-03-22",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6f25ef541bb4",
-      "title": "Emily Bridges: No one should have to choose between family and a paycheck",
-      "summary": "Without paid leave, Vermont workers facing health crises must choose between caring for loved ones and keeping their jobs.\nRead the story on VTDigger here:  Emily Bridges: No one should have to choose between family and a paycheck.",
-      "url": "https://vtdigger.org/2026/03/20/opinion-emily-bridges-no-one-should-have-to-choose-between-family-and-a-paycheck/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-20",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
