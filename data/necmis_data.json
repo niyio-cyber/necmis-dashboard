@@ -1,12 +1,12 @@
 {
-  "generated": "2026-03-25T11:32:15.642927Z",
+  "generated": "2026-03-26T11:39:42.139745Z",
   "summary": {
-    "total_opportunities": 25,
+    "total_opportunities": 26,
     "total_value_low": 161086819,
     "total_value_high": 161086819,
     "by_state": {
-      "VT": 5,
-      "NH": 2,
+      "VT": 2,
+      "NH": 3,
       "ME": 3,
       "MA": 18,
       "NY": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 25,
-      "news": 7,
-      "funding": 0
+      "news": 4,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -504,14 +504,42 @@
   ],
   "news": [
     {
-      "id": "9dc6323d6e85",
-      "title": "New outpatient clinic could close methadone gap in Ellsworth",
-      "summary": "Everest Recovery, which owns four opioid use treatment centers in Maine and Massachusetts, is set to open a site at 190 Bangor Road.",
-      "url": "https://www.bangordailynews.com/2026/03/25/hancock/hancock-health/new-methadone-clinic-ellsworth-joam40zk0w/",
+      "id": "1a63869e91b3",
+      "title": "Best of Biddeford+Saco 2026",
+      "summary": "Nominate your favorite businesses starting Friday, March 27.",
+      "url": "https://www.pressherald.com/2026/03/25/best-of-biddefordsaco-2026/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-26",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6624efb597f4",
+      "title": "Graham Platner responds to Janet Mills\u2019 ad blitz at rural Maine town hall event",
+      "summary": "\u201cIf you believe in transformational politics, which I do, you have to be able to believe that people can transform,\" the Democratic candidate for U.S. Senate told more than 100 people packed into the East Millnocket municipal building.",
+      "url": "https://www.bangordailynews.com/2026/03/25/politics/elections/graham-platner-east-millinocket-town-hall/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6ecda3a6c7c5",
+      "title": "NH To Be 1st in Nation With 100 Percent Broadband; Boyle Confirmed, Boudman Sworn in",
+      "summary": "New Hampshire is on track to be the first state in the nation to have 100 percent broadband coverage of all homes and will soon also be able to distribute more than $32 million in home electrification and appliance rebates, the governor and Executive Council learned, Wednesday.",
+      "url": "https://indepthnh.org/2026/03/25/nh-to-be-1st-in-nation-with-100-percent-broadband-boyle-confirmed-boudman-sworn-in/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-03-25",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -525,62 +553,6 @@
       "source": "VTDigger",
       "state": "VT",
       "date": "2026-03-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "eacde0a43d5e",
-      "title": "2 hit by car during emergency stop on snowy I-95 in Veazie",
-      "summary": "The crash involving three drivers started when an 18-year-old Bangor woman driving north went off the highway into the median.",
-      "url": "https://www.bangordailynews.com/2026/03/24/bangor/car-crash-i95-veazie-maine/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-03-24",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "705ec59317f8",
-      "title": "Royalton residents chafe at costs of ongoing Foxstand Bridge closure",
-      "summary": "Come April, the Foxstand Bridge will have been closed for two years, and it isn\u2019t slated to reopen until fall of 2028. \nRead the story on VTDigger here:  Royalton residents chafe at costs of ongoing Foxstand Bridge closure.",
-      "url": "https://vtdigger.org/2026/03/23/royalton-residents-chafe-at-costs-of-ongoing-foxstand-bridge-closure/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-23",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "125ac22e3204",
-      "title": "Towns ban heavy rigs from muddy roads",
-      "summary": "Towns are posting weight restrictions on certain town-owned roads, targeting large trucks and commercial vehicles.\nRead the story on VTDigger here:  Towns ban heavy rigs from muddy roads.",
-      "url": "https://vtdigger.org/2026/03/22/towns-ban-heavy-rigs-from-muddy-roads/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bbace794b39f",
-      "title": "As warming climate brings bears out of hibernation earlier, preventing backyards from becoming buffets is key to coexistence",
-      "summary": "A growing bear population, human development and a warming climate are changing bears\u2019 behavior in Vermont. \nRead the story on VTDigger here:  As warming climate brings bears out of hibernation earlier, preventing backyards from becoming buffets is key to coexistence.",
-      "url": "https://vtdigger.org/2026/03/22/as-warming-climate-brings-bears-out-of-hibernation-earlier-preventing-backyards-from-becoming-buffets-is-key-to-coexistence/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-22",
       "category": "news",
       "priority": "medium",
       "business_lines": [
