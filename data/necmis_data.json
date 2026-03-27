@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-26T11:39:42.139745Z",
+  "generated": "2026-03-27T11:32:28.594090Z",
   "summary": {
     "total_opportunities": 26,
     "total_value_low": 161086819,
     "total_value_high": 161086819,
     "by_state": {
-      "VT": 2,
+      "VT": 1,
       "NH": 3,
       "ME": 3,
-      "MA": 18,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 25,
-      "news": 4,
+      "news": 5,
       "funding": 1
     }
   },
@@ -54,26 +54,6 @@
       "location": "Greenfield",
       "district": 2,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613295",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "6abbbc16961e",
-      "state": "MA",
-      "project_id": "609409",
-      "description": "Bridge Replacement, S-24-016, Armory Street over CSX Mainline & S-24-026, Armory Street over Abandoned CSX",
-      "cost_low": 51303970,
-      "cost_high": 51303970,
-      "cost_display": "$51.3M",
-      "ad_date": "2025-12-20",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Springfield",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609409",
       "source": "MassDOT",
       "business_lines": [
         "highway",
@@ -231,6 +211,26 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "6abbbc16961e",
+      "state": "MA",
+      "project_id": "609409",
+      "description": "Bridge Replacement, S-24-016, Armory Street over CSX Mainline & S-24-026, Armory Street over Abandoned CSX",
+      "cost_low": 51303970,
+      "cost_high": 51303970,
+      "cost_display": "$51.3M",
+      "ad_date": "2025-12-20",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Springfield",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609409",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
       ]
     },
     {
@@ -504,24 +504,53 @@
   ],
   "news": [
     {
-      "id": "1a63869e91b3",
-      "title": "Best of Biddeford+Saco 2026",
-      "summary": "Nominate your favorite businesses starting Friday, March 27.",
-      "url": "https://www.pressherald.com/2026/03/25/best-of-biddefordsaco-2026/",
-      "source": "Portland Press Herald",
+      "id": "275201e49da9",
+      "title": "The Iran war is causing road paving\u00a0problems in Maine",
+      "summary": "As the spring re-paving season approaches, state and local governments will need to weigh when or whether to pave their roads.",
+      "url": "https://www.bangordailynews.com/2026/03/27/politics/state-politics/iran-war-paving-delay-maine-roads-joam40zk0w/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-03-26",
+      "date": "2026-03-27",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway",
+        "hma"
+      ]
+    },
+    {
+      "id": "f1444ef31a37",
+      "title": "Springfield Water & Sewer needs \u2018thousands\u2019 of soil samples to get handle on PCB contamination at treatment plant site",
+      "summary": "The tests will target a soil pile at the construction site that measures roughly 2,500 cubic yards, according to documents on file at the MassDEP.",
+      "url": "https://www.masslive.com/westernmass/2026/03/springfield-water-sewer-needs-thousands-of-soil-samples-to-get-handle-on-pcb-contamination-at-treatment-plant-site.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "d15e681d8fcc",
+      "title": "Planning Board approves modifying Crepes Tea House permit to use outbuilding for dining",
+      "summary": "After nine months and numerous public hearings, the Southwick Planning Board unanimously approved modifying the special permit allowing Crepes Tea House to use one of three outbuildings on its property with conditions for outdoor dining.",
+      "url": "https://www.masslive.com/westfieldnews/2026/03/planning-board-approves-modifying-crepes-tea-house-permit-to-use-outbuilding-for-dining.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-27",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "6624efb597f4",
-      "title": "Graham Platner responds to Janet Mills\u2019 ad blitz at rural Maine town hall event",
-      "summary": "\u201cIf you believe in transformational politics, which I do, you have to be able to believe that people can transform,\" the Democratic candidate for U.S. Senate told more than 100 people packed into the East Millnocket municipal building.",
-      "url": "https://www.bangordailynews.com/2026/03/25/politics/elections/graham-platner-east-millinocket-town-hall/",
+      "id": "09a6d90dd544",
+      "title": "State senate rejects bill to establish direct state oversight of probate judges",
+      "summary": "Maine\u2019s judicial branch, which oversees and operates the state court system, is not permitted to remove elected judges from office.",
+      "url": "https://www.bangordailynews.com/2026/03/26/hancock/hancock-police-courts/state-rejects-bill-probate-judge-oversight/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-03-26",
@@ -540,20 +569,6 @@
       "state": "NH",
       "date": "2026-03-25",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f39cf0b19580",
-      "title": "Alana Stevenson: In Vermont, it\u2019s easier to kill wildlife than to help it",
-      "summary": "State law allows wildlife to be trapped and killed under regulated methods, but restricts the public from caring for injured animals without permits.\nRead the story on VTDigger here:  Alana Stevenson: In Vermont, it\u2019s easier to kill wildlife than to help it.",
-      "url": "https://vtdigger.org/2026/03/24/opinion-alana-stevenson-in-vermont-its-easier-to-kill-wildlife-than-to-help-it/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-24",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
