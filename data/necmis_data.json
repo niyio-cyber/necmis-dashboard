@@ -1,21 +1,21 @@
 {
-  "generated": "2026-03-27T11:32:28.594090Z",
+  "generated": "2026-03-28T11:17:10.674689Z",
   "summary": {
-    "total_opportunities": 26,
-    "total_value_low": 161086819,
-    "total_value_high": 161086819,
+    "total_opportunities": 31,
+    "total_value_low": 175058155,
+    "total_value_high": 175058155,
     "by_state": {
       "VT": 1,
-      "NH": 3,
-      "ME": 3,
-      "MA": 20,
+      "NH": 2,
+      "ME": 4,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 25,
+      "dot_letting": 30,
       "news": 5,
       "funding": 1
     }
@@ -254,6 +254,44 @@
       ]
     },
     {
+      "id": "f76f968287e0",
+      "state": "MA",
+      "project_id": "614083",
+      "description": "Scheduled and Emergency Tree Trimming, Removal, and Sight Distance Clearing at Various Locations (Areas A, B & C)",
+      "cost_low": 1380000,
+      "cost_high": 1380000,
+      "cost_display": "$1.4M",
+      "ad_date": "2026-03-28",
+      "let_date": null,
+      "project_type": "Tree Trimming, Maintenance and Removal",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614083",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "160f51c9f839",
+      "state": "MA",
+      "project_id": "614084",
+      "description": "Scheduled and Emergency Tree Trimming, Removal, and Sight Distance Clearing at Various Locations (Area D)",
+      "cost_low": 900000,
+      "cost_high": 900000,
+      "cost_display": "$900K",
+      "ad_date": "2026-03-28",
+      "let_date": null,
+      "project_type": "Tree Trimming, Maintenance and Removal",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614084",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "c1ab856c353b",
       "state": "MA",
       "project_id": "610670",
@@ -311,6 +349,44 @@
       ]
     },
     {
+      "id": "44f29e7926df",
+      "state": "MA",
+      "project_id": "610802",
+      "description": "Stormwater Improvements along Route 6, Route 138, and Route 103 for Taunton River",
+      "cost_low": 770365,
+      "cost_high": 770365,
+      "cost_display": "$770K",
+      "ad_date": "2026-03-28",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Somerset",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610802",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0ce411617064",
+      "state": "MA",
+      "project_id": "608940",
+      "description": "Intersection Improvements Boston Post Road (Route 20) at Wellesley Street",
+      "cost_low": 3231160,
+      "cost_high": 3231160,
+      "cost_display": "$3.2M",
+      "ad_date": "2026-03-28",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Weston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608940",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "809a94ed8c2e",
       "state": "MA",
       "project_id": "613383",
@@ -344,6 +420,25 @@
       "location": "Northampton",
       "district": 2,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "92da8d6bf34f",
+      "state": "MA",
+      "project_id": "610647",
+      "description": "Corridor Improvements on Route 6 at Swifts Beach Road",
+      "cost_low": 7689811,
+      "cost_high": 7689811,
+      "cost_display": "$7.7M",
+      "ad_date": "2026-03-28",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Wareham",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610647",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -504,42 +599,13 @@
   ],
   "news": [
     {
-      "id": "275201e49da9",
-      "title": "The Iran war is causing road paving\u00a0problems in Maine",
-      "summary": "As the spring re-paving season approaches, state and local governments will need to weigh when or whether to pave their roads.",
-      "url": "https://www.bangordailynews.com/2026/03/27/politics/state-politics/iran-war-paving-delay-maine-roads-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "27360c6ebac6",
+      "title": "Cooper Flagg scores 24 as Mavericks snap five-game skid",
+      "summary": "Flagg adds four steals for Dallas, which had dropped seven of its last last games on the road.",
+      "url": "https://www.pressherald.com/2026/03/28/cooper-flagg-scores-24-as-mavericks-snap-five-game-skid/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-03-27",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "f1444ef31a37",
-      "title": "Springfield Water & Sewer needs \u2018thousands\u2019 of soil samples to get handle on PCB contamination at treatment plant site",
-      "summary": "The tests will target a soil pile at the construction site that measures roughly 2,500 cubic yards, according to documents on file at the MassDEP.",
-      "url": "https://www.masslive.com/westernmass/2026/03/springfield-water-sewer-needs-thousands-of-soil-samples-to-get-handle-on-pcb-contamination-at-treatment-plant-site.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-27",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "aggregates"
-      ]
-    },
-    {
-      "id": "d15e681d8fcc",
-      "title": "Planning Board approves modifying Crepes Tea House permit to use outbuilding for dining",
-      "summary": "After nine months and numerous public hearings, the Southwick Planning Board unanimously approved modifying the special permit allowing Crepes Tea House to use one of three outbuildings on its property with conditions for outdoor dining.",
-      "url": "https://www.masslive.com/westfieldnews/2026/03/planning-board-approves-modifying-crepes-tea-house-permit-to-use-outbuilding-for-dining.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -547,13 +613,55 @@
       ]
     },
     {
-      "id": "09a6d90dd544",
-      "title": "State senate rejects bill to establish direct state oversight of probate judges",
-      "summary": "Maine\u2019s judicial branch, which oversees and operates the state court system, is not permitted to remove elected judges from office.",
-      "url": "https://www.bangordailynews.com/2026/03/26/hancock/hancock-police-courts/state-rejects-bill-probate-judge-oversight/",
+      "id": "ee5cd06828cc",
+      "title": "3 of the best spots to get an iced coffee in Biddeford",
+      "summary": "Stop into these cafes to get your caffeine on your next trip to Maine's 'hottest' city, no matter what the weather's like.",
+      "url": "https://www.pressherald.com/2026/03/28/3-of-the-best-spots-to-get-an-iced-coffee-in-biddeford/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-03-28",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "82139e9c10bf",
+      "title": "Major League pitcher from a small Maine town took \u2018interesting\u2019 road back to the Twins",
+      "summary": "\u201cI had several options to sign a minor league deal but, at the end of the day, I was real comfortable with the Twins,\u201d said Cody Laweryson of Moscow.",
+      "url": "https://www.bangordailynews.com/2026/03/28/sports/professional-baseball/cody-laweryson-twins-pitcher-maine-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b407d8b89caf",
+      "title": "Brutal Mass. winter leaves Springfield riddled with potholes. What to do about it",
+      "summary": "After a brutal winter season, potholes are back across Massachusetts. Here's why winter wreaks havoc on the roads and what you can do to help.",
+      "url": "https://www.masslive.com/westernmass/2026/03/brutal-mass-winter-leaves-springfield-riddled-with-potholes-what-to-do-about-it.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-28",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2666a890aa0e",
+      "title": "Worcester parents demand safer crosswalk across road where teen was killed in 2024",
+      "summary": "The street has experienced pedestrian accidents before and a city councilor wants to put a traffic light to slow down traffic.",
+      "url": "https://www.masslive.com/centralmass/2026/03/worcester-parents-demand-safer-crosswalk-across-road-where-teen-was-killed-in-2024.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-28",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -569,20 +677,6 @@
       "state": "NH",
       "date": "2026-03-25",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "271e403078c1",
-      "title": "Two local developers in mix for I-95 service area redevelopment",
-      "summary": "Two local developers have submitted proposals to transform the two liquor stores off Interstate 95 in Hampton into service areas after the process was put in place by Gov. Kelly Ayotte last fall when it appeared the liquor commission favored\u2026",
-      "url": "https://www.unionleader.com/news/business/two-local-developers-in-mix-for-i-95-service-area-redevelopment/article_9886c3da-ffb6-49b1-895e-da550415903b.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-03-16",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
