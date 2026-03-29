@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-28T11:17:10.674689Z",
+  "generated": "2026-03-29T11:18:01.946153Z",
   "summary": {
     "total_opportunities": 31,
     "total_value_low": 175058155,
     "total_value_high": 175058155,
     "by_state": {
       "VT": 1,
-      "NH": 2,
-      "ME": 4,
-      "MA": 25,
+      "NH": 1,
+      "ME": 3,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 5,
+      "news": 2,
       "funding": 1
     }
   },
@@ -599,13 +599,13 @@
   ],
   "news": [
     {
-      "id": "27360c6ebac6",
-      "title": "Cooper Flagg scores 24 as Mavericks snap five-game skid",
-      "summary": "Flagg adds four steals for Dallas, which had dropped seven of its last last games on the road.",
-      "url": "https://www.pressherald.com/2026/03/28/cooper-flagg-scores-24-as-mavericks-snap-five-game-skid/",
+      "id": "cec1e43aad6d",
+      "title": "Maine\u2019s juvenile offenders and at-risk youth have been cast aside again | Opinion",
+      "summary": "The repurposing of the Long Creek Youth Development Center is stalled once again. What is stopping Maine legislators from being the force to invest in our youth?",
+      "url": "https://www.pressherald.com/2026/03/29/maines-juvenile-offenders-and-at-risk-youth-have-been-set-aside-yet-again-opinion/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -613,14 +613,14 @@
       ]
     },
     {
-      "id": "ee5cd06828cc",
-      "title": "3 of the best spots to get an iced coffee in Biddeford",
-      "summary": "Stop into these cafes to get your caffeine on your next trip to Maine's 'hottest' city, no matter what the weather's like.",
-      "url": "https://www.pressherald.com/2026/03/28/3-of-the-best-spots-to-get-an-iced-coffee-in-biddeford/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-28",
-      "category": "news",
+      "id": "046092addf70",
+      "title": "Cambridge salary database: What every city employee made in 2025",
+      "summary": "Ten Cambridge city employees earned $300,000 or more. Here's who.",
+      "url": "https://www.masslive.com/news/2026/03/cambridge-salary-database-what-every-city-employee-made-in-2025.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-03-29",
+      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
@@ -635,48 +635,6 @@
       "state": "ME",
       "date": "2026-03-28",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b407d8b89caf",
-      "title": "Brutal Mass. winter leaves Springfield riddled with potholes. What to do about it",
-      "summary": "After a brutal winter season, potholes are back across Massachusetts. Here's why winter wreaks havoc on the roads and what you can do to help.",
-      "url": "https://www.masslive.com/westernmass/2026/03/brutal-mass-winter-leaves-springfield-riddled-with-potholes-what-to-do-about-it.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-28",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2666a890aa0e",
-      "title": "Worcester parents demand safer crosswalk across road where teen was killed in 2024",
-      "summary": "The street has experienced pedestrian accidents before and a city councilor wants to put a traffic light to slow down traffic.",
-      "url": "https://www.masslive.com/centralmass/2026/03/worcester-parents-demand-safer-crosswalk-across-road-where-teen-was-killed-in-2024.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-03-28",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6ecda3a6c7c5",
-      "title": "NH To Be 1st in Nation With 100 Percent Broadband; Boyle Confirmed, Boudman Sworn in",
-      "summary": "New Hampshire is on track to be the first state in the nation to have 100 percent broadband coverage of all homes and will soon also be able to distribute more than $32 million in home electrification and appliance rebates, the governor and Executive Council learned, Wednesday.",
-      "url": "https://indepthnh.org/2026/03/25/nh-to-be-1st-in-nation-with-100-percent-broadband-boyle-confirmed-boudman-sworn-in/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-03-25",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
