@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-29T11:18:01.946153Z",
+  "generated": "2026-03-30T11:43:55.663763Z",
   "summary": {
     "total_opportunities": 31,
     "total_value_low": 175058155,
     "total_value_high": 175058155,
     "by_state": {
       "VT": 1,
-      "NH": 1,
-      "ME": 3,
-      "MA": 24,
+      "NH": 3,
+      "ME": 6,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 2,
+      "news": 6,
       "funding": 1
     }
   },
@@ -599,12 +599,68 @@
   ],
   "news": [
     {
-      "id": "cec1e43aad6d",
-      "title": "Maine\u2019s juvenile offenders and at-risk youth have been cast aside again | Opinion",
-      "summary": "The repurposing of the Long Creek Youth Development Center is stalled once again. What is stopping Maine legislators from being the force to invest in our youth?",
-      "url": "https://www.pressherald.com/2026/03/29/maines-juvenile-offenders-and-at-risk-youth-have-been-set-aside-yet-again-opinion/",
-      "source": "Portland Press Herald",
+      "id": "f981b3932178",
+      "title": "These are some of Maine\u2019s most expensive upcoming road projects",
+      "summary": "The state will spend $4.5 billion in road improvements from now through 2028, according to its latest three-year work plan.",
+      "url": "https://www.bangordailynews.com/2026/03/30/aroostook/maines-most-expensive-upcoming-road-projects-joam40zk0w/",
+      "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-03-30",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fded6479a83e",
+      "title": "Controversy follows Bangor housing developer\u00a0as she plans next project",
+      "summary": "The Maine Woods became one of Bangor's most controversial developments, over concerns that neighbors say have come true in the years since.",
+      "url": "https://www.bangordailynews.com/2026/03/30/business/business-housing/controversy-bangor-housing-developer-emily-ellis-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c742ee244f27",
+      "title": "Data center moratorium would stop Jay mill redevelopment",
+      "summary": "\u201cOur Jay project has little in common with these enormous projects and is, in fact, the antithesis of such hyperscaler projects. \u201d",
+      "url": "https://www.bangordailynews.com/2026/03/30/opinion/opinion-contributor/data-center-moratorium-would-stop-jay-mill-redevelopment/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f38909cd6580",
+      "title": "Belfast plans to have rules ready for recreational marijuana stores\u00a0this year",
+      "summary": "Maine voters legalized recreational marijuana in 2016. But municipalities have to opt-in to allow local recreational sales.",
+      "url": "https://www.bangordailynews.com/2026/03/30/midcoast/midcoast-government/belfast-recreational-marijuana-rules-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-03-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cbbbb222c62b",
+      "title": "Londonderry planning officials ponder an orchard eatery plan",
+      "summary": "There are still questions needing answers as Londonderry Planning Board members continue to ponder a proposed farm-to-table restaurant plan that could operate at Mack\u2019s Apples on Mammoth Road.",
+      "url": "https://www.unionleader.com/news/business/londonderry-planning-officials-ponder-an-orchard-eatery-plan/article_9f046fe5-6eef-4168-9f95-512b4a791d11.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-03-29",
       "category": "news",
       "priority": "medium",
@@ -613,27 +669,27 @@
       ]
     },
     {
-      "id": "046092addf70",
-      "title": "Cambridge salary database: What every city employee made in 2025",
-      "summary": "Ten Cambridge city employees earned $300,000 or more. Here's who.",
-      "url": "https://www.masslive.com/news/2026/03/cambridge-salary-database-what-every-city-employee-made-in-2025.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "7618a2ceafb7",
+      "title": "Stay Work Play NH announces the 2026 Rising Stars Leadership Cohort",
+      "summary": "Stay Work Play New Hampshire is proud to announce the 2026 Rising Stars Leadership Program Cohort, spotlighting some of New Hampshire\u2019s most promising young professionals across industries, including health care, finance, media, housing, education, energy, and economic development.",
+      "url": "https://www.unionleader.com/news/business/stay-work-play-nh-announces-the-2026-rising-stars-leadership-cohort/article_6b1ef1aa-125d-46bf-bdbb-aa430c09079b.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-03-29",
-      "category": "funding",
-      "priority": "high",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "82139e9c10bf",
-      "title": "Major League pitcher from a small Maine town took \u2018interesting\u2019 road back to the Twins",
-      "summary": "\u201cI had several options to sign a minor league deal but, at the end of the day, I was real comfortable with the Twins,\u201d said Cody Laweryson of Moscow.",
-      "url": "https://www.bangordailynews.com/2026/03/28/sports/professional-baseball/cody-laweryson-twins-pitcher-maine-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "cec1e43aad6d",
+      "title": "Maine\u2019s juvenile offenders and at-risk youth have been cast aside again | Opinion",
+      "summary": "The repurposing of the Long Creek Youth Development Center is stalled once again. What is stopping Maine legislators from being the force to invest in our youth?",
+      "url": "https://www.pressherald.com/2026/03/29/maines-juvenile-offenders-and-at-risk-youth-have-been-set-aside-yet-again-opinion/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "category": "news",
       "priority": "medium",
       "business_lines": [
