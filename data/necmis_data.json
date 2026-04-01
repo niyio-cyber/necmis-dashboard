@@ -1,12 +1,12 @@
 {
-  "generated": "2026-03-31T11:38:13.700514Z",
+  "generated": "2026-04-01T11:40:54.237808Z",
   "summary": {
-    "total_opportunities": 32,
-    "total_value_low": 175058155,
-    "total_value_high": 175058155,
+    "total_opportunities": 30,
+    "total_value_low": 170002762,
+    "total_value_high": 170002762,
     "by_state": {
-      "VT": 2,
-      "NH": 5,
+      "VT": 6,
+      "NH": 8,
       "ME": 6,
       "MA": 23,
       "NY": 1,
@@ -15,51 +15,12 @@
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 30,
-      "news": 8,
+      "dot_letting": 28,
+      "news": 17,
       "funding": 2
     }
   },
   "dot_lettings": [
-    {
-      "id": "761da05ee6b5",
-      "state": "MA",
-      "project_id": "614117",
-      "description": "Scheduled and Emergency Fabrication and Installation of Overhead and Ground Mounted Guide Signs at Various Locations",
-      "cost_low": 481228,
-      "cost_high": 481228,
-      "cost_display": "$481K",
-      "ad_date": "2026-03-07",
-      "let_date": null,
-      "project_type": "Signing - Structural",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614117",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c31b72a62e68",
-      "state": "MA",
-      "project_id": "613295",
-      "description": "Deck Replacement, G-12-022 (144), Log Plain Road West over G&W Railroad",
-      "cost_low": 4574165,
-      "cost_high": 4574165,
-      "cost_display": "$4.6M",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Greenfield",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613295",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
     {
       "id": "9a43cbb8dc44",
       "state": "MA",
@@ -599,72 +560,197 @@
   ],
   "news": [
     {
-      "id": "af7c402d0bdb",
-      "title": "Susan Collins should start to bridge the divide | Letter",
-      "summary": "Susan Collins says that she is tired of the divisiveness in our politics. The senator doesn\u2019t seem to realize that she is largely to blame for that. Not because of her positions, but because of her lack of clarity and forthrightness. Why does Collins never stand up, join with like-minded Republicans",
-      "url": "https://www.pressherald.com/2026/03/31/susan-collins-should-start-to-bridge-the-divide-letter/",
+      "id": "2df7de6cf7f1",
+      "title": "Maine must treat trans youth with care and respect | Letter",
+      "summary": "In November of 2025, I attended a select board meeting in St. George that had been called by a group of folks who self-identified as adults, parents, Christians and concerned community members to ask the town to ban an 8-year-old, trans, third-grade student from the municipally run girls\u2019 basketball",
+      "url": "https://www.pressherald.com/2026/04/01/maine-must-treat-trans-youth-with-care-and-respect-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-03-31",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fff8c5759bdc",
-      "title": "How Maine\u2019s elite private colleges sold Wabanaki land to bankroll early construction",
-      "summary": "Tribes were stripped of millions of acres. Some of that ended up in the hands of Bowdoin and Colby colleges.",
-      "url": "https://www.pressherald.com/2026/03/31/how-maines-elite-private-colleges-sold-wabanaki-land-to-bankroll-early-construction/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-31",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "26e0b833e120",
-      "title": "Obituary: Jeff Gilpatric",
-      "summary": "SCARBOROUGH - Somewhere out there, a curvy road with smooth pavement, sunshine, and the smell of the deep earth is putting ...",
-      "url": "https://www.pressherald.com/2026/03/31/obituaryjeff-gilpatric-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "955712f9d9be",
-      "title": "Saco unveils $39 million municipal budget, a 10.6% increase from this year",
-      "summary": "The proposal was presented to the City Council on Monday night.",
-      "url": "https://www.pressherald.com/2026/03/30/saco-unveils-39-million-municipal-budget-a-10-6-increase-from-this-year/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-03-31",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "86e3deece1f3",
-      "title": "Lawmakers must fund child care solutions to solve Maine\u2019s workforce crisis",
-      "summary": "\u201cFor many families, child care is the infrastructure that makes entering the workforce possible.\u201d",
-      "url": "https://www.bangordailynews.com/2026/03/31/opinion/opinion-contributor/lawmakers-must-fund-child-care-solutions-to-solve-maines-workforce-crisis-joam40zk0w/",
+      "id": "8b41ba365177",
+      "title": "Bangor Mall sale / Janet Mills\u2019 Senate bid / MDI mansion sale",
+      "summary": "What we're talking about in Maine today.",
+      "url": "https://www.bangordailynews.com/2026/04/01/morning-update/maine-news-morning-update-april-1-2026/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-04-01",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "16e167f9db07",
+      "title": "Even a nudist colony got a Maine moose permit. Guides want to change that.",
+      "summary": "\"Make no mistake: Maine\u2019s annual moose hunting permits, or tags, are a precious, highly sought-after commodity.\"",
+      "url": "https://www.bangordailynews.com/2026/04/01/outdoors/outdoors-contributors/maine-moose-permit-system-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1eddf8026f1b",
+      "title": "Speeding in highway construction zones is deadly. Maine can stop it.",
+      "summary": "\u201cEvery day, Mainers put their lives on the line while doing their jobs in highway work zones.\u201d",
+      "url": "https://www.bangordailynews.com/2026/04/01/opinion/opinion-contributor/deadly-speeding-construction-zones-maine-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-01",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "97436ed88b13",
+      "title": "Have you been waiting forever to draw a Maine moose tag?",
+      "summary": "A total of 3,705 permits will be issued this year. Of those, 3,343 are allocated to residents, 288 to nonresidents and 74 to lodges.",
+      "url": "https://www.bangordailynews.com/2026/04/01/outdoors/hunting/maine-moose-tag-lottery-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cbae7a57be46",
+      "title": "Winter of 2025-26 may go down as Southwick\u2019s costliest ever",
+      "summary": "Even if the town gets hit with another snowstorm or not another flake drops in the next month, the cost of keeping Southwick's roads clear of snow and ice will go down as the costliest in at least decade.",
+      "url": "https://www.masslive.com/westfieldnews/2026/04/winter-of-2025-26-may-go-down-as-southwicks-costliest-ever.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ad3fb48a355c",
+      "title": "State Senate candidate drops $7K on April Fools' prank with message for the MBTA",
+      "summary": "A Cambridge councilor running for state Senate spent $7,000 on April Fools\u2019 MBTA ads, drawing attention to his hope for an expanded transit network.",
+      "url": "https://www.masslive.com/boston/2026/04/mass-state-senate-candidate-drops-7k-on-april-fools-prank-with-a-message-for-the-mbta.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-01",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9dcd45ab5255",
+      "title": "Whiskey mogul plans to donate Poultney college campus to a Christian group to \u2018revive Western Civilization\u2019",
+      "summary": "Poultney residents have shifted focus to investments in outdoor recreation, tourism and other revitalization efforts after the Green Mountain College campus redevelopment stalled.\nRead the story on VTDigger here:  Whiskey mogul plans to donate Poultney college campus to a Christian group to \u2018revive",
+      "url": "https://vtdigger.org/2026/03/31/whiskey-mogul-plans-to-donate-poultney-college-campus-to-a-christian-group-to-revive-western-civilization/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-31",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2a0130e61ee5",
+      "title": "Vermont lawmakers plan for the death of the penny",
+      "summary": "Also in Final Reading: Doctor shortage, economic development and pre-K.\nRead the story on VTDigger here:  Vermont lawmakers plan for the death of the penny.",
+      "url": "https://vtdigger.org/2026/03/31/vermont-lawmakers-plan-for-the-death-of-the-penny/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-31",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e2fd7576fa3f",
+      "title": "Hinesburg bridges beset by FEMA fund shortfall",
+      "summary": "The town has attached a cost estimate of nearly $1.6 million for the two bridges and culvert.\nRead the story on VTDigger here:  Hinesburg bridges beset by FEMA fund shortfall.",
+      "url": "https://vtdigger.org/2026/03/31/hinesburg-bridges-beset-by-fema-fund-shortfall/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-03-31",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "59f6af0a02bf",
+      "title": "Stories that connect us: celebrate Local News Day",
+      "summary": "Celebrate Local News Day at Montpelier\u2019s Kellogg-Hubbard Library with a screening of Reimagining Local News and a conversation with leaders from The Bridge, VTDigger, and the Vermont Journalism Coalition. Join neighbors to explore how local journalism keeps Vermont communities informed and how we c",
+      "url": "https://vtdigger.org/2026/03/31/stories-that-connect-us-celebrate-local-news-day/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-03-31",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "158d806c606a",
+      "title": "Goodlander Hears Concerns: Failing Infrastructure, Housing, Rising Costs in Littleton",
+      "summary": "On Tuesday, U.S. Rep. Maggie Goodlander, D-NH, visited with community leaders and small-business owners to hear concerns and consider what she can do in Washington to help.",
+      "url": "https://indepthnh.org/2026/03/31/goodlander-hears-littletons-concerns-over-failing-infrastructure-housing-and-rising-costs/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-03-31",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4c30cf2d0b6c",
+      "title": "No Opposition To Bill To Hike Toll Rates for Non-NH EZ Pass Owners",
+      "summary": "NH-EZ Pass owners could keep their 30 percent discount with no toll increase but the state would charge an increase to all other users under a bill heard in the House Public Works and Highways Committee Tuesday without a single opponent speaking during a public hearing.",
+      "url": "https://indepthnh.org/2026/03/31/no-opposition-to-bill-to-hike-toll-rates-for-non-nh-ez-pass-owners/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-03-31",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "610d74fc25c6",
+      "title": "AG: Deal with Saint-Gobain To Connect 350 Properties to Public Water Due To PFAS",
+      "summary": "The state, town of Londonderry and Saint Gobain Performance Plastics have agreed to work together to extend a water main up High Range Road in Londonderry from Royal Lane north to Alexander Road, according to a news release from Attorney General John Formella.",
+      "url": "https://indepthnh.org/2026/03/31/ag-deal-with-saint-gobain-to-connect-homes-to-public-water-due-to-pfas-contamination/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-03-31",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
