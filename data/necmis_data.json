@@ -1,13 +1,13 @@
 {
-  "generated": "2026-04-01T11:40:54.237808Z",
+  "generated": "2026-04-02T11:36:03.852978Z",
   "summary": {
-    "total_opportunities": 30,
+    "total_opportunities": 29,
     "total_value_low": 170002762,
     "total_value_high": 170002762,
     "by_state": {
-      "VT": 6,
+      "VT": 5,
       "NH": 8,
-      "ME": 6,
+      "ME": 2,
       "MA": 23,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 28,
-      "news": 17,
-      "funding": 2
+      "news": 13,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -560,27 +560,13 @@
   ],
   "news": [
     {
-      "id": "2df7de6cf7f1",
-      "title": "Maine must treat trans youth with care and respect | Letter",
-      "summary": "In November of 2025, I attended a select board meeting in St. George that had been called by a group of folks who self-identified as adults, parents, Christians and concerned community members to ask the town to ban an 8-year-old, trans, third-grade student from the municipally run girls\u2019 basketball",
-      "url": "https://www.pressherald.com/2026/04/01/maine-must-treat-trans-youth-with-care-and-respect-letter/",
+      "id": "33b573bf27ef",
+      "title": "The strange case of Maine\u2019s disappearing bond issues | Douglas Rooks",
+      "summary": "The recent package doesn't mask the fact that investments in the state's infrastructure have been woefully lacking under Janet Mills.",
+      "url": "https://www.pressherald.com/2026/04/02/the-strange-case-of-maines-disappearing-bond-issues-douglas-rooks/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-01",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8b41ba365177",
-      "title": "Bangor Mall sale / Janet Mills\u2019 Senate bid / MDI mansion sale",
-      "summary": "What we're talking about in Maine today.",
-      "url": "https://www.bangordailynews.com/2026/04/01/morning-update/maine-news-morning-update-april-1-2026/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -588,55 +574,13 @@
       ]
     },
     {
-      "id": "16e167f9db07",
-      "title": "Even a nudist colony got a Maine moose permit. Guides want to change that.",
-      "summary": "\"Make no mistake: Maine\u2019s annual moose hunting permits, or tags, are a precious, highly sought-after commodity.\"",
-      "url": "https://www.bangordailynews.com/2026/04/01/outdoors/outdoors-contributors/maine-moose-permit-system-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-01",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1eddf8026f1b",
-      "title": "Speeding in highway construction zones is deadly. Maine can stop it.",
-      "summary": "\u201cEvery day, Mainers put their lives on the line while doing their jobs in highway work zones.\u201d",
-      "url": "https://www.bangordailynews.com/2026/04/01/opinion/opinion-contributor/deadly-speeding-construction-zones-maine-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-01",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "97436ed88b13",
-      "title": "Have you been waiting forever to draw a Maine moose tag?",
-      "summary": "A total of 3,705 permits will be issued this year. Of those, 3,343 are allocated to residents, 288 to nonresidents and 74 to lodges.",
-      "url": "https://www.bangordailynews.com/2026/04/01/outdoors/hunting/maine-moose-tag-lottery-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-01",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cbae7a57be46",
-      "title": "Winter of 2025-26 may go down as Southwick\u2019s costliest ever",
-      "summary": "Even if the town gets hit with another snowstorm or not another flake drops in the next month, the cost of keeping Southwick's roads clear of snow and ice will go down as the costliest in at least decade.",
-      "url": "https://www.masslive.com/westfieldnews/2026/04/winter-of-2025-26-may-go-down-as-southwicks-costliest-ever.html",
+      "id": "b80f5c06ea48",
+      "title": "Celtics road trip solves intriguing conundrum for Joe Mazzulla",
+      "summary": "The Celtics pushed the right buttons in their blowout win over the Heat on Wednesday night.",
+      "url": "https://www.masslive.com/celtics/2026/04/celtics-road-trip-solves-intriguing-conundrum-for-joe-mazzulla.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -644,15 +588,29 @@
       ]
     },
     {
-      "id": "ad3fb48a355c",
-      "title": "State Senate candidate drops $7K on April Fools' prank with message for the MBTA",
-      "summary": "A Cambridge councilor running for state Senate spent $7,000 on April Fools\u2019 MBTA ads, drawing attention to his hope for an expanded transit network.",
-      "url": "https://www.masslive.com/boston/2026/04/mass-state-senate-candidate-drops-7k-on-april-fools-prank-with-a-message-for-the-mbta.html",
+      "id": "31496e1507ea",
+      "title": "Massachusetts housing push stalls as costs and red tape slow progress",
+      "summary": "Massachusetts needs to build more than 220,000 new homes in the next decade. But with construction costs at record highs, will we get there?",
+      "url": "https://www.masslive.com/news/2026/04/construction-costs-tariffs-slow-massachusetts-push-to-build-more-housing.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-04-02",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7f53a6c6cb1d",
+      "title": "Jeremy Baker: We\u2019re exporting our best asset \u2014 Vermont\u2019s own kids",
+      "summary": "Vermont is aging, its housing crisis is deepening, and its construction workforce is shrinking. Expanding career technical education could help turn the tide.\nRead the story on VTDigger here:  Jeremy Baker: We\u2019re exporting our best asset \u2014 Vermont\u2019s own kids.",
+      "url": "https://vtdigger.org/2026/04/01/opinion-jeremy-baker-were-exporting-our-best-asset-vermonts-own-kids/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-04-01",
-      "category": "funding",
-      "priority": "high",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -700,20 +658,6 @@
       ]
     },
     {
-      "id": "59f6af0a02bf",
-      "title": "Stories that connect us: celebrate Local News Day",
-      "summary": "Celebrate Local News Day at Montpelier\u2019s Kellogg-Hubbard Library with a screening of Reimagining Local News and a conversation with leaders from The Bridge, VTDigger, and the Vermont Journalism Coalition. Join neighbors to explore how local journalism keeps Vermont communities informed and how we c",
-      "url": "https://vtdigger.org/2026/03/31/stories-that-connect-us-celebrate-local-news-day/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-31",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "158d806c606a",
       "title": "Goodlander Hears Concerns: Failing Infrastructure, Housing, Rising Costs in Littleton",
       "summary": "On Tuesday, U.S. Rep. Maggie Goodlander, D-NH, visited with community leaders and small-business owners to hear concerns and consider what she can do in Washington to help.",
@@ -749,20 +693,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-03-31",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "aa9c233c7569",
-      "title": "Building an economy where everyone participates and belongs: Supported employment initiatives for Vermonters with disabilities enhance lives, strengthen communities and build the economy",
-      "summary": "Employment and career development supports offered by Developmental Disability Services providers such as Champlain Community Services, and others in Vermont Care Partners\u2019 statewide network, empower Vermonters with intellectual and developmental disabilities succeed in, and help build, Vermont\u2019s c",
-      "url": "https://vtdigger.org/2026/03/30/building-an-economy-where-everyone-participates-and-belongs-supported-employment-initiatives-for-vermonters-with-disabilities-enhance-lives-strengthen-communities-and-build-the-economy/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-30",
       "category": "news",
       "priority": "medium",
       "business_lines": [
