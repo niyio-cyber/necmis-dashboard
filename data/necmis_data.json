@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-02T11:36:03.852978Z",
+  "generated": "2026-04-03T11:28:33.487065Z",
   "summary": {
     "total_opportunities": 29,
     "total_value_low": 170002762,
     "total_value_high": 170002762,
     "by_state": {
-      "VT": 5,
-      "NH": 8,
+      "VT": 3,
+      "NH": 6,
       "ME": 2,
-      "MA": 23,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 28,
-      "news": 13,
+      "news": 8,
       "funding": 1
     }
   },
@@ -560,13 +560,13 @@
   ],
   "news": [
     {
-      "id": "33b573bf27ef",
-      "title": "The strange case of Maine\u2019s disappearing bond issues | Douglas Rooks",
-      "summary": "The recent package doesn't mask the fact that investments in the state's infrastructure have been woefully lacking under Janet Mills.",
-      "url": "https://www.pressherald.com/2026/04/02/the-strange-case-of-maines-disappearing-bond-issues-douglas-rooks/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-02",
+      "id": "a875c80f2372",
+      "title": "More secretive than Wonka? Mysteries abound at the biggest candy factory in Mass.",
+      "summary": "The only candy factory in the state that is still mass producing candy on a national scale is just outside of Central Square in Cambridge. And change is afoot in its executive ranks.",
+      "url": "https://www.masslive.com/boston/2026/04/more-secretive-than-wonka-mysteries-abound-at-the-biggest-candy-factory-in-mass.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-03",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -574,29 +574,15 @@
       ]
     },
     {
-      "id": "b80f5c06ea48",
-      "title": "Celtics road trip solves intriguing conundrum for Joe Mazzulla",
-      "summary": "The Celtics pushed the right buttons in their blowout win over the Heat on Wednesday night.",
-      "url": "https://www.masslive.com/celtics/2026/04/celtics-road-trip-solves-intriguing-conundrum-for-joe-mazzulla.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "c97274cd4d29",
+      "title": "Federal appeals court rejects HUD bid to cut funding for Maine housing programs",
+      "summary": "The change was part of the Trump administration\u2019s plan\u00a0to divert funding toward programs with work requirements or mandatory mental health and substance use treatment.",
+      "url": "https://www.bangordailynews.com/2026/04/02/state/state-housing/appeals-court-rejects-hud-cuts/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-04-02",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "31496e1507ea",
-      "title": "Massachusetts housing push stalls as costs and red tape slow progress",
-      "summary": "Massachusetts needs to build more than 220,000 new homes in the next decade. But with construction costs at record highs, will we get there?",
-      "url": "https://www.masslive.com/news/2026/04/construction-costs-tariffs-slow-massachusetts-push-to-build-more-housing.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-04-02",
-      "category": "news",
-      "priority": "medium",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -630,34 +616,6 @@
       ]
     },
     {
-      "id": "2a0130e61ee5",
-      "title": "Vermont lawmakers plan for the death of the penny",
-      "summary": "Also in Final Reading: Doctor shortage, economic development and pre-K.\nRead the story on VTDigger here:  Vermont lawmakers plan for the death of the penny.",
-      "url": "https://vtdigger.org/2026/03/31/vermont-lawmakers-plan-for-the-death-of-the-penny/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-31",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e2fd7576fa3f",
-      "title": "Hinesburg bridges beset by FEMA fund shortfall",
-      "summary": "The town has attached a cost estimate of nearly $1.6 million for the two bridges and culvert.\nRead the story on VTDigger here:  Hinesburg bridges beset by FEMA fund shortfall.",
-      "url": "https://vtdigger.org/2026/03/31/hinesburg-bridges-beset-by-fema-fund-shortfall/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-31",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "158d806c606a",
       "title": "Goodlander Hears Concerns: Failing Infrastructure, Housing, Rising Costs in Littleton",
       "summary": "On Tuesday, U.S. Rep. Maggie Goodlander, D-NH, visited with community leaders and small-business owners to hear concerns and consider what she can do in Washington to help.",
@@ -686,20 +644,6 @@
       ]
     },
     {
-      "id": "610d74fc25c6",
-      "title": "AG: Deal with Saint-Gobain To Connect 350 Properties to Public Water Due To PFAS",
-      "summary": "The state, town of Londonderry and Saint Gobain Performance Plastics have agreed to work together to extend a water main up High Range Road in Londonderry from Royal Lane north to Alexander Road, according to a news release from Attorney General John Formella.",
-      "url": "https://indepthnh.org/2026/03/31/ag-deal-with-saint-gobain-to-connect-homes-to-public-water-due-to-pfas-contamination/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-03-31",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "dcabf67b6a7b",
       "title": "US paves way for private assets to be included in 401(k) retirement plans",
       "summary": "The Trump administration on Monday issued a long-awaited proposed rule to open up retirement plans to alternative assets, paving the way for private equity and cryptocurrencies to be added to 401(k) accounts.",
@@ -711,20 +655,6 @@
       "priority": "high",
       "business_lines": [
         "hma"
-      ]
-    },
-    {
-      "id": "547cab37de2c",
-      "title": "New Report On NH Transportation Infrastructure Needs Fuels Sen. Watters\u2019 Bill",
-      "summary": "To keep New Hampshire driving its economy forward, its 16,269 miles of local and state roads and 2,549 bridges need to be improved and maintained.",
-      "url": "https://indepthnh.org/2026/03/30/new-report-on-nh-transportation-infrastructure-needs-fuels-sen-watters-bill/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-03-30",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
       ]
     },
     {
