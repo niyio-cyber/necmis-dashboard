@@ -1,22 +1,22 @@
 {
-  "generated": "2026-04-03T11:28:33.487065Z",
+  "generated": "2026-04-04T11:18:36.649528Z",
   "summary": {
-    "total_opportunities": 29,
-    "total_value_low": 170002762,
-    "total_value_high": 170002762,
+    "total_opportunities": 32,
+    "total_value_low": 194116077,
+    "total_value_high": 194116077,
     "by_state": {
-      "VT": 3,
-      "NH": 6,
-      "ME": 2,
-      "MA": 22,
+      "VT": 2,
+      "NH": 4,
+      "ME": 3,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 28,
-      "news": 8,
+      "dot_letting": 31,
+      "news": 5,
       "funding": 1
     }
   },
@@ -310,6 +310,25 @@
       ]
     },
     {
+      "id": "a4e0c22eefae",
+      "state": "MA",
+      "project_id": "614188",
+      "description": "Traffic Signal Upgrades at Various Locations",
+      "cost_low": 950000,
+      "cost_high": 950000,
+      "cost_display": "$950K",
+      "ad_date": "2026-04-04",
+      "let_date": null,
+      "project_type": "Traffic Signals",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614188",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "44f29e7926df",
       "state": "MA",
       "project_id": "610802",
@@ -403,6 +422,46 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "43bf9ce73538",
+      "state": "MA",
+      "project_id": "614020",
+      "description": "Resurfacing And Related Work at Various Locations",
+      "cost_low": 6394511,
+      "cost_high": 6394511,
+      "cost_display": "$6.4M",
+      "ad_date": "2026-04-04",
+      "let_date": null,
+      "project_type": "Pavement - Surfacing",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614020",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
+      ]
+    },
+    {
+      "id": "d63fbc64f20e",
+      "state": "MA",
+      "project_id": "614119",
+      "description": "Scheduled and Emergency Resurfacing and Related Work at Various Locations",
+      "cost_low": 16768804,
+      "cost_high": 16768804,
+      "cost_display": "$16.8M",
+      "ad_date": "2026-04-04",
+      "let_date": null,
+      "project_type": "Pavement - Surfacing",
+      "location": "District 3",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614119",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
       ]
     },
     {
@@ -560,85 +619,43 @@
   ],
   "news": [
     {
-      "id": "a875c80f2372",
-      "title": "More secretive than Wonka? Mysteries abound at the biggest candy factory in Mass.",
-      "summary": "The only candy factory in the state that is still mass producing candy on a national scale is just outside of Central Square in Cambridge. And change is afoot in its executive ranks.",
-      "url": "https://www.masslive.com/boston/2026/04/more-secretive-than-wonka-mysteries-abound-at-the-biggest-candy-factory-in-mass.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "3a714b59dc8e",
+      "title": "5 of the best bakeries in Biddeford and Saco for a sweet (or savory) treat",
+      "summary": "Need a birthday cake or simply a pick-me-up? Here's our favorite spots to find some baked goods.",
+      "url": "https://www.pressherald.com/2026/04/04/5-of-the-best-bakeries-in-biddeford-and-saco-for-a-sweet-or-savory-treat/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-04",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5b9a18d08743",
+      "title": "US Forest Service cuts research positions at local lab",
+      "summary": "The U.S. Forest Service announced national reorganization plans Thursday, cutting its research and development headquarters at a University of Vermont laboratory.\nRead the story on VTDigger here:  US Forest Service cuts research positions at local lab.",
+      "url": "https://vtdigger.org/2026/04/03/us-forest-service-cuts-research-positions-at-local-lab/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-04-03",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "c97274cd4d29",
-      "title": "Federal appeals court rejects HUD bid to cut funding for Maine housing programs",
-      "summary": "The change was part of the Trump administration\u2019s plan\u00a0to divert funding toward programs with work requirements or mandatory mental health and substance use treatment.",
-      "url": "https://www.bangordailynews.com/2026/04/02/state/state-housing/appeals-court-rejects-hud-cuts/",
+      "id": "a5d607d3efb8",
+      "title": "Here\u2019s what UMaine\u2019s basketball court will look like in new $80 million arena",
+      "summary": "The facility is expected to be completed and in use during the 2027-28 basketball season. Construction began this past fall.",
+      "url": "https://www.bangordailynews.com/2026/04/03/sports/college/umaine-basketball-80-million-remodel/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-04-02",
+      "date": "2026-04-03",
       "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7f53a6c6cb1d",
-      "title": "Jeremy Baker: We\u2019re exporting our best asset \u2014 Vermont\u2019s own kids",
-      "summary": "Vermont is aging, its housing crisis is deepening, and its construction workforce is shrinking. Expanding career technical education could help turn the tide.\nRead the story on VTDigger here:  Jeremy Baker: We\u2019re exporting our best asset \u2014 Vermont\u2019s own kids.",
-      "url": "https://vtdigger.org/2026/04/01/opinion-jeremy-baker-were-exporting-our-best-asset-vermonts-own-kids/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-01",
-      "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9dcd45ab5255",
-      "title": "Whiskey mogul plans to donate Poultney college campus to a Christian group to \u2018revive Western Civilization\u2019",
-      "summary": "Poultney residents have shifted focus to investments in outdoor recreation, tourism and other revitalization efforts after the Green Mountain College campus redevelopment stalled.\nRead the story on VTDigger here:  Whiskey mogul plans to donate Poultney college campus to a Christian group to \u2018revive",
-      "url": "https://vtdigger.org/2026/03/31/whiskey-mogul-plans-to-donate-poultney-college-campus-to-a-christian-group-to-revive-western-civilization/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-03-31",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "158d806c606a",
-      "title": "Goodlander Hears Concerns: Failing Infrastructure, Housing, Rising Costs in Littleton",
-      "summary": "On Tuesday, U.S. Rep. Maggie Goodlander, D-NH, visited with community leaders and small-business owners to hear concerns and consider what she can do in Washington to help.",
-      "url": "https://indepthnh.org/2026/03/31/goodlander-hears-littletons-concerns-over-failing-infrastructure-housing-and-rising-costs/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-03-31",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4c30cf2d0b6c",
-      "title": "No Opposition To Bill To Hike Toll Rates for Non-NH EZ Pass Owners",
-      "summary": "NH-EZ Pass owners could keep their 30 percent discount with no toll increase but the state would charge an increase to all other users under a bill heard in the House Public Works and Highways Committee Tuesday without a single opponent speaking during a public hearing.",
-      "url": "https://indepthnh.org/2026/03/31/no-opposition-to-bill-to-hike-toll-rates-for-non-nh-ez-pass-owners/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-03-31",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
