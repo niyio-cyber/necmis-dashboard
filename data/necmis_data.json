@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-04T11:18:36.649528Z",
+  "generated": "2026-04-05T11:18:39.537817Z",
   "summary": {
-    "total_opportunities": 32,
+    "total_opportunities": 31,
     "total_value_low": 194116077,
     "total_value_high": 194116077,
     "by_state": {
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 5,
-      "funding": 1
+      "news": 6,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -619,15 +619,29 @@
   ],
   "news": [
     {
-      "id": "3a714b59dc8e",
-      "title": "5 of the best bakeries in Biddeford and Saco for a sweet (or savory) treat",
-      "summary": "Need a birthday cake or simply a pick-me-up? Here's our favorite spots to find some baked goods.",
-      "url": "https://www.pressherald.com/2026/04/04/5-of-the-best-bakeries-in-biddeford-and-saco-for-a-sweet-or-savory-treat/",
+      "id": "157f61a75a1a",
+      "title": "Maine has nothing to fear by welcoming data centers | Jim Fossel",
+      "summary": "We need development that adds value to our state and fits with our values. A moratorium is the wrong move.",
+      "url": "https://www.pressherald.com/2026/04/05/maine-has-nothing-to-fear-by-welcoming-data-centers-jim-fossel/",
       "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3ae0b99413dd",
+      "title": "75-year-old woman killed in central Maine fire",
+      "summary": "Jerrold Wentworth, 74, escaped the fire and is in serious condition, but his wife died in the fire on Plains Road in Readfield.",
+      "url": "https://www.bangordailynews.com/2026/04/04/central-maine/central-maine-police-courts/75-year-old-woman-killed-in-central-maine-fire/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-04-04",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -641,20 +655,6 @@
       "state": "VT",
       "date": "2026-04-03",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a5d607d3efb8",
-      "title": "Here\u2019s what UMaine\u2019s basketball court will look like in new $80 million arena",
-      "summary": "The facility is expected to be completed and in use during the 2027-28 basketball season. Construction began this past fall.",
-      "url": "https://www.bangordailynews.com/2026/04/03/sports/college/umaine-basketball-80-million-remodel/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-03",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
