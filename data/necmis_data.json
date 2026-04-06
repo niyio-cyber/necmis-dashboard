@@ -1,13 +1,13 @@
 {
-  "generated": "2026-04-05T11:18:39.537817Z",
+  "generated": "2026-04-06T11:38:52.415955Z",
   "summary": {
     "total_opportunities": 31,
     "total_value_low": 194116077,
     "total_value_high": 194116077,
     "by_state": {
-      "VT": 2,
-      "NH": 4,
-      "ME": 3,
+      "VT": 3,
+      "NH": 2,
+      "ME": 2,
       "MA": 24,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 6,
+      "news": 4,
       "funding": 0
     }
   },
@@ -619,27 +619,41 @@
   ],
   "news": [
     {
-      "id": "157f61a75a1a",
-      "title": "Maine has nothing to fear by welcoming data centers | Jim Fossel",
-      "summary": "We need development that adds value to our state and fits with our values. A moratorium is the wrong move.",
-      "url": "https://www.pressherald.com/2026/04/05/maine-has-nothing-to-fear-by-welcoming-data-centers-jim-fossel/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-05",
+      "id": "aadce45f3fd0",
+      "title": "Jackson Dam removal advanced in Hardwick",
+      "summary": "The dam is classified as a Significant Hazard due to the property losses and damage to downstream infrastructure that would result from its failure.\nRead the story on VTDigger here:  Jackson Dam removal advanced in Hardwick.",
+      "url": "https://vtdigger.org/2026/04/06/jackson-dam-removal-advanced-in-hardwick/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-04-06",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "3ae0b99413dd",
-      "title": "75-year-old woman killed in central Maine fire",
-      "summary": "Jerrold Wentworth, 74, escaped the fire and is in serious condition, but his wife died in the fire on Plains Road in Readfield.",
-      "url": "https://www.bangordailynews.com/2026/04/04/central-maine/central-maine-police-courts/75-year-old-woman-killed-in-central-maine-fire/",
-      "source": "Bangor Daily News",
+      "id": "4b90151c74d7",
+      "title": "Brookstone Builders, Inc. completes State of NH renovation project",
+      "summary": "Brookstone Builders, Inc., construction managers and general contractors headquartered in Manchester, New Hampshire, recently announced that it has completed a renovation project for the State of New Hampshire.",
+      "url": "https://www.unionleader.com/news/business/brookstone-builders-inc-completes-state-of-nh-renovation-project/article_e2a542c5-1a54-4100-a549-fccd4cd8bdca.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-04-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "d7fb6cab032e",
+      "title": "Bruins\u2019 losing streak continues with OT loss in Philly",
+      "summary": "Porter Martone\u2019s power-play goal sends Boston to its 3rd straight loss during its road trip.",
+      "url": "https://www.pressherald.com/2026/04/05/bruins-losing-streak-continues-with-ot-loss-in-philly/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -654,48 +668,6 @@
       "source": "VTDigger",
       "state": "VT",
       "date": "2026-04-03",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "dcabf67b6a7b",
-      "title": "US paves way for private assets to be included in 401(k) retirement plans",
-      "summary": "The Trump administration on Monday issued a long-awaited proposed rule to open up retirement plans to alternative assets, paving the way for private equity and cryptocurrencies to be added to 401(k) accounts.",
-      "url": "https://www.unionleader.com/news/business/us-paves-way-for-private-assets-to-be-included-in-401-k-retirement-plans/article_17dc1416-d183-5a72-84d3-883515624538.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-03-30",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "hma"
-      ]
-    },
-    {
-      "id": "cbbbb222c62b",
-      "title": "Londonderry planning officials ponder an orchard eatery plan",
-      "summary": "There are still questions needing answers as Londonderry Planning Board members continue to ponder a proposed farm-to-table restaurant plan that could operate at Mack\u2019s Apples on Mammoth Road.",
-      "url": "https://www.unionleader.com/news/business/londonderry-planning-officials-ponder-an-orchard-eatery-plan/article_9f046fe5-6eef-4168-9f95-512b4a791d11.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-03-29",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7618a2ceafb7",
-      "title": "Stay Work Play NH announces the 2026 Rising Stars Leadership Cohort",
-      "summary": "Stay Work Play New Hampshire is proud to announce the 2026 Rising Stars Leadership Program Cohort, spotlighting some of New Hampshire\u2019s most promising young professionals across industries, including health care, finance, media, housing, education, energy, and economic development.",
-      "url": "https://www.unionleader.com/news/business/stay-work-play-nh-announces-the-2026-rising-stars-leadership-cohort/article_6b1ef1aa-125d-46bf-bdbb-aa430c09079b.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-03-29",
       "category": "news",
       "priority": "medium",
       "business_lines": [
