@@ -1,11 +1,11 @@
 {
-  "generated": "2026-04-06T11:38:52.415955Z",
+  "generated": "2026-04-07T11:42:18.978420Z",
   "summary": {
     "total_opportunities": 31,
-    "total_value_low": 194116077,
-    "total_value_high": 194116077,
+    "total_value_low": 194113077,
+    "total_value_high": 194113077,
     "by_state": {
-      "VT": 3,
+      "VT": 4,
       "NH": 2,
       "ME": 2,
       "MA": 24,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 4,
+      "news": 5,
       "funding": 0
     }
   },
@@ -410,8 +410,8 @@
       "state": "MA",
       "project_id": "610647",
       "description": "Corridor Improvements on Route 6 at Swifts Beach Road",
-      "cost_low": 7689811,
-      "cost_high": 7689811,
+      "cost_low": 7686811,
+      "cost_high": 7686811,
       "cost_display": "$7.7M",
       "ad_date": "2026-03-28",
       "let_date": null,
@@ -619,12 +619,40 @@
   ],
   "news": [
     {
+      "id": "74ba9945d08c",
+      "title": "Aly Richards, former head of Let\u2019s Grow Kids, launches bid for Vermont governor",
+      "summary": "\u201cYou\u2019ve got to ask yourself: Are you better off now than you were 10 years ago?\u201d the Democrat said, pointing to when Gov. Phil Scott was first elected. \u201cIt\u2019s time for a new approach.\u201d\nRead the story on VTDigger here:  Aly Richards, former head of Let\u2019s Grow Kids, launches bid for Vermont governor.",
+      "url": "https://vtdigger.org/2026/04/06/aly-richards-former-head-of-lets-grow-kids-launches-bid-for-vermont-governor/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-04-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "aadce45f3fd0",
       "title": "Jackson Dam removal advanced in Hardwick",
       "summary": "The dam is classified as a Significant Hazard due to the property losses and damage to downstream infrastructure that would result from its failure.\nRead the story on VTDigger here:  Jackson Dam removal advanced in Hardwick.",
       "url": "https://vtdigger.org/2026/04/06/jackson-dam-removal-advanced-in-hardwick/",
       "source": "VTDigger",
       "state": "VT",
+      "date": "2026-04-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2a668b2f1c5a",
+      "title": "Casco Bay Bridge will close to large vessels Wednesday",
+      "summary": "The Maine Department of Transportation will be conducting routine maintenance between 9 a.m. and 3 p.m.",
+      "url": "https://www.pressherald.com/2026/04/06/casco-bay-bridge-will-close-to-large-vessels-wednesday/",
+      "source": "Portland Press Herald",
+      "state": "ME",
       "date": "2026-04-06",
       "category": "news",
       "priority": "high",
@@ -644,20 +672,6 @@
       "priority": "medium",
       "business_lines": [
         "aggregates"
-      ]
-    },
-    {
-      "id": "d7fb6cab032e",
-      "title": "Bruins\u2019 losing streak continues with OT loss in Philly",
-      "summary": "Porter Martone\u2019s power-play goal sends Boston to its 3rd straight loss during its road trip.",
-      "url": "https://www.pressherald.com/2026/04/05/bruins-losing-streak-continues-with-ot-loss-in-philly/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-05",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     },
     {
