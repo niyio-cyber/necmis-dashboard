@@ -1,102 +1,26 @@
 {
-  "generated": "2026-04-07T11:42:18.978420Z",
+  "generated": "2026-04-08T11:43:16.281955Z",
   "summary": {
-    "total_opportunities": 31,
-    "total_value_low": 194113077,
-    "total_value_high": 194113077,
+    "total_opportunities": 27,
+    "total_value_low": 189279452,
+    "total_value_high": 189279452,
     "by_state": {
-      "VT": 4,
+      "VT": 5,
       "NH": 2,
-      "ME": 2,
-      "MA": 24,
+      "ME": 1,
+      "MA": 21,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 31,
-      "news": 5,
+      "dot_letting": 27,
+      "news": 6,
       "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "9a43cbb8dc44",
-      "state": "MA",
-      "project_id": "614115",
-      "description": "Scheduled and Emergency Traffic Signal Repairs and Improvements at Various Locations",
-      "cost_low": 1300000,
-      "cost_high": 1300000,
-      "cost_display": "$1.3M",
-      "ad_date": "2026-03-07",
-      "let_date": null,
-      "project_type": "Traffic Signals",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614115",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4d957a26a66e",
-      "state": "MA",
-      "project_id": "614116",
-      "description": "Highway Lighting Repairs and Improvements at Various Locations",
-      "cost_low": 1000000,
-      "cost_high": 1000000,
-      "cost_display": "$1.0M",
-      "ad_date": "2026-03-07",
-      "let_date": null,
-      "project_type": "Highway - Lighting",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614116",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f0a09a5722a1",
-      "state": "MA",
-      "project_id": "614152",
-      "description": "Scheduled & Emergency Guardrail Repairs at Various Locations",
-      "cost_low": 1800000,
-      "cost_high": 1800000,
-      "cost_display": "$1.8M",
-      "ad_date": "2026-03-14",
-      "let_date": null,
-      "project_type": "Guard Rail & Fencing",
-      "location": "District 4",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614152",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cf125414b5c3",
-      "state": "MA",
-      "project_id": "614069",
-      "description": "Scheduled and Emergency Fabrication and Installation of Overhead and Ground Mounted Guide Signs at Various Locations",
-      "cost_low": 736625,
-      "cost_high": 736625,
-      "cost_display": "$737K",
-      "ad_date": "2026-03-14",
-      "let_date": null,
-      "project_type": "Signing - Structural",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614069",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "b1093f48b13c",
       "state": "MA",
@@ -410,8 +334,8 @@
       "state": "MA",
       "project_id": "610647",
       "description": "Corridor Improvements on Route 6 at Swifts Beach Road",
-      "cost_low": 7686811,
-      "cost_high": 7686811,
+      "cost_low": 7689811,
+      "cost_high": 7689811,
       "cost_display": "$7.7M",
       "ad_date": "2026-03-28",
       "let_date": null,
@@ -619,6 +543,48 @@
   ],
   "news": [
     {
+      "id": "7ae550c4a775",
+      "title": "Westfield Theatre Group presents Broadway classic \u201842nd Street\u2019",
+      "summary": "The Westfield Theatre Group is proud to announce its spring 2026 production of the beloved Broadway musical 42nd Street, bringing dazzling choreography, classic songs, and old-fashioned showbiz charm to the stage of the Westfield Woman\u2019s Club, 28 Court St. on Fridays and Saturdays, April 10 - 25 at",
+      "url": "https://www.masslive.com/westfieldnews/2026/04/westfield-theatre-group-presents-broadway-classic-42nd-street.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a1249438dfc7",
+      "title": "Once billed as the future of Town Meeting, the \u2018Brattleboro Experiment\u2019 is ending",
+      "summary": "The state\u2019s only municipality to elect members to the equivalent of a local legislature is retiring the tradition after 65 years. What comes next is sparking its own debate.\nRead the story on VTDigger here:  Once billed as the future of Town Meeting, the \u2018Brattleboro Experiment\u2019 is ending.",
+      "url": "https://vtdigger.org/2026/04/07/once-billed-as-the-future-of-town-meeting-the-brattleboro-experiment-is-ending/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-04-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6da0d4bc58c4",
+      "title": "Vermont won permission to use Medicaid funds for homelessness. It\u2019s sitting unused.",
+      "summary": "\u201cThe idea of letting this opportunity go to waste when it is there right now is unconscionable, in my opinion,\u201d said Jessica Radbord, a senior staff attorney at the American Civil Liberties Union of Vermont.\nRead the story on VTDigger here:  Vermont won permission to use Medicaid funds for homeless",
+      "url": "https://vtdigger.org/2026/04/07/vermont-won-permission-to-use-medicaid-funds-for-homelessness-its-sitting-unused/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-04-07",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "74ba9945d08c",
       "title": "Aly Richards, former head of Let\u2019s Grow Kids, launches bid for Vermont governor",
       "summary": "\u201cYou\u2019ve got to ask yourself: Are you better off now than you were 10 years ago?\u201d the Democrat said, pointing to when Gov. Phil Scott was first elected. \u201cIt\u2019s time for a new approach.\u201d\nRead the story on VTDigger here:  Aly Richards, former head of Let\u2019s Grow Kids, launches bid for Vermont governor.",
@@ -647,20 +613,6 @@
       ]
     },
     {
-      "id": "2a668b2f1c5a",
-      "title": "Casco Bay Bridge will close to large vessels Wednesday",
-      "summary": "The Maine Department of Transportation will be conducting routine maintenance between 9 a.m. and 3 p.m.",
-      "url": "https://www.pressherald.com/2026/04/06/casco-bay-bridge-will-close-to-large-vessels-wednesday/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-06",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "4b90151c74d7",
       "title": "Brookstone Builders, Inc. completes State of NH renovation project",
       "summary": "Brookstone Builders, Inc., construction managers and general contractors headquartered in Manchester, New Hampshire, recently announced that it has completed a renovation project for the State of New Hampshire.",
@@ -672,20 +624,6 @@
       "priority": "medium",
       "business_lines": [
         "aggregates"
-      ]
-    },
-    {
-      "id": "5b9a18d08743",
-      "title": "US Forest Service cuts research positions at local lab",
-      "summary": "The U.S. Forest Service announced national reorganization plans Thursday, cutting its research and development headquarters at a University of Vermont laboratory.\nRead the story on VTDigger here:  US Forest Service cuts research positions at local lab.",
-      "url": "https://vtdigger.org/2026/04/03/us-forest-service-cuts-research-positions-at-local-lab/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-03",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     }
   ],
