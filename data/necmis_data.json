@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-09T11:42:14.636382Z",
+  "generated": "2026-04-10T11:37:49.865438Z",
   "summary": {
-    "total_opportunities": 27,
+    "total_opportunities": 28,
     "total_value_low": 189279452,
     "total_value_high": 189279452,
     "by_state": {
       "VT": 3,
       "NH": 2,
       "ME": 3,
-      "MA": 22,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 7,
-      "funding": 0
+      "news": 4,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -543,55 +543,13 @@
   ],
   "news": [
     {
-      "id": "617b714cded2",
-      "title": "Vital to invest in Lincoln County infrastructure\u00a0| Opinion",
-      "summary": "Several key projects are included in the Maine Department of Transportation's recently released three-year work plan.",
-      "url": "https://www.pressherald.com/2026/04/09/the-importance-of-investing-in-lincoln-countys-essential-infrastructure-opinion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-09",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1168df3835ca",
-      "title": "Westfield School Committee voices formal opposition to reentry facility",
-      "summary": "At the end of the April 6 regular meeting of the Westfield School Committee, member Kick Sullivan made a motion for formal opposition to the establishment of a 40-bed reentry facility by the Community Resources for Justice CRJ at the proposed location of 182-184 Southampton Road.",
-      "url": "https://www.masslive.com/westfieldnews/2026/04/westfield-school-committee-voices-formal-opposition-to-reentry-facility.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-04-09",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bb0ab1ef0b43",
-      "title": "Past clearing of property at 159 Berkshire Ave. to be scrutinized",
-      "summary": "When the Southwick Planning Board approved the minor modification of a stormwater permit for the property at 159 Berkshire Ave., the board chair hoped the years-long dispute between the town and property owner was over. \nIt\u2019s not.",
-      "url": "https://www.masslive.com/westfieldnews/2026/04/past-clearing-of-property-at-159-berkshire-ave-to-be-scrutinized.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-04-09",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "612c7400025c",
-      "title": "Fix for gray area in Maine\u2019s modular housing industry dies, leaving uncertainty",
-      "summary": "A bill to fix an \u2018arcane\u2019 code issue in modular housing development failed in committee last month, putting nearly 250 units in limbo.",
-      "url": "https://www.bangordailynews.com/2026/04/08/business/business-housing/fix-for-gray-area-in-maines-modular-housing-industry-dies-leaving-uncertainty/",
+      "id": "5e5defbe39d4",
+      "title": "Maine needs a broader conversation about vaccination",
+      "summary": "\u201cIn a state like ours, vaccines are not only important for protecting children from preventable illness, but also for protecting adults and older adults from infections that can erode health, independence and well-being.\u201d",
+      "url": "https://www.bangordailynews.com/2026/04/10/opinion/opinion-contributor/maine-needs-broader-conversation-vaccination-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-04-08",
+      "date": "2026-04-10",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -599,13 +557,13 @@
       ]
     },
     {
-      "id": "a1249438dfc7",
-      "title": "Once billed as the future of Town Meeting, the \u2018Brattleboro Experiment\u2019 is ending",
-      "summary": "The state\u2019s only municipality to elect members to the equivalent of a local legislature is retiring the tradition after 65 years. What comes next is sparking its own debate.\nRead the story on VTDigger here:  Once billed as the future of Town Meeting, the \u2018Brattleboro Experiment\u2019 is ending.",
-      "url": "https://vtdigger.org/2026/04/07/once-billed-as-the-future-of-town-meeting-the-brattleboro-experiment-is-ending/",
+      "id": "89bf9b5afb32",
+      "title": "State denies permit for road to Essex site that Amazon has eyed",
+      "summary": "The Act 250 application did not include development on the part of the site where Amazon sought to build. But lack of an access road would be a second setback for the company\u2019s plans. \nRead the story on VTDigger here:  State denies permit for road to Essex site that Amazon has eyed.",
+      "url": "https://vtdigger.org/2026/04/09/state-denies-permit-for-road-to-essex-site-that-amazon-has-eyed/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-04-07",
+      "date": "2026-04-09",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -613,15 +571,29 @@
       ]
     },
     {
-      "id": "6da0d4bc58c4",
-      "title": "Vermont won permission to use Medicaid funds for homelessness. It\u2019s sitting unused.",
-      "summary": "\u201cThe idea of letting this opportunity go to waste when it is there right now is unconscionable, in my opinion,\u201d said Jessica Radbord, a senior staff attorney at the American Civil Liberties Union of Vermont.\nRead the story on VTDigger here:  Vermont won permission to use Medicaid funds for homeless",
-      "url": "https://vtdigger.org/2026/04/07/vermont-won-permission-to-use-medicaid-funds-for-homelessness-its-sitting-unused/",
+      "id": "1aefd5fc6f38",
+      "title": "State board recommends $10M in flood grants to Montpelier and Plainfield; Barre applications rejected",
+      "summary": "Country Club Road\u2019s infrastructure and Plainfield\u2019s 20-unit housing project could each get a major funding boost.\nRead the story on VTDigger here:  State board recommends $10M in flood grants to Montpelier and Plainfield; Barre applications rejected.",
+      "url": "https://vtdigger.org/2026/04/09/state-board-recommends-10m-in-flood-grants-to-montpelier-and-plainfield-barre-applications-rejected/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-04-07",
-      "category": "news",
+      "date": "2026-04-09",
+      "category": "funding",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a3f77b8c231e",
+      "title": "Penquis to celebrate construction progress on 40-unit affordable housing development for older adults in Bangor",
+      "summary": "BANGOR \u2014 Penquis will host a construction celebration on April 17 at Milford Place, a new 40-unit affordable housing development for older adults in Bangor. The event will bring together community partners, elected officials and project stakeholders to recognize progress underway and the shared inve",
+      "url": "https://www.bangordailynews.com/2026/04/09/bdn-maine/penquis-to-celebrate-construction-progress-on-40-unit-affordable-housing-development-for-older-adults-in-bangor/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-09",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
