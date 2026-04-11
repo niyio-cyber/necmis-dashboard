@@ -1,22 +1,22 @@
 {
-  "generated": "2026-04-10T11:37:49.865438Z",
+  "generated": "2026-04-11T11:20:09.429670Z",
   "summary": {
-    "total_opportunities": 28,
-    "total_value_low": 189279452,
-    "total_value_high": 189279452,
+    "total_opportunities": 30,
+    "total_value_low": 192221167,
+    "total_value_high": 192221167,
     "by_state": {
-      "VT": 3,
+      "VT": 5,
       "NH": 2,
       "ME": 3,
-      "MA": 20,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 27,
-      "news": 4,
+      "dot_letting": 29,
+      "news": 6,
       "funding": 1
     }
   },
@@ -291,6 +291,25 @@
       ]
     },
     {
+      "id": "945b2cd4a64a",
+      "state": "MA",
+      "project_id": "614022",
+      "description": "Facilities Repair at Various Locations on I-90 (Western Turnpike)",
+      "cost_low": 75000,
+      "cost_high": 75000,
+      "cost_display": "$75K",
+      "ad_date": "2026-04-11",
+      "let_date": null,
+      "project_type": "DCAMM-General Building Construction",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614022",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "809a94ed8c2e",
       "state": "MA",
       "project_id": "613383",
@@ -386,6 +405,25 @@
       "business_lines": [
         "highway",
         "hma"
+      ]
+    },
+    {
+      "id": "bec6b71e531e",
+      "state": "MA",
+      "project_id": "614176",
+      "description": "Bridge Preservation, including Cleaning and Painting of F-08-024 (1VC & 1VD), I-495 (NB & SB) over Summer Street",
+      "cost_low": 2866715,
+      "cost_high": 2866715,
+      "cost_display": "$2.9M",
+      "ad_date": "2026-04-11",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Franklin",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614176",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -543,11 +581,53 @@
   ],
   "news": [
     {
-      "id": "5e5defbe39d4",
-      "title": "Maine needs a broader conversation about vaccination",
-      "summary": "\u201cIn a state like ours, vaccines are not only important for protecting children from preventable illness, but also for protecting adults and older adults from infections that can erode health, independence and well-being.\u201d",
-      "url": "https://www.bangordailynews.com/2026/04/10/opinion/opinion-contributor/maine-needs-broader-conversation-vaccination-joam40zk0w/",
+      "id": "84068da428da",
+      "title": "Concert for a cause: Global ensemble\u2019s debut concert to pave the way for more",
+      "summary": "Following a successful debut show, a local band of global musicians unveil plans to build bridges with their music in Vermont and beyond.\nRead the story on VTDigger here:  Concert for a cause: Global ensemble\u2019s debut concert to pave the way for more.",
+      "url": "https://vtdigger.org/2026/04/11/concert-for-a-cause-global-ensembles-debut-concert-to-pave-the-way-for-more/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-04-11",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a22150b459b3",
+      "title": "Maine has a school construction plan. It lacks a way to pay for it.",
+      "summary": "\u201cMaine now has what it has not had in decades: a comprehensive, statewide assessment of its school infrastructure crisis.\u201d",
+      "url": "https://www.bangordailynews.com/2026/04/11/opinion/opinion-contributor/maine-has-school-construction-plan-lacks-way-to-pay-for-it-joam40zk0w/",
       "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-11",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "06267bf02c86",
+      "title": "Reducing road salt could improve water quality and reduce rust. But what about slip-and-falls?",
+      "summary": "Also in Final Reading: A worst case scenario and a looming deadline.\nRead the story on VTDigger here:  Reducing road salt could improve water quality and reduce rust. But what about slip-and-falls?.",
+      "url": "https://vtdigger.org/2026/04/10/reducing-road-salt-could-improve-water-quality-and-reduce-rust-but-what-about-slip-and-falls/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-04-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "13c12698d775",
+      "title": "Broadway Bowl in South Portland to close after less than 3 years",
+      "summary": "The South Portland bowling alley, run by the same owners as Bayside Bowl in Portland, opened in November 2023.",
+      "url": "https://www.pressherald.com/2026/04/10/broadway-bowl-in-south-portland-to-close-after-less-than-3-years/",
+      "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-04-10",
       "category": "news",
@@ -580,20 +660,6 @@
       "date": "2026-04-09",
       "category": "funding",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a3f77b8c231e",
-      "title": "Penquis to celebrate construction progress on 40-unit affordable housing development for older adults in Bangor",
-      "summary": "BANGOR \u2014 Penquis will host a construction celebration on April 17 at Milford Place, a new 40-unit affordable housing development for older adults in Bangor. The event will bring together community partners, elected officials and project stakeholders to recognize progress underway and the shared inve",
-      "url": "https://www.bangordailynews.com/2026/04/09/bdn-maine/penquis-to-celebrate-construction-progress-on-40-unit-affordable-housing-development-for-older-adults-in-bangor/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-09",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
