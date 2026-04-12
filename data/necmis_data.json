@@ -1,13 +1,13 @@
 {
-  "generated": "2026-04-11T11:20:09.429670Z",
+  "generated": "2026-04-12T11:24:18.045178Z",
   "summary": {
     "total_opportunities": 30,
     "total_value_low": 192221167,
     "total_value_high": 192221167,
     "by_state": {
       "VT": 5,
-      "NH": 2,
-      "ME": 3,
+      "NH": 3,
+      "ME": 5,
       "MA": 22,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 6,
+      "news": 9,
       "funding": 1
     }
   },
@@ -581,6 +581,62 @@
   ],
   "news": [
     {
+      "id": "e1bb3a30826a",
+      "title": "Development in South Portland\u2019s Eastern Waterfront should go ahead | Opinion",
+      "summary": "Concerns about VOC emissions from petroleum storage tanks seem to go against the existing evidence.",
+      "url": "https://www.pressherald.com/2026/04/12/development-in-south-portlands-eastern-waterfront-should-go-ahead-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-12",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "876e4f4a870b",
+      "title": "Why some officials are worried about Maine\u2019s drinking water infrastructure",
+      "summary": "Many of the state's water mains are nearing the end of their lives, but it can be difficult to predict where or when the next one will fail.",
+      "url": "https://www.pressherald.com/2026/04/12/why-some-officials-are-worried-about-maines-drinking-water-infrastructure/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-12",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e996279b3164",
+      "title": "Inland Hospital closed a year ago. Waterville\u2019s wounds are still fresh",
+      "summary": "'There is a hospital 20 miles down the road,' the president of the Mid-Maine Homeless Shelter said, 'and it might as well be in Portland.'",
+      "url": "https://www.pressherald.com/2026/04/12/inland-hospital-closed-a-year-ago-watervilles-wounds-are-still-fresh/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-12",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8489a48d7f47",
+      "title": "Search Paused For Person Who Fell from Railroad Track Bridge Into Merrimack River",
+      "summary": "At 7:08 p.m. Saturday, April 11, 2026, the State Police Communications Unit received a report that an individual fell into the Merrimack River from the railroad track bridge in the area of Riverside Street and Main Street in Hooksett.",
+      "url": "https://indepthnh.org/2026/04/11/search-paused-for-person-who-fell-from-railroad-track-bridge-into-merrimack-river/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-04-12",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "84068da428da",
       "title": "Concert for a cause: Global ensemble\u2019s debut concert to pave the way for more",
       "summary": "Following a successful debut show, a local band of global musicians unveil plans to build bridges with their music in Vermont and beyond.\nRead the story on VTDigger here:  Concert for a cause: Global ensemble\u2019s debut concert to pave the way for more.",
@@ -615,20 +671,6 @@
       "url": "https://vtdigger.org/2026/04/10/reducing-road-salt-could-improve-water-quality-and-reduce-rust-but-what-about-slip-and-falls/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-04-10",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "13c12698d775",
-      "title": "Broadway Bowl in South Portland to close after less than 3 years",
-      "summary": "The South Portland bowling alley, run by the same owners as Bayside Bowl in Portland, opened in November 2023.",
-      "url": "https://www.pressherald.com/2026/04/10/broadway-bowl-in-south-portland-to-close-after-less-than-3-years/",
-      "source": "Portland Press Herald",
-      "state": "ME",
       "date": "2026-04-10",
       "category": "news",
       "priority": "medium",
