@@ -1,123 +1,26 @@
 {
-  "generated": "2026-04-14T11:46:42.478221Z",
+  "generated": "2026-04-15T11:44:16.733964Z",
   "summary": {
-    "total_opportunities": 30,
-    "total_value_low": 192221167,
-    "total_value_high": 192221167,
+    "total_opportunities": 26,
+    "total_value_low": 126149116,
+    "total_value_high": 126149116,
     "by_state": {
-      "VT": 5,
-      "NH": 4,
-      "ME": 5,
-      "MA": 23,
+      "VT": 3,
+      "NH": 5,
+      "ME": 6,
+      "MA": 17,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 29,
-      "news": 11,
-      "funding": 1
+      "dot_letting": 24,
+      "news": 9,
+      "funding": 2
     }
   },
   "dot_lettings": [
-    {
-      "id": "b1093f48b13c",
-      "state": "MA",
-      "project_id": "616297",
-      "description": "Sidewalk Repairs and Improvements at Various Locations",
-      "cost_low": 969093,
-      "cost_high": 969093,
-      "cost_display": "$969K",
-      "ad_date": "2026-03-21",
-      "let_date": null,
-      "project_type": "Highway - Construction , Highway - Sidewalk And Curbing",
-      "location": "District 2",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616297",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1c39e630ce50",
-      "state": "MA",
-      "project_id": "614262",
-      "description": "Resurfacing and Related Work at Various Locations (Municipal Roadways)",
-      "cost_low": 4870027,
-      "cost_high": 4870027,
-      "cost_display": "$4.9M",
-      "ad_date": "2026-03-07",
-      "let_date": null,
-      "project_type": "Pavement - Surfacing",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614262",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "2747d0860d68",
-      "state": "MA",
-      "project_id": "611982",
-      "description": "Shared Use Path Connection at the Route 28/Wellington Underpass",
-      "cost_low": 6943138,
-      "cost_high": 6943138,
-      "cost_display": "$6.9M",
-      "ad_date": "2026-03-07",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Medford",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611982",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9b61afa375c7",
-      "state": "MA",
-      "project_id": "614089",
-      "description": "Bridge Painting and Preservation, S-16-009, Brayton Point Road over I-195",
-      "cost_low": 1985823,
-      "cost_high": 1985823,
-      "cost_display": "$2.0M",
-      "ad_date": "2026-03-07",
-      "let_date": null,
-      "project_type": "Painting - Structural",
-      "location": "Somerset",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614089",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6abbbc16961e",
-      "state": "MA",
-      "project_id": "609409",
-      "description": "Bridge Replacement, S-24-016, Armory Street over CSX Mainline & S-24-026, Armory Street over Abandoned CSX",
-      "cost_low": 51303970,
-      "cost_high": 51303970,
-      "cost_display": "$51.3M",
-      "ad_date": "2025-12-20",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Springfield",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609409",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
     {
       "id": "4f1660f81309",
       "state": "MA",
@@ -581,13 +484,13 @@
   ],
   "news": [
     {
-      "id": "b4cc258a4bdf",
-      "title": "How tariffs are driving up the cost of a 45-unit housing development in Maine",
-      "summary": "The Freeport project will likely cost more than an identical one under construction roughly 20 miles away.",
-      "url": "https://www.bangordailynews.com/2026/04/14/business/business-housing/tariffs-freeport-housing-development-cost-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "1cbad8fb7626",
+      "title": "A lobster turf war is brewing in coastal Maine",
+      "summary": "A battle between a local co-op and a seafood conglomerate in Spruce Head has escalated from permit disputes to a floating blockade, testing the limits of the working waterfront.",
+      "url": "https://www.pressherald.com/2026/04/15/a-lobster-turf-war-is-brewing-in-coastal-maine/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-14",
+      "date": "2026-04-15",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -595,13 +498,13 @@
       ]
     },
     {
-      "id": "95e106493c34",
-      "title": "Bangor City Council passes ban on data centers",
-      "summary": "The freeze was proposed because city officials don\u2019t know how a data center would affect the city\u2019s infrastructure or resources.",
-      "url": "https://www.bangordailynews.com/2026/04/13/bangor/bangor-government/bangor-city-council-bans-data-centers/",
-      "source": "Bangor Daily News",
+      "id": "299648a9c25d",
+      "title": "Obituary: Gladys M. Beaulieu",
+      "summary": "BIDDEFORD - Gladys Beaulieu passed away peacefully on April 7, 2026, after 96 well-lived years.\n\nGladys was born on Nov. 19, 1929, ...",
+      "url": "https://www.pressherald.com/2026/04/15/obituarygladys-m-beaulieu-2/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-14",
+      "date": "2026-04-15",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -609,26 +512,54 @@
       ]
     },
     {
-      "id": "b0d32a0e3f4f",
-      "title": "Caribou has a full-time code enforcement officer for first time in a year and a half",
-      "summary": "Tim St. Peter was most recently the deputy director of economic development in Presque Isle.",
-      "url": "https://www.bangordailynews.com/2026/04/13/aroostook/aroostook-government/caribou-hires-code-enforcement-officer/",
+      "id": "bad5a4dec6a4",
+      "title": "Death Notice: Gladys M. Beaulieu",
+      "summary": "Beaulieu, Gladys M. 96, of Biddeford, April 7. ...",
+      "url": "https://www.pressherald.com/2026/04/15/obituarygladys-m-beaulieu/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "db24bc911926",
+      "title": "A mile of Acadia\u2019s Park Loop Road will be closed until mid-June",
+      "summary": "The entire road \u2014 including the closed section near Sieur de Monts \u2014 is expected to be open for Memorial Day weekend.",
+      "url": "https://www.bangordailynews.com/2026/04/14/hancock/hancock-culture/acadia-park-loop-road-closure/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-04-14",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "ready_mix"
+        "highway"
       ]
     },
     {
-      "id": "e9c40a975961",
-      "title": "Westfield man sentenced to prison in connection with child\u2019s overdose",
-      "summary": "A Westfield man who was indicted by Superior Court grand jury in December of 2023 for three counts of permitting serious injury to a child and three counts of reckless endangerment of a child, pleaded guilty to the two serious injury charges and was sentenced to no less than three years in prison, a",
-      "url": "https://www.masslive.com/westfieldnews/2026/04/westfield-man-sentenced-to-prison-in-connection-with-toddlers-overdose.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "218dc123c054",
+      "title": "Maine\u2019s highest court \u2018gravely concerned\u2019 about proposed\u00a0federal ethics investigation rule",
+      "summary": "The rule would allow the DOJ to investigate ethics allegations against its own lawyers, without any transparency and while delaying state bar investigations.",
+      "url": "https://www.bangordailynews.com/2026/04/14/state/state-police-courts/maine-supreme-court-federal-ethics-investigation-concern/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-14",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "0371e3543d95",
+      "title": "AG Investigates Woman\u2019s Death as Suspected Homicide",
+      "summary": "Officers of the Laconia Police Department were called to a home on Old Prescott Hill Road this afternoon in Laconia, New Hampshire, where they discovered an adult female resident deceased inside the home.",
+      "url": "https://indepthnh.org/2026/04/14/ag-investigates-womans-death-as-suspected-homicide/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-04-14",
       "category": "news",
       "priority": "medium",
@@ -660,20 +591,6 @@
       "date": "2026-04-13",
       "category": "funding",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8592c86d1b22",
-      "title": "Railroad employee was fired\u00a0after being injured in fiery Maine derailment, lawsuit says",
-      "summary": "Adam Jensen, a freight conductor who inspected the train and connected cars, is suing Central Maine & Quebec Railway US Inc.",
-      "url": "https://www.bangordailynews.com/2026/04/13/bangor/bangor-police-courts/railroad-derailment-injury-lawsuit/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-13",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -716,34 +633,6 @@
       "date": "2026-04-12",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "84068da428da",
-      "title": "Concert for a cause: Global ensemble\u2019s debut concert to pave the way for more",
-      "summary": "Following a successful debut show, a local band of global musicians unveil plans to build bridges with their music in Vermont and beyond.\nRead the story on VTDigger here:  Concert for a cause: Global ensemble\u2019s debut concert to pave the way for more.",
-      "url": "https://vtdigger.org/2026/04/11/concert-for-a-cause-global-ensembles-debut-concert-to-pave-the-way-for-more/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-11",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "06267bf02c86",
-      "title": "Reducing road salt could improve water quality and reduce rust. But what about slip-and-falls?",
-      "summary": "Also in Final Reading: A worst case scenario and a looming deadline.\nRead the story on VTDigger here:  Reducing road salt could improve water quality and reduce rust. But what about slip-and-falls?.",
-      "url": "https://vtdigger.org/2026/04/10/reducing-road-salt-could-improve-water-quality-and-reduce-rust-but-what-about-slip-and-falls/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-10",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
