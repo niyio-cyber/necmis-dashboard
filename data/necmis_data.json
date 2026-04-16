@@ -1,13 +1,13 @@
 {
-  "generated": "2026-04-15T11:44:16.733964Z",
+  "generated": "2026-04-16T11:47:31.253063Z",
   "summary": {
     "total_opportunities": 26,
     "total_value_low": 126149116,
     "total_value_high": 126149116,
     "by_state": {
-      "VT": 3,
+      "VT": 1,
       "NH": 5,
-      "ME": 6,
+      "ME": 5,
       "MA": 17,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 24,
-      "news": 9,
+      "news": 6,
       "funding": 2
     }
   },
@@ -93,44 +93,6 @@
       "location": "Harwich",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610670",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0739b2088d23",
-      "state": "MA",
-      "project_id": "613404",
-      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.5 ELECTRICAL WORK",
-      "cost_low": 77100,
-      "cost_high": 77100,
-      "cost_display": "$77K",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Northampton",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0739b2088d23",
-      "state": "MA",
-      "project_id": "613404",
-      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.6 PLUMBING WORK",
-      "cost_low": 108450,
-      "cost_high": 108450,
-      "cost_display": "$108K",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Northampton",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -233,25 +195,6 @@
       ]
     },
     {
-      "id": "0739b2088d23",
-      "state": "MA",
-      "project_id": "613404",
-      "description": "HVAC Repairs to District Administration Building at 811 North King Street",
-      "cost_low": 1464080,
-      "cost_high": 1464080,
-      "cost_display": "$1.5M",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "DCAMM-HVAC",
-      "location": "Northampton",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "92da8d6bf34f",
       "state": "MA",
       "project_id": "610647",
@@ -324,6 +267,63 @@
       "location": "Franklin",
       "district": 3,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614176",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0739b2088d23",
+      "state": "MA",
+      "project_id": "613404",
+      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.5 ELECTRICAL WORK",
+      "cost_low": 77100,
+      "cost_high": 77100,
+      "cost_display": "$77K",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0739b2088d23",
+      "state": "MA",
+      "project_id": "613404",
+      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.6 PLUMBING WORK",
+      "cost_low": 108450,
+      "cost_high": 108450,
+      "cost_display": "$108K",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0739b2088d23",
+      "state": "MA",
+      "project_id": "613404",
+      "description": "HVAC Repairs to District Administration Building at 811 North King Street",
+      "cost_low": 1464080,
+      "cost_high": 1464080,
+      "cost_display": "$1.5M",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "DCAMM-HVAC",
+      "location": "Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -484,73 +484,73 @@
   ],
   "news": [
     {
-      "id": "1cbad8fb7626",
-      "title": "A lobster turf war is brewing in coastal Maine",
-      "summary": "A battle between a local co-op and a seafood conglomerate in Spruce Head has escalated from permit disputes to a floating blockade, testing the limits of the working waterfront.",
-      "url": "https://www.pressherald.com/2026/04/15/a-lobster-turf-war-is-brewing-in-coastal-maine/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "299648a9c25d",
-      "title": "Obituary: Gladys M. Beaulieu",
-      "summary": "BIDDEFORD - Gladys Beaulieu passed away peacefully on April 7, 2026, after 96 well-lived years.\n\nGladys was born on Nov. 19, 1929, ...",
-      "url": "https://www.pressherald.com/2026/04/15/obituarygladys-m-beaulieu-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-15",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bad5a4dec6a4",
-      "title": "Death Notice: Gladys M. Beaulieu",
-      "summary": "Beaulieu, Gladys M. 96, of Biddeford, April 7. ...",
-      "url": "https://www.pressherald.com/2026/04/15/obituarygladys-m-beaulieu/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-15",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "db24bc911926",
-      "title": "A mile of Acadia\u2019s Park Loop Road will be closed until mid-June",
-      "summary": "The entire road \u2014 including the closed section near Sieur de Monts \u2014 is expected to be open for Memorial Day weekend.",
-      "url": "https://www.bangordailynews.com/2026/04/14/hancock/hancock-culture/acadia-park-loop-road-closure/",
+      "id": "4ba2adfc9d37",
+      "title": "Plans to revive Bucksport\u00a0railroad delayed by complaints about the operator",
+      "summary": "A retired rail journalist suggested TransloadX is seeking the Maine lease to become classified as a railroad, changing oversight to the federal level and letting it duck regulations in Massachusetts.",
+      "url": "https://www.bangordailynews.com/2026/04/16/hancock/hancock-government/bucksport-railroad-lease-complaints-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-04-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "218dc123c054",
-      "title": "Maine\u2019s highest court \u2018gravely concerned\u2019 about proposed\u00a0federal ethics investigation rule",
-      "summary": "The rule would allow the DOJ to investigate ethics allegations against its own lawyers, without any transparency and while delaying state bar investigations.",
-      "url": "https://www.bangordailynews.com/2026/04/14/state/state-police-courts/maine-supreme-court-federal-ethics-investigation-concern/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-14",
+      "date": "2026-04-16",
       "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "277cb8eca5af",
+      "title": "What does the future hold for Biddeford public access television?",
+      "summary": "After the longtime director retired, the city is considering its options, which include investing in the channel, tightening its scope \u2014 or shutting it down completely.",
+      "url": "https://www.pressherald.com/2026/04/15/what-does-the-future-hold-for-biddeford-public-access-television/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "32400f04a5cb",
+      "title": "Roundabout coming to Cumberland intersection in 2028",
+      "summary": "The intersection of Blackstrap Road, Skillin Road and Route 26 currently has a blinking light and is considered a high-crash site.",
+      "url": "https://www.pressherald.com/2026/04/15/roundabout-coming-to-cumberland-intersection-in-2028/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-15",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
-        "aggregates"
+        "highway"
+      ]
+    },
+    {
+      "id": "5473a6d5c7e9",
+      "title": "Janet Mills holds low-key town hall at Bowdoin College as questions surround Senate\u00a0bid",
+      "summary": "Mills used the event to make the case that she's still Democrats' best chance to defeat Republican Sen. Susan Collins in November.",
+      "url": "https://www.bangordailynews.com/2026/04/15/politics/elections/janet-mills-town-hall-bowdoin-college/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "226bd115f66a",
+      "title": "Ayotte on Campus Carry Bill: \u2018Public Safety Is Paramount\u2019",
+      "summary": "Republican Gov. Kelly Ayotte weighed in with members of the media on the subjects of campus carry and open enrollment \u2013 along with commenting on nuclear power and broad-based taxes \u2013 on Wednesday after a long Executive Council meeting.",
+      "url": "https://indepthnh.org/2026/04/15/ayotte-on-campus-carry-bill-public-safety-is-paramount/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-04-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -561,20 +561,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-04-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0e3899e62d49",
-      "title": "Big crowd at Brattleboro\u2019s return to open Town Meeting backs \u2018compromise\u2019 budget",
-      "summary": "Nearly 300 residents \u2014 twice the attendance of past sessions with elected members \u2014 aimed to balance spiraling municipal costs and people\u2019s shrinking ability to pay.\nRead the story on VTDigger here:  Big crowd at Brattleboro\u2019s return to open Town Meeting backs \u2018compromise\u2019 budget.",
-      "url": "https://vtdigger.org/2026/04/13/big-crowd-at-brattleboros-return-to-open-town-meeting-backs-compromise-budget/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-13",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -596,20 +582,6 @@
       ]
     },
     {
-      "id": "7beb3cd4a1bd",
-      "title": "Anatomy of a forest project",
-      "summary": "A Dummerston harvest reveals how science, markets, and long experience shape what neighbors see on Black Mountain Road.\nRead the story on VTDigger here:  Anatomy of a forest project.",
-      "url": "https://vtdigger.org/2026/04/12/anatomy-of-a-forest-project/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "b4237a3907a7",
       "title": "Steeplegate Mall redevelopment in Concord 'has returned,' city manager says",
       "summary": "The redevelopment of the Steeplegate Mall in Concord is still in the works after multiple lawsuits stalled the massive project, according to city officials.",
@@ -619,20 +591,6 @@
       "date": "2026-04-12",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8489a48d7f47",
-      "title": "Update: Man\u2019s Body Recovered from Merrimack River After Fall From Railroad Track Bridge",
-      "summary": "At 7:08 p.m. Saturday, April 11, 2026, the State Police Communications Unit received a report that an individual fell into the Merrimack River from the railroad track bridge in the area of Riverside Street and Main Street in Hooksett.",
-      "url": "https://indepthnh.org/2026/04/11/search-paused-for-person-who-fell-from-railroad-track-bridge-into-merrimack-river/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-04-12",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
