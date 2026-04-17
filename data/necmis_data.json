@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-16T11:47:31.253063Z",
+  "generated": "2026-04-17T11:40:25.612706Z",
   "summary": {
     "total_opportunities": 26,
     "total_value_low": 126149116,
@@ -8,7 +8,7 @@
       "VT": 1,
       "NH": 5,
       "ME": 5,
-      "MA": 17,
+      "MA": 18,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 24,
-      "news": 6,
+      "news": 7,
       "funding": 2
     }
   },
@@ -484,27 +484,27 @@
   ],
   "news": [
     {
-      "id": "4ba2adfc9d37",
-      "title": "Plans to revive Bucksport\u00a0railroad delayed by complaints about the operator",
-      "summary": "A retired rail journalist suggested TransloadX is seeking the Maine lease to become classified as a railroad, changing oversight to the federal level and letting it duck regulations in Massachusetts.",
-      "url": "https://www.bangordailynews.com/2026/04/16/hancock/hancock-government/bucksport-railroad-lease-complaints-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "ca2f8d41b5a5",
+      "title": "From cellphone bans to the funding formula, major education changes became law",
+      "summary": "The Legislature passed consequential reforms, including some long-fought changes to school construction funding and making free community college permanent.",
+      "url": "https://www.pressherald.com/2026/04/17/from-cellphone-bans-to-the-funding-formula-major-education-changes-became-law/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "category": "funding",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "277cb8eca5af",
-      "title": "What does the future hold for Biddeford public access television?",
-      "summary": "After the longtime director retired, the city is considering its options, which include investing in the channel, tightening its scope \u2014 or shutting it down completely.",
-      "url": "https://www.pressherald.com/2026/04/15/what-does-the-future-hold-for-biddeford-public-access-television/",
+      "id": "c74cb86ba083",
+      "title": "Obituary: Wilbert \u201cBill\u201d Woodward",
+      "summary": "BIDDEFORD POOL - Wilbert \u201cBill\u201d Woodward passed away peacefully on April 15, 2026 from natural causes.\n\nBill was predeceased by his beloved ...",
+      "url": "https://www.pressherald.com/2026/04/17/obituarywilbert-bill-woodward-2/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-15",
+      "date": "2026-04-17",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -512,13 +512,41 @@
       ]
     },
     {
-      "id": "32400f04a5cb",
-      "title": "Roundabout coming to Cumberland intersection in 2028",
-      "summary": "The intersection of Blackstrap Road, Skillin Road and Route 26 currently has a blinking light and is considered a high-crash site.",
-      "url": "https://www.pressherald.com/2026/04/15/roundabout-coming-to-cumberland-intersection-in-2028/",
+      "id": "2ab4c4fdda24",
+      "title": "Death Notice: Wilbert \u201cBill\u201d Woodward",
+      "summary": "Woodward, Wilbert \u201cBill\u201d 83, of Biddeford Pool, April 15. Service 12 p.m., April 23, Southern Maine Veterans Cemetery, Springvale. ...",
+      "url": "https://www.pressherald.com/2026/04/17/obituarywilbert-bill-woodward/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-15",
+      "date": "2026-04-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d5902873daa1",
+      "title": "Rabid cat spotted in Western Mass. prompts warning",
+      "summary": "\u201cDo not approach. Do not attempt to capture,\u201d animal control warned.",
+      "url": "https://www.masslive.com/westernmass/2026/04/rabid-cat-spotted-in-western-mass-prompts-warning.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2e77ce8e8fff",
+      "title": "Mixed-use plans move forward for old Cigna building in Hooksett",
+      "summary": "Plans to transform the former Cigna Healthcare property on College Park Drive in Hooksett into a mixed-use development received key approvals by the Planning Board this month, and the look and feel of the project by Brady Sullivan Properties is\u2026",
+      "url": "https://www.unionleader.com/news/local/hooksett/mixed-use-plans-move-forward-for-old-cigna-building-in-hooksett/article_68f0a223-7a98-4016-b4c4-4467a2d7db67.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-04-16",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -526,13 +554,13 @@
       ]
     },
     {
-      "id": "5473a6d5c7e9",
-      "title": "Janet Mills holds low-key town hall at Bowdoin College as questions surround Senate\u00a0bid",
-      "summary": "Mills used the event to make the case that she's still Democrats' best chance to defeat Republican Sen. Susan Collins in November.",
-      "url": "https://www.bangordailynews.com/2026/04/15/politics/elections/janet-mills-town-hall-bowdoin-college/",
+      "id": "b8d6123420a5",
+      "title": "Jared Golden and Republicans\u00a0kill latest bid to rein in Donald Trump\u2019s Iran powers",
+      "summary": "The war powers resolution was defeated by 214 to 213 in the Republican-majority chamber, a day after a similar measure\u00a0 was blocked in the Senate.",
+      "url": "https://www.bangordailynews.com/2026/04/16/politics/washington/jared-golden-republicans-kill-bid-limit-trump-iran/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -547,20 +575,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-04-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0371e3543d95",
-      "title": "AG Investigates Woman\u2019s Death as Suspected Homicide",
-      "summary": "Officers of the Laconia Police Department were called to a home on Old Prescott Hill Road this afternoon in Laconia, New Hampshire, where they discovered an adult female resident deceased inside the home.",
-      "url": "https://indepthnh.org/2026/04/14/ag-investigates-womans-death-as-suspected-homicide/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-04-14",
       "category": "news",
       "priority": "medium",
       "business_lines": [
