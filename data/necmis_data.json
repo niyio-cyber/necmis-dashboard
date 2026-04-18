@@ -1,23 +1,23 @@
 {
-  "generated": "2026-04-17T11:40:25.612706Z",
+  "generated": "2026-04-18T11:24:47.074180Z",
   "summary": {
-    "total_opportunities": 26,
-    "total_value_low": 126149116,
-    "total_value_high": 126149116,
+    "total_opportunities": 27,
+    "total_value_low": 133277589,
+    "total_value_high": 133277589,
     "by_state": {
-      "VT": 1,
-      "NH": 5,
-      "ME": 5,
-      "MA": 18,
+      "VT": 2,
+      "NH": 4,
+      "ME": 2,
+      "MA": 21,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 24,
-      "news": 7,
-      "funding": 2
+      "dot_letting": 26,
+      "news": 6,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -231,6 +231,44 @@
       "business_lines": [
         "highway",
         "hma"
+      ]
+    },
+    {
+      "id": "db1c0da6c1e5",
+      "state": "MA",
+      "project_id": "614085",
+      "description": "Scheduled and Emergency Salt Storage Shed and Liquid Storage Tank Repairs at Various Locations",
+      "cost_low": 613600,
+      "cost_high": 613600,
+      "cost_display": "$614K",
+      "ad_date": "2026-04-18",
+      "let_date": null,
+      "project_type": "DCAMM-General Building Construction",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614085",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "344e3b14ad0f",
+      "state": "MA",
+      "project_id": "609440",
+      "description": "Intersection Improvements at Hancock Street and Chestnut Street",
+      "cost_low": 6514873,
+      "cost_high": 6514873,
+      "cost_display": "$6.5M",
+      "ad_date": "2026-04-18",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Abington",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609440",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -484,57 +522,57 @@
   ],
   "news": [
     {
-      "id": "ca2f8d41b5a5",
-      "title": "From cellphone bans to the funding formula, major education changes became law",
-      "summary": "The Legislature passed consequential reforms, including some long-fought changes to school construction funding and making free community college permanent.",
-      "url": "https://www.pressherald.com/2026/04/17/from-cellphone-bans-to-the-funding-formula-major-education-changes-became-law/",
-      "source": "Portland Press Herald",
+      "id": "99fe232ffbc7",
+      "title": "3-alarm fire damages Levant home, spreads to outbuilding",
+      "summary": "Firefighters from 13 departments battled the blaze, which damaged a house and outbuilding on Wing Road on Friday.",
+      "url": "https://www.bangordailynews.com/2026/04/18/bangor/bangor-police-courts/3-alarm-fire-levant-home/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-04-17",
-      "category": "funding",
+      "date": "2026-04-18",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "c74cb86ba083",
-      "title": "Obituary: Wilbert \u201cBill\u201d Woodward",
-      "summary": "BIDDEFORD POOL - Wilbert \u201cBill\u201d Woodward passed away peacefully on April 15, 2026 from natural causes.\n\nBill was predeceased by his beloved ...",
-      "url": "https://www.pressherald.com/2026/04/17/obituarywilbert-bill-woodward-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2ab4c4fdda24",
-      "title": "Death Notice: Wilbert \u201cBill\u201d Woodward",
-      "summary": "Woodward, Wilbert \u201cBill\u201d 83, of Biddeford Pool, April 15. Service 12 p.m., April 23, Southern Maine Veterans Cemetery, Springvale. ...",
-      "url": "https://www.pressherald.com/2026/04/17/obituarywilbert-bill-woodward/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d5902873daa1",
-      "title": "Rabid cat spotted in Western Mass. prompts warning",
-      "summary": "\u201cDo not approach. Do not attempt to capture,\u201d animal control warned.",
-      "url": "https://www.masslive.com/westernmass/2026/04/rabid-cat-spotted-in-western-mass-prompts-warning.html",
+      "id": "cb787eefa0bc",
+      "title": "Motorcyclist killed in crash involving truck on Route 10/202 in Southwick",
+      "summary": "A Westfield man who was riding a motorcycle was pronounced dead at the scene of a crash involving a flatbed truck at about 7 p.m., Tuesday on College Highway in Southwick, according to police.",
+      "url": "https://www.masslive.com/westfieldnews/2026/04/motorcyclist-killed-after-crash-involving-truck-on-route-10202-in-southwick.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "27a08068309d",
+      "title": "Springfield downtown has seen some improvements: What is next?",
+      "summary": "The Old First Church and Campanile are part of the discussion on expanding development around Court Square.",
+      "url": "https://www.masslive.com/westernmass/2026/04/springfield-downtown-has-seen-some-improvements-what-is-next.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "32d85a73715e",
+      "title": "Rural Vermont showed up. And Montpelier listened.",
+      "summary": "Gradually, and then suddenly, Vermonters revealed a new model in the push to repeal Act 181\u2019s road rule and Tier 3.\nRead the story on VTDigger here:  Rural Vermont showed up. And Montpelier listened..",
+      "url": "https://vtdigger.org/2026/04/17/opinion-rural-vermont-showed-up-and-montpelier-listened/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-04-17",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -547,34 +585,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-04-16",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b8d6123420a5",
-      "title": "Jared Golden and Republicans\u00a0kill latest bid to rein in Donald Trump\u2019s Iran powers",
-      "summary": "The war powers resolution was defeated by 214 to 213 in the Republican-majority chamber, a day after a similar measure\u00a0 was blocked in the Senate.",
-      "url": "https://www.bangordailynews.com/2026/04/16/politics/washington/jared-golden-republicans-kill-bid-limit-trump-iran/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-16",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "226bd115f66a",
-      "title": "Ayotte on Campus Carry Bill: \u2018Public Safety Is Paramount\u2019",
-      "summary": "Republican Gov. Kelly Ayotte weighed in with members of the media on the subjects of campus carry and open enrollment \u2013 along with commenting on nuclear power and broad-based taxes \u2013 on Wednesday after a long Executive Council meeting.",
-      "url": "https://indepthnh.org/2026/04/15/ayotte-on-campus-carry-bill-public-safety-is-paramount/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-04-15",
       "category": "news",
       "priority": "medium",
       "business_lines": [
