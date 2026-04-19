@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-18T11:24:47.074180Z",
+  "generated": "2026-04-19T11:25:17.352850Z",
   "summary": {
     "total_opportunities": 27,
     "total_value_low": 133277589,
@@ -522,13 +522,13 @@
   ],
   "news": [
     {
-      "id": "99fe232ffbc7",
-      "title": "3-alarm fire damages Levant home, spreads to outbuilding",
-      "summary": "Firefighters from 13 departments battled the blaze, which damaged a house and outbuilding on Wing Road on Friday.",
-      "url": "https://www.bangordailynews.com/2026/04/18/bangor/bangor-police-courts/3-alarm-fire-levant-home/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-18",
+      "id": "bde968cda1af",
+      "title": "As the state tries to streamline battery and solar permitting, some residents wary of projects",
+      "summary": "Solar and battery energy projects continue to surface across Western Massachusetts, where opponents in towns like Plainfield, Worthington and Blandford say they threaten rural landscapes.",
+      "url": "https://www.masslive.com/westernmass/2026/04/as-the-state-tries-to-streamline-battery-and-solar-permitting-some-residents-wary-of-projects.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-19",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -536,13 +536,13 @@
       ]
     },
     {
-      "id": "cb787eefa0bc",
-      "title": "Motorcyclist killed in crash involving truck on Route 10/202 in Southwick",
-      "summary": "A Westfield man who was riding a motorcycle was pronounced dead at the scene of a crash involving a flatbed truck at about 7 p.m., Tuesday on College Highway in Southwick, according to police.",
-      "url": "https://www.masslive.com/westfieldnews/2026/04/motorcyclist-killed-after-crash-involving-truck-on-route-10202-in-southwick.html",
+      "id": "815560f62a3d",
+      "title": "Karen Guregian: 2026 NFL Draft a key step in Patriots\u2019 bid to stay contenders",
+      "summary": "The Patriots stopped the bleeding with their run of poor drafts. It's even more important to keep the ball rolling.",
+      "url": "https://www.masslive.com/patriots/2026/04/2026-nfl-draft-a-key-step-in-patriots-bid-to-stay-contenders-karen-guregian.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -550,12 +550,12 @@
       ]
     },
     {
-      "id": "27a08068309d",
-      "title": "Springfield downtown has seen some improvements: What is next?",
-      "summary": "The Old First Church and Campanile are part of the discussion on expanding development around Court Square.",
-      "url": "https://www.masslive.com/westernmass/2026/04/springfield-downtown-has-seen-some-improvements-what-is-next.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "99fe232ffbc7",
+      "title": "3-alarm fire damages Levant home, spreads to outbuilding",
+      "summary": "Firefighters from 13 departments battled the blaze, which damaged a house and outbuilding on Wing Road on Friday.",
+      "url": "https://www.bangordailynews.com/2026/04/18/bangor/bangor-police-courts/3-alarm-fire-levant-home/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-04-18",
       "category": "news",
       "priority": "medium",
