@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-19T11:25:17.352850Z",
+  "generated": "2026-04-20T11:58:37.126892Z",
   "summary": {
-    "total_opportunities": 27,
+    "total_opportunities": 28,
     "total_value_low": 133277589,
     "total_value_high": 133277589,
     "by_state": {
       "VT": 2,
-      "NH": 4,
-      "ME": 2,
-      "MA": 21,
+      "NH": 5,
+      "ME": 4,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 6,
-      "funding": 1
+      "news": 7,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -522,12 +522,68 @@
   ],
   "news": [
     {
-      "id": "bde968cda1af",
-      "title": "As the state tries to streamline battery and solar permitting, some residents wary of projects",
-      "summary": "Solar and battery energy projects continue to surface across Western Massachusetts, where opponents in towns like Plainfield, Worthington and Blandford say they threaten rural landscapes.",
-      "url": "https://www.masslive.com/westernmass/2026/04/as-the-state-tries-to-streamline-battery-and-solar-permitting-some-residents-wary-of-projects.html",
+      "id": "4cfc2fa77248",
+      "title": "2012 photos capture Mumford & Sons performing at Portland\u2019s Eastern Prom",
+      "summary": "The Gentlemen of the Road Stopover featured a total of eight acts including St. Vincent and Dropkick Murphys.",
+      "url": "https://www.pressherald.com/2026/04/20/2012-photos-capture-mumford-sons-performing-at-portlands-eastern-prom/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "12f1651cbc33",
+      "title": "Main Street in Bangor will be reduced to one-lane traffic this week",
+      "summary": "Starting Monday, a storm drain project will start, which will require an area near the YMCA construction site to be closed to traffic.",
+      "url": "https://www.bangordailynews.com/2026/04/20/bangor/main-street-bangor-one-lane-traffic/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fd7679604dcc",
+      "title": "This mural-filled 1790 home used to be a Down East country club",
+      "summary": "Nestled on 3 acres off Jacksonville Road in East Machias, this 3-bedroom, 1-bathroom cape-style home\u00a0is for sale for $279,000.",
+      "url": "https://www.bangordailynews.com/2026/04/20/down-east/downeast-housing/1790-home-down-east-country-club-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-20",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "173300dc0a17",
+      "title": "Celtics reserves pass important test in blowout Game 1 76ers victory",
+      "summary": "The Celtics blew out the 76ers in Game 1, letting some of their reserves ease into what it's like to contribute in a playoff game.",
+      "url": "https://www.masslive.com/celtics/2026/04/celtics-reserves-pass-important-test-in-blowout-game-1-76ers-victory.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-04-20",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "63c8456df791",
+      "title": "Ridge RTC partners with Triple Construction on its New Hampshire campus expansion",
+      "summary": "Earlier this month, representatives from Ridge RTC, Altior Healthcare, and Merrimack-based Triple Construction gathered at 619 Governors Road in Milton for a formal groundbreaking ceremony on two additional dormitories for their fast-growing campus.",
+      "url": "https://www.unionleader.com/news/business/ridge-rtc-partners-with-triple-construction-on-its-new-hampshire-campus-expansion/article_c7ea1c77-7b7d-4265-a8fe-f0bbaf25d12a.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-04-19",
       "category": "news",
       "priority": "medium",
@@ -536,27 +592,13 @@
       ]
     },
     {
-      "id": "815560f62a3d",
-      "title": "Karen Guregian: 2026 NFL Draft a key step in Patriots\u2019 bid to stay contenders",
-      "summary": "The Patriots stopped the bleeding with their run of poor drafts. It's even more important to keep the ball rolling.",
-      "url": "https://www.masslive.com/patriots/2026/04/2026-nfl-draft-a-key-step-in-patriots-bid-to-stay-contenders-karen-guregian.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "cedf3ca48008",
+      "title": "EPTAC opens new corporate headquarters and training facility in Salem",
+      "summary": "EPTAC, a global leader in electronics manufacturing training and The Global Electronics Association\u2019s (GEA) IPC certification, will celebrate the relocation and expansion of its corporate headquarters and training facility at 7 Stiles Road, Suite 300, Salem, on Thursday, April 23,\u2026",
+      "url": "https://www.unionleader.com/news/business/eptac-opens-new-corporate-headquarters-and-training-facility-in-salem/article_fe0767ed-33d6-4f0b-ad95-1373e4537cc7.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-04-19",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "99fe232ffbc7",
-      "title": "3-alarm fire damages Levant home, spreads to outbuilding",
-      "summary": "Firefighters from 13 departments battled the blaze, which damaged a house and outbuilding on Wing Road on Friday.",
-      "url": "https://www.bangordailynews.com/2026/04/18/bangor/bangor-police-courts/3-alarm-fire-levant-home/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-18",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -601,20 +643,6 @@
       "date": "2026-04-13",
       "category": "funding",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b4237a3907a7",
-      "title": "Steeplegate Mall redevelopment in Concord 'has returned,' city manager says",
-      "summary": "The redevelopment of the Steeplegate Mall in Concord is still in the works after multiple lawsuits stalled the massive project, according to city officials.",
-      "url": "https://www.unionleader.com/news/business/steeplegate-mall-redevelopment-in-concord-has-returned-city-manager-says/article_a0a87d92-4668-45c0-8d73-18717793d9e1.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-04-12",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
