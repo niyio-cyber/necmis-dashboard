@@ -1,13 +1,13 @@
 {
-  "generated": "2026-04-21T11:50:47.528298Z",
+  "generated": "2026-04-22T11:48:50.662129Z",
   "summary": {
-    "total_opportunities": 27,
+    "total_opportunities": 26,
     "total_value_low": 133277589,
     "total_value_high": 133277589,
     "by_state": {
-      "VT": 3,
+      "VT": 2,
       "NH": 4,
-      "ME": 2,
+      "ME": 3,
       "MA": 20,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 6,
-      "funding": 1
+      "news": 7,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -522,13 +522,27 @@
   ],
   "news": [
     {
-      "id": "203d22ff863c",
-      "title": "Mills will hit the ground running in DC | Letter",
-      "summary": "Janet Mills should be Maine\u2019s next senator. Her age and experience are a plus.\u00a0Research and development, whether in health care or renewable energy, is on life support. Our environment is under attack. Our foreign policy, or lack thereof, is appalling.\u00a0 While I\u2019m sure Graham Platner is well intentio",
-      "url": "https://www.pressherald.com/2026/04/21/mills-will-hit-the-ground-running-in-dc-letter/",
+      "id": "e72a39ec1623",
+      "title": "Pull back the curtain on Graham Platner | Letter",
+      "summary": "As a card-carrying Democrat for 62 years, I would have preferred an experienced alternative to Gov. Janet Mills to run against Sen. Susan Collins. I cannot support Graham Platner. Platner\u2019s bid for U.S. Senate is the product of a slick, well-financed marketing campaign that reminds me of a state fai",
+      "url": "https://www.pressherald.com/2026/04/22/pull-back-the-curtain-on-graham-platner-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-21",
+      "date": "2026-04-22",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7bda9aa689bd",
+      "title": "A Maine town decided not to raise the only flood-prone road off its peninsula",
+      "summary": "It\u2019s unclear what Surry might do there instead, if anything, or how first responders would reach residents if the road became dangerous.",
+      "url": "https://www.bangordailynews.com/2026/04/22/hancock/hancock-government/surry-maine-flood-prone-road-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-22",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -536,14 +550,14 @@
       ]
     },
     {
-      "id": "996b7dd234d4",
-      "title": "Westfield Community Preservation Committee awards $200K to group home",
-      "summary": "At its April 9 meeting, the Community Preservation Committee voted unanimously in favor of a $200,000 grant to Berkshire County ARC for a group home for individuals with acquired brain injury (ABI) on Cabot Road.",
-      "url": "https://www.masslive.com/westfieldnews/2026/04/westfield-community-preservation-committee-awards-200000-to-group-home.html",
+      "id": "4468369bde97",
+      "title": "The Democrats\u2019 road to a US Senate majority runs through New England. Why that matters",
+      "summary": "Maine and New Hampshire Senate races have tightened as Trump's unpopularity and economic concerns reshape the midterm landscape for Republicans.",
+      "url": "https://www.masslive.com/politics/2026/04/the-democrats-road-to-a-us-senate-majority-runs-through-new-england-why-that-matters.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-04-21",
-      "category": "funding",
+      "date": "2026-04-22",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -585,20 +599,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-04-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "32d85a73715e",
-      "title": "Rural Vermont showed up. And Montpelier listened.",
-      "summary": "Gradually, and then suddenly, Vermonters revealed a new model in the push to repeal Act 181\u2019s road rule and Tier 3.\nRead the story on VTDigger here:  Rural Vermont showed up. And Montpelier listened..",
-      "url": "https://vtdigger.org/2026/04/17/opinion-rural-vermont-showed-up-and-montpelier-listened/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-17",
       "category": "news",
       "priority": "medium",
       "business_lines": [
