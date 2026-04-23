@@ -1,103 +1,26 @@
 {
-  "generated": "2026-04-22T11:48:50.662129Z",
+  "generated": "2026-04-23T11:50:17.068361Z",
   "summary": {
-    "total_opportunities": 26,
-    "total_value_low": 133277589,
-    "total_value_high": 133277589,
+    "total_opportunities": 23,
+    "total_value_low": 126989024,
+    "total_value_high": 126989024,
     "by_state": {
       "VT": 2,
-      "NH": 4,
-      "ME": 3,
-      "MA": 20,
+      "NH": 5,
+      "ME": 5,
+      "MA": 15,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 26,
-      "news": 7,
-      "funding": 0
+      "dot_letting": 22,
+      "news": 8,
+      "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "4f1660f81309",
-      "state": "MA",
-      "project_id": "614142",
-      "description": "Bridge Deck Wearing Surface Repairs at Various Locations",
-      "cost_low": 1332870,
-      "cost_high": 1332870,
-      "cost_display": "$1.3M",
-      "ad_date": "2026-03-14",
-      "let_date": null,
-      "project_type": "Bridge - Deck Repairs",
-      "location": "District 2",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614142",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "f76f968287e0",
-      "state": "MA",
-      "project_id": "614083",
-      "description": "Scheduled and Emergency Tree Trimming, Removal, and Sight Distance Clearing at Various Locations (Areas A, B & C)",
-      "cost_low": 1380000,
-      "cost_high": 1380000,
-      "cost_display": "$1.4M",
-      "ad_date": "2026-03-28",
-      "let_date": null,
-      "project_type": "Tree Trimming, Maintenance and Removal",
-      "location": "District 5",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614083",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "160f51c9f839",
-      "state": "MA",
-      "project_id": "614084",
-      "description": "Scheduled and Emergency Tree Trimming, Removal, and Sight Distance Clearing at Various Locations (Area D)",
-      "cost_low": 900000,
-      "cost_high": 900000,
-      "cost_display": "$900K",
-      "ad_date": "2026-03-28",
-      "let_date": null,
-      "project_type": "Tree Trimming, Maintenance and Removal",
-      "location": "District 5",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614084",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c1ab856c353b",
-      "state": "MA",
-      "project_id": "610670",
-      "description": "Harwich Elementary School Improvements (SRTS)",
-      "cost_low": 2675695,
-      "cost_high": 2675695,
-      "cost_display": "$2.7M",
-      "ad_date": "2026-03-21",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Harwich",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610670",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "a4e0c22eefae",
       "state": "MA",
@@ -522,10 +445,52 @@
   ],
   "news": [
     {
-      "id": "e72a39ec1623",
-      "title": "Pull back the curtain on Graham Platner | Letter",
-      "summary": "As a card-carrying Democrat for 62 years, I would have preferred an experienced alternative to Gov. Janet Mills to run against Sen. Susan Collins. I cannot support Graham Platner. Platner\u2019s bid for U.S. Senate is the product of a slick, well-financed marketing campaign that reminds me of a state fai",
-      "url": "https://www.pressherald.com/2026/04/22/pull-back-the-curtain-on-graham-platner-letter/",
+      "id": "3569d82f3ece",
+      "title": "A vision for a new Bangor Mall neighborhood",
+      "summary": "\u201cThis could act as a catalyst for the city of Bangor to develop a master plan for the entire area that could direct and organize future development to create a new, pedestrian-friendly neighborhood where people want to live, work and play.\u201d",
+      "url": "https://www.bangordailynews.com/2026/04/23/opinion/opinion-contributor/vision-new-bangor-mall-neighborhood-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "af75ebf17621",
+      "title": "Ex-Ports Director and His Supreme Court Justice Wife Maliciously Prosecuted, Complaint Alleges",
+      "summary": "James Fernald says former Ports Director Geno Marconi and his wife, retired Supreme Court Justice Anna Barbara Hantz Marconi, were the victims of malicious prosecution because Marconi's bosses on the Pease Development Authority board of directors broke the same law he pleaded guilty to for making pu",
+      "url": "https://indepthnh.org/2026/04/22/ex-ports-director-and-his-supreme-court-justice-wife-maliciously-prosecuted-complaint-alleges/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-04-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3f2901dc57b9",
+      "title": "Nathaniel Frothingham",
+      "summary": "Nat\u2019s 25 years of dedicated service at The Bridge combined sheer determination with a commitment to in-depth analysis of the key community issues and an insightful editorial approach. \nRead the story on VTDigger here:  Nathaniel Frothingham.",
+      "url": "https://vtdigger.org/2026/04/22/nathaniel-frothingham/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-04-22",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "23c03fbe1567",
+      "title": "High schools Wednesday: Biddeford opens softball season with win over Kennebunk",
+      "summary": "Madi Roy's pitching and hitting propel the Tigers to a 7-1 victory on the road.",
+      "url": "https://www.pressherald.com/2026/04/22/biddeford-opens-softball-season-with-win-over-kennebunk/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-04-22",
@@ -536,45 +501,45 @@
       ]
     },
     {
-      "id": "7bda9aa689bd",
-      "title": "A Maine town decided not to raise the only flood-prone road off its peninsula",
-      "summary": "It\u2019s unclear what Surry might do there instead, if anything, or how first responders would reach residents if the road became dangerous.",
-      "url": "https://www.bangordailynews.com/2026/04/22/hancock/hancock-government/surry-maine-flood-prone-road-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "953bdc2f0258",
+      "title": "Biddeford weighing how to help homeless residents while mitigating public camping",
+      "summary": "General Assistance Administrator Jake Hammer recommended Tuesday that city councilors fund the Seeds of Hope program and consider a citywide ban on camping in public places.",
+      "url": "https://www.pressherald.com/2026/04/22/biddeford-weighing-how-to-help-homeless-residents-while-mitigating-public-camping/",
+      "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-04-22",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "4468369bde97",
-      "title": "The Democrats\u2019 road to a US Senate majority runs through New England. Why that matters",
-      "summary": "Maine and New Hampshire Senate races have tightened as Trump's unpopularity and economic concerns reshape the midterm landscape for Republicans.",
-      "url": "https://www.masslive.com/politics/2026/04/the-democrats-road-to-a-us-senate-majority-runs-through-new-england-why-that-matters.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "ce7484f24451",
+      "title": "Wabanaki youth initiative nets $348K federal grant for food program",
+      "summary": "The one-of-its-kind Wabanaki initiative connects tribal farmers, gatherers and food producers directly to youth meals through the Child and Adult Care Food Program and Summer Food Service Program.",
+      "url": "https://www.bangordailynews.com/2026/04/22/aroostook/aroostook-education/farm-to-school-grant-wabanaki/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-22",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4d7151639284",
+      "title": "State Drops Case Against Alleged YDC Abuser Malavet",
+      "summary": "When prosecutors called Sununu Youth Development Center sex abuse survivor Natasha Maunsell this week to tell her they were dropping the case against Victor Malavet, part of her was relieved.",
+      "url": "https://indepthnh.org/2026/04/22/state-drops-case-against-alleged-ydc-abuser-malavet/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-04-22",
       "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "9a21dd57e9b3",
-      "title": "A transgender Vermont veteran is riding the gravel cycling circuit. Cue filmmaker.",
-      "summary": "The new documentary \u201cClaim the Lane: Becoming Roxy,\u201d set for its state festival debut this week, focuses on the humanity behind the headlines.\nRead the story on VTDigger here:  A transgender Vermont veteran is riding the gravel cycling circuit. Cue filmmaker..",
-      "url": "https://vtdigger.org/2026/04/20/a-transgender-vermont-veteran-is-riding-the-gravel-cycling-circuit-cue-filmmaker/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "aggregates"
       ]
     },
     {
@@ -599,20 +564,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-04-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2e77ce8e8fff",
-      "title": "Mixed-use plans move forward for old Cigna building in Hooksett",
-      "summary": "Plans to transform the former Cigna Healthcare property on College Park Drive in Hooksett into a mixed-use development received key approvals by the Planning Board this month, and the look and feel of the project by Brady Sullivan Properties is\u2026",
-      "url": "https://www.unionleader.com/news/local/hooksett/mixed-use-plans-move-forward-for-old-cigna-building-in-hooksett/article_68f0a223-7a98-4016-b4c4-4467a2d7db67.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-04-16",
       "category": "news",
       "priority": "medium",
       "business_lines": [
