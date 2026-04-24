@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-23T11:50:17.068361Z",
+  "generated": "2026-04-24T11:49:52.672615Z",
   "summary": {
-    "total_opportunities": 23,
+    "total_opportunities": 24,
     "total_value_low": 126989024,
     "total_value_high": 126989024,
     "by_state": {
       "VT": 2,
-      "NH": 5,
-      "ME": 5,
-      "MA": 15,
+      "NH": 6,
+      "ME": 2,
+      "MA": 17,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 22,
-      "news": 8,
-      "funding": 1
+      "news": 7,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -445,14 +445,56 @@
   ],
   "news": [
     {
-      "id": "3569d82f3ece",
-      "title": "A vision for a new Bangor Mall neighborhood",
-      "summary": "\u201cThis could act as a catalyst for the city of Bangor to develop a master plan for the entire area that could direct and organize future development to create a new, pedestrian-friendly neighborhood where people want to live, work and play.\u201d",
-      "url": "https://www.bangordailynews.com/2026/04/23/opinion/opinion-contributor/vision-new-bangor-mall-neighborhood-joam40zk0w/",
+      "id": "4a38e41e7e5d",
+      "title": "Hampden needs to fix an aging bridge to 6 homes or build a new road",
+      "summary": "Both are costly fixes for such a small number of residents, and officials have balked at putting the expense on everybody in town.",
+      "url": "https://www.bangordailynews.com/2026/04/24/bangor/bangor-government/hampden-bridge-repair-dilemma-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5f16559dea88",
+      "title": "Jaguar Land Rover recalls 170K cars over power-loss risk",
+      "summary": "Jaguar Land Rover recalls 170,000 vehicles for a defect risking total power loss. A remedy is in development.",
+      "url": "https://www.masslive.com/news/2026/04/jaguar-land-rover-recalls-170k-cars-over-power-loss-risk.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bbac0943e7ca",
+      "title": "Westfield\u2019s Municipal Light Board\u2019s unique compensation package sparks debate",
+      "summary": "The commissioners serving on Westfield's Municipal Light Board have a compensation package unlike any other board, council, or committee in the city: members who opt to take the city\u2019s health insurance can have the full amount of the premium paid by WG&E while maintaining the annual stipend of $7,50",
+      "url": "https://www.masslive.com/westfieldnews/2026/04/westfields-municipal-light-boards-unique-compensation-package-sparks-debate.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-24",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "01995693e7b6",
+      "title": "Goodlander Demands Hegseth Investigate Failures After 6 Servicemembers Killed in Attack on U.S. Base in Kuwait",
+      "summary": "The Members are specifically calling out contradictions in the Secretary\u2019s characterization of the attack, which troops injured on base have called \u201cfalsehoods,\u201d as well as the broader implications of threats posed by Iranian drones to the 50,000+ U.S. troops and billions of dollars in assets in the",
+      "url": "https://indepthnh.org/2026/04/23/goodlander-demands-hegseth-investigate-failures-after-6-servicemembers-killed-in-attack-on-u-s-base-in-kuwait/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-04-23",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -481,48 +523,6 @@
       "state": "VT",
       "date": "2026-04-22",
       "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "23c03fbe1567",
-      "title": "High schools Wednesday: Biddeford opens softball season with win over Kennebunk",
-      "summary": "Madi Roy's pitching and hitting propel the Tigers to a 7-1 victory on the road.",
-      "url": "https://www.pressherald.com/2026/04/22/biddeford-opens-softball-season-with-win-over-kennebunk/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-22",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "953bdc2f0258",
-      "title": "Biddeford weighing how to help homeless residents while mitigating public camping",
-      "summary": "General Assistance Administrator Jake Hammer recommended Tuesday that city councilors fund the Seeds of Hope program and consider a citywide ban on camping in public places.",
-      "url": "https://www.pressherald.com/2026/04/22/biddeford-weighing-how-to-help-homeless-residents-while-mitigating-public-camping/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-22",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ce7484f24451",
-      "title": "Wabanaki youth initiative nets $348K federal grant for food program",
-      "summary": "The one-of-its-kind Wabanaki initiative connects tribal farmers, gatherers and food producers directly to youth meals through the Child and Adult Care Food Program and Summer Food Service Program.",
-      "url": "https://www.bangordailynews.com/2026/04/22/aroostook/aroostook-education/farm-to-school-grant-wabanaki/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-22",
-      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
