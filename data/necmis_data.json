@@ -1,22 +1,22 @@
 {
-  "generated": "2026-04-24T11:49:52.672615Z",
+  "generated": "2026-04-25T11:28:36.780636Z",
   "summary": {
-    "total_opportunities": 24,
-    "total_value_low": 126989024,
-    "total_value_high": 126989024,
+    "total_opportunities": 30,
+    "total_value_low": 208028132,
+    "total_value_high": 208028132,
     "by_state": {
       "VT": 2,
       "NH": 6,
-      "ME": 2,
-      "MA": 17,
+      "ME": 5,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 22,
-      "news": 7,
+      "dot_letting": 28,
+      "news": 10,
       "funding": 2
     }
   },
@@ -215,6 +215,82 @@
       ]
     },
     {
+      "id": "ee92098cf799",
+      "state": "MA",
+      "project_id": "614091",
+      "description": "Scheduled and Emergency Impact Attenuator Installation and Repairs at Various Locations",
+      "cost_low": 187675,
+      "cost_high": 187675,
+      "cost_display": "$188K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "Impact Attenuators",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614091",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "24c963430a35",
+      "state": "MA",
+      "project_id": "614070",
+      "description": "Inspect, Service and Repair Elevators at Various Locations",
+      "cost_low": 264200,
+      "cost_high": 264200,
+      "cost_display": "$264K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM-Elevators",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614070",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9401cf716a53",
+      "state": "MA",
+      "project_id": "614177",
+      "description": "Bridge Preservation, N-21-008 (1D0), Mendon Road over the West River",
+      "cost_low": 1788870,
+      "cost_high": 1788870,
+      "cost_display": "$1.8M",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Northbridge",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614177",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0a49cbe21bd0",
+      "state": "MA",
+      "project_id": "614272",
+      "description": "Sidewalk Repair and Improvement at Various Locations",
+      "cost_low": 811912,
+      "cost_high": 811912,
+      "cost_display": "$812K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "Highway - Construction , Highway - Sidewalk And Curbing",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614272",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "bec6b71e531e",
       "state": "MA",
       "project_id": "614176",
@@ -272,6 +348,25 @@
       ]
     },
     {
+      "id": "f6cf7ee8820e",
+      "state": "MA",
+      "project_id": "613200",
+      "description": "Bridge Preservation, S-04-008 (4BA) and S-04-011 (4B9), Chase Road over Route 6 (Mid-Cape Highway)",
+      "cost_low": 1720896,
+      "cost_high": 1720896,
+      "cost_display": "$1.7M",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Sandwich",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613200",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "0739b2088d23",
       "state": "MA",
       "project_id": "613404",
@@ -285,6 +380,25 @@
       "location": "Northampton",
       "district": 2,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation",
+      "cost_low": 76265555,
+      "cost_high": 76265555,
+      "cost_display": "$76.3M",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM-Electrical",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -445,26 +559,68 @@
   ],
   "news": [
     {
-      "id": "4a38e41e7e5d",
-      "title": "Hampden needs to fix an aging bridge to 6 homes or build a new road",
-      "summary": "Both are costly fixes for such a small number of residents, and officials have balked at putting the expense on everybody in town.",
-      "url": "https://www.bangordailynews.com/2026/04/24/bangor/bangor-government/hampden-bridge-repair-dilemma-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "eb1b2c805fa6",
+      "title": "Maine\u2019s small libraries are worth celebrating | Opinion",
+      "summary": "These places play an outsize role in their communities. As you plan your summer road trips, consider including a visit.",
+      "url": "https://www.pressherald.com/2026/04/25/maines-small-libraries-are-worth-celebrating-opinion/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-24",
+      "date": "2026-04-25",
       "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9a403f496aec",
+      "title": "Celtics bounce back, take 2-1 series lead over Sixers",
+      "summary": "Jayson Tatum and Jaylen Brown both score 25 points as Boston wins Game 3 on the road.",
+      "url": "https://www.pressherald.com/2026/04/24/celtics-bounce-back-take-2-1-series-lead-over-sixers/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-25",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9d7f52cab056",
+      "title": "Southwick lands five bids for six pickleball courts at Whalley Park",
+      "summary": "Bids for the construction of six pickleball courts at Whalley Park were opened on Tuesday, April 14 and five constructions companies submitted their estimates for construction, lighting, and installation of a pavilion and each are substantially less than the original estimate of $670,000.",
+      "url": "https://www.masslive.com/westfieldnews/2026/04/southwick-lands-five-bids-for-six-pickleball-courts-at-whalley-park.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-25",
+      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "5f16559dea88",
-      "title": "Jaguar Land Rover recalls 170K cars over power-loss risk",
-      "summary": "Jaguar Land Rover recalls 170,000 vehicles for a defect risking total power loss. A remedy is in development.",
-      "url": "https://www.masslive.com/news/2026/04/jaguar-land-rover-recalls-170k-cars-over-power-loss-risk.html",
+      "id": "7a019c30b0b3",
+      "title": "Food Truck Festival returns May 3 to Westfield Riding Club",
+      "summary": "The second annual Food Truck Festival will take place on Sunday, May 3 from 11 to 4 p.m. at the Westfield Riding Club on 29 Fowler Road.",
+      "url": "https://www.masslive.com/westfieldnews/2026/04/food-truck-festival-returns-may-3-to-westfield-riding-club.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-04-25",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bdd449f09e06",
+      "title": "UK citizen arrested on remote Maine road pleads\u00a0guilty to illegally entering US",
+      "summary": "Ali Mohammed Ali Abdullah is one of four people reported to police by maple sugar workers who saw the Middle Eastern men walking along the Golden Road.",
+      "url": "https://www.bangordailynews.com/2026/04/24/central-maine/central-maine-police-courts/uk-citizen-maine-illegally-entering-us-plea/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-04-24",
       "category": "news",
       "priority": "medium",
@@ -473,14 +629,14 @@
       ]
     },
     {
-      "id": "bbac0943e7ca",
-      "title": "Westfield\u2019s Municipal Light Board\u2019s unique compensation package sparks debate",
-      "summary": "The commissioners serving on Westfield's Municipal Light Board have a compensation package unlike any other board, council, or committee in the city: members who opt to take the city\u2019s health insurance can have the full amount of the premium paid by WG&E while maintaining the annual stipend of $7,50",
-      "url": "https://www.masslive.com/westfieldnews/2026/04/westfields-municipal-light-boards-unique-compensation-package-sparks-debate.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "e9b5cb402c46",
+      "title": "Route 1 roadwork expected to cause delays in Camden and Lincolnville",
+      "summary": "The project, which will span roughly 2 miles between the town centers, is slated to start on Monday, April 27.",
+      "url": "https://www.bangordailynews.com/2026/04/24/midcoast/midcoast-government/route-1-roadwork-camden-lincolnville/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-04-24",
-      "category": "funding",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
