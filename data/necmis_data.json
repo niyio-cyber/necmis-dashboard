@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-25T11:28:36.780636Z",
+  "generated": "2026-04-26T11:29:54.695251Z",
   "summary": {
-    "total_opportunities": 30,
+    "total_opportunities": 29,
     "total_value_low": 208028132,
     "total_value_high": 208028132,
     "by_state": {
-      "VT": 2,
+      "VT": 1,
       "NH": 6,
-      "ME": 5,
-      "MA": 23,
+      "ME": 3,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 28,
-      "news": 10,
-      "funding": 2
+      "news": 7,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -559,13 +559,13 @@
   ],
   "news": [
     {
-      "id": "eb1b2c805fa6",
-      "title": "Maine\u2019s small libraries are worth celebrating | Opinion",
-      "summary": "These places play an outsize role in their communities. As you plan your summer road trips, consider including a visit.",
-      "url": "https://www.pressherald.com/2026/04/25/maines-small-libraries-are-worth-celebrating-opinion/",
+      "id": "bd5bb2a2b37f",
+      "title": "Hannah Pingree is an exceptional leader in challenging times | Letter",
+      "summary": "I feel blessed to have known and worked with all five of the Democratic candidates to become Maine\u2019s next governor. While any of these individuals would be capable leaders of our state, only one has the skill set and broad experience to be exceptional. And Maine is going to need an exceptional leade",
+      "url": "https://www.pressherald.com/2026/04/26/hannah-pingree-is-an-exceptional-leader-in-challenging-times-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-25",
+      "date": "2026-04-26",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -573,69 +573,27 @@
       ]
     },
     {
-      "id": "9a403f496aec",
-      "title": "Celtics bounce back, take 2-1 series lead over Sixers",
-      "summary": "Jayson Tatum and Jaylen Brown both score 25 points as Boston wins Game 3 on the road.",
-      "url": "https://www.pressherald.com/2026/04/24/celtics-bounce-back-take-2-1-series-lead-over-sixers/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-25",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9d7f52cab056",
-      "title": "Southwick lands five bids for six pickleball courts at Whalley Park",
-      "summary": "Bids for the construction of six pickleball courts at Whalley Park were opened on Tuesday, April 14 and five constructions companies submitted their estimates for construction, lighting, and installation of a pavilion and each are substantially less than the original estimate of $670,000.",
-      "url": "https://www.masslive.com/westfieldnews/2026/04/southwick-lands-five-bids-for-six-pickleball-courts-at-whalley-park.html",
+      "id": "aeae6416c250",
+      "title": "Independent Bruce Hunt Jr. collects signatures in bid for Congress (photos)",
+      "summary": "Bruce A. Hunt Jr., a veteran, teacher, and author who recently returned to Massachusetts, is collecting signatures to run as an independent candidate for the state\u2019s 1st Congressional District.",
+      "url": "https://www.masslive.com/westernmass/2026/04/independent-bruce-hunt-jr-collects-signatures-in-bid-for-congress-photos.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-04-25",
-      "category": "funding",
+      "date": "2026-04-26",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "7a019c30b0b3",
-      "title": "Food Truck Festival returns May 3 to Westfield Riding Club",
-      "summary": "The second annual Food Truck Festival will take place on Sunday, May 3 from 11 to 4 p.m. at the Westfield Riding Club on 29 Fowler Road.",
-      "url": "https://www.masslive.com/westfieldnews/2026/04/food-truck-festival-returns-may-3-to-westfield-riding-club.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "ce486675fe1f",
+      "title": "Woman dead, man critically burned in Hiram house\u00a0fire",
+      "summary": "The fire in the home on Bobbin Mill Road is believed to have been sparked by an electrical malfunction in the basement.",
+      "url": "https://www.bangordailynews.com/2026/04/25/central-maine/central-maine-police-courts/woman-dead-man-critically-burned-hiram-fire/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-04-25",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bdd449f09e06",
-      "title": "UK citizen arrested on remote Maine road pleads\u00a0guilty to illegally entering US",
-      "summary": "Ali Mohammed Ali Abdullah is one of four people reported to police by maple sugar workers who saw the Middle Eastern men walking along the Golden Road.",
-      "url": "https://www.bangordailynews.com/2026/04/24/central-maine/central-maine-police-courts/uk-citizen-maine-illegally-entering-us-plea/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e9b5cb402c46",
-      "title": "Route 1 roadwork expected to cause delays in Camden and Lincolnville",
-      "summary": "The project, which will span roughly 2 miles between the town centers, is slated to start on Monday, April 27.",
-      "url": "https://www.bangordailynews.com/2026/04/24/midcoast/midcoast-government/route-1-roadwork-camden-lincolnville/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-24",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -666,20 +624,6 @@
       "date": "2026-04-23",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3f2901dc57b9",
-      "title": "Nathaniel Frothingham",
-      "summary": "Nat\u2019s 25 years of dedicated service at The Bridge combined sheer determination with a commitment to in-depth analysis of the key community issues and an insightful editorial approach. \nRead the story on VTDigger here:  Nathaniel Frothingham.",
-      "url": "https://vtdigger.org/2026/04/22/nathaniel-frothingham/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-22",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
