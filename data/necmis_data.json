@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-26T11:29:54.695251Z",
+  "generated": "2026-04-27T12:13:22.044780Z",
   "summary": {
     "total_opportunities": 29,
     "total_value_low": 208028132,
     "total_value_high": 208028132,
     "by_state": {
       "VT": 1,
-      "NH": 6,
-      "ME": 3,
-      "MA": 22,
+      "NH": 3,
+      "ME": 4,
+      "MA": 21,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 28,
-      "news": 7,
+      "news": 4,
       "funding": 1
     }
   },
@@ -559,11 +559,39 @@
   ],
   "news": [
     {
-      "id": "bd5bb2a2b37f",
-      "title": "Hannah Pingree is an exceptional leader in challenging times | Letter",
-      "summary": "I feel blessed to have known and worked with all five of the Democratic candidates to become Maine\u2019s next governor. While any of these individuals would be capable leaders of our state, only one has the skill set and broad experience to be exceptional. And Maine is going to need an exceptional leade",
-      "url": "https://www.pressherald.com/2026/04/26/hannah-pingree-is-an-exceptional-leader-in-challenging-times-letter/",
+      "id": "9b49158779b9",
+      "title": "Bensonwood completes high-performance education center for Beaver Brook Association",
+      "summary": "Bensonwood, a leader in high-performance offsite construction, has completed the design, fabrication, and installation of the program building at Beaver Brook Association, a conservation and environmental education center in Hollis.",
+      "url": "https://www.unionleader.com/news/business/bensonwood-completes-high-performance-education-center-for-beaver-brook-association/article_fdfeb762-cc6c-4e14-898b-9e8ac04aa559.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-04-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cd66ba575510",
+      "title": "Maine is investing in seniors\u2019 independence because it pays off | Opinion",
+      "summary": "The state's Community Aging in Place program saves the state money, removing pressure on local emergency response and municipal budgets.",
+      "url": "https://www.pressherald.com/2026/04/27/maine-is-investing-in-seniors-independence-because-it-works-opinion/",
       "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b7c2e6470f76",
+      "title": "Dryer fire prompts second alarm in Holden",
+      "summary": "No injuries were reported in the Main Road blaze, which was called in a little after 10 p.m. Saturday.",
+      "url": "https://www.bangordailynews.com/2026/04/26/bangor/bangor-police-courts/dryer-fire-prompts-second-alarm-in-holden/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-04-26",
       "category": "news",
@@ -573,27 +601,13 @@
       ]
     },
     {
-      "id": "aeae6416c250",
-      "title": "Independent Bruce Hunt Jr. collects signatures in bid for Congress (photos)",
-      "summary": "Bruce A. Hunt Jr., a veteran, teacher, and author who recently returned to Massachusetts, is collecting signatures to run as an independent candidate for the state\u2019s 1st Congressional District.",
-      "url": "https://www.masslive.com/westernmass/2026/04/independent-bruce-hunt-jr-collects-signatures-in-bid-for-congress-photos.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-04-26",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ce486675fe1f",
-      "title": "Woman dead, man critically burned in Hiram house\u00a0fire",
-      "summary": "The fire in the home on Bobbin Mill Road is believed to have been sparked by an electrical malfunction in the basement.",
-      "url": "https://www.bangordailynews.com/2026/04/25/central-maine/central-maine-police-courts/woman-dead-man-critically-burned-hiram-fire/",
+      "id": "9fd332c51fc2",
+      "title": "Maine extends key affordable housing tax credit for another decade",
+      "summary": "Developers have used the tax credit to subsidize the construction of more than 800 income-restricted homes in the last six years.",
+      "url": "https://www.bangordailynews.com/2026/04/26/state/state-housing/maine-extends-affordable-housing-tax-credit/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-04-25",
+      "date": "2026-04-26",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -609,62 +623,6 @@
       "state": "NH",
       "date": "2026-04-23",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "af75ebf17621",
-      "title": "Ex-Ports Director and His Supreme Court Justice Wife Maliciously Prosecuted, Complaint Alleges",
-      "summary": "James Fernald says former Ports Director Geno Marconi and his wife, retired Supreme Court Justice Anna Barbara Hantz Marconi, were the victims of malicious prosecution because Marconi's bosses on the Pease Development Authority board of directors broke the same law he pleaded guilty to for making pu",
-      "url": "https://indepthnh.org/2026/04/22/ex-ports-director-and-his-supreme-court-justice-wife-maliciously-prosecuted-complaint-alleges/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-04-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4d7151639284",
-      "title": "State Drops Case Against Alleged YDC Abuser Malavet",
-      "summary": "When prosecutors called Sununu Youth Development Center sex abuse survivor Natasha Maunsell this week to tell her they were dropping the case against Victor Malavet, part of her was relieved.",
-      "url": "https://indepthnh.org/2026/04/22/state-drops-case-against-alleged-ydc-abuser-malavet/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-04-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "63c8456df791",
-      "title": "Ridge RTC partners with Triple Construction on its New Hampshire campus expansion",
-      "summary": "Earlier this month, representatives from Ridge RTC, Altior Healthcare, and Merrimack-based Triple Construction gathered at 619 Governors Road in Milton for a formal groundbreaking ceremony on two additional dormitories for their fast-growing campus.",
-      "url": "https://www.unionleader.com/news/business/ridge-rtc-partners-with-triple-construction-on-its-new-hampshire-campus-expansion/article_c7ea1c77-7b7d-4265-a8fe-f0bbaf25d12a.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-04-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cedf3ca48008",
-      "title": "EPTAC opens new corporate headquarters and training facility in Salem",
-      "summary": "EPTAC, a global leader in electronics manufacturing training and The Global Electronics Association\u2019s (GEA) IPC certification, will celebrate the relocation and expansion of its corporate headquarters and training facility at 7 Stiles Road, Suite 300, Salem, on Thursday, April 23,\u2026",
-      "url": "https://www.unionleader.com/news/business/eptac-opens-new-corporate-headquarters-and-training-facility-in-salem/article_fe0767ed-33d6-4f0b-ad95-1373e4537cc7.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-04-19",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
