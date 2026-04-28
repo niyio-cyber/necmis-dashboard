@@ -1,13 +1,13 @@
 {
-  "generated": "2026-04-27T12:13:22.044780Z",
+  "generated": "2026-04-28T12:17:48.909438Z",
   "summary": {
-    "total_opportunities": 29,
+    "total_opportunities": 28,
     "total_value_low": 208028132,
     "total_value_high": 208028132,
     "by_state": {
       "VT": 1,
-      "NH": 3,
-      "ME": 4,
+      "NH": 2,
+      "ME": 2,
       "MA": 21,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 28,
-      "news": 4,
-      "funding": 1
+      "news": 2,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -54,25 +54,6 @@
       "location": "Somerset",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610802",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0ce411617064",
-      "state": "MA",
-      "project_id": "608940",
-      "description": "Intersection Improvements Boston Post Road (Route 20) at Wellesley Street",
-      "cost_low": 3231160,
-      "cost_high": 3231160,
-      "cost_display": "$3.2M",
-      "ad_date": "2026-03-28",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Weston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608940",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -131,6 +112,25 @@
       "location": "Wareham",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610647",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0ce411617064",
+      "state": "MA",
+      "project_id": "608940",
+      "description": "Intersection Improvements Boston Post Road (Route 20) at Wellesley Street",
+      "cost_low": 3231160,
+      "cost_high": 3231160,
+      "cost_display": "$3.2M",
+      "ad_date": "2026-03-28",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Weston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608940",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -559,6 +559,20 @@
   ],
   "news": [
     {
+      "id": "44a30f5dd56d",
+      "title": "Bangor councilor sent to ethics board again over hot mic comments about \u2018illegals\u2019",
+      "summary": "Wayne Mallar\u2019s comments were broadcast as part of the city\u2019s livestream of the ethics board meeting where he was under investigation for another complaint.",
+      "url": "https://www.bangordailynews.com/2026/04/27/bangor/bangor-councilor-sent-to-ethics-board-again-comments-about-illegals/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-28",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "9b49158779b9",
       "title": "Bensonwood completes high-performance education center for Beaver Brook Association",
       "summary": "Bensonwood, a leader in high-performance offsite construction, has completed the design, fabrication, and installation of the program building at Beaver Brook Association, a conservation and environmental education center in Hollis.",
@@ -567,62 +581,6 @@
       "state": "NH",
       "date": "2026-04-27",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cd66ba575510",
-      "title": "Maine is investing in seniors\u2019 independence because it pays off | Opinion",
-      "summary": "The state's Community Aging in Place program saves the state money, removing pressure on local emergency response and municipal budgets.",
-      "url": "https://www.pressherald.com/2026/04/27/maine-is-investing-in-seniors-independence-because-it-works-opinion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-27",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b7c2e6470f76",
-      "title": "Dryer fire prompts second alarm in Holden",
-      "summary": "No injuries were reported in the Main Road blaze, which was called in a little after 10 p.m. Saturday.",
-      "url": "https://www.bangordailynews.com/2026/04/26/bangor/bangor-police-courts/dryer-fire-prompts-second-alarm-in-holden/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9fd332c51fc2",
-      "title": "Maine extends key affordable housing tax credit for another decade",
-      "summary": "Developers have used the tax credit to subsidize the construction of more than 800 income-restricted homes in the last six years.",
-      "url": "https://www.bangordailynews.com/2026/04/26/state/state-housing/maine-extends-affordable-housing-tax-credit/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "01995693e7b6",
-      "title": "Goodlander Demands Hegseth Investigate Failures After 6 Servicemembers Killed in Attack on U.S. Base in Kuwait",
-      "summary": "The Members are specifically calling out contradictions in the Secretary\u2019s characterization of the attack, which troops injured on base have called \u201cfalsehoods,\u201d as well as the broader implications of threats posed by Iranian drones to the 50,000+ U.S. troops and billions of dollars in assets in the",
-      "url": "https://indepthnh.org/2026/04/23/goodlander-demands-hegseth-investigate-failures-after-6-servicemembers-killed-in-attack-on-u-s-base-in-kuwait/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-04-23",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
