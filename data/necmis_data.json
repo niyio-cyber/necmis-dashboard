@@ -1,64 +1,26 @@
 {
-  "generated": "2026-04-28T12:17:48.909438Z",
+  "generated": "2026-04-29T12:08:56.614386Z",
   "summary": {
-    "total_opportunities": 28,
-    "total_value_low": 208028132,
-    "total_value_high": 208028132,
+    "total_opportunities": 27,
+    "total_value_low": 206307767,
+    "total_value_high": 206307767,
     "by_state": {
-      "VT": 1,
+      "VT": 3,
       "NH": 2,
-      "ME": 2,
-      "MA": 21,
+      "ME": 7,
+      "MA": 19,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 28,
-      "news": 2,
-      "funding": 0
+      "dot_letting": 26,
+      "news": 8,
+      "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "a4e0c22eefae",
-      "state": "MA",
-      "project_id": "614188",
-      "description": "Traffic Signal Upgrades at Various Locations",
-      "cost_low": 950000,
-      "cost_high": 950000,
-      "cost_display": "$950K",
-      "ad_date": "2026-04-04",
-      "let_date": null,
-      "project_type": "Traffic Signals",
-      "location": "District 4",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614188",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "44f29e7926df",
-      "state": "MA",
-      "project_id": "610802",
-      "description": "Stormwater Improvements along Route 6, Route 138, and Route 103 for Taunton River",
-      "cost_low": 770365,
-      "cost_high": 770365,
-      "cost_display": "$770K",
-      "ad_date": "2026-03-28",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Somerset",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610802",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "945b2cd4a64a",
       "state": "MA",
@@ -559,15 +521,113 @@
   ],
   "news": [
     {
-      "id": "44a30f5dd56d",
-      "title": "Bangor councilor sent to ethics board again over hot mic comments about \u2018illegals\u2019",
-      "summary": "Wayne Mallar\u2019s comments were broadcast as part of the city\u2019s livestream of the ethics board meeting where he was under investigation for another complaint.",
-      "url": "https://www.bangordailynews.com/2026/04/27/bangor/bangor-councilor-sent-to-ethics-board-again-comments-about-illegals/",
+      "id": "4d8ca81f675f",
+      "title": "Floating data centers could be better for Maine | Letter",
+      "summary": "I think it is unconscionable for Gov. Janet Mills to veto the bill requiring a moratorium to halt construction of these new AI data centers. Why not investigate the consequences because of these centers\u2019 high consumption of electricity and high consumption of local water supplies? Mills doesn\u2019t seem",
+      "url": "https://www.pressherald.com/2026/04/29/floating-data-centers-could-be-better-for-maine-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "713990c57b33",
+      "title": "With data center veto, Janet Mills played governor of one town | Opinion",
+      "summary": "In failing to represent her broader constituency, the governor is ignoring several important concerns the facilities would bring to Maine communities.",
+      "url": "https://www.pressherald.com/2026/04/29/with-data-center-veto-janet-mills-played-governor-for-one-town-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-04-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ac185f37b01e",
+      "title": "Letter: Janet Mills right to veto broad data center moratorium",
+      "summary": "\u201cWe do need to be cautious in data center development, but let\u2019s not throw the baby out with the bathwater.\u201d",
+      "url": "https://www.bangordailynews.com/2026/04/29/opinion/letters/letter-janet-mills-right-to-veto-broad-data-center-moratorium-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-04-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7840951f261a",
+      "title": "State is \u2018strengthening\u2019 87-year-old coastal Maine bridge to island towns",
+      "summary": "Officials and residents have worried for years about the functionality of the soaring bridge and how long it might take to replace.",
+      "url": "https://www.bangordailynews.com/2026/04/29/hancock/hancock-government/strengthening-deer-isle-stonington-bridge-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-29",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d5a8984a5f75",
+      "title": "How to build the conditions that keep children safe",
+      "summary": "\u201cIf we want fewer children involved in the child welfare system, we have to look early and broadly: at what helps families stay stable and helps children thrive.\u201d",
+      "url": "https://www.bangordailynews.com/2026/04/29/opinion/opinion-contributor/how-to-build-conditions-that-keep-children-safe-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a40e8844af16",
+      "title": "Tech students learn real-world skills while forging massive Acadian sculpture",
+      "summary": "The 20-foot star made from pieces of the former international bridge will welcome visitors to Madawaska.",
+      "url": "https://www.bangordailynews.com/2026/04/29/aroostook/aroostook-education/students-build-acadian-star-sculpture-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-04-29",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "19040facd016",
+      "title": "The UVM Cancer Center is scaling up its on-the-road efforts",
+      "summary": "Also in Final Reading: A Medicaid request, a law without a signature and Noah Kahan.\nRead the story on VTDigger here:  The UVM Cancer Center is scaling up its on-the-road efforts.",
+      "url": "https://vtdigger.org/2026/04/28/the-uvm-cancer-center-is-scaling-up-its-on-the-road-efforts/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-04-28",
       "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d1a88587821e",
+      "title": "South Burlington signs $20 million contract for delayed pedestrian bike bridge",
+      "summary": "\u201cExit 14 is one of the most challenging and most trafficked intersections and interchanges in the state. And for people walking and biking it feels unsafe, it\u2019s loud, it\u2019s noisy, scary,\u201d said an area transportation planner.\nRead the story on VTDigger here:  South Burlington signs $20 million contra",
+      "url": "https://vtdigger.org/2026/04/28/south-burlington-signs-20-million-contract-for-delayed-pedestrian-bike-bridge/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-04-28",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
