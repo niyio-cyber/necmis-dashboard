@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-29T12:08:56.614386Z",
+  "generated": "2026-04-30T12:05:51.527245Z",
   "summary": {
-    "total_opportunities": 27,
+    "total_opportunities": 28,
     "total_value_low": 206307767,
     "total_value_high": 206307767,
     "by_state": {
       "VT": 3,
       "NH": 2,
-      "ME": 7,
-      "MA": 19,
+      "ME": 4,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 8,
-      "funding": 1
+      "news": 7,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -521,55 +521,13 @@
   ],
   "news": [
     {
-      "id": "4d8ca81f675f",
-      "title": "Floating data centers could be better for Maine | Letter",
-      "summary": "I think it is unconscionable for Gov. Janet Mills to veto the bill requiring a moratorium to halt construction of these new AI data centers. Why not investigate the consequences because of these centers\u2019 high consumption of electricity and high consumption of local water supplies? Mills doesn\u2019t seem",
-      "url": "https://www.pressherald.com/2026/04/29/floating-data-centers-could-be-better-for-maine-letter/",
+      "id": "e0d505e4c581",
+      "title": "Obituary: Mary Bridget (Costigan) Foster",
+      "summary": "SOUTH PORTLAND - Mary Bridget (Costigan) Foster, passed away on her 65th birthday, April 27, 2026.\n\nShe was born on April 27, ...",
+      "url": "https://www.pressherald.com/2026/04/30/obituarymary-bridget-costigan-foster-2/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-29",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "713990c57b33",
-      "title": "With data center veto, Janet Mills played governor of one town | Opinion",
-      "summary": "In failing to represent her broader constituency, the governor is ignoring several important concerns the facilities would bring to Maine communities.",
-      "url": "https://www.pressherald.com/2026/04/29/with-data-center-veto-janet-mills-played-governor-for-one-town-opinion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-29",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ac185f37b01e",
-      "title": "Letter: Janet Mills right to veto broad data center moratorium",
-      "summary": "\u201cWe do need to be cautious in data center development, but let\u2019s not throw the baby out with the bathwater.\u201d",
-      "url": "https://www.bangordailynews.com/2026/04/29/opinion/letters/letter-janet-mills-right-to-veto-broad-data-center-moratorium-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-29",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7840951f261a",
-      "title": "State is \u2018strengthening\u2019 87-year-old coastal Maine bridge to island towns",
-      "summary": "Officials and residents have worried for years about the functionality of the soaring bridge and how long it might take to replace.",
-      "url": "https://www.bangordailynews.com/2026/04/29/hancock/hancock-government/strengthening-deer-isle-stonington-bridge-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -577,24 +535,66 @@
       ]
     },
     {
-      "id": "d5a8984a5f75",
-      "title": "How to build the conditions that keep children safe",
-      "summary": "\u201cIf we want fewer children involved in the child welfare system, we have to look early and broadly: at what helps families stay stable and helps children thrive.\u201d",
-      "url": "https://www.bangordailynews.com/2026/04/29/opinion/opinion-contributor/how-to-build-conditions-that-keep-children-safe-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "838c1fc277a7",
+      "title": "Death Notice: Mary Bridget (Costigan) Foster",
+      "summary": "Foster, Mary Bridget (Costigan) 65, of South Portland, April 27. Visiting Hours, 2 to 6 p.m., May 3, Conroy-Tully Walker Funeral ...",
+      "url": "https://www.pressherald.com/2026/04/30/obituarymary-bridget-costigan-foster/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "a40e8844af16",
-      "title": "Tech students learn real-world skills while forging massive Acadian sculpture",
-      "summary": "The 20-foot star made from pieces of the former international bridge will welcome visitors to Madawaska.",
-      "url": "https://www.bangordailynews.com/2026/04/29/aroostook/aroostook-education/students-build-acadian-star-sculpture-joam40zk0w/",
+      "id": "b3158571012b",
+      "title": "Tractor-trailer crash on busy Mass. highway causing significant delays during morning commute",
+      "summary": "The incident is expected to cause significant delays through the morning commute, as the highway is reduced to one lane in that area.",
+      "url": "https://www.masslive.com/news/2026/04/tractor-trailer-crash-on-busy-mass-highway-causing-significant-delays-during-morning-commute.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-30",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fa1a45e87eaf",
+      "title": "Select Board approves MassDOT program that monitors motorists\u2019 speeds",
+      "summary": "The Southwick Police Department was successful in getting a state grant from the state Department of Transportation to have several speed feedback signs installed at fixed location and on two movable trailers to help the town manage roadway speeds and safety.",
+      "url": "https://www.masslive.com/westfieldnews/2026/04/select-board-approves-massdot-program-that-monitors-motorists-speeds.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-30",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4e8a0dcdc1f7",
+      "title": "Bay State Conference: Natick shakes up top half of boys lacrosse rankings",
+      "summary": "One-sided wins against Lexington, Bridgewater-Raynham and Braintree has Natick on the move in this week's rankings.",
+      "url": "https://www.masslive.com/highschoolsports/2026/04/bay-state-conference-natick-shakes-up-top-half-of-boys-lacrosse-rankings.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-04-30",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "325942a1ec96",
+      "title": "State regulators reopen northern Maine power line bids",
+      "summary": "The Northern Maine Renewable Energy Development Program is a second attempt following the failed King Pine Wind and LS Power project.",
+      "url": "https://www.bangordailynews.com/2026/04/29/aroostook/aroostook-government/state-regulators-reopen-northern-maine-power-line-bids/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-04-29",
