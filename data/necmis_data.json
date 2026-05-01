@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-30T12:05:51.527245Z",
+  "generated": "2026-05-01T11:48:53.714716Z",
   "summary": {
-    "total_opportunities": 28,
+    "total_opportunities": 27,
     "total_value_low": 206307767,
     "total_value_high": 206307767,
     "by_state": {
-      "VT": 3,
+      "VT": 4,
       "NH": 2,
-      "ME": 4,
-      "MA": 22,
+      "ME": 3,
+      "MA": 21,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 26,
       "news": 7,
-      "funding": 2
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -38,26 +38,6 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "809a94ed8c2e",
-      "state": "MA",
-      "project_id": "613383",
-      "description": "Interstate Pavement Preservation and Related Work on I-95",
-      "cost_low": 26479138,
-      "cost_high": 26479138,
-      "cost_display": "$26.5M",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Lynnfield - Wakefield",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613383",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
       ]
     },
     {
@@ -212,6 +192,26 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "809a94ed8c2e",
+      "state": "MA",
+      "project_id": "613383",
+      "description": "Interstate Pavement Preservation and Related Work on I-95",
+      "cost_low": 26479138,
+      "cost_high": 26479138,
+      "cost_display": "$26.5M",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Lynnfield - Wakefield",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613383",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
       ]
     },
     {
@@ -521,83 +521,69 @@
   ],
   "news": [
     {
-      "id": "e0d505e4c581",
-      "title": "Obituary: Mary Bridget (Costigan) Foster",
-      "summary": "SOUTH PORTLAND - Mary Bridget (Costigan) Foster, passed away on her 65th birthday, April 27, 2026.\n\nShe was born on April 27, ...",
-      "url": "https://www.pressherald.com/2026/04/30/obituarymary-bridget-costigan-foster-2/",
+      "id": "40562a622f0c",
+      "title": "Special event at The Downs: Tour new-construction condos in Scarborough at Cross Street Condos and The Parker Apartments",
+      "summary": "231 Scarborough Downs Road, Scarborough | Open house on Saturday, May 3",
+      "url": "https://www.pressherald.com/2026/05/01/discover-urban-sophistication-and-unparalleled-comfort-at-cross-street-condos-2/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "838c1fc277a7",
-      "title": "Death Notice: Mary Bridget (Costigan) Foster",
-      "summary": "Foster, Mary Bridget (Costigan) 65, of South Portland, April 27. Visiting Hours, 2 to 6 p.m., May 3, Conroy-Tully Walker Funeral ...",
-      "url": "https://www.pressherald.com/2026/04/30/obituarymary-bridget-costigan-foster/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-04-30",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b3158571012b",
-      "title": "Tractor-trailer crash on busy Mass. highway causing significant delays during morning commute",
-      "summary": "The incident is expected to cause significant delays through the morning commute, as the highway is reduced to one lane in that area.",
-      "url": "https://www.masslive.com/news/2026/04/tractor-trailer-crash-on-busy-mass-highway-causing-significant-delays-during-morning-commute.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-04-30",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fa1a45e87eaf",
-      "title": "Select Board approves MassDOT program that monitors motorists\u2019 speeds",
-      "summary": "The Southwick Police Department was successful in getting a state grant from the state Department of Transportation to have several speed feedback signs installed at fixed location and on two movable trailers to help the town manage roadway speeds and safety.",
-      "url": "https://www.masslive.com/westfieldnews/2026/04/select-board-approves-massdot-program-that-monitors-motorists-speeds.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-04-30",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4e8a0dcdc1f7",
-      "title": "Bay State Conference: Natick shakes up top half of boys lacrosse rankings",
-      "summary": "One-sided wins against Lexington, Bridgewater-Raynham and Braintree has Natick on the move in this week's rankings.",
-      "url": "https://www.masslive.com/highschoolsports/2026/04/bay-state-conference-natick-shakes-up-top-half-of-boys-lacrosse-rankings.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-04-30",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "325942a1ec96",
-      "title": "State regulators reopen northern Maine power line bids",
-      "summary": "The Northern Maine Renewable Energy Development Program is a second attempt following the failed King Pine Wind and LS Power project.",
-      "url": "https://www.bangordailynews.com/2026/04/29/aroostook/aroostook-government/state-regulators-reopen-northern-maine-power-line-bids/",
+      "id": "b1ef33534077",
+      "title": "Deer Isle retiree collects roadside trash for gas money while cleaning up hometown",
+      "summary": "Tim Raye now cleans up several miles of road a day or more on most clear days.",
+      "url": "https://www.bangordailynews.com/2026/05/01/hancock/hancock-culture/deer-isle-retiree-roadside-cleanup-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-04-29",
+      "date": "2026-05-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7251ccfbd303",
+      "title": "Truck crash on Mass. highway causing major traffic backup",
+      "summary": "Traffic on the highway was backed up more than six miles before the crash site.",
+      "url": "https://www.masslive.com/news/2026/05/truck-crash-on-mass-highway-causing-major-traffic-backup.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-01",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bf564f78ff25",
+      "title": "Gem Marina\u2019s summer future uncertain as board weighs boat slip conversion",
+      "summary": "The Southwick Planning Board decided during its meeting Tuesday it needed more time to decide on a request by Ken Eggleston, the owner of Gem Marina and the former Lake View Tavern at 141 Congamond Road, to convert 16 boat slips from transient to rental because of the possibility the restaurant won\u2019",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/gem-marinas-summer-future-uncertain-as-board-weighs-boat-slip-conversion.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "01bced5a127d",
+      "title": "No kings in Vermont? Are you sure?",
+      "summary": "Incumbent governors in Vermont haven't lost a reelection bid since 1962 \u2014 longer than the state has had Act 250, Green Up Day or Ben & Jerry's.\nRead the story on VTDigger here:  No kings in Vermont? Are you sure?.",
+      "url": "https://vtdigger.org/2026/04/30/opinion-no-kings-in-vermont-are-you-sure/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-04-30",
       "category": "news",
       "priority": "high",
       "business_lines": [
