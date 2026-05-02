@@ -1,23 +1,23 @@
 {
-  "generated": "2026-05-01T11:48:53.714716Z",
+  "generated": "2026-05-02T11:34:38.229541Z",
   "summary": {
-    "total_opportunities": 27,
-    "total_value_low": 206307767,
-    "total_value_high": 206307767,
+    "total_opportunities": 33,
+    "total_value_low": 375684155,
+    "total_value_high": 375684155,
     "by_state": {
-      "VT": 4,
+      "VT": 2,
       "NH": 2,
-      "ME": 3,
-      "MA": 21,
+      "ME": 2,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 26,
-      "news": 7,
-      "funding": 1
+      "dot_letting": 33,
+      "news": 5,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -329,6 +329,104 @@
       ]
     },
     {
+      "id": "cdeb8ef3c671",
+      "state": "MA",
+      "project_id": "609061",
+      "description": "Intersection Improvements at Montgomery Street, Granby Road, and McKinstry Avenue",
+      "cost_low": 11360363,
+      "cost_high": 11360363,
+      "cost_display": "$11.4M",
+      "ad_date": "2026-05-02",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Chicopee",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609061",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a9df5a8101b6",
+      "state": "MA",
+      "project_id": "614097",
+      "description": "Scheduled and Emergency Bridge Deck and Joint Repairs at Various Locations",
+      "cost_low": 2284485,
+      "cost_high": 2284485,
+      "cost_display": "$2.3M",
+      "ad_date": "2026-05-02",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Bridge - Deck Repairs",
+      "location": "District 3",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614097",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "fb79149d4592",
+      "state": "MA",
+      "project_id": "614104",
+      "description": "Scheduled and Emergency Joint Repairs at Various Locations",
+      "cost_low": 3013500,
+      "cost_high": 3013500,
+      "cost_display": "$3.0M",
+      "ad_date": "2026-05-02",
+      "let_date": null,
+      "project_type": "Bridge - Joints",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614104",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7de54ce0198a",
+      "state": "MA",
+      "project_id": "614105",
+      "description": "Bridge Resurfacing at Various Locations",
+      "cost_low": 2767000,
+      "cost_high": 2767000,
+      "cost_display": "$2.8M",
+      "ad_date": "2026-05-02",
+      "let_date": null,
+      "project_type": "Bridge - Deck Repairs",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614105",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "08d10199a8bb",
+      "state": "MA",
+      "project_id": "609436",
+      "description": "Bridge Preservation of H-10-013, H-10-014 and H-10-016 along Route 6",
+      "cost_low": 3455790,
+      "cost_high": 3455790,
+      "cost_display": "$3.5M",
+      "ad_date": "2026-05-02",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Harwich",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609436",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "0739b2088d23",
       "state": "MA",
       "project_id": "613404",
@@ -342,6 +440,25 @@
       "location": "Northampton",
       "district": 2,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e223bf077b53",
+      "state": "MA",
+      "project_id": "614072",
+      "description": "Scheduled and Emergency Water Quality Control Structures (WQCS) Clean Out & Repair in I-90 & I-93 Tunnels",
+      "cost_low": 735250,
+      "cost_high": 735250,
+      "cost_display": "$735K",
+      "ad_date": "2026-05-02",
+      "let_date": null,
+      "project_type": "Catch Basin Cleaning",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614072",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -383,6 +500,26 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "8f7a0f9d7277",
+      "state": "MA",
+      "project_id": "612187",
+      "description": "Bridge Replacement, C-13-038, I-391 over (ST 116) Chicopee Street Design-Build",
+      "cost_low": 145760000,
+      "cost_high": 145760000,
+      "cost_display": "$145.8M",
+      "ad_date": "2026-05-02",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Chicopee",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612187",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
       ]
     },
     {
@@ -521,13 +658,13 @@
   ],
   "news": [
     {
-      "id": "40562a622f0c",
-      "title": "Special event at The Downs: Tour new-construction condos in Scarborough at Cross Street Condos and The Parker Apartments",
-      "summary": "231 Scarborough Downs Road, Scarborough | Open house on Saturday, May 3",
-      "url": "https://www.pressherald.com/2026/05/01/discover-urban-sophistication-and-unparalleled-comfort-at-cross-street-condos-2/",
+      "id": "09260b65e827",
+      "title": "Opportunity knocks for Portland\u2019s Bayside neighborhood | Opinion",
+      "summary": "The area is ripe for development. Relocating the school administration, establishing a family shelter and community center, these are options worth exploring.",
+      "url": "https://www.pressherald.com/2026/05/02/opportunity-knocks-for-portlands-bayside-neighborhood-opinion/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -535,13 +672,13 @@
       ]
     },
     {
-      "id": "b1ef33534077",
-      "title": "Deer Isle retiree collects roadside trash for gas money while cleaning up hometown",
-      "summary": "Tim Raye now cleans up several miles of road a day or more on most clear days.",
-      "url": "https://www.bangordailynews.com/2026/05/01/hancock/hancock-culture/deer-isle-retiree-roadside-cleanup-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-01",
+      "id": "6225993c5542",
+      "title": "Third annual Southwick Land Trust \u2018Spiff Up\u2019 to be held May 9",
+      "summary": "On Saturday, volunteers will sweep through town during the Southwick Land Trust\u2019s third annual Southwick Spiff Up to pick up trash, which runs the gamut from nip bottles to used tires, thrown out by folks who should know better onto the town\u2019s streets and roads.",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/third-annual-southwick-land-trust-spiff-up-to-be-held-may-9.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-02",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -549,27 +686,13 @@
       ]
     },
     {
-      "id": "7251ccfbd303",
-      "title": "Truck crash on Mass. highway causing major traffic backup",
-      "summary": "Traffic on the highway was backed up more than six miles before the crash site.",
-      "url": "https://www.masslive.com/news/2026/05/truck-crash-on-mass-highway-causing-major-traffic-backup.html",
+      "id": "e735e20994a9",
+      "title": "AG rules against Southwick\u2019s temporary moratorium on solar arrays and BESS systems",
+      "summary": "With the Attorney General\u2019s office ruling against the Town Meeting approval of a temporary moratorium on building large-scale solar arrays and battery energy storage systems in Southwick, any company can now apply for a permit to install those systems.",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/ag-rules-against-southwicks-temporary-moratorium-on-solar-arrays-and-bess-systems.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-05-01",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bf564f78ff25",
-      "title": "Gem Marina\u2019s summer future uncertain as board weighs boat slip conversion",
-      "summary": "The Southwick Planning Board decided during its meeting Tuesday it needed more time to decide on a request by Ken Eggleston, the owner of Gem Marina and the former Lake View Tavern at 141 Congamond Road, to convert 16 boat slips from transient to rental because of the possibility the restaurant won\u2019",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/gem-marinas-summer-future-uncertain-as-board-weighs-boat-slip-conversion.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -585,34 +708,6 @@
       "state": "VT",
       "date": "2026-04-30",
       "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "19040facd016",
-      "title": "The UVM Cancer Center is scaling up its on-the-road efforts",
-      "summary": "Also in Final Reading: A Medicaid request, a law without a signature and Noah Kahan.\nRead the story on VTDigger here:  The UVM Cancer Center is scaling up its on-the-road efforts.",
-      "url": "https://vtdigger.org/2026/04/28/the-uvm-cancer-center-is-scaling-up-its-on-the-road-efforts/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-28",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d1a88587821e",
-      "title": "South Burlington signs $20 million contract for delayed pedestrian bike bridge",
-      "summary": "\u201cExit 14 is one of the most challenging and most trafficked intersections and interchanges in the state. And for people walking and biking it feels unsafe, it\u2019s loud, it\u2019s noisy, scary,\u201d said an area transportation planner.\nRead the story on VTDigger here:  South Burlington signs $20 million contra",
-      "url": "https://vtdigger.org/2026/04/28/south-burlington-signs-20-million-contract-for-delayed-pedestrian-bike-bridge/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-28",
-      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
