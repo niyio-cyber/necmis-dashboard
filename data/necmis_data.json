@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-02T11:34:38.229541Z",
+  "generated": "2026-05-03T11:32:58.418357Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 36,
     "total_value_low": 375684155,
     "total_value_high": 375684155,
     "by_state": {
       "VT": 2,
       "NH": 2,
-      "ME": 2,
-      "MA": 28,
+      "ME": 5,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 5,
-      "funding": 0
+      "news": 4,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -658,13 +658,27 @@
   ],
   "news": [
     {
-      "id": "09260b65e827",
-      "title": "Opportunity knocks for Portland\u2019s Bayside neighborhood | Opinion",
-      "summary": "The area is ripe for development. Relocating the school administration, establishing a family shelter and community center, these are options worth exploring.",
-      "url": "https://www.pressherald.com/2026/05/02/opportunity-knocks-for-portlands-bayside-neighborhood-opinion/",
+      "id": "3f56e2e6f5c8",
+      "title": "Reorganize SNAP to restore funding for foreign assistance | Letter",
+      "summary": "The United States Agency of International Development (USAID) helped prevent roughly 1 million child deaths per year. Other U.S. foreign assistance programs have also saved many lives, and under President Obama, the State Department used diplomacy with the United Kingdom, France, Germany, Russia, Ch",
+      "url": "https://www.pressherald.com/2026/05/03/reorganize-snap-to-restore-funding-for-foreign-assistance-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-02",
+      "date": "2026-05-03",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d53a5e0d7699",
+      "title": "With new sawmill, Mi\u2019kmaq Nation is extending it limbs into home construction",
+      "summary": "The Aroostook County tribe is is turning timber into affordable homes.",
+      "url": "https://www.pressherald.com/2026/05/03/with-new-sawmill-mikmaq-nation-is-extending-it-limbs-into-home-construction/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-03",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -672,26 +686,40 @@
       ]
     },
     {
-      "id": "6225993c5542",
-      "title": "Third annual Southwick Land Trust \u2018Spiff Up\u2019 to be held May 9",
-      "summary": "On Saturday, volunteers will sweep through town during the Southwick Land Trust\u2019s third annual Southwick Spiff Up to pick up trash, which runs the gamut from nip bottles to used tires, thrown out by folks who should know better onto the town\u2019s streets and roads.",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/third-annual-southwick-land-trust-spiff-up-to-be-held-may-9.html",
+      "id": "c6eadfcbb4e4",
+      "title": "Mass. high court to have final say in case of judge accused of letting man evade ICE",
+      "summary": "A legal saga involving a judge, a defense lawyer, federal immigration agents and a defendant will go before Massachusetts' highest court on Monday.",
+      "url": "https://www.masslive.com/news/2026/05/the-thorny-case-of-a-mass-judge-accused-of-helping-a-man-escape-ice-is-nearing-its-conclusion.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-05-03",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ab9019c07933",
+      "title": "Midcoast auto dealer to spend up to $20M to move to Thomaston",
+      "summary": "Quirk Auto plans to move its dealership on Route 1 in Rockland to a site is is developing on New County Road",
+      "url": "https://www.bangordailynews.com/2026/05/02/midcoast/midcoast-business/midcoast-auto-dealer-to-spend-up-to-20m-to-move-to-thomaston/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-05-02",
-      "category": "news",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "e735e20994a9",
-      "title": "AG rules against Southwick\u2019s temporary moratorium on solar arrays and BESS systems",
-      "summary": "With the Attorney General\u2019s office ruling against the Town Meeting approval of a temporary moratorium on building large-scale solar arrays and battery energy storage systems in Southwick, any company can now apply for a permit to install those systems.",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/ag-rules-against-southwicks-temporary-moratorium-on-solar-arrays-and-bess-systems.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "ab0f0f63b41f",
+      "title": "Cooking error blamed in Lincoln fire that left 1 injured",
+      "summary": "Firefighters were dispatched to 497 Lee Road at approximately 2:41 a.m. and arrived to find heavy fire showing from a single-story home.",
+      "url": "https://www.bangordailynews.com/2026/05/02/penobscot/penobscot-police-courts/cooking-error-lincoln-fire-1-injured/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-05-02",
       "category": "news",
       "priority": "medium",
