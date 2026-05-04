@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-03T11:32:58.418357Z",
+  "generated": "2026-05-04T12:15:25.149426Z",
   "summary": {
-    "total_opportunities": 36,
+    "total_opportunities": 33,
     "total_value_low": 375684155,
     "total_value_high": 375684155,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 2,
-      "ME": 5,
-      "MA": 27,
+      "ME": 2,
+      "MA": 29,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 4,
-      "funding": 3
+      "news": 7,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -658,27 +658,13 @@
   ],
   "news": [
     {
-      "id": "3f56e2e6f5c8",
-      "title": "Reorganize SNAP to restore funding for foreign assistance | Letter",
-      "summary": "The United States Agency of International Development (USAID) helped prevent roughly 1 million child deaths per year. Other U.S. foreign assistance programs have also saved many lives, and under President Obama, the State Department used diplomacy with the United Kingdom, France, Germany, Russia, Ch",
-      "url": "https://www.pressherald.com/2026/05/03/reorganize-snap-to-restore-funding-for-foreign-assistance-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-03",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d53a5e0d7699",
-      "title": "With new sawmill, Mi\u2019kmaq Nation is extending it limbs into home construction",
-      "summary": "The Aroostook County tribe is is turning timber into affordable homes.",
-      "url": "https://www.pressherald.com/2026/05/03/with-new-sawmill-mikmaq-nation-is-extending-it-limbs-into-home-construction/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-03",
+      "id": "b6a9dcf61f95",
+      "title": "The hidden fee spreading across Vermont parking meters",
+      "summary": "In several municipalities, for shorter parking times, it is possible to pay more in service fees than in the actual parking charges.\nRead the story on VTDigger here:  The hidden fee spreading across Vermont parking meters.",
+      "url": "https://vtdigger.org/2026/05/04/the-hidden-fee-spreading-across-vermont-parking-meters/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-05-04",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -686,41 +672,55 @@
       ]
     },
     {
-      "id": "c6eadfcbb4e4",
-      "title": "Mass. high court to have final say in case of judge accused of letting man evade ICE",
-      "summary": "A legal saga involving a judge, a defense lawyer, federal immigration agents and a defendant will go before Massachusetts' highest court on Monday.",
-      "url": "https://www.masslive.com/news/2026/05/the-thorny-case-of-a-mass-judge-accused-of-helping-a-man-escape-ice-is-nearing-its-conclusion.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-03",
-      "category": "funding",
+      "id": "58d721c87589",
+      "title": "See 3 historic riverfront mills in Maine that offer modern apartment living",
+      "summary": "Converted industrial properties in Biddeford, Lewiston and Skowhegan show what can be done with sturdy brick buildings and a little imagination.",
+      "url": "https://www.pressherald.com/2026/05/04/see-3-historic-riverfront-mills-in-maine-that-offer-modern-apartment-living/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-04",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "ab9019c07933",
-      "title": "Midcoast auto dealer to spend up to $20M to move to Thomaston",
-      "summary": "Quirk Auto plans to move its dealership on Route 1 in Rockland to a site is is developing on New County Road",
-      "url": "https://www.bangordailynews.com/2026/05/02/midcoast/midcoast-business/midcoast-auto-dealer-to-spend-up-to-20m-to-move-to-thomaston/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-02",
-      "category": "funding",
+      "id": "2faf69cc2567",
+      "title": "Joe Biden backs former aide in competitive Mass. congressional race",
+      "summary": "Dan Koh shared footage of Biden's endorsement call and throwback scenes from the Oval Office as he competes in a crowded Democratic primary for Seth Moulton's seat.",
+      "url": "https://www.masslive.com/politics/2026/05/former-president-biden-endorses-dan-koh-in-6th-district-dem-primary.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-04",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9fbc63c3651a",
+      "title": "Former ambassador takes his Common Sense for Commonwealth project on the road",
+      "summary": "Rent control is a \u201ctourniquet to a crisis that allows people to stop hemorrhaging money,\u201d said Katie Talbot, organizing director of Springfield No One Leaves.",
+      "url": "https://www.masslive.com/westernmass/2026/05/former-ambassador-takes-his-common-sense-for-commonwealth-project-on-the-road.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-04",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "ab0f0f63b41f",
-      "title": "Cooking error blamed in Lincoln fire that left 1 injured",
-      "summary": "Firefighters were dispatched to 497 Lee Road at approximately 2:41 a.m. and arrived to find heavy fire showing from a single-story home.",
-      "url": "https://www.bangordailynews.com/2026/05/02/penobscot/penobscot-police-courts/cooking-error-lincoln-fire-1-injured/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-02",
+      "id": "1949384c4096",
+      "title": "How Bruins prospect James Hagens hopes playing for Team USA speeds his development",
+      "summary": "Hagens will play for Team USA at the IIHF World Championships in Switzerland.",
+      "url": "https://www.masslive.com/bruins/2026/05/how-bruins-prospect-james-hagens-hopes-playing-for-team-usa-speeds-his-development.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-04",
       "category": "news",
       "priority": "medium",
       "business_lines": [
