@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-04T12:15:25.149426Z",
+  "generated": "2026-05-05T11:53:37.488142Z",
   "summary": {
     "total_opportunities": 33,
     "total_value_low": 375684155,
@@ -8,7 +8,7 @@
       "VT": 3,
       "NH": 2,
       "ME": 2,
-      "MA": 29,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 7,
+      "news": 4,
       "funding": 0
     }
   },
@@ -658,6 +658,34 @@
   ],
   "news": [
     {
+      "id": "1b35de520829",
+      "title": "Maine should be proud to be on Canadian college students\u2019 radar | Letter",
+      "summary": "As the leader of Maine\u2019s largest higher education enterprise, I read with interest the April 23 article \u201cMore Maine high schoolers are looking to Canada for college.\u201d While the number of American study permit holders in Canada reached its highest point in a decade in 2025 \u2014 a 50% increase from 2015",
+      "url": "https://www.pressherald.com/2026/05/05/maine-should-be-proud-to-be-on-canadian-college-students-radar-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "78145720b842",
+      "title": "Vermont Attorney General Charity Clark launches reelection bid",
+      "summary": "The Democrat, who was rumored to be a candidate for governor this year, said she\u2019s eager to continue \u201cto protect the sovereign state of Vermont against unconstitutional and illegal acts.\u201d\nRead the story on VTDigger here:  Vermont Attorney General Charity Clark launches reelection bid.",
+      "url": "https://vtdigger.org/2026/05/04/vermont-attorney-general-charity-clark-launches-reelection-bid/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-05-04",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "b6a9dcf61f95",
       "title": "The hidden fee spreading across Vermont parking meters",
       "summary": "In several municipalities, for shorter parking times, it is possible to pay more in service fees than in the actual parking charges.\nRead the story on VTDigger here:  The hidden fee spreading across Vermont parking meters.",
@@ -667,76 +695,6 @@
       "date": "2026-05-04",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "58d721c87589",
-      "title": "See 3 historic riverfront mills in Maine that offer modern apartment living",
-      "summary": "Converted industrial properties in Biddeford, Lewiston and Skowhegan show what can be done with sturdy brick buildings and a little imagination.",
-      "url": "https://www.pressherald.com/2026/05/04/see-3-historic-riverfront-mills-in-maine-that-offer-modern-apartment-living/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-04",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2faf69cc2567",
-      "title": "Joe Biden backs former aide in competitive Mass. congressional race",
-      "summary": "Dan Koh shared footage of Biden's endorsement call and throwback scenes from the Oval Office as he competes in a crowded Democratic primary for Seth Moulton's seat.",
-      "url": "https://www.masslive.com/politics/2026/05/former-president-biden-endorses-dan-koh-in-6th-district-dem-primary.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-04",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9fbc63c3651a",
-      "title": "Former ambassador takes his Common Sense for Commonwealth project on the road",
-      "summary": "Rent control is a \u201ctourniquet to a crisis that allows people to stop hemorrhaging money,\u201d said Katie Talbot, organizing director of Springfield No One Leaves.",
-      "url": "https://www.masslive.com/westernmass/2026/05/former-ambassador-takes-his-common-sense-for-commonwealth-project-on-the-road.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1949384c4096",
-      "title": "How Bruins prospect James Hagens hopes playing for Team USA speeds his development",
-      "summary": "Hagens will play for Team USA at the IIHF World Championships in Switzerland.",
-      "url": "https://www.masslive.com/bruins/2026/05/how-bruins-prospect-james-hagens-hopes-playing-for-team-usa-speeds-his-development.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "01bced5a127d",
-      "title": "No kings in Vermont? Are you sure?",
-      "summary": "Incumbent governors in Vermont haven't lost a reelection bid since 1962 \u2014 longer than the state has had Act 250, Green Up Day or Ben & Jerry's.\nRead the story on VTDigger here:  No kings in Vermont? Are you sure?.",
-      "url": "https://vtdigger.org/2026/04/30/opinion-no-kings-in-vermont-are-you-sure/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-04-30",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
