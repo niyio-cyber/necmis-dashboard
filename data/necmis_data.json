@@ -1,83 +1,26 @@
 {
-  "generated": "2026-05-05T11:53:37.488142Z",
+  "generated": "2026-05-06T12:20:48.247196Z",
   "summary": {
-    "total_opportunities": 33,
-    "total_value_low": 375684155,
-    "total_value_high": 375684155,
+    "total_opportunities": 30,
+    "total_value_low": 364688184,
+    "total_value_high": 364688184,
     "by_state": {
       "VT": 3,
       "NH": 2,
-      "ME": 2,
-      "MA": 26,
+      "ME": 6,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 33,
-      "news": 4,
+      "dot_letting": 30,
+      "news": 9,
       "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "945b2cd4a64a",
-      "state": "MA",
-      "project_id": "614022",
-      "description": "Facilities Repair at Various Locations on I-90 (Western Turnpike)",
-      "cost_low": 75000,
-      "cost_high": 75000,
-      "cost_display": "$75K",
-      "ad_date": "2026-04-11",
-      "let_date": null,
-      "project_type": "DCAMM-General Building Construction",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614022",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "92da8d6bf34f",
-      "state": "MA",
-      "project_id": "610647",
-      "description": "Corridor Improvements on Route 6 at Swifts Beach Road",
-      "cost_low": 7689811,
-      "cost_high": 7689811,
-      "cost_display": "$7.7M",
-      "ad_date": "2026-03-28",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Wareham",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610647",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0ce411617064",
-      "state": "MA",
-      "project_id": "608940",
-      "description": "Intersection Improvements Boston Post Road (Route 20) at Wellesley Street",
-      "cost_low": 3231160,
-      "cost_high": 3231160,
-      "cost_display": "$3.2M",
-      "ad_date": "2026-03-28",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Weston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608940",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "43bf9ce73538",
       "state": "MA",
@@ -112,25 +55,6 @@
       "location": "District 5",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614085",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "344e3b14ad0f",
-      "state": "MA",
-      "project_id": "609440",
-      "description": "Intersection Improvements at Hancock Street and Chestnut Street",
-      "cost_low": 6514873,
-      "cost_high": 6514873,
-      "cost_display": "$6.5M",
-      "ad_date": "2026-04-18",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Abington",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609440",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -228,6 +152,25 @@
       "location": "Northbridge",
       "district": 3,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614177",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "344e3b14ad0f",
+      "state": "MA",
+      "project_id": "609440",
+      "description": "Intersection Improvements at Hancock Street and Chestnut Street",
+      "cost_low": 6514873,
+      "cost_high": 6514873,
+      "cost_display": "$6.5M",
+      "ad_date": "2026-04-18",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Abington",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609440",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -658,13 +601,83 @@
   ],
   "news": [
     {
-      "id": "1b35de520829",
-      "title": "Maine should be proud to be on Canadian college students\u2019 radar | Letter",
-      "summary": "As the leader of Maine\u2019s largest higher education enterprise, I read with interest the April 23 article \u201cMore Maine high schoolers are looking to Canada for college.\u201d While the number of American study permit holders in Canada reached its highest point in a decade in 2025 \u2014 a 50% increase from 2015",
-      "url": "https://www.pressherald.com/2026/05/05/maine-should-be-proud-to-be-on-canadian-college-students-radar-letter/",
+      "id": "6125d1d3b5c6",
+      "title": "How a dangerous Portland intersection is sparking debate about pedestrian safety",
+      "summary": "After a deadly year for pedestrians, city officials say safer roads are a priority. That takes time and money.",
+      "url": "https://www.pressherald.com/2026/05/06/how-a-dangerous-portland-intersection-is-driving-talks-on-pedestrian-safety/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "752449c2a5f7",
+      "title": "Why slander people who protest Trump? | Letter",
+      "summary": "Vicious and demented? An April 30 letter referred to \u201cdemented and vicious anti-Trumpers who have been lining our streets for months.\u201d Well. I am an 82-year-old grandmother who has been part of these demonstrations along streets and bridges in Maine. I\u2019ve been protesting the actions of a president w",
+      "url": "https://www.pressherald.com/2026/05/06/why-slander-people-who-protest-trump-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b77a2ca7f35b",
+      "title": "Maine has a crowded June primary. Ranked-choice voting will prevent spoilers.",
+      "summary": "\u201cRanked-choice voting encourages candidates to appeal broadly, seek second-choice support and sometimes even cross-endorse each other.\u201d",
+      "url": "https://www.bangordailynews.com/2026/05/06/opinion/opinion-contributor/maine-primary-ranked-choice-voting-will-prevent-spoilers-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-06",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3244786f0fc6",
+      "title": "The BDN wants to hear from you about affordability",
+      "summary": "Are you buying less food? Bartering? Driving less? Letting bills slip? We\u2019d love to hear from you.",
+      "url": "https://www.bangordailynews.com/2026/05/06/midcoast/midcoast-culture/bdn-maine-affordability-reporting-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1dfb08e21459",
+      "title": "Belfast looks to add more solar power as its electricity use and costs rise",
+      "summary": "From April 2025 to March 2026 the city\u2019s solar arrays only offset about 69% of municipal electrical use, down from 90% in 2019.",
+      "url": "https://www.bangordailynews.com/2026/05/05/midcoast/midcoast-government/belfast-to-add-more-solar-power/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-06",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bde4f0313b95",
+      "title": "N.J. family loses business, car after ICE roadblock",
+      "summary": "Jairo Acosta chose voluntary deportation after being detained, leaving his wife to scramble for money to return to Colombia.",
+      "url": "https://www.masslive.com/palabra/2026/05/nj-family-loses-business-car-after-ice-roadblock.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-06",
       "category": "news",
       "priority": "medium",
       "business_lines": [
