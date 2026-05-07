@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-06T12:20:48.247196Z",
+  "generated": "2026-05-07T12:23:11.172408Z",
   "summary": {
     "total_opportunities": 30,
     "total_value_low": 364688184,
     "total_value_high": 364688184,
     "by_state": {
-      "VT": 3,
+      "VT": 5,
       "NH": 2,
-      "ME": 6,
-      "MA": 24,
+      "ME": 5,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 9,
+      "news": 12,
       "funding": 0
     }
   },
@@ -94,25 +94,6 @@
       "location": "District 5",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614091",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "24c963430a35",
-      "state": "MA",
-      "project_id": "614070",
-      "description": "Inspect, Service and Repair Elevators at Various Locations",
-      "cost_low": 264200,
-      "cost_high": 264200,
-      "cost_display": "$264K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM-Elevators",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614070",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -285,6 +266,25 @@
       "location": "Chicopee",
       "district": 2,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609061",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "24c963430a35",
+      "state": "MA",
+      "project_id": "614070",
+      "description": "Inspect, Service and Repair Elevators at Various Locations",
+      "cost_low": 264200,
+      "cost_high": 264200,
+      "cost_display": "$264K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM-Elevators",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614070",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -601,13 +601,13 @@
   ],
   "news": [
     {
-      "id": "6125d1d3b5c6",
-      "title": "How a dangerous Portland intersection is sparking debate about pedestrian safety",
-      "summary": "After a deadly year for pedestrians, city officials say safer roads are a priority. That takes time and money.",
-      "url": "https://www.pressherald.com/2026/05/06/how-a-dangerous-portland-intersection-is-driving-talks-on-pedestrian-safety/",
+      "id": "ed2fd30d4d5b",
+      "title": "ADU construction in Maine hasn\u2019t matched interest, despite best efforts",
+      "summary": "The state has aggressively loosened zoning restrictions to encourage accessory dwelling units, but cost and a lack of awareness are slowing the uptake.",
+      "url": "https://www.pressherald.com/2026/05/07/adu-construction-in-maine-hasnt-matched-interest-despite-best-efforts/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -615,27 +615,13 @@
       ]
     },
     {
-      "id": "752449c2a5f7",
-      "title": "Why slander people who protest Trump? | Letter",
-      "summary": "Vicious and demented? An April 30 letter referred to \u201cdemented and vicious anti-Trumpers who have been lining our streets for months.\u201d Well. I am an 82-year-old grandmother who has been part of these demonstrations along streets and bridges in Maine. I\u2019ve been protesting the actions of a president w",
-      "url": "https://www.pressherald.com/2026/05/06/why-slander-people-who-protest-trump-letter/",
+      "id": "b0e1a26483b5",
+      "title": "The state wants ADUs. Cities and towns are seeing mixed results.",
+      "summary": "Maine's many municipalities are taking different approaches to accessory dwelling units.",
+      "url": "https://www.pressherald.com/2026/05/07/the-state-wants-adus-cities-and-towns-are-seeing-mixed-results/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-06",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b77a2ca7f35b",
-      "title": "Maine has a crowded June primary. Ranked-choice voting will prevent spoilers.",
-      "summary": "\u201cRanked-choice voting encourages candidates to appeal broadly, seek second-choice support and sometimes even cross-endorse each other.\u201d",
-      "url": "https://www.bangordailynews.com/2026/05/06/opinion/opinion-contributor/maine-primary-ranked-choice-voting-will-prevent-spoilers-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -643,27 +629,13 @@
       ]
     },
     {
-      "id": "3244786f0fc6",
-      "title": "The BDN wants to hear from you about affordability",
-      "summary": "Are you buying less food? Bartering? Driving less? Letting bills slip? We\u2019d love to hear from you.",
-      "url": "https://www.bangordailynews.com/2026/05/06/midcoast/midcoast-culture/bdn-maine-affordability-reporting-joam40zk0w/",
+      "id": "6e4329a5f18f",
+      "title": "Bangor changed its rules to encourage\u00a0more housing. Developers say it\u2019s not enough.",
+      "summary": "One cited the growing cost of land, construction materials and labor as the biggest barriers.",
+      "url": "https://www.bangordailynews.com/2026/05/07/business/business-housing/bangor-housing-development-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-05-06",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1dfb08e21459",
-      "title": "Belfast looks to add more solar power as its electricity use and costs rise",
-      "summary": "From April 2025 to March 2026 the city\u2019s solar arrays only offset about 69% of municipal electrical use, down from 90% in 2019.",
-      "url": "https://www.bangordailynews.com/2026/05/05/midcoast/midcoast-government/belfast-to-add-more-solar-power/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -671,15 +643,99 @@
       ]
     },
     {
-      "id": "bde4f0313b95",
-      "title": "N.J. family loses business, car after ICE roadblock",
-      "summary": "Jairo Acosta chose voluntary deportation after being detained, leaving his wife to scramble for money to return to Colombia.",
-      "url": "https://www.masslive.com/palabra/2026/05/nj-family-loses-business-car-after-ice-roadblock.html",
+      "id": "2c8f8d20ba85",
+      "title": "I\u2019m a mayor who supports Hannah Pingree for governor",
+      "summary": "\u201cWe need leadership that respects municipalities, values collaboration, and understands that local success drives statewide success.\u201d",
+      "url": "https://www.bangordailynews.com/2026/05/07/opinion/opinion-contributor/mayor-supports-hannah-pingree-for-governor-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2a142e3a816f",
+      "title": "Prospect of more off-campus housing on dead end street creates stir among residents",
+      "summary": "On May 5, the Planning Board heard a proposal from Rob Levesque of R. Levesque Assoc., on behalf of Chad Hedges of Off-Campus Housing LLC, for a special permit to divide 5 Clark Street into two residential lots to add a second multi-family housing structures.\nThe existing building houses up to ten c",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/prospect-of-more-off-campus-housing-on-dead-end-street-creates-stir-among-residents.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-05-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c81f5a4ba365",
+      "title": "Southwick announces mandatory water use restrictions",
+      "summary": "On May 1,Southwick's Water Commission and DPW Water Department announced it had implemented mandatory water restrictions for town water customers, which is the earliest the restriction date allowed according to the town\u2019s water withdrawal permit, because of a period of low water flows on the Westfie",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/southwick-announces-mandatory-water-use-restrictions.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5486f260e628",
+      "title": "Westfield Planning Board approves Gulf convenience store expansion on Elm Street",
+      "summary": "The Westfield Planning Board\u2019s continued hearing for a special permit for a new Gulf convenience store at the gas station owned by the Prabha Corp on 288 Elm Street began with a clarification of the scope of the hearing by attorney Bradford Moir.",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/westfield-planning-board-approves-gulf-convenience-store-expansion-on-elm-street.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "99e8e80a6f5c",
+      "title": "Vermont lawmakers grapple with giving farmers exemptions to local zoning",
+      "summary": "Also in Final Reading: Road salt veto and ed reform\u2019s slow progress.\nRead the story on VTDigger here:  Vermont lawmakers grapple with giving farmers exemptions to local zoning.",
+      "url": "https://vtdigger.org/2026/05/06/vermont-lawmakers-grapple-with-giving-farmers-exemptions-to-local-zoning/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-05-06",
       "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "aadeff52c00e",
+      "title": "Experienced Vermont media leader Brendan Kinney named CEO of Vermont Journalism Trust and VTDigger",
+      "summary": "\u201cAs CEO, Brendan will strengthen not just VTDigger\u2019s service to its readers, but also the broader news ecosystem of Vermont,\u201d said the organization\u2019s president. He is currently the chief operating officer at Vermont Public.\nRead the story on VTDigger here:  Experienced Vermont media leader Brendan",
+      "url": "https://vtdigger.org/2026/05/06/experienced-vermont-media-leader-brendan-kinney-named-ceo-of-vermont-journalism-trust-and-vtdigger/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-05-06",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8f6ee1ca9c0c",
+      "title": "New bids to slow Interstate 95 service area work in Hampton by at least 9 months",
+      "summary": "The New Hampshire Liquor Commission is making quick work of requesting new bids to develop two service areas off both sides of Interstate 95 in Hampton, but the project will be delayed for months.",
+      "url": "https://www.unionleader.com/news/politics/state/new-bids-to-slow-interstate-95-service-area-work-in-hampton-by-at-least-9/article_00d0335b-60c4-436b-b8e8-50941b20ad04.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-05-06",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -706,20 +762,6 @@
       "source": "VTDigger",
       "state": "VT",
       "date": "2026-05-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9b49158779b9",
-      "title": "Bensonwood completes high-performance education center for Beaver Brook Association",
-      "summary": "Bensonwood, a leader in high-performance offsite construction, has completed the design, fabrication, and installation of the program building at Beaver Brook Association, a conservation and environmental education center in Hollis.",
-      "url": "https://www.unionleader.com/news/business/bensonwood-completes-high-performance-education-center-for-beaver-brook-association/article_fdfeb762-cc6c-4e14-898b-9e8ac04aa559.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-04-27",
       "category": "news",
       "priority": "medium",
       "business_lines": [
