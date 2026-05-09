@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-08T12:01:34.260603Z",
+  "generated": "2026-05-09T11:38:45.782140Z",
   "summary": {
     "total_opportunities": 30,
     "total_value_low": 364688184,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 4,
       "NH": 2,
-      "ME": 6,
-      "MA": 27,
+      "ME": 2,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 13,
+      "news": 5,
       "funding": 0
     }
   },
@@ -601,110 +601,12 @@
   ],
   "news": [
     {
-      "id": "ee7ce50af802",
-      "title": "Has Portland\u2019s inclusionary zoning housing policy gone too far?",
-      "summary": "A 10-year retrospective on the city ordinance requiring large developments to have a percentage of affordable units shows that stricter regulations slowed down production. Councilors will now consider scaling back.",
-      "url": "https://www.pressherald.com/2026/05/08/has-portlands-inclusionary-zoning-housing-ordinance-gone-too-far/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8d06035a3ad5",
-      "title": "Suicide calls down significantly\u00a0at Penobscot Narrows Bridge in year since fencing installed",
-      "summary": "It took 19 years, several state legislative proposals and about a dozen deaths to get the curved chain-link fencing added to the sides of the bridge.",
-      "url": "https://www.bangordailynews.com/2026/05/08/hancock/hancock-health/fewer-suicide-calls-penobscot-narrows-bridge-fencing-joam40zk0w/",
+      "id": "2bdcc077990d",
+      "title": "Maine gubernatorial\u00a0candidates split on energy costs, natural gas and budget cuts",
+      "summary": "Friday afternoon\u2019s debate offered a rare chance to see a broad range of candidates together ahead of the June 9 primaries.",
+      "url": "https://www.bangordailynews.com/2026/05/08/politics/elections/maine-gubernatorial-candidates/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-05-08",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "43fbaaa4b874",
-      "title": "MDI road damaged in 2024 storms still hasn\u2019t been fixed",
-      "summary": "Seawall Road has been the subject of a yearlong dispute among the state, the town of Southwest Harbor and Acadia National Park.",
-      "url": "https://www.bangordailynews.com/2026/05/08/hancock/hancock-government/storm-damaged-mdi-road-hasnt-been-fixed-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f855edaa7d1a",
-      "title": "Letter: Graham Platner explained his priorities. Janet Mills did not.",
-      "summary": "\u201cPlatner has described his policy objectives online, in scores of packed town halls and nationally broadcast interviews.\u201d",
-      "url": "https://www.bangordailynews.com/2026/05/08/opinion/letters/letter-graham-platner-explained-his-priorities-janet-mills-did-not-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "405d53781755",
-      "title": "Crepes Tea House minor permit modification approved, board member Marcus Phelps thanked for service",
-      "summary": "When the Southwick Planning Board met Tuesday, board member Marcus Phelps was thanked for his service to the board, the owner of the restaurant at 141 Congamond Road let the board know he is expecting final approval for his liquor license, and Crepes Tea House was once again on the agenda.",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/crepes-tea-house-minor-permit-modification-approved-board-member-marcus-phelps-thanked-for-service.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "acae3653ab87",
-      "title": "This Mass. restaurant turns oyster shells into a sustainability effort",
-      "summary": "Season to Taste in Cambridge partners with the Massachusetts Oyster Project to serve local oysters and recycle shells, promoting sustainable dining.",
-      "url": "https://www.masslive.com/destinations/2026/05/this-mass-restaurant-is-turning-oyster-shells-into-environmental-hope.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-08",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9a01c54a940e",
-      "title": "Cambridge\u2019s new Italian restaurant, dessert lounge honors owner\u2019s female idols",
-      "summary": "The Boston area's newest dual-concept restaurant encourages diners to indulge in Italian comfort food, imaginative cocktails and playful desserts.",
-      "url": "https://www.masslive.com/destinations/2026/05/cambridges-new-italian-restaurant-dessert-lounge-honors-owners-female-idols.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-08",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e0ea79e5cd3e",
-      "title": "Sunset Season: Connecticut Sun want to \u2018play free\u2019 in team\u2019s last year",
-      "summary": "The Connecticut Sun will open their final season on Friday on the road against the Seattle Storm at 1 p.m. ET",
-      "url": "https://www.masslive.com/sports/2026/05/sunset-season-connecticut-sun-want-to-play-free-in-teams-last-year.html",
-      "source": "MassLive",
-      "state": "MA",
       "date": "2026-05-08",
       "category": "news",
       "priority": "medium",
@@ -719,20 +621,6 @@
       "url": "https://vtdigger.org/2026/05/07/whats-ais-place-in-mental-health-care-vermont-lawmakers-say-it-should-be-limited/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-05-07",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f04ed1c861ec",
-      "title": "Midcoast Villager newspaper cuts staff in bid for financial stability",
-      "summary": "Publisher Aaron Britt said it was \u201cpurely a financial and business decision.\u201d",
-      "url": "https://www.bangordailynews.com/2026/05/07/midcoast/midcoast-business/midcoast-villager-newspaper-cuts-staff/",
-      "source": "Bangor Daily News",
-      "state": "ME",
       "date": "2026-05-07",
       "category": "news",
       "priority": "high",
