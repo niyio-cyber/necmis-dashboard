@@ -1,13 +1,13 @@
 {
-  "generated": "2026-05-09T11:38:45.782140Z",
+  "generated": "2026-05-10T11:38:33.003964Z",
   "summary": {
     "total_opportunities": 30,
     "total_value_low": 364688184,
     "total_value_high": 364688184,
     "by_state": {
-      "VT": 4,
+      "VT": 3,
       "NH": 2,
-      "ME": 2,
+      "ME": 5,
       "MA": 23,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 5,
+      "news": 7,
       "funding": 0
     }
   },
@@ -601,17 +601,59 @@
   ],
   "news": [
     {
-      "id": "2bdcc077990d",
-      "title": "Maine gubernatorial\u00a0candidates split on energy costs, natural gas and budget cuts",
-      "summary": "Friday afternoon\u2019s debate offered a rare chance to see a broad range of candidates together ahead of the June 9 primaries.",
-      "url": "https://www.bangordailynews.com/2026/05/08/politics/elections/maine-gubernatorial-candidates/",
-      "source": "Bangor Daily News",
+      "id": "b88ce3d98252",
+      "title": "How to fix Maine\u2019s tax math | Opinion",
+      "summary": "Voters across the state have been revolting against crushing property tax hikes due to crumbling infrastructure. Fortunately, there's a solution.",
+      "url": "https://www.pressherald.com/2026/05/10/how-to-fix-maines-tax-math-opinion/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-08",
+      "date": "2026-05-10",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "57b4dcccea3d",
+      "title": "Maine must consider planting for the future | Letter",
+      "summary": "Food insecurity is a growing crisis, both across the nation and right here in Maine. To combat this, we need a common-sense approach that balances a return to our agricultural roots, with a focus on education for our youth. We should start by reconsidering how our municipalities spend taxpayer dolla",
+      "url": "https://www.pressherald.com/2026/05/10/maine-should-consider-planting-for-the-future-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-10",
       "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "09b23ec33b2f",
+      "title": "Obituary: Harold L. Doten",
+      "summary": "WINTER HAVEN, Fla. - Harold L. Doten, passed away April 17, 2026.\n\nHarold was born in the small town of Baileyville, Maine, ...",
+      "url": "https://www.pressherald.com/2026/05/10/obituaryharold-l-doten-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-10",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7d20eef16b83",
+      "title": "Watch: UMaine afternoon commencement ceremony",
+      "summary": "The 2:30 p.m. Saturday undergraduate ceremony includes the College of Education and Human Development, College of Liberal Arts and Sciences, and Maine College of Engineering and Computing.",
+      "url": "https://www.bangordailynews.com/2026/05/09/bangor/university-maine-afternoon-commencement/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "ready_mix"
       ]
     },
     {
@@ -633,20 +675,6 @@
       "title": "Vermont lawmakers grapple with giving farmers exemptions to local zoning",
       "summary": "Also in Final Reading: Road salt veto and ed reform\u2019s slow progress.\nRead the story on VTDigger here:  Vermont lawmakers grapple with giving farmers exemptions to local zoning.",
       "url": "https://vtdigger.org/2026/05/06/vermont-lawmakers-grapple-with-giving-farmers-exemptions-to-local-zoning/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-06",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "aadeff52c00e",
-      "title": "Experienced Vermont media leader Brendan Kinney named CEO of Vermont Journalism Trust and VTDigger",
-      "summary": "\u201cAs CEO, Brendan will strengthen not just VTDigger\u2019s service to its readers, but also the broader news ecosystem of Vermont,\u201d said the organization\u2019s president. He is currently the chief operating officer at Vermont Public.\nRead the story on VTDigger here:  Experienced Vermont media leader Brendan",
-      "url": "https://vtdigger.org/2026/05/06/experienced-vermont-media-leader-brendan-kinney-named-ceo-of-vermont-journalism-trust-and-vtdigger/",
       "source": "VTDigger",
       "state": "VT",
       "date": "2026-05-06",
