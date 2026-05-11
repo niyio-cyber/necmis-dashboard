@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-10T11:38:33.003964Z",
+  "generated": "2026-05-11T13:35:24.394641Z",
   "summary": {
     "total_opportunities": 30,
     "total_value_low": 364688184,
     "total_value_high": 364688184,
     "by_state": {
       "VT": 3,
-      "NH": 2,
-      "ME": 5,
-      "MA": 23,
+      "NH": 3,
+      "ME": 4,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 7,
+      "news": 10,
       "funding": 0
     }
   },
@@ -601,27 +601,13 @@
   ],
   "news": [
     {
-      "id": "b88ce3d98252",
-      "title": "How to fix Maine\u2019s tax math | Opinion",
-      "summary": "Voters across the state have been revolting against crushing property tax hikes due to crumbling infrastructure. Fortunately, there's a solution.",
-      "url": "https://www.pressherald.com/2026/05/10/how-to-fix-maines-tax-math-opinion/",
+      "id": "b4c5a7b57854",
+      "title": "All Roads Music Festival makes its Portland debut with big acts, 9 venues",
+      "summary": "The lineup includes Mon Rov\u00eea, The Beaches, Momma and Bahamas along with many local acts.",
+      "url": "https://www.pressherald.com/2026/05/11/all-roads-music-festival-makes-its-portland-debut-with-big-acts-nine-venues/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-10",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "57b4dcccea3d",
-      "title": "Maine must consider planting for the future | Letter",
-      "summary": "Food insecurity is a growing crisis, both across the nation and right here in Maine. To combat this, we need a common-sense approach that balances a return to our agricultural roots, with a focus on education for our youth. We should start by reconsidering how our municipalities spend taxpayer dolla",
-      "url": "https://www.pressherald.com/2026/05/10/maine-should-consider-planting-for-the-future-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -629,31 +615,87 @@
       ]
     },
     {
-      "id": "09b23ec33b2f",
-      "title": "Obituary: Harold L. Doten",
-      "summary": "WINTER HAVEN, Fla. - Harold L. Doten, passed away April 17, 2026.\n\nHarold was born in the small town of Baileyville, Maine, ...",
-      "url": "https://www.pressherald.com/2026/05/10/obituaryharold-l-doten-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-10",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7d20eef16b83",
-      "title": "Watch: UMaine afternoon commencement ceremony",
-      "summary": "The 2:30 p.m. Saturday undergraduate ceremony includes the College of Education and Human Development, College of Liberal Arts and Sciences, and Maine College of Engineering and Computing.",
-      "url": "https://www.bangordailynews.com/2026/05/09/bangor/university-maine-afternoon-commencement/",
+      "id": "4d1cf3e45f12",
+      "title": "How a community is reimagining a historic Aroostook train station",
+      "summary": "Students, Scouts, and a local contractor will be rebuilding the historic Frenchville Railroad Station, originally constructed in 1910.",
+      "url": "https://www.bangordailynews.com/2026/05/11/aroostook/aroostook-culture/reimagining-historic-frenchville-train-station-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-05-09",
+      "date": "2026-05-11",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "ready_mix"
+        "highway"
+      ]
+    },
+    {
+      "id": "e3cbab984e3c",
+      "title": "Early voting in Maine\u2019s June primaries\u00a0starts Monday",
+      "summary": "Maine allows no-excuse absentee voting. You can fill out an absentee ballot in person at your municipal office starting Monday through June 4.",
+      "url": "https://www.bangordailynews.com/2026/05/11/politics/elections/early-voting-in-maines-june-primaries-starts-monday-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9e3ff3e4e63b",
+      "title": "'It's really about the housing' \u2014 one Wellesley resident says the forest fight is masking the real opposition to a 180-home development",
+      "summary": "A fight over new housing, conservation and a MassBay Community College parking lot will come to a head at a town meeting in Wellesley Monday night.",
+      "url": "https://www.masslive.com/news/2026/05/state-owned-wellesley-parking-lot-at-center-of-new-housing-conservation-fight.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e1a58378c333",
+      "title": "Meet the candidates vying for contested Southwick board positions",
+      "summary": "As usual, the race for the open seat on the Select Board is the one most focus on during the annual municipal election \u2013 and this year\u2019s matchup between incumbent Diane Gale and former Select Board member Joseph Deedy is no different. But this year\u2019s election is unusual because of the 15 seats open,",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/meet-the-candidates-vying-for-contested-southwick-board-positions.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a9eacea3825c",
+      "title": "Why a 3D printed goat remains the guest of honor at WPI\u2019s graduations",
+      "summary": "From 3D printed goats to an immersive bridge crossing, the Worcester university has brought its on-campus traditions to the DCU center.",
+      "url": "https://www.masslive.com/centralmass/2026/05/why-a-3d-printed-goat-remains-the-guest-of-honor-at-wpis-graduations.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-11",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b0b796c1ad86",
+      "title": "Stay Work Play and Saint Anselm College launch new on-campus partnership to strengthen NH talent pipeline",
+      "summary": "In a forward-thinking step to strengthen New Hampshire\u2019s talent pipeline, Stay Work Play New Hampshire has launched a new partnership with Saint Anselm College that brings a wrap-around approach to student engagement and workforce development directly onto campus.",
+      "url": "https://www.unionleader.com/news/business/stay-work-play-and-saint-anselm-college-launch-new-on-campus-partnership-to-strengthen-nh/article_b4822443-13b2-4b97-af9a-54ffe6264e0c.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-05-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
       ]
     },
     {
