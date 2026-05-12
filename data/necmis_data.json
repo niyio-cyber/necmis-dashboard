@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-11T13:35:24.394641Z",
+  "generated": "2026-05-12T12:58:33.308957Z",
   "summary": {
-    "total_opportunities": 30,
+    "total_opportunities": 32,
     "total_value_low": 364688184,
     "total_value_high": 364688184,
     "by_state": {
       "VT": 3,
       "NH": 3,
-      "ME": 4,
-      "MA": 26,
+      "ME": 6,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 10,
-      "funding": 0
+      "news": 8,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -601,41 +601,41 @@
   ],
   "news": [
     {
-      "id": "b4c5a7b57854",
-      "title": "All Roads Music Festival makes its Portland debut with big acts, 9 venues",
-      "summary": "The lineup includes Mon Rov\u00eea, The Beaches, Momma and Bahamas along with many local acts.",
-      "url": "https://www.pressherald.com/2026/05/11/all-roads-music-festival-makes-its-portland-debut-with-big-acts-nine-venues/",
+      "id": "df73ae65931e",
+      "title": "Saco approves $44 million municipal budget",
+      "summary": "The final budget is more than $5 million higher than the city's original proposal. Its tax impact wasn't immediately clear.",
+      "url": "https://www.pressherald.com/2026/05/12/saco-approves-44-million-municipal-budget/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-11",
-      "category": "news",
+      "date": "2026-05-12",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "4d1cf3e45f12",
-      "title": "How a community is reimagining a historic Aroostook train station",
-      "summary": "Students, Scouts, and a local contractor will be rebuilding the historic Frenchville Railroad Station, originally constructed in 1910.",
-      "url": "https://www.bangordailynews.com/2026/05/11/aroostook/aroostook-culture/reimagining-historic-frenchville-train-station-joam40zk0w/",
+      "id": "a490c135c968",
+      "title": "Graham Platner calls to end gas and diesel tax",
+      "summary": "U.S. Senate candidate Graham Platner wants to eliminate the federal tax on gasoline and diesel fuel, freeze electric rates and fund clean energy developments, as part of his \u201cTake Back American Energy\u201d plan released Friday. Platner, the presumptive Democratic nominee to challenge Republican U.S. Sen",
+      "url": "https://www.bangordailynews.com/2026/05/12/politics/elections/maine-graham-platner-gas-taxes-energy-plan/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-05-11",
-      "category": "news",
+      "date": "2026-05-12",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "e3cbab984e3c",
-      "title": "Early voting in Maine\u2019s June primaries\u00a0starts Monday",
-      "summary": "Maine allows no-excuse absentee voting. You can fill out an absentee ballot in person at your municipal office starting Monday through June 4.",
-      "url": "https://www.bangordailynews.com/2026/05/11/politics/elections/early-voting-in-maines-june-primaries-starts-monday-joam40zk0w/",
+      "id": "05a12a3084bf",
+      "title": "Greenville set to add much-needed supply to its housing stock",
+      "summary": "The homes will be built on land where Plum Creek once proposed an ambitious development plan.",
+      "url": "https://www.bangordailynews.com/2026/05/12/piscataquis/piscataquis-housing/greenville-maine-northern-forest-center-homes-approved/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -643,13 +643,13 @@
       ]
     },
     {
-      "id": "9e3ff3e4e63b",
-      "title": "'It's really about the housing' \u2014 one Wellesley resident says the forest fight is masking the real opposition to a 180-home development",
-      "summary": "A fight over new housing, conservation and a MassBay Community College parking lot will come to a head at a town meeting in Wellesley Monday night.",
-      "url": "https://www.masslive.com/news/2026/05/state-owned-wellesley-parking-lot-at-center-of-new-housing-conservation-fight.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-11",
+      "id": "b352ad176a83",
+      "title": "Hampden residents challenge surging home values during town reassessment",
+      "summary": "The town\u2019s first reassessment since 1992 comes at a time when both municipal and school budgets are spiking the cost of living.",
+      "url": "https://www.bangordailynews.com/2026/05/12/bangor/bangor-government/hampden-residents-town-reassessment-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-12",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -657,13 +657,13 @@
       ]
     },
     {
-      "id": "e1a58378c333",
-      "title": "Meet the candidates vying for contested Southwick board positions",
-      "summary": "As usual, the race for the open seat on the Select Board is the one most focus on during the annual municipal election \u2013 and this year\u2019s matchup between incumbent Diane Gale and former Select Board member Joseph Deedy is no different. But this year\u2019s election is unusual because of the 15 seats open,",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/meet-the-candidates-vying-for-contested-southwick-board-positions.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-11",
+      "id": "5bc84f672040",
+      "title": "Small MDI town votes to reverse nearly 100-year ban on deer hunting",
+      "summary": "Deer hunting has not been allowed on the island since 1931, though special permits have been issued for nuisance deer.",
+      "url": "https://www.bangordailynews.com/2026/05/11/hancock/hancock-government/tremont-maine-votes-to-reverse-deer-hunting-ban/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-12",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -671,15 +671,29 @@
       ]
     },
     {
-      "id": "a9eacea3825c",
-      "title": "Why a 3D printed goat remains the guest of honor at WPI\u2019s graduations",
-      "summary": "From 3D printed goats to an immersive bridge crossing, the Worcester university has brought its on-campus traditions to the DCU center.",
-      "url": "https://www.masslive.com/centralmass/2026/05/why-a-3d-printed-goat-remains-the-guest-of-honor-at-wpis-graduations.html",
+      "id": "a4ef99c69930",
+      "title": "Mass. man arrested in connection with throwing gun on highway",
+      "summary": "Police told Collins to sit on the guardrail, but he ignored them and went back to his truck. Collins retrieved a gun and threw it,",
+      "url": "https://www.masslive.com/news/2026/05/mass-man-arrested-in-connection-with-throwing-gun-on-highway.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "dba2c14e7dd9",
+      "title": "Vermont lawmakers abandon push to ban chemical dyes from cafeterias after school district opposition",
+      "summary": "The legislation had broad support in the state Senate but faced pushback from district officials over whether replacing what would likely be just a handful of products would be worth the extra work.\nRead the story on VTDigger here:  Vermont lawmakers abandon push to ban chemical dyes from cafeteria",
+      "url": "https://vtdigger.org/2026/05/11/vermont-lawmakers-abandon-push-to-ban-chemical-dyes-from-cafeterias-after-school-district-opposition/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-05-11",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -708,20 +722,6 @@
       "date": "2026-05-07",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "99e8e80a6f5c",
-      "title": "Vermont lawmakers grapple with giving farmers exemptions to local zoning",
-      "summary": "Also in Final Reading: Road salt veto and ed reform\u2019s slow progress.\nRead the story on VTDigger here:  Vermont lawmakers grapple with giving farmers exemptions to local zoning.",
-      "url": "https://vtdigger.org/2026/05/06/vermont-lawmakers-grapple-with-giving-farmers-exemptions-to-local-zoning/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-06",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
