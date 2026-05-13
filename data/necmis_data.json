@@ -1,65 +1,26 @@
 {
-  "generated": "2026-05-12T12:58:33.308957Z",
+  "generated": "2026-05-13T13:06:00.423159Z",
   "summary": {
-    "total_opportunities": 32,
-    "total_value_low": 364688184,
-    "total_value_high": 364688184,
+    "total_opportunities": 28,
+    "total_value_low": 357680073,
+    "total_value_high": 357680073,
     "by_state": {
       "VT": 3,
       "NH": 3,
-      "ME": 6,
-      "MA": 24,
+      "ME": 2,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 30,
-      "news": 8,
-      "funding": 2
+      "dot_letting": 28,
+      "news": 6,
+      "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "43bf9ce73538",
-      "state": "MA",
-      "project_id": "614020",
-      "description": "Resurfacing And Related Work at Various Locations",
-      "cost_low": 6394511,
-      "cost_high": 6394511,
-      "cost_display": "$6.4M",
-      "ad_date": "2026-04-04",
-      "let_date": null,
-      "project_type": "Pavement - Surfacing",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614020",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "db1c0da6c1e5",
-      "state": "MA",
-      "project_id": "614085",
-      "description": "Scheduled and Emergency Salt Storage Shed and Liquid Storage Tank Repairs at Various Locations",
-      "cost_low": 613600,
-      "cost_high": 613600,
-      "cost_display": "$614K",
-      "ad_date": "2026-04-18",
-      "let_date": null,
-      "project_type": "DCAMM-General Building Construction",
-      "location": "District 5",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614085",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "d63fbc64f20e",
       "state": "MA",
@@ -417,7 +378,7 @@
       "cost_display": "$76.3M",
       "ad_date": "2026-04-25",
       "let_date": null,
-      "project_type": "DCAMM-Electrical",
+      "project_type": "DCAMM-Electrical, Other - Special",
       "location": "Boston",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
@@ -601,41 +562,13 @@
   ],
   "news": [
     {
-      "id": "df73ae65931e",
-      "title": "Saco approves $44 million municipal budget",
-      "summary": "The final budget is more than $5 million higher than the city's original proposal. Its tax impact wasn't immediately clear.",
-      "url": "https://www.pressherald.com/2026/05/12/saco-approves-44-million-municipal-budget/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-12",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a490c135c968",
-      "title": "Graham Platner calls to end gas and diesel tax",
-      "summary": "U.S. Senate candidate Graham Platner wants to eliminate the federal tax on gasoline and diesel fuel, freeze electric rates and fund clean energy developments, as part of his \u201cTake Back American Energy\u201d plan released Friday. Platner, the presumptive Democratic nominee to challenge Republican U.S. Sen",
-      "url": "https://www.bangordailynews.com/2026/05/12/politics/elections/maine-graham-platner-gas-taxes-energy-plan/",
+      "id": "1c7876116f93",
+      "title": "2 arrested after Hermon home invasion",
+      "summary": "A group of at least four men, one of whom was armed with a handgun, forced their way into a Bog Road home.",
+      "url": "https://www.bangordailynews.com/2026/05/13/bangor/bangor-police-courts/hermon-maine-bog-road-home-invasion-drug-trafficking-arrests/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-05-12",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "05a12a3084bf",
-      "title": "Greenville set to add much-needed supply to its housing stock",
-      "summary": "The homes will be built on land where Plum Creek once proposed an ambitious development plan.",
-      "url": "https://www.bangordailynews.com/2026/05/12/piscataquis/piscataquis-housing/greenville-maine-northern-forest-center-homes-approved/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -643,43 +576,29 @@
       ]
     },
     {
-      "id": "b352ad176a83",
-      "title": "Hampden residents challenge surging home values during town reassessment",
-      "summary": "The town\u2019s first reassessment since 1992 comes at a time when both municipal and school budgets are spiking the cost of living.",
-      "url": "https://www.bangordailynews.com/2026/05/12/bangor/bangor-government/hampden-residents-town-reassessment-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5bc84f672040",
-      "title": "Small MDI town votes to reverse nearly 100-year ban on deer hunting",
-      "summary": "Deer hunting has not been allowed on the island since 1931, though special permits have been issued for nuisance deer.",
-      "url": "https://www.bangordailynews.com/2026/05/11/hancock/hancock-government/tremont-maine-votes-to-reverse-deer-hunting-ban/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a4ef99c69930",
-      "title": "Mass. man arrested in connection with throwing gun on highway",
-      "summary": "Police told Collins to sit on the guardrail, but he ignored them and went back to his truck. Collins retrieved a gun and threw it,",
-      "url": "https://www.masslive.com/news/2026/05/mass-man-arrested-in-connection-with-throwing-gun-on-highway.html",
+      "id": "e2f377310c11",
+      "title": "Municipal Light Board compensation package not discussed at its last meeting",
+      "summary": "The unique compensation package for the members of Westfield's Municipal Light Board will remain as it is after it was told by WG&E\u2019s legal counsel that it needed \u201cno further discussion.\u201d",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/municipal-light-board-compensation-package-not-discussed-at-its-last-meeting.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-05-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5768e9b284c5",
+      "title": "When does a public conversation about permitting begin and end?",
+      "summary": "Before you restrict appeals, ask why neighbors turned to them in the first place.\nRead the story on VTDigger here:  When does a public conversation about permitting begin and end?.",
+      "url": "https://vtdigger.org/2026/05/12/opinion-when-does-a-public-conversation-about-permitting-begin-and-end/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-05-12",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -708,20 +627,6 @@
       "date": "2026-05-10",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5613b7d9bc34",
-      "title": "What\u2019s AI\u2019s place in mental health care? Vermont lawmakers say it should be limited.",
-      "summary": "Also in Final Reading: Balint reelection bid and Act 181 rollback.\nRead the story on VTDigger here:  What\u2019s AI\u2019s place in mental health care? Vermont lawmakers say it should be limited..",
-      "url": "https://vtdigger.org/2026/05/07/whats-ais-place-in-mental-health-care-vermont-lawmakers-say-it-should-be-limited/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-07",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
