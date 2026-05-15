@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-14T12:20:20.938640Z",
+  "generated": "2026-05-15T12:26:21.085365Z",
   "summary": {
     "total_opportunities": 30,
     "total_value_low": 357680073,
     "total_value_high": 357680073,
     "by_state": {
-      "VT": 5,
-      "NH": 4,
-      "ME": 2,
-      "MA": 23,
+      "VT": 3,
+      "NH": 5,
+      "ME": 4,
+      "MA": 21,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 28,
-      "news": 8,
+      "news": 7,
       "funding": 2
     }
   },
@@ -562,13 +562,13 @@
   ],
   "news": [
     {
-      "id": "87a639d6328d",
-      "title": "1 dead, 3 injured in boat crash near Logan Airport",
-      "summary": "The crash occurred at about 11 p.m. when a recreational boat hit a pier off Perimeter Road.",
-      "url": "https://www.masslive.com/boston/2026/05/1-dead-3-injured-in-boat-crash-near-logan-airport.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-14",
+      "id": "037310280591",
+      "title": "What to know about getting around Acadia National Park this spring",
+      "summary": "A one-mile stretch of the popular Park Loop Road will be closed until June 12, requiring a detour through downtown Bar Harbor.",
+      "url": "https://www.bangordailynews.com/2026/05/15/hancock/hancock-culture/acadia-national-park-road-closure-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-15",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -576,17 +576,45 @@
       ]
     },
     {
-      "id": "50e384c55088",
-      "title": "Ribbon-cutting marks opening of Chauncey Allen Park pavilion and arboretum",
-      "summary": "WESTFIELD - At a ribbon-cutting on May 12 for the new Chauncey Allen Park pavilion and arboretum on Smith Avenue, Allen Steiger, president of the Friends of the Grandmothers\u2019 Garden asked Jackie McDowell, education coordinator for the board, Ward 3 Councilor Bridget Matthews-Kane and Mayor Michael M",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/ribbon-cutting-marks-opening-of-chauncey-allen-park-pavilion-and-arboretum.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-14",
-      "category": "news",
-      "priority": "high",
+      "id": "5f185ea6e0a6",
+      "title": "Letter: Maine being ruined by roadside trash",
+      "summary": "\u201cThe Maine Department of Transportation spends roughly $500,000 each year cleaning up roadside litter, money that could be better spent elsewhere.\u201d",
+      "url": "https://www.bangordailynews.com/2026/05/15/opinion/letters/letter-maine-being-ruined-by-roadside-trash-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-15",
+      "category": "funding",
+      "priority": "medium",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "b9d92b86622f",
+      "title": "Woman dies in Aroostook County house fire",
+      "summary": "The fire on Carvell Road in Mapleton was reported shortly after 5 a.m. Thursday.",
+      "url": "https://www.bangordailynews.com/2026/05/14/aroostook/aroostook-police-courts/fatal-mapleton-maine-house-fire/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f6e3c4bd6111",
+      "title": "Developer looks to build 1,000 housing units in Londonderry, Auburn",
+      "summary": "A developer is seeking early feedback on a plan to convert the Brook Hollow gravel pit between Londonderry and Auburn into a 1,000-unit housing development over the next 15 to 20 years.",
+      "url": "https://www.unionleader.com/news/local/derry_londonderry/developer-looks-to-build-1-000-housing-units-in-londonderry-auburn/article_948c4153-c6b4-46b5-af4b-11676741b932.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-05-14",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
       ]
     },
     {
@@ -618,20 +646,6 @@
       ]
     },
     {
-      "id": "1a2af3983a47",
-      "title": "First National Bank commits $50,000 to Quirk Sportsplex to expand year-round recreation",
-      "summary": "BANGOR \u2014 First National Bank has committed $50,000 to support the development of the Quirk Sportsplex, a new indoor and outdoor athletic complex designed to expand year-round recreation opportunities across the greater Bangor region. The project, led by River City Athletics, will feature an indoor a",
-      "url": "https://www.bangordailynews.com/2026/05/13/bdn-maine/first-national-bank-commits-50000-to-quirk-sportsplex-to-expand-year-round-recreation/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-13",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "e7be88a3163a",
       "title": "Op-Ed: May 14 Is Momentous Day in NH",
       "summary": "First, the NH House votes on CACR 12, a constitutional amendment designed to prevent all future governors and legislatures from adopting a \u201cbroad-based\u201d tax, which could be an income, sales or property tax.",
@@ -639,34 +653,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-05-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5768e9b284c5",
-      "title": "When does a public conversation about permitting begin and end?",
-      "summary": "Before you restrict appeals, ask why neighbors turned to them in the first place.\nRead the story on VTDigger here:  When does a public conversation about permitting begin and end?.",
-      "url": "https://vtdigger.org/2026/05/12/opinion-when-does-a-public-conversation-about-permitting-begin-and-end/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "dba2c14e7dd9",
-      "title": "Vermont lawmakers abandon push to ban chemical dyes from cafeterias after school district opposition",
-      "summary": "The legislation had broad support in the state Senate but faced pushback from district officials over whether replacing what would likely be just a handful of products would be worth the extra work.\nRead the story on VTDigger here:  Vermont lawmakers abandon push to ban chemical dyes from cafeteria",
-      "url": "https://vtdigger.org/2026/05/11/vermont-lawmakers-abandon-push-to-ban-chemical-dyes-from-cafeterias-after-school-district-opposition/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-11",
       "category": "news",
       "priority": "medium",
       "business_lines": [
