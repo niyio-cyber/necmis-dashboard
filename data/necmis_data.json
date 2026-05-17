@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-16T11:40:35.380129Z",
+  "generated": "2026-05-17T11:50:43.360154Z",
   "summary": {
     "total_opportunities": 37,
     "total_value_low": 366053321,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 3,
       "NH": 4,
-      "ME": 2,
-      "MA": 30,
+      "ME": 6,
+      "MA": 29,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 36,
-      "news": 6,
+      "news": 9,
       "funding": 1
     }
   },
@@ -714,13 +714,13 @@
   ],
   "news": [
     {
-      "id": "f4a0fc9cf297",
-      "title": "Fire displaces 9 in Biddeford apartment building",
-      "summary": "The fire at 49 Granite St. did not trigger the building's alarm system, the fire chief said.",
-      "url": "https://www.pressherald.com/2026/05/15/fire-displaces-9-in-biddeford-apartment-building/",
+      "id": "0c2337625596",
+      "title": "Steady, practical Costello is the best choice for Senate | Letter",
+      "summary": "David Costello\u2019s approach to the economy is why I am voting for him for U.S. Senate in the June 9 Democratic primary. He supports raising wages, protecting workers\u2019 rights and expanding tax relief. He understands that lasting prosperity requires investment in our infrastructure, small businesses, re",
+      "url": "https://www.pressherald.com/2026/05/17/steady-practical-costello-is-the-best-choice-for-senate-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -728,18 +728,59 @@
       ]
     },
     {
-      "id": "4af8c29c9b14",
-      "title": "UMass commencement presided over by groundbreaking state Supreme Court justice (photos)",
-      "summary": "The UMass undergraduate commencement was one of many events this weekend, which also included the doctoral hooding ceremony, the Stockbridge School of Agriculture associate\u2019s degree ceremony, and school and college senior recognition ceremonies.",
-      "url": "https://www.masslive.com/westernmass/2026/05/umass-commencement-presided-over-by-groundbreaking-state-supreme-court-justice-photos.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-16",
+      "id": "f33ea19a1550",
+      "title": "Obituary: Jacqueline M. (Parent) Cote",
+      "summary": "SACO - Jacqueline M. (Parent) Cote passed away peacefully at home on Sunday, May 10, 2026. She was born in Biddeford ...",
+      "url": "https://www.pressherald.com/2026/05/17/obituaryjacqueline-m-parent-cote-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-17",
       "category": "news",
       "priority": "high",
       "business_lines": [
-        "highway",
-        "ready_mix"
+        "highway"
+      ]
+    },
+    {
+      "id": "9105665983c3",
+      "title": "Death Notice: Jacqueline M. (Parent) Cote",
+      "summary": "Cote, Jacqueline M. (Parent) 92, of Saco, May 10. Graveside service 11 a.m., Oct. 5, St Joseph Cemetery in Biddeford. ...",
+      "url": "https://www.pressherald.com/2026/05/17/obituaryjacqueline-m-parent-cote/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5cc13fc5ff3e",
+      "title": "Smoke still rising from the site of deadly Searsmont fire and explosion",
+      "summary": "The roads around Robbins Lumber were quiet Saturday morning, a day after an explosion killed a firefighter and wounded others at the Searsmont mill.",
+      "url": "https://www.bangordailynews.com/2026/05/16/midcoast/midcoast-police-courts/smoke-deadly-searsmont-fire-and-explosion/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8236d46422e9",
+      "title": "Go back in time by hiking along this old Bar Harbor railway",
+      "summary": "\"Spanning Point Road and Old Route 1 in Hancock, the trail travels through a lovely forest of oaks, maples, balsam firs and other trees.\"",
+      "url": "https://www.bangordailynews.com/2026/05/16/outdoors/act-out/hiking-old-bar-harbor-railway/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
       ]
     },
     {
