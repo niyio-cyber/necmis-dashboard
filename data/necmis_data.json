@@ -1,13 +1,13 @@
 {
-  "generated": "2026-05-18T14:21:21.727095Z",
+  "generated": "2026-05-19T13:45:14.507574Z",
   "summary": {
-    "total_opportunities": 36,
+    "total_opportunities": 37,
     "total_value_low": 366053321,
     "total_value_high": 366053321,
     "by_state": {
       "VT": 2,
-      "NH": 4,
-      "ME": 3,
+      "NH": 5,
+      "ME": 4,
       "MA": 29,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 36,
-      "news": 6,
-      "funding": 0
+      "news": 7,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -714,12 +714,40 @@
   ],
   "news": [
     {
-      "id": "075edd5d552b",
-      "title": "9 Maine art walks to stroll through this summer",
-      "summary": "Portland, Biddeford, Brunswick, Kennebunk and Wiscasset are just some of the locales that hold the events on a regular basis.",
-      "url": "https://www.pressherald.com/2026/05/18/9-maine-art-walks-to-stroll-through-this-summer/",
-      "source": "Portland Press Herald",
+      "id": "c92c338a2053",
+      "title": "On Sullivan Planning Board, Graham Platner voted to pump the brakes on solar",
+      "summary": "Platner said he was responding to community concerns about the rapid development of solar farms and anger over state subsidies driving up energy bills.",
+      "url": "https://www.bangordailynews.com/2026/05/19/politics/elections/sullivan-maine-solar-moratorium-graham-platner-energy-policy/",
+      "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-05-19",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f693f3c44b00",
+      "title": "Maine\u2019s biggest ski resort\u00a0is in a dispute over $150K of taxpayer money",
+      "summary": "Franklin County officials say the money was improperly charged for an infrastructure project that fell apart.",
+      "url": "https://www.bangordailynews.com/2026/05/19/politics/state-politics/sugarloaf-ski-resort-tax-money-dispute-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-19",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b96132bfffe3",
+      "title": "Judge denies accused CEO killer Mangione's bid to toss gun, notebook evidence",
+      "summary": "Luigi Mangione, accused of killing the CEO of UnitedHealthcare, on Monday failed to convince a New York judge to keep a possible murder weapon out of trial evidence, though prosecutors won't be allowed to introduce some other things found in\u2026",
+      "url": "https://www.unionleader.com/news/courts/judge-denies-accused-ceo-killer-mangiones-bid-to-toss-gun-notebook-evidence/article_b7fdbe51-cd6c-56c5-a1fe-a1687fa1fe91.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-05-18",
       "category": "news",
       "priority": "high",
@@ -728,10 +756,10 @@
       ]
     },
     {
-      "id": "511eb2b478d5",
-      "title": "Mills vetoed a data center pause. Towns are looking to pass their own.",
-      "summary": "At least four municipalities have proposed their own moratoriums on new data center development while they refine local regulations.",
-      "url": "https://www.pressherald.com/2026/05/18/mills-vetoed-a-data-center-pause-towns-are-looking-to-pass-their-own/",
+      "id": "763182298e31",
+      "title": "York voters approve budgets, elect new school committee member",
+      "summary": "York voters faced a 73-question municipal ballot Saturday. Here are the results.",
+      "url": "https://www.pressherald.com/2026/05/18/york-voters-approve-budgets-elect-new-school-committee-member/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-05-18",
