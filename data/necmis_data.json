@@ -1,84 +1,26 @@
 {
-  "generated": "2026-05-19T13:45:14.507574Z",
+  "generated": "2026-05-20T13:26:40.053288Z",
   "summary": {
-    "total_opportunities": 37,
-    "total_value_low": 366053321,
-    "total_value_high": 366053321,
+    "total_opportunities": 34,
+    "total_value_low": 347307972,
+    "total_value_high": 347307972,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 5,
-      "ME": 4,
-      "MA": 29,
+      "ME": 5,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 36,
-      "news": 7,
+      "dot_letting": 33,
+      "news": 10,
       "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "d63fbc64f20e",
-      "state": "MA",
-      "project_id": "614119",
-      "description": "Scheduled and Emergency Resurfacing and Related Work at Various Locations",
-      "cost_low": 16768804,
-      "cost_high": 16768804,
-      "cost_display": "$16.8M",
-      "ad_date": "2026-04-04",
-      "let_date": null,
-      "project_type": "Pavement - Surfacing",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614119",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "ee92098cf799",
-      "state": "MA",
-      "project_id": "614091",
-      "description": "Scheduled and Emergency Impact Attenuator Installation and Repairs at Various Locations",
-      "cost_low": 187675,
-      "cost_high": 187675,
-      "cost_display": "$188K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "Impact Attenuators",
-      "location": "District 5",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614091",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9401cf716a53",
-      "state": "MA",
-      "project_id": "614177",
-      "description": "Bridge Preservation, N-21-008 (1D0), Mendon Road over the West River",
-      "cost_low": 1788870,
-      "cost_high": 1788870,
-      "cost_display": "$1.8M",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Northbridge",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614177",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "344e3b14ad0f",
       "state": "MA",
@@ -714,12 +656,96 @@
   ],
   "news": [
     {
-      "id": "c92c338a2053",
-      "title": "On Sullivan Planning Board, Graham Platner voted to pump the brakes on solar",
-      "summary": "Platner said he was responding to community concerns about the rapid development of solar farms and anger over state subsidies driving up energy bills.",
-      "url": "https://www.bangordailynews.com/2026/05/19/politics/elections/sullivan-maine-solar-moratorium-graham-platner-energy-policy/",
+      "id": "3dbe6dc96b89",
+      "title": "Biddeford council adopts $50.8 million municipal budget",
+      "summary": "The fiscal 2027 budget is expected to result in a $15.84 mill rate for Biddeford residents.",
+      "url": "https://www.pressherald.com/2026/05/20/biddeford-council-adopts-50-8-million-municipal-budget/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-20",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c8eb51b2f0b8",
+      "title": "More ADUs were built in Maine last year than expected",
+      "summary": "Preliminary data shows that accessory dwelling units accounted for roughly 9% of the building permits issued in 2025.",
+      "url": "https://www.pressherald.com/2026/05/20/more-adus-were-built-in-maine-last-year-than-expected/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "23234e3474de",
+      "title": "Obituary: Betty L. (Bridges) Emery",
+      "summary": "SOUTH PORTLAND - Betty L. (Bridges) Emery, 94, of South Portland, died on Sunday, May 17, 2026, at Gosnell Memorial Hospice ...",
+      "url": "https://www.pressherald.com/2026/05/20/obituarybetty-l-bridges-emery-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-20",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "57a7a1097a66",
+      "title": "Maine County Official of May, Gregory Zinser",
+      "summary": "Gregory Zinser was selected Maine County Official of May in honor of his community service by Spirit of America Foundation\u2019s Maine Chapter. Zinser has served as manager of York County since 2011 and before then in a municipal administrative capacity. He has gone well above and beyond the call of dut",
+      "url": "https://www.bangordailynews.com/2026/05/20/bdn-maine/maine-county-official-of-may-gregory-zinser/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-05-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "12aed50276c1",
+      "title": "WPS special education review finds gaps in staffing and professional development",
+      "summary": "Greg Rosenthal, administrator of special education for Westfield Public Schools gave a summary of a review by Academic Discoveries to the School Committee on May 18.",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/wps-special-education-review-finds-gaps-in-staffing-and-professional-development.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3d699acf13f4",
+      "title": "Vermont is driving the next generation away",
+      "summary": "Vermont's beauty can't offset the high costs, lack of opportunity and missing infrastructure forcing young people to leave the state.\nRead the story on VTDigger here:  Vermont is driving the next generation away.",
+      "url": "https://vtdigger.org/2026/05/19/opinion-vermont-is-driving-the-next-generation-away/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-05-19",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2217f8f4e8ad",
+      "title": "What 2,200 Vermonters told us about local news",
+      "summary": "The Dirt Road News project gathered responses from younger and rural Vermonters, revealing that local news is often hard to find and unevenly distributed, even as many respondents expressed strong trust in VTDigger and a clear appetite for more local coverage.\nRead the story on VTDigger here:  What",
+      "url": "https://vtdigger.org/2026/05/19/vermont-local-news-survey/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-05-19",
       "category": "news",
       "priority": "medium",
@@ -728,15 +754,15 @@
       ]
     },
     {
-      "id": "f693f3c44b00",
-      "title": "Maine\u2019s biggest ski resort\u00a0is in a dispute over $150K of taxpayer money",
-      "summary": "Franklin County officials say the money was improperly charged for an infrastructure project that fell apart.",
-      "url": "https://www.bangordailynews.com/2026/05/19/politics/state-politics/sugarloaf-ski-resort-tax-money-dispute-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "085c77936446",
+      "title": "Stay Work Play NH Launches Statewide Internship Program to Help Young Talent",
+      "summary": "New summer initiative connects interns with professional development, networking opportunities, and community experiences designed to strengthen long-term workforce retention",
+      "url": "https://indepthnh.org/2026/05/19/stay-work-play-nh-launches-statewide-internship-program-to-help-young-talent/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-05-19",
-      "category": "funding",
-      "priority": "high",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -751,34 +777,6 @@
       "date": "2026-05-18",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "763182298e31",
-      "title": "York voters approve budgets, elect new school committee member",
-      "summary": "York voters faced a 73-question municipal ballot Saturday. Here are the results.",
-      "url": "https://www.pressherald.com/2026/05/18/york-voters-approve-budgets-elect-new-school-committee-member/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2eeadd463a5c",
-      "title": "Middlebury College to grow its role in housing, jobs",
-      "summary": "Predevelopment continues for nine college-owned lots in Middlebury\u2019s industrial park \u2014 lots that could be shovel-ready by next year for businesses looking to plant roots in the shire town.\nRead the story on VTDigger here:  Middlebury College to grow its role in housing, jobs.",
-      "url": "https://vtdigger.org/2026/05/15/middlebury-college-to-grow-its-role-in-housing-jobs/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-15",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -805,20 +803,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-05-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b0b796c1ad86",
-      "title": "Stay Work Play and Saint Anselm College launch new on-campus partnership to strengthen NH talent pipeline",
-      "summary": "In a forward-thinking step to strengthen New Hampshire\u2019s talent pipeline, Stay Work Play New Hampshire has launched a new partnership with Saint Anselm College that brings a wrap-around approach to student engagement and workforce development directly onto campus.",
-      "url": "https://www.unionleader.com/news/business/stay-work-play-and-saint-anselm-college-launch-new-on-campus-partnership-to-strengthen-nh/article_b4822443-13b2-4b97-af9a-54ffe6264e0c.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-05-10",
       "category": "news",
       "priority": "medium",
       "business_lines": [
