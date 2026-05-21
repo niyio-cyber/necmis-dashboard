@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-20T13:26:40.053288Z",
+  "generated": "2026-05-21T13:50:19.895381Z",
   "summary": {
-    "total_opportunities": 34,
+    "total_opportunities": 33,
     "total_value_low": 347307972,
     "total_value_high": 347307972,
     "by_state": {
       "VT": 3,
-      "NH": 5,
+      "NH": 4,
       "ME": 5,
-      "MA": 27,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 10,
-      "funding": 1
+      "news": 9,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -656,27 +656,13 @@
   ],
   "news": [
     {
-      "id": "3dbe6dc96b89",
-      "title": "Biddeford council adopts $50.8 million municipal budget",
-      "summary": "The fiscal 2027 budget is expected to result in a $15.84 mill rate for Biddeford residents.",
-      "url": "https://www.pressherald.com/2026/05/20/biddeford-council-adopts-50-8-million-municipal-budget/",
+      "id": "1133b8f4aca9",
+      "title": "Ballroom plan lays bare warped national priorities | Letter",
+      "summary": "At a time when medical support for Americans is being cut or constrained, the proposal to build a gilded ballroom at the White House sends a troubling message about national priorities. Reducing access to essential care while advancing an extravagant construction project at taxpayer expense reflects",
+      "url": "https://www.pressherald.com/2026/05/21/ballroom-plan-lays-bare-warped-national-priorities-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-20",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c8eb51b2f0b8",
-      "title": "More ADUs were built in Maine last year than expected",
-      "summary": "Preliminary data shows that accessory dwelling units accounted for roughly 9% of the building permits issued in 2025.",
-      "url": "https://www.pressherald.com/2026/05/20/more-adus-were-built-in-maine-last-year-than-expected/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -684,27 +670,27 @@
       ]
     },
     {
-      "id": "23234e3474de",
-      "title": "Obituary: Betty L. (Bridges) Emery",
-      "summary": "SOUTH PORTLAND - Betty L. (Bridges) Emery, 94, of South Portland, died on Sunday, May 17, 2026, at Gosnell Memorial Hospice ...",
-      "url": "https://www.pressherald.com/2026/05/20/obituarybetty-l-bridges-emery-2/",
+      "id": "d46f7fc2b2d2",
+      "title": "Maine should crack down on Cooke Aquaculture | Letter",
+      "summary": "Maine, like Washington, was built by people who respect the sea. That legacy is being desecrated \u2014 and our elected officials are letting it happen. A new undercover investigation has, again, exposed brutal conditions at Cooke Aquaculture\u2019s salmon hatchery in Bingham \u2014 animals slammed into concrete,",
+      "url": "https://www.pressherald.com/2026/05/21/maine-should-crack-down-on-cooke-aquaculture-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "category": "news",
       "priority": "high",
       "business_lines": [
-        "highway"
+        "ready_mix"
       ]
     },
     {
-      "id": "57a7a1097a66",
-      "title": "Maine County Official of May, Gregory Zinser",
-      "summary": "Gregory Zinser was selected Maine County Official of May in honor of his community service by Spirit of America Foundation\u2019s Maine Chapter. Zinser has served as manager of York County since 2011 and before then in a municipal administrative capacity. He has gone well above and beyond the call of dut",
-      "url": "https://www.bangordailynews.com/2026/05/20/bdn-maine/maine-county-official-of-may-gregory-zinser/",
+      "id": "f61e2c6d6d65",
+      "title": "Crews close lane of Broadway for water main break",
+      "summary": "There will be shifting lanes, and drivers who want to avoid delays should seek alternative routes.",
+      "url": "https://www.bangordailynews.com/2026/05/21/bangor/bangor-government/bangor-maine-broadway-water-main-break-husson-grandview-avenues/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -712,13 +698,13 @@
       ]
     },
     {
-      "id": "12aed50276c1",
-      "title": "WPS special education review finds gaps in staffing and professional development",
-      "summary": "Greg Rosenthal, administrator of special education for Westfield Public Schools gave a summary of a review by Academic Discoveries to the School Committee on May 18.",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/wps-special-education-review-finds-gaps-in-staffing-and-professional-development.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-20",
+      "id": "bf00b5881c02",
+      "title": "Letter: No gas tax means worse roads",
+      "summary": "\u201cIf you like pot holes, lower the gas tax.\u201d",
+      "url": "https://www.bangordailynews.com/2026/05/21/opinion/letters/letter-no-gas-tax-means-worse-roads-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-21",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -793,20 +779,6 @@
       "priority": "medium",
       "business_lines": [
         "aggregates"
-      ]
-    },
-    {
-      "id": "2468cca2fcf0",
-      "title": "GM is using AI to design vehicles. Here's what that means",
-      "summary": "The birth of a new General Motors Co. car still begins with a sketch. But after that, the Detroit automaker is leaning into artificial intelligence to supercharge development.",
-      "url": "https://www.unionleader.com/news/business/gm-is-using-ai-to-design-vehicles-heres-what-that-means/article_b271a2a6-ebf7-42bb-a58f-944a0f98894a.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-05-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     }
   ],
