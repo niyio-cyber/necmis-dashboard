@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-21T13:50:19.895381Z",
+  "generated": "2026-05-22T13:18:34.317373Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 36,
     "total_value_low": 347307972,
     "total_value_high": 347307972,
     "by_state": {
-      "VT": 3,
-      "NH": 4,
-      "ME": 5,
-      "MA": 26,
+      "VT": 1,
+      "NH": 3,
+      "ME": 3,
+      "MA": 29,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 9,
-      "funding": 0
+      "news": 4,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -656,98 +656,84 @@
   ],
   "news": [
     {
-      "id": "1133b8f4aca9",
-      "title": "Ballroom plan lays bare warped national priorities | Letter",
-      "summary": "At a time when medical support for Americans is being cut or constrained, the proposal to build a gilded ballroom at the White House sends a troubling message about national priorities. Reducing access to essential care while advancing an extravagant construction project at taxpayer expense reflects",
-      "url": "https://www.pressherald.com/2026/05/21/ballroom-plan-lays-bare-warped-national-priorities-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-21",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d46f7fc2b2d2",
-      "title": "Maine should crack down on Cooke Aquaculture | Letter",
-      "summary": "Maine, like Washington, was built by people who respect the sea. That legacy is being desecrated \u2014 and our elected officials are letting it happen. A new undercover investigation has, again, exposed brutal conditions at Cooke Aquaculture\u2019s salmon hatchery in Bingham \u2014 animals slammed into concrete,",
-      "url": "https://www.pressherald.com/2026/05/21/maine-should-crack-down-on-cooke-aquaculture-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-21",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "f61e2c6d6d65",
-      "title": "Crews close lane of Broadway for water main break",
-      "summary": "There will be shifting lanes, and drivers who want to avoid delays should seek alternative routes.",
-      "url": "https://www.bangordailynews.com/2026/05/21/bangor/bangor-government/bangor-maine-broadway-water-main-break-husson-grandview-avenues/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-21",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bf00b5881c02",
-      "title": "Letter: No gas tax means worse roads",
-      "summary": "\u201cIf you like pot holes, lower the gas tax.\u201d",
-      "url": "https://www.bangordailynews.com/2026/05/21/opinion/letters/letter-no-gas-tax-means-worse-roads-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-21",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3d699acf13f4",
-      "title": "Vermont is driving the next generation away",
-      "summary": "Vermont's beauty can't offset the high costs, lack of opportunity and missing infrastructure forcing young people to leave the state.\nRead the story on VTDigger here:  Vermont is driving the next generation away.",
-      "url": "https://vtdigger.org/2026/05/19/opinion-vermont-is-driving-the-next-generation-away/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-19",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2217f8f4e8ad",
-      "title": "What 2,200 Vermonters told us about local news",
-      "summary": "The Dirt Road News project gathered responses from younger and rural Vermonters, revealing that local news is often hard to find and unevenly distributed, even as many respondents expressed strong trust in VTDigger and a clear appetite for more local coverage.\nRead the story on VTDigger here:  What",
-      "url": "https://vtdigger.org/2026/05/19/vermont-local-news-survey/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "085c77936446",
-      "title": "Stay Work Play NH Launches Statewide Internship Program to Help Young Talent",
-      "summary": "New summer initiative connects interns with professional development, networking opportunities, and community experiences designed to strengthen long-term workforce retention",
-      "url": "https://indepthnh.org/2026/05/19/stay-work-play-nh-launches-statewide-internship-program-to-help-young-talent/",
-      "source": "InDepthNH",
+      "id": "71e0d7b9a356",
+      "title": "World\u2019s tallest thermometer, between Las Vegas and LA, is for sale",
+      "summary": "The giant roadside thermometer between Las Vegas and Los Angeles \u2014 a towering sight for legions of highway drivers \u2014 is for sale.",
+      "url": "https://www.unionleader.com/news/back_page/world-s-tallest-thermometer-between-las-vegas-and-la-is-for-sale/article_b85e182f-423e-4f41-8d37-9505f89417a7.html",
+      "source": "Union Leader",
       "state": "NH",
-      "date": "2026-05-19",
+      "date": "2026-05-22",
       "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "79961178189b",
+      "title": "Scarborough Town Council approves $169 million municipal and school budget",
+      "summary": "The budget will result in a 3.21% increase in the tax rate.",
+      "url": "https://www.pressherald.com/2026/05/22/scarborough-town-council-approves-169-million-municipal-and-school-budget/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-22",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8490e47f01ed",
+      "title": "Republicans are picking apart\u00a0Graham Platner\u2019s Reddit archive post by post",
+      "summary": "Out-of-state groups backing U.S. Sen. Susan Collins are flooding the airwaves with a mix of old and new broadsides against the political newcomer.",
+      "url": "https://www.bangordailynews.com/2026/05/22/politics/elections/republicans-picking-apart-graham-platners-reddit-archive-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a37e5a1f05a8",
+      "title": "Westfield board grants permits for chickens, pool and machine shop",
+      "summary": "At the Westfield Planning Board meeting on May 19, several residents in rural residential zones sought special permits for various uses on their properties.",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/westfield-board-grants-permits-for-chickens-pool-and-machine-shop.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-22",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3f0758625885",
+      "title": "Southwick road repair projects for 2026 to start soon",
+      "summary": "Late last year, the Southwick Select Board, at the urging of board member Russ Anderson, contracted with an engineering firm to complete a thorough survey of the conditions of town\u2019s roads to create a priority list of those most in need of repair.",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/southwick-road-repair-projects-for-2026-to-start-soon.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ff0c26c62cae",
+      "title": "EDC considers projects for Complete Streets grants",
+      "summary": "At the Southwick Economic Development Commission meeting Wednesday, projects the town might pursue for grant funding from the Complete Streets Funding Program were discussed, including making the area along Point Grove to the North Boat Ramp more pedestrian friendly and connecting the rail trail to",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/edc-considers-projects-for-complete-streets-grants.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-22",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -765,20 +751,6 @@
       "priority": "high",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "f6e3c4bd6111",
-      "title": "Developer looks to build 1,000 housing units in Londonderry, Auburn",
-      "summary": "A developer is seeking early feedback on a plan to convert the Brook Hollow gravel pit between Londonderry and Auburn into a 1,000-unit housing development over the next 15 to 20 years.",
-      "url": "https://www.unionleader.com/news/local/derry_londonderry/developer-looks-to-build-1-000-housing-units-in-londonderry-auburn/article_948c4153-c6b4-46b5-af4b-11676741b932.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-05-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "aggregates"
       ]
     }
   ],
