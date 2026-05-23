@@ -1,13 +1,13 @@
 {
-  "generated": "2026-05-22T13:18:34.317373Z",
+  "generated": "2026-05-23T11:51:01.602477Z",
   "summary": {
     "total_opportunities": 36,
-    "total_value_low": 347307972,
-    "total_value_high": 347307972,
+    "total_value_low": 353918369,
+    "total_value_high": 353918369,
     "by_state": {
-      "VT": 1,
-      "NH": 3,
-      "ME": 3,
+      "VT": 3,
+      "NH": 4,
+      "ME": 1,
       "MA": 29,
       "NY": 1,
       "RI": 1,
@@ -15,9 +15,9 @@
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 33,
-      "news": 4,
-      "funding": 3
+      "dot_letting": 36,
+      "news": 5,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -99,44 +99,6 @@
       ]
     },
     {
-      "id": "0739b2088d23",
-      "state": "MA",
-      "project_id": "613404",
-      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.5 ELECTRICAL WORK",
-      "cost_low": 77100,
-      "cost_high": 77100,
-      "cost_display": "$77K",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Northampton",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0739b2088d23",
-      "state": "MA",
-      "project_id": "613404",
-      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.6 PLUMBING WORK",
-      "cost_low": 108450,
-      "cost_high": 108450,
-      "cost_display": "$108K",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Northampton",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "f6cf7ee8820e",
       "state": "MA",
       "project_id": "613200",
@@ -188,6 +150,44 @@
       "location": "District 6",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614070",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0739b2088d23",
+      "state": "MA",
+      "project_id": "613404",
+      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.5 ELECTRICAL WORK",
+      "cost_low": 77100,
+      "cost_high": 77100,
+      "cost_display": "$77K",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0739b2088d23",
+      "state": "MA",
+      "project_id": "613404",
+      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.6 PLUMBING WORK",
+      "cost_low": 108450,
+      "cost_high": 108450,
+      "cost_display": "$108K",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -425,25 +425,6 @@
       ]
     },
     {
-      "id": "0739b2088d23",
-      "state": "MA",
-      "project_id": "613404",
-      "description": "HVAC Repairs to District Administration Building at 811 North King Street",
-      "cost_low": 1464080,
-      "cost_high": 1464080,
-      "cost_display": "$1.5M",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "DCAMM-HVAC",
-      "location": "Northampton",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "e223bf077b53",
       "state": "MA",
       "project_id": "614072",
@@ -457,6 +438,25 @@
       "location": "Boston",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614072",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0739b2088d23",
+      "state": "MA",
+      "project_id": "613404",
+      "description": "HVAC Repairs to District Administration Building at 811 North King Street",
+      "cost_low": 1464080,
+      "cost_high": 1464080,
+      "cost_display": "$1.5M",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "DCAMM-HVAC",
+      "location": "Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -479,6 +479,65 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "46f2c7d0d22a",
+      "state": "MA",
+      "project_id": "614017",
+      "description": "Scheduled & Emergency Bridge Deck/Joint Repairs at Various Locations",
+      "cost_low": 981011,
+      "cost_high": 981011,
+      "cost_display": "$981K",
+      "ad_date": "2026-05-23",
+      "let_date": null,
+      "project_type": "Bridge - Deck Repairs",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614017",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "b74183368ecf",
+      "state": "MA",
+      "project_id": "613274",
+      "description": "Bridge Preservation at 6 Bridges along the I-95 Corridor",
+      "cost_low": 4126711,
+      "cost_high": 4126711,
+      "cost_display": "$4.1M",
+      "ad_date": "2026-05-23",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Foxborough",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613274",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "27459932f020",
+      "state": "MA",
+      "project_id": "611953",
+      "description": "Guide and Traffic Sign Replacement on Interstate 291 and a Section of US Route 5",
+      "cost_low": 1502675,
+      "cost_high": 1502675,
+      "cost_display": "$1.5M",
+      "ad_date": "2026-05-23",
+      "let_date": null,
+      "project_type": "Signing - Structural",
+      "location": "Agawam - Chicopee - Springfield",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611953",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
       ]
     },
     {
@@ -656,6 +715,34 @@
   ],
   "news": [
     {
+      "id": "cbe81be06867",
+      "title": "Legislators reject Gov. Scott\u2019s loosening of wetland protections",
+      "summary": "The governor\u2019s administration had moved to allow housing development in certain unmapped wetlands and to cut in half the buffer zone around wetlands.\nRead the story on VTDigger here:  Legislators reject Gov. Scott\u2019s loosening of wetland protections.",
+      "url": "https://vtdigger.org/2026/05/22/legislators-reject-gov-scotts-loosening-of-wetland-protections/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-05-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ce808bc96757",
+      "title": "Vermont\u2019s new farming legislation leaves small livestock operations vulnerable",
+      "summary": "A broad coalition won some protections for farmers, but new legislation allows towns to impose arbitrary caps on poultry and livestock that could push agriculture out of communities.\nRead the story on VTDigger here:  Vermont\u2019s new farming legislation leaves small livestock operations vulnerable.",
+      "url": "https://vtdigger.org/2026/05/22/opinion-vermonts-new-farming-legislation-leaves-small-livestock-operations-vulnerable/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-05-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "71e0d7b9a356",
       "title": "World\u2019s tallest thermometer, between Las Vegas and LA, is for sale",
       "summary": "The giant roadside thermometer between Las Vegas and Los Angeles \u2014 a towering sight for legions of highway drivers \u2014 is for sale.",
@@ -670,70 +757,14 @@
       ]
     },
     {
-      "id": "79961178189b",
-      "title": "Scarborough Town Council approves $169 million municipal and school budget",
-      "summary": "The budget will result in a 3.21% increase in the tax rate.",
-      "url": "https://www.pressherald.com/2026/05/22/scarborough-town-council-approves-169-million-municipal-and-school-budget/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-22",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8490e47f01ed",
-      "title": "Republicans are picking apart\u00a0Graham Platner\u2019s Reddit archive post by post",
-      "summary": "Out-of-state groups backing U.S. Sen. Susan Collins are flooding the airwaves with a mix of old and new broadsides against the political newcomer.",
-      "url": "https://www.bangordailynews.com/2026/05/22/politics/elections/republicans-picking-apart-graham-platners-reddit-archive-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "18b8ab9bdeab",
+      "title": "Man Recovering After Police-Involved Shooting in Milan",
+      "summary": "MILAN - A 37-year old man was shot by a Berlin police officer while officers were responding to a resident's request to remove a man from the home at 256 West Milan Road in Milan Thursday night at 8:50 p.m., according to Attorney General John Formella's press release.",
+      "url": "https://indepthnh.org/2026/05/22/man-recovering-after-police-involved-shooting-in-milan/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-05-22",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a37e5a1f05a8",
-      "title": "Westfield board grants permits for chickens, pool and machine shop",
-      "summary": "At the Westfield Planning Board meeting on May 19, several residents in rural residential zones sought special permits for various uses on their properties.",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/westfield-board-grants-permits-for-chickens-pool-and-machine-shop.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-22",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3f0758625885",
-      "title": "Southwick road repair projects for 2026 to start soon",
-      "summary": "Late last year, the Southwick Select Board, at the urging of board member Russ Anderson, contracted with an engineering firm to complete a thorough survey of the conditions of town\u2019s roads to create a priority list of those most in need of repair.",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/southwick-road-repair-projects-for-2026-to-start-soon.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ff0c26c62cae",
-      "title": "EDC considers projects for Complete Streets grants",
-      "summary": "At the Southwick Economic Development Commission meeting Wednesday, projects the town might pursue for grant funding from the Complete Streets Funding Program were discussed, including making the area along Point Grove to the North Boat Ramp more pedestrian friendly and connecting the rail trail to",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/edc-considers-projects-for-complete-streets-grants.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-22",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
