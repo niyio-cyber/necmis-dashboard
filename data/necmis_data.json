@@ -1,13 +1,13 @@
 {
-  "generated": "2026-05-23T11:51:01.602477Z",
+  "generated": "2026-05-24T11:56:02.028759Z",
   "summary": {
     "total_opportunities": 36,
     "total_value_low": 353918369,
     "total_value_high": 353918369,
     "by_state": {
-      "VT": 3,
+      "VT": 4,
       "NH": 4,
-      "ME": 1,
+      "ME": 2,
       "MA": 29,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 36,
-      "news": 5,
+      "news": 7,
       "funding": 0
     }
   },
@@ -714,6 +714,34 @@
     }
   ],
   "news": [
+    {
+      "id": "35f10ffb43ca",
+      "title": "Solar array gone awry: Vermont probes solar development owner about broken solar panels in Shaftsbury",
+      "summary": "Agriculture agency says it is \u201cworking to learn more.\u201d \nRead the story on VTDigger here:  Solar array gone awry: Vermont probes solar development owner about broken solar panels in Shaftsbury.",
+      "url": "https://vtdigger.org/2026/05/24/solar-array-gone-awry-vermont-probes-solar-development-owner-about-broken-solar-panels-in-shaftsbury/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-05-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d80cb1b10b09",
+      "title": "Reflecting on two bridges, two wars, two protests | Letter",
+      "summary": "Here's hoping that the 'No Kings' demonstrations on the Sagadahoc Bridge have a more successful outcome than the 1969 March on Washington.",
+      "url": "https://www.pressherald.com/2026/05/24/reflecting-on-two-bridges-two-wars-two-protests-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
     {
       "id": "cbe81be06867",
       "title": "Legislators reject Gov. Scott\u2019s loosening of wetland protections",
