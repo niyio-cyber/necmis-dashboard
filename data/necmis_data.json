@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-25T13:52:57.437351Z",
+  "generated": "2026-05-26T13:42:59.472928Z",
   "summary": {
-    "total_opportunities": 36,
+    "total_opportunities": 37,
     "total_value_low": 353918369,
     "total_value_high": 353918369,
     "by_state": {
       "VT": 4,
-      "NH": 4,
-      "ME": 3,
-      "MA": 29,
+      "NH": 6,
+      "ME": 2,
+      "MA": 31,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 36,
-      "news": 8,
-      "funding": 0
+      "news": 10,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -715,15 +715,71 @@
   ],
   "news": [
     {
-      "id": "6c1bd22c1556",
-      "title": "Maine\u2019s coast might have more than 1,000\u00a0shipwrecks",
-      "summary": "There are hundreds of shipwrecks known to lie in Penobscot Bay alone, and hundreds more dot Maine waters, many of them unknown.",
-      "url": "https://www.bangordailynews.com/2026/05/25/midcoast/maines-coast-more-than-1000-shipwrecks-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "d6f9f66c9952",
+      "title": "UNE sues Biddeford after city denies permit for controversial pier project",
+      "summary": "The University of New England is asking a York County judge to declare that the city's moratorium on construction projects violates state law.",
+      "url": "https://www.pressherald.com/2026/05/26/une-sues-biddeford-after-city-denies-permit-for-controversial-pier-project/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4aae5d55d535",
+      "title": "Memorial Day Parade Honors Military Personnel Who Died Serving Our Country",
+      "summary": "The sun came out and so did hundreds of people to honor the military who died serving our country. Manchester was one of the limited number of municipalities that held their parade.",
+      "url": "https://indepthnh.org/2026/05/25/manchester-memorial-day-parade-honors-military-personnel-who-died-serving/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-05-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "da7acc495e63",
+      "title": "Connecticut Sun\u2019s woes continue in loss to Golden State Valkyries",
+      "summary": "The Sun have one game left to their five-game road trip.",
+      "url": "https://www.masslive.com/sports/2026/05/connecticut-suns-woes-continue-in-loss-to-golden-state-valkyries.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "45bda85bc95b",
+      "title": "Westfield City Council split on funding for brain injury group home",
+      "summary": "At its May 21 meeting, the City Council narrowly defeated an appropriation of $200,000 in Community Preservation Act funds to Berkshire County ARC for a group home for individuals with acquired brain injury (ABI) on Cabot Road, as recommended unanimously by the Community Preservation Committee at it",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/westfield-city-council-split-on-funding-for-brain-injury-group-home.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-26",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cd3e37d804ef",
+      "title": "Steeplegate Mall plans no longer include J.C. Penney",
+      "summary": "The redevelopment of the Steeplegate Mall in Concord no longer shows plans to save the J.C. Penney department store, and the number of apartments has been reduced to 600.",
+      "url": "https://www.unionleader.com/news/business/steeplegate-mall-plans-no-longer-include-j-c-penney/article_21ced2a1-9e62-4818-91db-149afe1892b7.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-05-25",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -735,20 +791,6 @@
       "url": "https://vtdigger.org/2026/05/24/solar-array-gone-awry-vermont-probes-solar-development-owner-about-broken-solar-panels-in-shaftsbury/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-05-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d7b8bf51764f",
-      "title": "3 hurt\u00a0in early morning rollover on Route 1 in Brunswick",
-      "summary": "The car went off the left side of the road, struck a cable barrier and rolled over, according to Brunswick police.",
-      "url": "https://www.bangordailynews.com/2026/05/24/midcoast/midcoast-police-courts/3-hurt-early-morning-rollover-route-1-brunswick/",
-      "source": "Bangor Daily News",
-      "state": "ME",
       "date": "2026-05-24",
       "category": "news",
       "priority": "medium",
