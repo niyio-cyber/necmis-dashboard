@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-26T13:42:59.472928Z",
+  "generated": "2026-05-27T14:15:39.077320Z",
   "summary": {
     "total_opportunities": 37,
     "total_value_low": 353918369,
     "total_value_high": 353918369,
     "by_state": {
-      "VT": 4,
+      "VT": 2,
       "NH": 6,
-      "ME": 2,
-      "MA": 31,
+      "ME": 3,
+      "MA": 29,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 36,
-      "news": 10,
+      "news": 7,
       "funding": 1
     }
   },
@@ -715,15 +715,57 @@
   ],
   "news": [
     {
-      "id": "d6f9f66c9952",
-      "title": "UNE sues Biddeford after city denies permit for controversial pier project",
-      "summary": "The University of New England is asking a York County judge to declare that the city's moratorium on construction projects violates state law.",
-      "url": "https://www.pressherald.com/2026/05/26/une-sues-biddeford-after-city-denies-permit-for-controversial-pier-project/",
-      "source": "Portland Press Herald",
+      "id": "1055babd108b",
+      "title": "Construction starts on Bangor\u2019s Joshua Chamberlain Bridge next month",
+      "summary": "Traffic on the bridge will be reduced to a single lane of one-way traffic during construction.",
+      "url": "https://www.bangordailynews.com/2026/05/27/bangor/bangor-government/bangor-maine-joshua-chamberlain-bridge-construction-start-date/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-27",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f47012239c7e",
+      "title": "Once-stalled Manchester apartment building nearly ready for renters",
+      "summary": "The stalled construction of a $20 million apartment building in downtown Manchester got a boost with a new owner and investor money to bring it to the finish line, and now the 77 units are on the market.",
+      "url": "https://www.unionleader.com/news/local/manchester/once-stalled-manchester-apartment-building-nearly-ready-for-renters/article_2acb376e-cbc3-446a-a9a8-f997ce85a8db.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-05-26",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d33c7482ac74",
+      "title": "Former Acadia park ranger sues over alleged hiring discrimination",
+      "summary": "David A. Smith contends that he was passed over for positions in the park\u2019s roads division because of his age and race.",
+      "url": "https://www.bangordailynews.com/2026/05/26/hancock/hancock-police-courts/acadia-lawsuit-hiring-discrimination/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-05-26",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "aba64087650b",
+      "title": "Committee Advances HB 1588 Housing Changes",
+      "summary": "A committee of conference on Tuesday advanced changes to House Bill (HB) 1588 that would limit some local restrictions on multifamily housing development in commercial districts.",
+      "url": "https://indepthnh.org/2026/05/26/committee-advances-hb-1588-housing-changes/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-05-26",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -736,48 +778,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-05-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "da7acc495e63",
-      "title": "Connecticut Sun\u2019s woes continue in loss to Golden State Valkyries",
-      "summary": "The Sun have one game left to their five-game road trip.",
-      "url": "https://www.masslive.com/sports/2026/05/connecticut-suns-woes-continue-in-loss-to-golden-state-valkyries.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "45bda85bc95b",
-      "title": "Westfield City Council split on funding for brain injury group home",
-      "summary": "At its May 21 meeting, the City Council narrowly defeated an appropriation of $200,000 in Community Preservation Act funds to Berkshire County ARC for a group home for individuals with acquired brain injury (ABI) on Cabot Road, as recommended unanimously by the Community Preservation Committee at it",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/westfield-city-council-split-on-funding-for-brain-injury-group-home.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-26",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cd3e37d804ef",
-      "title": "Steeplegate Mall plans no longer include J.C. Penney",
-      "summary": "The redevelopment of the Steeplegate Mall in Concord no longer shows plans to save the J.C. Penney department store, and the number of apartments has been reduced to 600.",
-      "url": "https://www.unionleader.com/news/business/steeplegate-mall-plans-no-longer-include-j-c-penney/article_21ced2a1-9e62-4818-91db-149afe1892b7.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-05-25",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -799,34 +799,6 @@
       ]
     },
     {
-      "id": "cbe81be06867",
-      "title": "Legislators reject Gov. Scott\u2019s loosening of wetland protections",
-      "summary": "The governor\u2019s administration had moved to allow housing development in certain unmapped wetlands and to cut in half the buffer zone around wetlands.\nRead the story on VTDigger here:  Legislators reject Gov. Scott\u2019s loosening of wetland protections.",
-      "url": "https://vtdigger.org/2026/05/22/legislators-reject-gov-scotts-loosening-of-wetland-protections/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ce808bc96757",
-      "title": "Vermont\u2019s new farming legislation leaves small livestock operations vulnerable",
-      "summary": "A broad coalition won some protections for farmers, but new legislation allows towns to impose arbitrary caps on poultry and livestock that could push agriculture out of communities.\nRead the story on VTDigger here:  Vermont\u2019s new farming legislation leaves small livestock operations vulnerable.",
-      "url": "https://vtdigger.org/2026/05/22/opinion-vermonts-new-farming-legislation-leaves-small-livestock-operations-vulnerable/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "71e0d7b9a356",
       "title": "World\u2019s tallest thermometer, between Las Vegas and LA, is for sale",
       "summary": "The giant roadside thermometer between Las Vegas and Los Angeles \u2014 a towering sight for legions of highway drivers \u2014 is for sale.",
@@ -836,20 +808,6 @@
       "date": "2026-05-22",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "18b8ab9bdeab",
-      "title": "Man Recovering After Police-Involved Shooting in Milan",
-      "summary": "MILAN - A 37-year old man was shot by a Berlin police officer while officers were responding to a resident's request to remove a man from the home at 256 West Milan Road in Milan Thursday night at 8:50 p.m., according to Attorney General John Formella's press release.",
-      "url": "https://indepthnh.org/2026/05/22/man-recovering-after-police-involved-shooting-in-milan/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-05-22",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
