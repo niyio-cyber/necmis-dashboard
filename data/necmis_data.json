@@ -1,122 +1,26 @@
 {
-  "generated": "2026-05-27T14:15:39.077320Z",
+  "generated": "2026-05-28T14:25:07.717880Z",
   "summary": {
-    "total_opportunities": 37,
-    "total_value_low": 353918369,
-    "total_value_high": 353918369,
+    "total_opportunities": 32,
+    "total_value_low": 315524835,
+    "total_value_high": 315524835,
     "by_state": {
       "VT": 2,
-      "NH": 6,
-      "ME": 3,
-      "MA": 29,
+      "NH": 7,
+      "ME": 5,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 36,
-      "news": 7,
+      "dot_letting": 31,
+      "news": 10,
       "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "344e3b14ad0f",
-      "state": "MA",
-      "project_id": "609440",
-      "description": "Intersection Improvements at Hancock Street and Chestnut Street",
-      "cost_low": 6514873,
-      "cost_high": 6514873,
-      "cost_display": "$6.5M",
-      "ad_date": "2026-04-18",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Abington",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609440",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0a49cbe21bd0",
-      "state": "MA",
-      "project_id": "614272",
-      "description": "Sidewalk Repair and Improvement at Various Locations",
-      "cost_low": 811912,
-      "cost_high": 811912,
-      "cost_display": "$812K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "Highway - Construction , Highway - Sidewalk And Curbing",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614272",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bec6b71e531e",
-      "state": "MA",
-      "project_id": "614176",
-      "description": "Bridge Preservation, including Cleaning and Painting of F-08-024 (1VC & 1VD), I-495 (NB & SB) over Summer Street",
-      "cost_low": 2866715,
-      "cost_high": 2866715,
-      "cost_display": "$2.9M",
-      "ad_date": "2026-04-11",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Franklin",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614176",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "809a94ed8c2e",
-      "state": "MA",
-      "project_id": "613383",
-      "description": "Interstate Pavement Preservation and Related Work on I-95",
-      "cost_low": 26479138,
-      "cost_high": 26479138,
-      "cost_display": "$26.5M",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Lynnfield - Wakefield",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613383",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "f6cf7ee8820e",
-      "state": "MA",
-      "project_id": "613200",
-      "description": "Bridge Preservation, S-04-008 (4BA) and S-04-011 (4B9), Chase Road over Route 6 (Mid-Cape Highway)",
-      "cost_low": 1720896,
-      "cost_high": 1720896,
-      "cost_display": "$1.7M",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Sandwich",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613200",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "cdeb8ef3c671",
       "state": "MA",
@@ -715,12 +619,110 @@
   ],
   "news": [
     {
-      "id": "1055babd108b",
-      "title": "Construction starts on Bangor\u2019s Joshua Chamberlain Bridge next month",
-      "summary": "Traffic on the bridge will be reduced to a single lane of one-way traffic during construction.",
-      "url": "https://www.bangordailynews.com/2026/05/27/bangor/bangor-government/bangor-maine-joshua-chamberlain-bridge-construction-start-date/",
-      "source": "Bangor Daily News",
+      "id": "1f23896e8bca",
+      "title": "A Republican president is expensive for America | Letter",
+      "summary": "The last\u00a0two Republican presidents \u2014 George\u00a0W. Bush and the current occupant of the White House \u2014 have down four things: cut taxes for the morbidly wealthy; blow our country\u2019s debt into the stratosphere with the same unnecessary tax cuts for people who don\u2019t need them; start a completely unnecessary",
+      "url": "https://www.pressherald.com/2026/05/28/a-republican-president-is-expensive-for-america-letter/",
+      "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-05-28",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cca0bd6158c3",
+      "title": "America pays the price for political roads not taken | Douglas Rooks",
+      "summary": "A pair of op-eds from 2019 offer a sad reminder of what could have been.",
+      "url": "https://www.pressherald.com/2026/05/28/america-pays-the-price-for-political-roads-not-taken-douglas-rooks/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-28",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b199ea79e8e6",
+      "title": "Obituary: Elizabeth Ann (Coffin) Coldwell",
+      "summary": "BIDDEFORD - Elizabeth Ann (Coffin) Coldwell, 81, passed away peacefully on May 3, 2026, in Portland, surrounded by the love of ...",
+      "url": "https://www.pressherald.com/2026/05/28/obituaryelizabeth-ann-coffin-coldwell-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-28",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cc4b4c5d5719",
+      "title": "Death Notice: Elizabeth Ann (Coffin) Coldwell",
+      "summary": "Coldwell, Elizabeth Ann (Coffin) 81, of Biddeford, May 3. Visit 5-8 p.m., May 29, Hope Memorial Chapel, Biddeford. Service 2 p.m., ...",
+      "url": "https://www.pressherald.com/2026/05/28/obituaryelizabeth-ann-coffin-coldwell/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-05-28",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "aea9ddfceef5",
+      "title": "AI Data Center Paused Amid Uproar in Nottingham",
+      "summary": "The man behind a proposed data center on Route 4 is retreating as hundreds of people showed up Wednesday to protest the development.",
+      "url": "https://indepthnh.org/2026/05/27/ai-data-center-paused-amid-uproar-in-nottingham/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-05-28",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5419d905d22a",
+      "title": "Vermont Conversation: \u2018Action is the antidote to despair.\u2019 Ben Cohen fights to save the soul of Ben & Jerry\u2019s.",
+      "summary": "The Vermont ice cream company co-founder reflects on what's become of his company's social mission and the socially responsible business movement that he spearheaded, how he and Jerry Greenfield are trying to take back their company, and his activism.\nRead the story on VTDigger here:  Vermont Conve",
+      "url": "https://vtdigger.org/2026/05/27/vermont-conversation-action-is-the-antidote-to-despair-ben-cohen-fights-to-save-the-soul-of-ben-jerrys/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-05-27",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b134c4cccfa5",
+      "title": "Roadquill",
+      "summary": "",
+      "url": "https://indepthnh.org/2026/05/27/roadquill/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-05-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8a354e889523",
+      "title": "State Asks Court To Dismiss Pam Smart\u2019s Latest Bid for Freedom",
+      "summary": "The state has asked the court to dismiss Pam Smart's latest bid to get out of prison, a habeas corpus petition arguing she was convicted based on dodgy tape recordings of conversations with one of the prosecution's key witnesses.",
+      "url": "https://indepthnh.org/2026/05/27/state-asks-court-to-dismiss-pam-smarts-latest-bid-for-freedom/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-05-27",
       "category": "news",
       "priority": "high",
@@ -743,20 +745,6 @@
       ]
     },
     {
-      "id": "d33c7482ac74",
-      "title": "Former Acadia park ranger sues over alleged hiring discrimination",
-      "summary": "David A. Smith contends that he was passed over for positions in the park\u2019s roads division because of his age and race.",
-      "url": "https://www.bangordailynews.com/2026/05/26/hancock/hancock-police-courts/acadia-lawsuit-hiring-discrimination/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "aba64087650b",
       "title": "Committee Advances HB 1588 Housing Changes",
       "summary": "A committee of conference on Tuesday advanced changes to House Bill (HB) 1588 that would limit some local restrictions on multifamily housing development in commercial districts.",
@@ -771,34 +759,6 @@
       ]
     },
     {
-      "id": "4aae5d55d535",
-      "title": "Memorial Day Parade Honors Military Personnel Who Died Serving Our Country",
-      "summary": "The sun came out and so did hundreds of people to honor the military who died serving our country. Manchester was one of the limited number of municipalities that held their parade.",
-      "url": "https://indepthnh.org/2026/05/25/manchester-memorial-day-parade-honors-military-personnel-who-died-serving/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-05-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "35f10ffb43ca",
-      "title": "Solar array gone awry: Vermont probes solar development owner about broken solar panels in Shaftsbury",
-      "summary": "Agriculture agency says it is \u201cworking to learn more.\u201d \nRead the story on VTDigger here:  Solar array gone awry: Vermont probes solar development owner about broken solar panels in Shaftsbury.",
-      "url": "https://vtdigger.org/2026/05/24/solar-array-gone-awry-vermont-probes-solar-development-owner-about-broken-solar-panels-in-shaftsbury/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "71e0d7b9a356",
       "title": "World\u2019s tallest thermometer, between Las Vegas and LA, is for sale",
       "summary": "The giant roadside thermometer between Las Vegas and Los Angeles \u2014 a towering sight for legions of highway drivers \u2014 is for sale.",
@@ -806,20 +766,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-05-22",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b96132bfffe3",
-      "title": "Judge denies accused CEO killer Mangione's bid to toss gun, notebook evidence",
-      "summary": "Luigi Mangione, accused of killing the CEO of UnitedHealthcare, on Monday failed to convince a New York judge to keep a possible murder weapon out of trial evidence, though prosecutors won't be allowed to introduce some other things found in\u2026",
-      "url": "https://www.unionleader.com/news/courts/judge-denies-accused-ceo-killer-mangiones-bid-to-toss-gun-notebook-evidence/article_b7fdbe51-cd6c-56c5-a1fe-a1687fa1fe91.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-05-18",
       "category": "news",
       "priority": "high",
       "business_lines": [
