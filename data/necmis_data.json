@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-28T14:25:07.717880Z",
+  "generated": "2026-05-29T13:51:07.919936Z",
   "summary": {
-    "total_opportunities": 32,
+    "total_opportunities": 34,
     "total_value_low": 315524835,
     "total_value_high": 315524835,
     "by_state": {
       "VT": 2,
-      "NH": 7,
-      "ME": 5,
-      "MA": 24,
+      "NH": 6,
+      "ME": 4,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 31,
       "news": 10,
-      "funding": 1
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -619,13 +619,27 @@
   ],
   "news": [
     {
-      "id": "1f23896e8bca",
-      "title": "A Republican president is expensive for America | Letter",
-      "summary": "The last\u00a0two Republican presidents \u2014 George\u00a0W. Bush and the current occupant of the White House \u2014 have down four things: cut taxes for the morbidly wealthy; blow our country\u2019s debt into the stratosphere with the same unnecessary tax cuts for people who don\u2019t need them; start a completely unnecessary",
-      "url": "https://www.pressherald.com/2026/05/28/a-republican-president-is-expensive-for-america-letter/",
+      "id": "4095710fb08c",
+      "title": "Justice Department deal with Trump is a travesty | Letter",
+      "summary": "The proposal to spend $1.8\u202fbillion on a compensation fund for people supposedly \u201cwronged\u201d by the Biden administration \u2014 including Jan. 6, 2021 insurrectionists \u2014 should alarm every taxpayer. With criteria that remain vague and politically malleable, it looks less like justice and more like an open i",
+      "url": "https://www.pressherald.com/2026/05/29/justice-department-deal-with-trump-is-a-travesty-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "dc43b495acf4",
+      "title": "Rabid fox found in Maine town",
+      "summary": "The fox was found Wednesday afternoon near the Lisbon Falls Big Apple.",
+      "url": "https://www.bangordailynews.com/2026/05/29/central-maine/central-maine-police-courts/lisbon-falls-maine-bayberry-street-rabid-fox-rabies/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-05-29",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -633,13 +647,13 @@
       ]
     },
     {
-      "id": "cca0bd6158c3",
-      "title": "America pays the price for political roads not taken | Douglas Rooks",
-      "summary": "A pair of op-eds from 2019 offer a sad reminder of what could have been.",
-      "url": "https://www.pressherald.com/2026/05/28/america-pays-the-price-for-political-roads-not-taken-douglas-rooks/",
-      "source": "Portland Press Herald",
+      "id": "b548f5a506a0",
+      "title": "Bangor will rename city trail after Gerald Talbot",
+      "summary": "The trail connecting Sylvan Road and Stillwater Avenue will soon bear the name of the civil rights icon and Maine's first Black legislator.",
+      "url": "https://www.bangordailynews.com/2026/05/29/bangor/bangor-government/bangor-maine-gerald-talbot-trail-naming-ceremony/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -647,13 +661,13 @@
       ]
     },
     {
-      "id": "b199ea79e8e6",
-      "title": "Obituary: Elizabeth Ann (Coffin) Coldwell",
-      "summary": "BIDDEFORD - Elizabeth Ann (Coffin) Coldwell, 81, passed away peacefully on May 3, 2026, in Portland, surrounded by the love of ...",
-      "url": "https://www.pressherald.com/2026/05/28/obituaryelizabeth-ann-coffin-coldwell-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-28",
+      "id": "01ea020845be",
+      "title": "Mass. police trooper struck by vehicle while working highway detail",
+      "summary": "The crash happened on the northbound side, where the left two lanes had been closed due to roadwork.",
+      "url": "https://www.masslive.com/news/2026/05/mass-police-trooper-struck-by-vehicle-while-working-highway-detail.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-29",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -661,15 +675,43 @@
       ]
     },
     {
-      "id": "cc4b4c5d5719",
-      "title": "Death Notice: Elizabeth Ann (Coffin) Coldwell",
-      "summary": "Coldwell, Elizabeth Ann (Coffin) 81, of Biddeford, May 3. Visit 5-8 p.m., May 29, Hope Memorial Chapel, Biddeford. Service 2 p.m., ...",
-      "url": "https://www.pressherald.com/2026/05/28/obituaryelizabeth-ann-coffin-coldwell/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-05-28",
-      "category": "news",
+      "id": "51d10318b412",
+      "title": "Mass. to make a $25M quantum leap on new computing center in Cambridge",
+      "summary": "\"This facility will serve those at the edges of our wildest imaginations in physics and quantum computing,\u201d MIT President Sally Kornbluth said",
+      "url": "https://www.masslive.com/politics/2026/05/mass-to-make-a-quantum-leap-on-new-computing-center-in-cambridge.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-29",
+      "category": "funding",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5dbb5aae90ce",
+      "title": "Hartford prepares to host its first WNBA game as the Sun take on the Sparks",
+      "summary": "The Connecticut Sun return from their five-game road trip on Saturday and will face the Los Angeles Sparks at the PeoplesBank Arena in Hartford as the city hosts its first regular-season WNBA game.",
+      "url": "https://www.masslive.com/sports/2026/05/hartford-prepares-to-host-its-first-wnba-game-as-the-sun-take-on-the-sparks.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b176b0b1cc6b",
+      "title": "Planning Board approves minor modification of Crepes Tea House permit",
+      "summary": "The Southwick Planning Board approved two minor modification special permits during its meeting Tuesday; one for the Tilcon Minerals property to delineate the property for the proposed dog park and another for Crepes Tea House to extend the time it cooks outdoors but not for two days a week, which t",
+      "url": "https://www.masslive.com/westfieldnews/2026/05/planning-board-approves-minor-modification-of-crepes-tea-house-permit.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-05-29",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -739,20 +781,6 @@
       "state": "NH",
       "date": "2026-05-26",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "aba64087650b",
-      "title": "Committee Advances HB 1588 Housing Changes",
-      "summary": "A committee of conference on Tuesday advanced changes to House Bill (HB) 1588 that would limit some local restrictions on multifamily housing development in commercial districts.",
-      "url": "https://indepthnh.org/2026/05/26/committee-advances-hb-1588-housing-changes/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-05-26",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
