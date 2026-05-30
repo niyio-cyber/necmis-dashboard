@@ -1,13 +1,13 @@
 {
-  "generated": "2026-05-29T13:51:07.919936Z",
+  "generated": "2026-05-30T11:59:26.341757Z",
   "summary": {
-    "total_opportunities": 34,
-    "total_value_low": 315524835,
-    "total_value_high": 315524835,
+    "total_opportunities": 36,
+    "total_value_low": 357951820,
+    "total_value_high": 357951820,
     "by_state": {
-      "VT": 2,
-      "NH": 6,
-      "ME": 4,
+      "VT": 1,
+      "NH": 5,
+      "ME": 2,
       "MA": 28,
       "NY": 1,
       "RI": 1,
@@ -15,9 +15,9 @@
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 31,
-      "news": 10,
-      "funding": 3
+      "dot_letting": 35,
+      "news": 4,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -386,6 +386,26 @@
       ]
     },
     {
+      "id": "2ae67002e868",
+      "state": "MA",
+      "project_id": "608634",
+      "description": "Bridge Replacement, D-06-001, Upper Road over Deerfield River",
+      "cost_low": 23663072,
+      "cost_high": 23663072,
+      "cost_display": "$23.7M",
+      "ad_date": "2026-05-30",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Deerfield",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608634",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
       "id": "46f2c7d0d22a",
       "state": "MA",
       "project_id": "614017",
@@ -406,6 +426,26 @@
       ]
     },
     {
+      "id": "2c2347406a0f",
+      "state": "MA",
+      "project_id": "614014",
+      "description": "Scheduled and Emergency Bridge Maintenance at Various Locations",
+      "cost_low": 107260,
+      "cost_high": 107260,
+      "cost_display": "$107K",
+      "ad_date": "2026-05-30",
+      "let_date": null,
+      "project_type": "Pavement - Surfacing , Highway - Construction",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614014",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
+      ]
+    },
+    {
       "id": "b74183368ecf",
       "state": "MA",
       "project_id": "613274",
@@ -419,6 +459,45 @@
       "location": "Foxborough",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613274",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4c58ebff6291",
+      "state": "MA",
+      "project_id": "612190",
+      "description": "Bridge Replacement, H-18-004, Salisbury Street over G&W Railroad",
+      "cost_low": 7377503,
+      "cost_high": 7377503,
+      "cost_display": "$7.4M",
+      "ad_date": "2026-05-30",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Holden",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612190",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "5fe25c6ee95e",
+      "state": "MA",
+      "project_id": "612505",
+      "description": "Bridge Preservation, N-14-039, Route 2 over South Branch of the Hoosic River and Route 8",
+      "cost_low": 11279150,
+      "cost_high": 11279150,
+      "cost_display": "$11.3M",
+      "ad_date": "2026-05-30",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "North Adams",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612505",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -619,99 +698,29 @@
   ],
   "news": [
     {
-      "id": "4095710fb08c",
-      "title": "Justice Department deal with Trump is a travesty | Letter",
-      "summary": "The proposal to spend $1.8\u202fbillion on a compensation fund for people supposedly \u201cwronged\u201d by the Biden administration \u2014 including Jan. 6, 2021 insurrectionists \u2014 should alarm every taxpayer. With criteria that remain vague and politically malleable, it looks less like justice and more like an open i",
-      "url": "https://www.pressherald.com/2026/05/29/justice-department-deal-with-trump-is-a-travesty-letter/",
+      "id": "21a02154a3a1",
+      "title": "After complaints, Durham issues stop work order on gravel pit for unpermitted expansion",
+      "summary": "The town issued the order in early May and has since allowed the pit to resume some work on permitted land.",
+      "url": "https://www.pressherald.com/2026/05/30/after-complaints-durham-issues-stop-work-order-on-gravel-pit-for-unpermitted-expansion/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-05-29",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "dc43b495acf4",
-      "title": "Rabid fox found in Maine town",
-      "summary": "The fox was found Wednesday afternoon near the Lisbon Falls Big Apple.",
-      "url": "https://www.bangordailynews.com/2026/05/29/central-maine/central-maine-police-courts/lisbon-falls-maine-bayberry-street-rabid-fox-rabies/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-29",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b548f5a506a0",
-      "title": "Bangor will rename city trail after Gerald Talbot",
-      "summary": "The trail connecting Sylvan Road and Stillwater Avenue will soon bear the name of the civil rights icon and Maine's first Black legislator.",
-      "url": "https://www.bangordailynews.com/2026/05/29/bangor/bangor-government/bangor-maine-gerald-talbot-trail-naming-ceremony/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "highway"
+        "aggregates"
       ]
     },
     {
-      "id": "01ea020845be",
-      "title": "Mass. police trooper struck by vehicle while working highway detail",
-      "summary": "The crash happened on the northbound side, where the left two lanes had been closed due to roadwork.",
-      "url": "https://www.masslive.com/news/2026/05/mass-police-trooper-struck-by-vehicle-while-working-highway-detail.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "d5c28da330a5",
+      "title": "Dead Moose for 4 Days on Side of Kancamagus  on Memorial Day Weekend Causes Upset",
+      "summary": "Moose sightings are rare but more common in May along the state's highways. But they are also a hazard, and in some cases an eyesore that the state is not dealing with on a timely basis, an Executive Councilor said this week.",
+      "url": "https://indepthnh.org/2026/05/29/dead-moose-on-side-of-kancamagus-for-4-days-during-memorial-day-weekend-causes-upset/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-05-29",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "51d10318b412",
-      "title": "Mass. to make a $25M quantum leap on new computing center in Cambridge",
-      "summary": "\"This facility will serve those at the edges of our wildest imaginations in physics and quantum computing,\u201d MIT President Sally Kornbluth said",
-      "url": "https://www.masslive.com/politics/2026/05/mass-to-make-a-quantum-leap-on-new-computing-center-in-cambridge.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-29",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5dbb5aae90ce",
-      "title": "Hartford prepares to host its first WNBA game as the Sun take on the Sparks",
-      "summary": "The Connecticut Sun return from their five-game road trip on Saturday and will face the Los Angeles Sparks at the PeoplesBank Arena in Hartford as the city hosts its first regular-season WNBA game.",
-      "url": "https://www.masslive.com/sports/2026/05/hartford-prepares-to-host-its-first-wnba-game-as-the-sun-take-on-the-sparks.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-29",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b176b0b1cc6b",
-      "title": "Planning Board approves minor modification of Crepes Tea House permit",
-      "summary": "The Southwick Planning Board approved two minor modification special permits during its meeting Tuesday; one for the Tilcon Minerals property to delineate the property for the proposed dog park and another for Crepes Tea House to extend the time it cooks outdoors but not for two days a week, which t",
-      "url": "https://www.masslive.com/westfieldnews/2026/05/planning-board-approves-minor-modification-of-crepes-tea-house-permit.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-05-29",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -726,48 +735,6 @@
       "date": "2026-05-28",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5419d905d22a",
-      "title": "Vermont Conversation: \u2018Action is the antidote to despair.\u2019 Ben Cohen fights to save the soul of Ben & Jerry\u2019s.",
-      "summary": "The Vermont ice cream company co-founder reflects on what's become of his company's social mission and the socially responsible business movement that he spearheaded, how he and Jerry Greenfield are trying to take back their company, and his activism.\nRead the story on VTDigger here:  Vermont Conve",
-      "url": "https://vtdigger.org/2026/05/27/vermont-conversation-action-is-the-antidote-to-despair-ben-cohen-fights-to-save-the-soul-of-ben-jerrys/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-05-27",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b134c4cccfa5",
-      "title": "Roadquill",
-      "summary": "",
-      "url": "https://indepthnh.org/2026/05/27/roadquill/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-05-27",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8a354e889523",
-      "title": "State Asks Court To Dismiss Pam Smart\u2019s Latest Bid for Freedom",
-      "summary": "The state has asked the court to dismiss Pam Smart's latest bid to get out of prison, a habeas corpus petition arguing she was convicted based on dodgy tape recordings of conversations with one of the prosecution's key witnesses.",
-      "url": "https://indepthnh.org/2026/05/27/state-asks-court-to-dismiss-pam-smarts-latest-bid-for-freedom/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-05-27",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
