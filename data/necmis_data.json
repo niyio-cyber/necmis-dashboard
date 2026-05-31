@@ -1,12 +1,12 @@
 {
-  "generated": "2026-05-30T11:59:26.341757Z",
+  "generated": "2026-05-31T12:05:25.753594Z",
   "summary": {
     "total_opportunities": 36,
     "total_value_low": 357951820,
     "total_value_high": 357951820,
     "by_state": {
       "VT": 1,
-      "NH": 5,
+      "NH": 4,
       "ME": 2,
       "MA": 28,
       "NY": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 35,
-      "news": 4,
+      "news": 3,
       "funding": 1
     }
   },
@@ -698,17 +698,17 @@
   ],
   "news": [
     {
-      "id": "21a02154a3a1",
-      "title": "After complaints, Durham issues stop work order on gravel pit for unpermitted expansion",
-      "summary": "The town issued the order in early May and has since allowed the pit to resume some work on permitted land.",
-      "url": "https://www.pressherald.com/2026/05/30/after-complaints-durham-issues-stop-work-order-on-gravel-pit-for-unpermitted-expansion/",
-      "source": "Portland Press Herald",
+      "id": "52d7dd3633ee",
+      "title": "Build knowledge, skills through UMaine\u2019s summer and fall professional development programs",
+      "summary": "ORONO \u2014 For people seeking to start a new career or advance within their current one, the University of Maine Division of Lifelong Learning has made available several online programs for professional development this summer and fall. The programs are designed to benefit professionals from a range of",
+      "url": "https://www.bangordailynews.com/2026/05/30/bdn-maine/build-knowledge-skills-through-umaines-summer-and-fall-professional-development-programs/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-05-30",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "aggregates"
+        "highway"
       ]
     },
     {
@@ -721,20 +721,6 @@
       "date": "2026-05-29",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "aea9ddfceef5",
-      "title": "AI Data Center Paused Amid Uproar in Nottingham",
-      "summary": "The man behind a proposed data center on Route 4 is retreating as hundreds of people showed up Wednesday to protest the development.",
-      "url": "https://indepthnh.org/2026/05/27/ai-data-center-paused-amid-uproar-in-nottingham/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-05-28",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
