@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31T12:05:25.753594Z",
+  "generated": "2026-06-01T16:29:21.442102Z",
   "summary": {
     "total_opportunities": 36,
     "total_value_low": 357951820,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 1,
       "NH": 4,
-      "ME": 2,
-      "MA": 28,
+      "ME": 3,
+      "MA": 30,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 35,
-      "news": 3,
+      "news": 6,
       "funding": 1
     }
   },
@@ -698,13 +698,56 @@
   ],
   "news": [
     {
-      "id": "52d7dd3633ee",
-      "title": "Build knowledge, skills through UMaine\u2019s summer and fall professional development programs",
-      "summary": "ORONO \u2014 For people seeking to start a new career or advance within their current one, the University of Maine Division of Lifelong Learning has made available several online programs for professional development this summer and fall. The programs are designed to benefit professionals from a range of",
-      "url": "https://www.bangordailynews.com/2026/05/30/bdn-maine/build-knowledge-skills-through-umaines-summer-and-fall-professional-development-programs/",
+      "id": "c5125bcb98fc",
+      "title": "Lifespan Waiver holds promise, but Maine must be cautious | Opinion",
+      "summary": "Is this the right moment to launch a highly complex transformation of Maine's system of care for those with intellectual and developmental disabilities? I'm worried.",
+      "url": "https://www.pressherald.com/2026/06/01/lifespan-waiver-holds-promise-but-maine-must-be-cautious-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8319be27c544",
+      "title": "Watch for these classic Maine signs on your next road trip",
+      "summary": "\"There was a time when Maine highways were blistered with large advertising displays. Fortunately, that is no longer the case.\"",
+      "url": "https://www.bangordailynews.com/2026/06/01/outdoors/outdoors-contributors/classic-maine-signs-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-05-30",
+      "date": "2026-06-01",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5e33c79a4b1f",
+      "title": "Six MassDOT employees resign amid overtime fraud investigation",
+      "summary": "Six state highway maintenance employees have resigned from their positions after they were accused of fraudulently collecting thousands of dollars in overtime pay.",
+      "url": "https://www.masslive.com/boston/2026/06/six-massdot-employees-resign-amid-overtime-fraud-investigation.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-01",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway",
+        "aggregates"
+      ]
+    },
+    {
+      "id": "6e98a6d6e883",
+      "title": "Iconic voice on Springfield radio announces his retirement after 50 years",
+      "summary": "Veteran broadcaster shares stories from a career built on listener connection, charity work and morning radio with his wife.",
+      "url": "https://www.masslive.com/westernmass/2026/06/dan-williams-a-familiar-voice-on-springfield-radio-announces-his-retirement.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-01",
       "category": "news",
       "priority": "medium",
       "business_lines": [
