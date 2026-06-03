@@ -1,102 +1,26 @@
 {
-  "generated": "2026-06-02T14:40:06.429122Z",
+  "generated": "2026-06-03T15:22:16.812970Z",
   "summary": {
-    "total_opportunities": 38,
-    "total_value_low": 357951820,
-    "total_value_high": 357951820,
+    "total_opportunities": 33,
+    "total_value_low": 346141707,
+    "total_value_high": 346141707,
     "by_state": {
       "VT": 2,
       "NH": 4,
-      "ME": 4,
-      "MA": 28,
+      "ME": 2,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 35,
-      "news": 4,
-      "funding": 3
+      "dot_letting": 31,
+      "news": 3,
+      "funding": 2
     }
   },
   "dot_lettings": [
-    {
-      "id": "cdeb8ef3c671",
-      "state": "MA",
-      "project_id": "609061",
-      "description": "Intersection Improvements at Montgomery Street, Granby Road, and McKinstry Avenue",
-      "cost_low": 11360363,
-      "cost_high": 11360363,
-      "cost_display": "$11.4M",
-      "ad_date": "2026-05-02",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Chicopee",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609061",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "24c963430a35",
-      "state": "MA",
-      "project_id": "614070",
-      "description": "Inspect, Service and Repair Elevators at Various Locations",
-      "cost_low": 264200,
-      "cost_high": 264200,
-      "cost_display": "$264K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM-Elevators",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614070",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0739b2088d23",
-      "state": "MA",
-      "project_id": "613404",
-      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.5 ELECTRICAL WORK",
-      "cost_low": 77100,
-      "cost_high": 77100,
-      "cost_display": "$77K",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Northampton",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0739b2088d23",
-      "state": "MA",
-      "project_id": "613404",
-      "description": "HVAC Repairs to District Administration Building at 811 North King Street FILED SUB-BIDS: 100.6 PLUMBING WORK",
-      "cost_low": 108450,
-      "cost_high": 108450,
-      "cost_display": "$108K",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Northampton",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "a7c7f3901d4c",
       "state": "MA",
@@ -698,13 +622,13 @@
   ],
   "news": [
     {
-      "id": "7eb190f740cd",
-      "title": "Support Rick Bennett for governor | Letter",
-      "summary": "Please slow down and take a broader view.\u00a0When Jim Longley, our only nonpartisan governor, was elected, he was given a DemocraticHouse with a Republican Senate, yet our democracy carried on.\u00a0The big surprise, this time, will be a nonpartisan lifetime Mainer named Rick Bennett. He will be on Maine\u2019s",
-      "url": "https://www.pressherald.com/2026/06/02/support-rick-bennett-for-governor-letter/",
-      "source": "Portland Press Herald",
+      "id": "7c4eaa027669",
+      "title": "TrainRiders Northeast 37th Annual Meeting Thursday",
+      "summary": "BRUNSWICK \u2014 TrainRiders Northeast will hold its 37th Annual Meeting starting at 12:30 p.m. on Thursday, June 4 in Bowdoin College\u2019s Moulton Union, 6 Campus Road. The purpose of the meeting will be to elect directors and hold a brief membership meeting, followed by presentations from the following sp",
+      "url": "https://www.bangordailynews.com/2026/06/03/bdn-maine/trainriders-northeast-37th-annual-meeting-thursday/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -712,14 +636,14 @@
       ]
     },
     {
-      "id": "ab719b78b544",
-      "title": "With just $500, Maine\u2019s syringe disposal program can\u2019t get off the ground",
-      "summary": "Advocates say the state-run program could have taken a significant burden off municipalities and community organizations. Lawmakers hope it still can.",
-      "url": "https://www.pressherald.com/2026/06/02/with-just-500-maines-syringe-disposal-program-cant-get-off-the-ground/",
-      "source": "Portland Press Herald",
-      "state": "ME",
+      "id": "45b92097a347",
+      "title": "Rehearing on controversial small homes project in Chester set for Wednesday",
+      "summary": "A proposed housing project that would bring 34 small homes to a 20-acre property on Haverhill Road in Chester drew a large crowd in April, leading to the cancellation of a Planning Board meeting that has been rescheduled for Wednesday.",
+      "url": "https://www.unionleader.com/news/rehearing-on-controversial-small-homes-project-in-chester-set-for-wednesday/article_285f361e-0ef1-4308-85ea-9d40f34efd99.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-06-02",
-      "category": "funding",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -749,34 +673,6 @@
       "date": "2026-06-01",
       "category": "funding",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "93a63a972d4f",
-      "title": "UNE earns Silver Rating for sustainability achievements in first-ever assessment",
-      "summary": "BIDDEFORD \u2014 The University of New England earned a STARS Silver Rating for its sustainability achievements from the Association for the Advancement of Sustainability in Higher Education through its Sustainability Tracking, Assessment & Rating System, marking the first time UNE has participated in th",
-      "url": "https://www.bangordailynews.com/2026/06/01/bdn-maine/une-earns-silver-rating-for-sustainability-achievements-in-first-ever-assessment/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-01",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "d5c28da330a5",
-      "title": "Dead Moose for 4 Days on Side of Kancamagus  on Memorial Day Weekend Causes Upset",
-      "summary": "Moose sightings are rare but more common in May along the state's highways. But they are also a hazard, and in some cases an eyesore that the state is not dealing with on a timely basis, an Executive Councilor said this week.",
-      "url": "https://indepthnh.org/2026/05/29/dead-moose-on-side-of-kancamagus-for-4-days-during-memorial-day-weekend-causes-upset/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-05-29",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
