@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-03T15:22:16.812970Z",
+  "generated": "2026-06-04T13:50:44.400898Z",
   "summary": {
     "total_opportunities": 33,
     "total_value_low": 346141707,
     "total_value_high": 346141707,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 4,
       "ME": 2,
       "MA": 24,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 3,
+      "news": 4,
       "funding": 2
     }
   },
@@ -300,7 +300,7 @@
       "cost_display": "$76.3M",
       "ad_date": "2026-04-25",
       "let_date": null,
-      "project_type": "DCAMM-General Building Construction",
+      "project_type": "DCAMM-General Building Construction, Electrical\u0096All Type\u0096Inc",
       "location": "Boston",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
@@ -622,13 +622,27 @@
   ],
   "news": [
     {
-      "id": "7c4eaa027669",
-      "title": "TrainRiders Northeast 37th Annual Meeting Thursday",
-      "summary": "BRUNSWICK \u2014 TrainRiders Northeast will hold its 37th Annual Meeting starting at 12:30 p.m. on Thursday, June 4 in Bowdoin College\u2019s Moulton Union, 6 Campus Road. The purpose of the meeting will be to elect directors and hold a brief membership meeting, followed by presentations from the following sp",
-      "url": "https://www.bangordailynews.com/2026/06/03/bdn-maine/trainriders-northeast-37th-annual-meeting-thursday/",
-      "source": "Bangor Daily News",
+      "id": "4dbfb7b0c16a",
+      "title": "Affordable housing complex opens in downtown Waterbury",
+      "summary": "Three of the 26 new apartments are reserved for people with intellectual or developmental disabilities, and five are set aside for people exiting homelessness.\nRead the story on VTDigger here:  Affordable housing complex opens in downtown Waterbury.",
+      "url": "https://vtdigger.org/2026/06/04/affordable-housing-complex-opens-in-downtown-waterbury/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-06-04",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cb6b4b47d0cd",
+      "title": "Avoid Maine\u2019s tourist traps by taking the roads less traveled",
+      "summary": "Steer clear of the crowds and enjoy the spoils of summer at these lesser-known locales.",
+      "url": "https://www.pressherald.com/2026/06/04/avoid-maines-tourist-traps-by-taking-the-roads-less-traveled/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "category": "news",
       "priority": "medium",
       "business_lines": [
