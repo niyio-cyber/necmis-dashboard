@@ -1,21 +1,21 @@
 {
-  "generated": "2026-06-05T13:45:35.482315Z",
+  "generated": "2026-06-06T12:02:39.997682Z",
   "summary": {
-    "total_opportunities": 32,
-    "total_value_low": 346141707,
-    "total_value_high": 346141707,
+    "total_opportunities": 35,
+    "total_value_low": 362833269,
+    "total_value_high": 362833269,
     "by_state": {
       "VT": 3,
-      "NH": 3,
-      "ME": 5,
-      "MA": 25,
+      "NH": 5,
+      "ME": 2,
+      "MA": 29,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 31,
+      "dot_letting": 34,
       "news": 8,
       "funding": 1
     }
@@ -448,6 +448,64 @@
       ]
     },
     {
+      "id": "d18c0a5f2514",
+      "state": "MA",
+      "project_id": "612183",
+      "description": "Bridge Replacement, G-11-002, Division Street over Housatonic River",
+      "cost_low": 8625802,
+      "cost_high": 8625802,
+      "cost_display": "$8.6M",
+      "ad_date": "2026-06-06",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Great Barrington",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612183",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "430215f74cac",
+      "state": "MA",
+      "project_id": "614071",
+      "description": "Bridge Painting and Maintenance Of 3 Bridges: B-16-272 (3F6), C-02-036 (35H, 35J)",
+      "cost_low": 6964310,
+      "cost_high": 6964310,
+      "cost_display": "$7.0M",
+      "ad_date": "2026-06-06",
+      "let_date": null,
+      "project_type": "Painting - Structural",
+      "location": "Boston - Canton",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614071",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "205f5dbd8b4e",
+      "state": "MA",
+      "project_id": "614018",
+      "description": "Scheduled & Emergency Bridge Superstructure Repairs at Various Locations",
+      "cost_low": 1101450,
+      "cost_high": 1101450,
+      "cost_display": "$1.1M",
+      "ad_date": "2026-06-06",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614018",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "90382ec0c775",
       "state": "MA",
       "project_id": "612004",
@@ -622,12 +680,40 @@
   ],
   "news": [
     {
-      "id": "94d2fe2f6bf0",
-      "title": "Approved North Yarmouth housing expansion sent back to planning board",
-      "summary": "The North Yarmouth Zoning Board of Appeals ruled that the preliminary plans for the next phase of the York Ridge housing development required further review.",
-      "url": "https://www.pressherald.com/2026/06/05/approved-north-yarmouth-housing-expansion-sent-back-to-planning-board/",
-      "source": "Portland Press Herald",
-      "state": "ME",
+      "id": "4229383af72d",
+      "title": "Dot cakes near me: 5 Mass. places selling viral dessert",
+      "summary": "You've seen them on TikTok, now where can you find a dot cake in Massachusetts? The viral dessert covered in nonpareils (or dots) has likely popped up in a bakery case near you.",
+      "url": "https://www.masslive.com/ne-where/2026/06/dot-cakes-near-me-5-mass-places-selling-viral-dessert.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e58e5675eb0d",
+      "title": "Red Sox reactions: Willson Contreras (3 RBI) leads the way in road win",
+      "summary": "The Red Sox got their tough six-game road trip off to a good start Friday night.",
+      "url": "https://www.masslive.com/redsox/2026/06/red-sox-reactions-willson-contreras-3-rbi-leads-the-way-in-road-win.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-06",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5eaec6110390",
+      "title": "Neighbors vent about \u2018enormity\u2019 of proposed Bodwell Road subdivision in Manchester",
+      "summary": "Plans for a 44-unit subdivision off Bodwell Road drew the ire of neighbors of the site during a meeting of the Manchester Planning Board.",
+      "url": "https://www.unionleader.com/news/local/manchester/neighbors-vent-about-enormity-of-proposed-bodwell-road-subdivision-in-manchester/article_5b97136e-9fab-4782-b1aa-4563f00ca975.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-06-05",
       "category": "news",
       "priority": "medium",
@@ -636,12 +722,12 @@
       ]
     },
     {
-      "id": "7226ec10a18f",
-      "title": "Obituary: Dorothy Alzina (Wight) Abbott",
-      "summary": "GORHAM - Dottie Abbott, RN, retired, passed away May 31, 2026, at Avita of Stroudwater surrounded by her family.\n\nShe was born ...",
-      "url": "https://www.pressherald.com/2026/06/05/obituarydorothy-alzina-wight-abbott-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
+      "id": "665a280605ba",
+      "title": "Rite Aid reuse: What is becoming of vacant pharmacy locations across NH?",
+      "summary": "The faded outlines of the letters spelling \u201cRite Aid\u201d remain on the building at 420 Daniel Webster Highway in Merrimack, but the former pharmacy has taken on new life as a Brazilian church, Lagoinha Nashua Church.",
+      "url": "https://www.unionleader.com/news/business/rite-aid-reuse-what-is-becoming-of-vacant-pharmacy-locations-across-nh/article_faa4455d-1ec9-480a-a6d4-213643daf003.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-06-05",
       "category": "news",
       "priority": "high",
@@ -650,43 +736,15 @@
       ]
     },
     {
-      "id": "249a47025857",
-      "title": "Death Notice: Dorothy Alzina (Wight) Abbott",
-      "summary": "Abbott, Dottie May 31, 2026, of Gorham. Service, 1 p.m., June 10, 2026, Sapling Hill Cemetery, Gorham, gathering after, White Rock ...",
-      "url": "https://www.pressherald.com/2026/06/05/obituarydorothy-alzina-wight-abbott/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a146911b5bb2",
-      "title": "As governor, Nirav Shah would be a needed check on Donald Trump",
-      "summary": "\u201cI believe Nirav Shah\u2019s road-tested leadership, invaluable experience and detailed plans, make him the stand-out choice.\u201d",
-      "url": "https://www.bangordailynews.com/2026/06/05/opinion/opinion-contributor/as-governor-nirav-shah-would-be-a-needed-check-on-donald-trump-joam40zk0w/",
+      "id": "4ca67927ea1d",
+      "title": "Hydrogen balloon that launched from Maine is over the ocean in bid for historic crossing",
+      "summary": "If successful, the trip would be the first trans-Atlantic crossing made in a hydrogen-powered open-basket balloon.",
+      "url": "https://www.bangordailynews.com/2026/06/05/aroostook/aroostook-culture/hydrogen-balloon-launched-from-maine-over-the-ocean/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-06-05",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3f50cb8e49b9",
-      "title": "Longtime Cape Cod seafood spot with harbor views announces final season",
-      "summary": "After more than 30 years, this iconic seaside seafood spot will make way for a new mixed-use development.",
-      "url": "https://www.masslive.com/capecod/2026/06/longtime-cape-cod-seafood-spot-with-harbor-views-announces-final-season.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-05",
-      "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
