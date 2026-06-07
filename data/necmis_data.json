@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-06T12:02:39.997682Z",
+  "generated": "2026-06-07T12:14:45.826845Z",
   "summary": {
     "total_opportunities": 35,
     "total_value_low": 362833269,
@@ -8,7 +8,7 @@
       "VT": 3,
       "NH": 5,
       "ME": 2,
-      "MA": 29,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 34,
-      "news": 8,
+      "news": 6,
       "funding": 1
     }
   },
@@ -680,29 +680,15 @@
   ],
   "news": [
     {
-      "id": "4229383af72d",
-      "title": "Dot cakes near me: 5 Mass. places selling viral dessert",
-      "summary": "You've seen them on TikTok, now where can you find a dot cake in Massachusetts? The viral dessert covered in nonpareils (or dots) has likely popped up in a bakery case near you.",
-      "url": "https://www.masslive.com/ne-where/2026/06/dot-cakes-near-me-5-mass-places-selling-viral-dessert.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-06",
+      "id": "ce44d96f04cc",
+      "title": "Obituary: William \u201cBill\u201d Michael Robertson",
+      "summary": "OLD ORCHARD BEACH - William \"Bill\" Michael Robertson, a devoted father, doting grandfather, accomplished civil engineer, and unapologetically original soul, passed ...",
+      "url": "https://www.pressherald.com/2026/06/07/obituarywilliam-bill-michael-robertson-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-07",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e58e5675eb0d",
-      "title": "Red Sox reactions: Willson Contreras (3 RBI) leads the way in road win",
-      "summary": "The Red Sox got their tough six-game road trip off to a good start Friday night.",
-      "url": "https://www.masslive.com/redsox/2026/06/red-sox-reactions-willson-contreras-3-rbi-leads-the-way-in-road-win.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-06",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -728,20 +714,6 @@
       "url": "https://www.unionleader.com/news/business/rite-aid-reuse-what-is-becoming-of-vacant-pharmacy-locations-across-nh/article_faa4455d-1ec9-480a-a6d4-213643daf003.html",
       "source": "Union Leader",
       "state": "NH",
-      "date": "2026-06-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4ca67927ea1d",
-      "title": "Hydrogen balloon that launched from Maine is over the ocean in bid for historic crossing",
-      "summary": "If successful, the trip would be the first trans-Atlantic crossing made in a hydrogen-powered open-basket balloon.",
-      "url": "https://www.bangordailynews.com/2026/06/05/aroostook/aroostook-culture/hydrogen-balloon-launched-from-maine-over-the-ocean/",
-      "source": "Bangor Daily News",
-      "state": "ME",
       "date": "2026-06-05",
       "category": "news",
       "priority": "high",
