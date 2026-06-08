@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-07T12:14:45.826845Z",
+  "generated": "2026-06-08T14:40:22.230999Z",
   "summary": {
-    "total_opportunities": 35,
+    "total_opportunities": 37,
     "total_value_low": 362833269,
     "total_value_high": 362833269,
     "by_state": {
-      "VT": 3,
+      "VT": 2,
       "NH": 5,
-      "ME": 2,
-      "MA": 27,
+      "ME": 4,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 34,
       "news": 6,
-      "funding": 1
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -680,15 +680,71 @@
   ],
   "news": [
     {
-      "id": "ce44d96f04cc",
-      "title": "Obituary: William \u201cBill\u201d Michael Robertson",
-      "summary": "OLD ORCHARD BEACH - William \"Bill\" Michael Robertson, a devoted father, doting grandfather, accomplished civil engineer, and unapologetically original soul, passed ...",
-      "url": "https://www.pressherald.com/2026/06/07/obituarywilliam-bill-michael-robertson-2/",
+      "id": "c7990de1a928",
+      "title": "Calling on Sen. Collins to protect grant funding for survivors of domestic abuse | Opinion",
+      "summary": "With community organizations already trying to stretch limited resources, securing the future of the Community Development Block Grant program is critical.",
+      "url": "https://www.pressherald.com/2026/06/08/calling-on-sen-collins-to-help-protect-cdbg-funding-opinion/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-07",
-      "category": "news",
+      "date": "2026-06-08",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "649df9253772",
+      "title": "Maine DOT has a $84M budget shortfall. How will it affect residents?",
+      "summary": "A gap in funding is forcing the state to postpone road repairs just as construction season begins, leaving local contractors scrambling for answers.",
+      "url": "https://www.pressherald.com/2026/06/08/maine-dot-has-a-budget-shortfall-how-will-it-affect-residents/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-08",
+      "category": "funding",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4dae5b930e14",
+      "title": "Every Greater Bangor municipal budget is expected\u00a0to grow",
+      "summary": "The proposed budgets show that towns are investing in largely the same services, but the costs of those services have gone up.",
+      "url": "https://www.bangordailynews.com/2026/06/08/bangor/bangor-government/every-greater-bangor-municipal-budget-expected-grow-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b857adc92e3c",
+      "title": "Valley Blue Sox earn first road win against Upper Valley Nighthawks",
+      "summary": "The Valley Blue Sox erupted for a season-high 14 runs on Sunday.",
+      "url": "https://www.masslive.com/bluesox/2026/06/valley-blue-sox-earn-first-road-win-against-upper-valley-nighthawks.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ac9121813a5a",
+      "title": "AGC of New Hampshire recognizes industry excellence at 2026 awards night",
+      "summary": "The Associated General Contractors of New Hampshire recognized some of the state\u2019s top construction projects, companies and industry leaders during its 2026 Awards Night recently in Manchester.",
+      "url": "https://www.unionleader.com/news/business/agc-of-new-hampshire-recognizes-industry-excellence-at-2026-awards-night/article_0599b54e-9f6d-4eaf-8e6e-d3c4d6cd5214.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-06-07",
+      "category": "funding",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -736,20 +792,6 @@
       ]
     },
     {
-      "id": "4dbfb7b0c16a",
-      "title": "Affordable housing complex opens in downtown Waterbury",
-      "summary": "Three of the 26 new apartments are reserved for people with intellectual or developmental disabilities, and five are set aside for people exiting homelessness.\nRead the story on VTDigger here:  Affordable housing complex opens in downtown Waterbury.",
-      "url": "https://vtdigger.org/2026/06/04/affordable-housing-complex-opens-in-downtown-waterbury/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-06-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "45b92097a347",
       "title": "Rehearing on controversial small homes project in Chester set for Wednesday",
       "summary": "A proposed housing project that would bring 34 small homes to a 20-acre property on Haverhill Road in Chester drew a large crowd in April, leading to the cancellation of a Planning Board meeting that has been rescheduled for Wednesday.",
@@ -758,20 +800,6 @@
       "state": "NH",
       "date": "2026-06-02",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "df53ddb8fe4a",
-      "title": "Moderna and other groups get $60 million to develop Ebola vaccine",
-      "summary": "Global health organization CEPI will give roughly $60 million to Moderna and two other groups to accelerate the development of shots against Ebola Bundibugyo, the deadly virus that has swept through eastern Democratic Republic of Congo.",
-      "url": "https://www.unionleader.com/news/health/moderna-and-other-groups-get-60-million-to-develop-ebola-vaccine/article_7692f038-27bc-5c8f-8a40-fe5eb0d5afaa.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-01",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
