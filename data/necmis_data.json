@@ -1,13 +1,13 @@
 {
-  "generated": "2026-06-08T14:40:22.230999Z",
+  "generated": "2026-06-09T13:34:31.173704Z",
   "summary": {
     "total_opportunities": 37,
     "total_value_low": 362833269,
     "total_value_high": 362833269,
     "by_state": {
-      "VT": 2,
-      "NH": 5,
-      "ME": 4,
+      "VT": 3,
+      "NH": 7,
+      "ME": 7,
       "MA": 28,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 34,
-      "news": 6,
+      "news": 12,
       "funding": 3
     }
   },
@@ -680,27 +680,83 @@
   ],
   "news": [
     {
-      "id": "c7990de1a928",
-      "title": "Calling on Sen. Collins to protect grant funding for survivors of domestic abuse | Opinion",
-      "summary": "With community organizations already trying to stretch limited resources, securing the future of the Community Development Block Grant program is critical.",
-      "url": "https://www.pressherald.com/2026/06/08/calling-on-sen-collins-to-help-protect-cdbg-funding-opinion/",
+      "id": "cb230f76b7ef",
+      "title": "Susan Collins needs to stand up to attacks on public lands | Opinion",
+      "summary": "Utah Sen. Mike Lee has been a one-man wrecking crew on behalf of the fossil fuel lobby. Maine's senior senator would be wise to oppose these efforts in her reelection bid.",
+      "url": "https://www.pressherald.com/2026/06/09/susan-collins-needs-to-stand-up-to-attacks-on-public-lands-opinion/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-08",
-      "category": "funding",
+      "date": "2026-06-09",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2d3d979ed8e9",
+      "title": "1 dead, 1 injured in head-on crash in Eddington",
+      "summary": "A work vehicle was legally parked in a breakdown lane on Route 9 when a van crossed the road and struck it head-on Monday, the Penobscot County Sheriff's Office says.",
+      "url": "https://www.pressherald.com/2026/06/08/1-dead-1-injured-in-head-on-crash-in-eddington/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-09",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "649df9253772",
-      "title": "Maine DOT has a $84M budget shortfall. How will it affect residents?",
-      "summary": "A gap in funding is forcing the state to postpone road repairs just as construction season begins, leaving local contractors scrambling for answers.",
-      "url": "https://www.pressherald.com/2026/06/08/maine-dot-has-a-budget-shortfall-how-will-it-affect-residents/",
-      "source": "Portland Press Herald",
+      "id": "8a3b6408bb24",
+      "title": "Third UK citizen pleads guilty to entering US illegally",
+      "summary": "Hameed Mohammed Nagi is one of four men arrested after being found walking on the Golden Road in the early morning hours of April 3.",
+      "url": "https://www.bangordailynews.com/2026/06/09/bangor/bangor-police-courts/third-uk-citizen-hameed-mohammed-nag-pleads-guilty-entering-us-illegally/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "efab120934e6",
+      "title": "A government-commissioned study found drinking risks. US guidelines didn\u2019t feature its findings",
+      "summary": "A study commissioned by President Joe Biden\u2019s administration to investigate alcohol-related health harms was released independently on Tuesday, after President Donald Trump\u2019s administration decided not to feature the researchers\u2019 findings in new dietary guidelines as it faced pushback from the alcoh",
+      "url": "https://www.bangordailynews.com/2026/06/09/nation/a-government-commissioned-study-found-drinking-risks-us-guidelines-didnt-feature-its-findings/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-09",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "594aa12fafc7",
+      "title": "Rahm Emanuel\u2019s uphill climb in New Hampshire tests a 2028 presidential bid",
+      "summary": "WARNER, N.H. (AP) \u2014 For Rahm Emanuel, the road to the White House runs through the uphill climbs of rural New Hampshire. The onetime Democratic congressman, White House chief of staff, Chicago mayor and U.S. ambassador to Japan hasn\u2019t formally announced his ambition to return to power in Washington.",
+      "url": "https://www.bangordailynews.com/2026/06/09/nation/rahm-emanuels-uphill-climb-in-new-hampshire-tests-a-2028-presidential-bid/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-09",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0e7f83ce35da",
+      "title": "Democratic group launches ad campaign to help flip control of Congress in midterm elections",
+      "summary": "A Democratic group that previously focused on presidential races is wading into the midterms by targeting more than a dozen House and Senate contests, many of them on Republican turf, in a new advertising campaign that begins Tuesday. American Bridge 21st Century\u2019s $50 million effort adds financial",
+      "url": "https://www.bangordailynews.com/2026/06/09/nation/democratic-group-launches-ad-campaign-to-help-flip-control-of-congress-in-midterm-elections/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-09",
       "category": "funding",
       "priority": "high",
       "business_lines": [
@@ -708,12 +764,26 @@
       ]
     },
     {
-      "id": "4dae5b930e14",
-      "title": "Every Greater Bangor municipal budget is expected\u00a0to grow",
-      "summary": "The proposed budgets show that towns are investing in largely the same services, but the costs of those services have gone up.",
-      "url": "https://www.bangordailynews.com/2026/06/08/bangor/bangor-government/every-greater-bangor-municipal-budget-expected-grow-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "6b833cee09c1",
+      "title": "Bloomberg Philanthropies is investing $12.8M in a Boston trade school \u2014 here's what it means for students",
+      "summary": "Bloomberg Philanthropies is funding 100 annual apprenticeship seats in construction and water utility management through 2028.",
+      "url": "https://www.masslive.com/education/2026/06/bloomberg-philanthropies-invests-128m-into-boston-tech-school-heres-why.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-09",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "49ee126b25c3",
+      "title": "New roadside marker celebrates Ann Story, \u2018Mother of the Green Mountain Boys\u2019",
+      "summary": "Vermonters gathered at the Ann Story cabin in Salisbury to celebrate the Revolutionary War hero.\nRead the story on VTDigger here:  New roadside marker celebrates Ann Story, \u2018Mother of the Green Mountain Boys\u2019.",
+      "url": "https://vtdigger.org/2026/06/08/new-roadside-marker-celebrates-ann-story-mother-of-the-green-mountain-boys/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-06-08",
       "category": "news",
       "priority": "medium",
@@ -722,12 +792,40 @@
       ]
     },
     {
-      "id": "b857adc92e3c",
-      "title": "Valley Blue Sox earn first road win against Upper Valley Nighthawks",
-      "summary": "The Valley Blue Sox erupted for a season-high 14 runs on Sunday.",
-      "url": "https://www.masslive.com/bluesox/2026/06/valley-blue-sox-earn-first-road-win-against-upper-valley-nighthawks.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "fe1649e92780",
+      "title": "The state can\u2019t fix Vermont\u2019s hospitals by telling them what to do",
+      "summary": "Real transformation requires getting prices right, then letting hospitals respond.\nRead the story on VTDigger here:  The state can\u2019t fix Vermont\u2019s hospitals by telling them what to do.",
+      "url": "https://vtdigger.org/2026/06/08/opinion-the-state-cant-fix-vermonts-hospitals-by-telling-them-what-to-do/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-06-08",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "45aea208e556",
+      "title": "AG: Woman Who Died After Thornton Shooting Was PSU Student",
+      "summary": "Police are investigating the death of Leah Anderson, 21, a student at Plymouth State University majoring in Elementary Education and Youth Development after a shooting in Thornton, according to a news release from Attorney General John Formella.",
+      "url": "https://indepthnh.org/2026/06/08/ag-woman-who-died-after-thornton-shooting-was-psu-student/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-06-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8196c53eb7b8",
+      "title": "AG: Thornton Shooting with Serious Injuries Investigated",
+      "summary": "Police are responding to a shooting incident with serious bodily injury on Upper Mad River Road in Thornton, New Hampshire, according to a news release from Attorney General John Formella.",
+      "url": "https://indepthnh.org/2026/06/08/ag-thornton-shooting-with-serious-injuries-investigated/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-06-08",
       "category": "news",
       "priority": "medium",
@@ -773,20 +871,6 @@
       "date": "2026-06-05",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2e04544df737",
-      "title": "80-hour weeks and drowning in debt: UVM Medical Center resident doctors rally for a new contract",
-      "summary": "The union of 400 resident doctors and interns have been negotiating with the hospital for a contract since January, asking for higher wages, childcare provisions and broader immigration protection. \nRead the story on VTDigger here:  80-hour weeks and drowning in debt: UVM Medical Center resident do",
-      "url": "https://vtdigger.org/2026/06/04/80-hour-weeks-and-drowning-in-debt-uvm-medical-center-resident-doctors-rally-for-a-new-contract/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-06-04",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
