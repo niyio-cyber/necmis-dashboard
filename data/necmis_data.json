@@ -1,23 +1,23 @@
 {
-  "generated": "2026-06-09T13:34:31.173704Z",
+  "generated": "2026-06-10T14:12:57.923200Z",
   "summary": {
-    "total_opportunities": 37,
-    "total_value_low": 362833269,
-    "total_value_high": 362833269,
+    "total_opportunities": 36,
+    "total_value_low": 351312494,
+    "total_value_high": 351312494,
     "by_state": {
       "VT": 3,
       "NH": 7,
-      "ME": 7,
-      "MA": 28,
+      "ME": 5,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 34,
-      "news": 12,
-      "funding": 3
+      "dot_letting": 30,
+      "news": 8,
+      "funding": 6
     }
   },
   "dot_lettings": [
@@ -168,85 +168,6 @@
       "location": "Boston",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a9df5a8101b6",
-      "state": "MA",
-      "project_id": "614097",
-      "description": "Scheduled and Emergency Bridge Deck and Joint Repairs at Various Locations",
-      "cost_low": 2284485,
-      "cost_high": 2284485,
-      "cost_display": "$2.3M",
-      "ad_date": "2026-05-02",
-      "let_date": null,
-      "project_type": "Bridge - Construction    , Bridge - Deck Repairs",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614097",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "fb79149d4592",
-      "state": "MA",
-      "project_id": "614104",
-      "description": "Scheduled and Emergency Joint Repairs at Various Locations",
-      "cost_low": 3013500,
-      "cost_high": 3013500,
-      "cost_display": "$3.0M",
-      "ad_date": "2026-05-02",
-      "let_date": null,
-      "project_type": "Bridge - Joints",
-      "location": "District 4",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614104",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7de54ce0198a",
-      "state": "MA",
-      "project_id": "614105",
-      "description": "Bridge Resurfacing at Various Locations",
-      "cost_low": 2767000,
-      "cost_high": 2767000,
-      "cost_display": "$2.8M",
-      "ad_date": "2026-05-02",
-      "let_date": null,
-      "project_type": "Bridge - Deck Repairs",
-      "location": "District 4",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614105",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "08d10199a8bb",
-      "state": "MA",
-      "project_id": "609436",
-      "description": "Bridge Preservation of H-10-013, H-10-014 and H-10-016 along Route 6",
-      "cost_low": 3455790,
-      "cost_high": 3455790,
-      "cost_display": "$3.5M",
-      "ad_date": "2026-05-02",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Harwich",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609436",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -680,83 +601,41 @@
   ],
   "news": [
     {
-      "id": "cb230f76b7ef",
-      "title": "Susan Collins needs to stand up to attacks on public lands | Opinion",
-      "summary": "Utah Sen. Mike Lee has been a one-man wrecking crew on behalf of the fossil fuel lobby. Maine's senior senator would be wise to oppose these efforts in her reelection bid.",
-      "url": "https://www.pressherald.com/2026/06/09/susan-collins-needs-to-stand-up-to-attacks-on-public-lands-opinion/",
+      "id": "3cd3ac6dd90b",
+      "title": "Kennebunk approves $30.27M municipal budget, elects 2 to select board",
+      "summary": "3 candidates were also elected to RSU 21 school board seats in uncontested races.",
+      "url": "https://www.pressherald.com/2026/06/10/kennebunk-approves-30-27m-municipal-budget-elects-2-to-select-board/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-09",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2d3d979ed8e9",
-      "title": "1 dead, 1 injured in head-on crash in Eddington",
-      "summary": "A work vehicle was legally parked in a breakdown lane on Route 9 when a van crossed the road and struck it head-on Monday, the Penobscot County Sheriff's Office says.",
-      "url": "https://www.pressherald.com/2026/06/08/1-dead-1-injured-in-head-on-crash-in-eddington/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-09",
-      "category": "news",
+      "date": "2026-06-10",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "8a3b6408bb24",
-      "title": "Third UK citizen pleads guilty to entering US illegally",
-      "summary": "Hameed Mohammed Nagi is one of four men arrested after being found walking on the Golden Road in the early morning hours of April 3.",
-      "url": "https://www.bangordailynews.com/2026/06/09/bangor/bangor-police-courts/third-uk-citizen-hameed-mohammed-nag-pleads-guilty-entering-us-illegally/",
-      "source": "Bangor Daily News",
+      "id": "bc172cebbf41",
+      "title": "Scarborough voters approve $78M school budget",
+      "summary": "The total school and municipal budget will result in a tax increase of 3.2%.",
+      "url": "https://www.pressherald.com/2026/06/10/scarborough-voters-approve-78m-school-budget/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-09",
-      "category": "news",
+      "date": "2026-06-10",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "efab120934e6",
-      "title": "A government-commissioned study found drinking risks. US guidelines didn\u2019t feature its findings",
-      "summary": "A study commissioned by President Joe Biden\u2019s administration to investigate alcohol-related health harms was released independently on Tuesday, after President Donald Trump\u2019s administration decided not to feature the researchers\u2019 findings in new dietary guidelines as it faced pushback from the alcoh",
-      "url": "https://www.bangordailynews.com/2026/06/09/nation/a-government-commissioned-study-found-drinking-risks-us-guidelines-didnt-feature-its-findings/",
-      "source": "Bangor Daily News",
+      "id": "d95533ec0e35",
+      "title": "Biddeford voters approve $52.6M school budget",
+      "summary": "Voters also chose 7 members of the new Charter Review Commission and picked a Democratic nominee for the York County Commissioners.",
+      "url": "https://www.pressherald.com/2026/06/10/biddeford-voters-approve-52-6m-school-budget/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-09",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "594aa12fafc7",
-      "title": "Rahm Emanuel\u2019s uphill climb in New Hampshire tests a 2028 presidential bid",
-      "summary": "WARNER, N.H. (AP) \u2014 For Rahm Emanuel, the road to the White House runs through the uphill climbs of rural New Hampshire. The onetime Democratic congressman, White House chief of staff, Chicago mayor and U.S. ambassador to Japan hasn\u2019t formally announced his ambition to return to power in Washington.",
-      "url": "https://www.bangordailynews.com/2026/06/09/nation/rahm-emanuels-uphill-climb-in-new-hampshire-tests-a-2028-presidential-bid/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-09",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0e7f83ce35da",
-      "title": "Democratic group launches ad campaign to help flip control of Congress in midterm elections",
-      "summary": "A Democratic group that previously focused on presidential races is wading into the midterms by targeting more than a dozen House and Senate contests, many of them on Republican turf, in a new advertising campaign that begins Tuesday. American Bridge 21st Century\u2019s $50 million effort adds financial",
-      "url": "https://www.bangordailynews.com/2026/06/09/nation/democratic-group-launches-ad-campaign-to-help-flip-control-of-congress-in-midterm-elections/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "category": "funding",
       "priority": "high",
       "business_lines": [
@@ -764,14 +643,56 @@
       ]
     },
     {
-      "id": "6b833cee09c1",
-      "title": "Bloomberg Philanthropies is investing $12.8M in a Boston trade school \u2014 here's what it means for students",
-      "summary": "Bloomberg Philanthropies is funding 100 annual apprenticeship seats in construction and water utility management through 2028.",
-      "url": "https://www.masslive.com/education/2026/06/bloomberg-philanthropies-invests-128m-into-boston-tech-school-heres-why.html",
+      "id": "a7fb1f789436",
+      "title": "Westbrook voters approve $57.2M school budget",
+      "summary": "The total municipal and school budget is $106.5 million.",
+      "url": "https://www.pressherald.com/2026/06/10/westbrook-voters-approve-57-2m-school-budget/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-10",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "284204543746",
+      "title": "Blue Sox will \u2018shoot for another winning streak\u2019 after first loss",
+      "summary": "The Valley Blue Sox are looking ahead to their three-game road trip after suffering their first loss of the summer on Tuesday.",
+      "url": "https://www.masslive.com/bluesox/2026/06/blue-sox-will-shoot-for-another-winning-streak-after-sufferring-first-loss.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a542beb97659",
+      "title": "Springfield will use $18M in federal grants for housing programs",
+      "summary": "One grant is shared with other Hampden County communities.",
+      "url": "https://www.masslive.com/westernmass/2026/06/springfield-will-use-18m-in-federal-grants-for-housing-programs.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-10",
       "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9f5e961214fd",
+      "title": "Scrapyard in Londonderry eyed by residential developer",
+      "summary": "A Merrimack-based developer wants to buy a scrap metal site on Rockingham Road in Londonderry and build 60 residential units on it.",
+      "url": "https://www.unionleader.com/news/local/derry_londonderry/scrapyard-in-londonderry-eyed-by-residential-developer/article_4faa5d22-eed3-4bd5-b093-94e4fb0ceb87.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-06-09",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -871,20 +792,6 @@
       "date": "2026-06-05",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "45b92097a347",
-      "title": "Rehearing on controversial small homes project in Chester set for Wednesday",
-      "summary": "A proposed housing project that would bring 34 small homes to a 20-acre property on Haverhill Road in Chester drew a large crowd in April, leading to the cancellation of a Planning Board meeting that has been rescheduled for Wednesday.",
-      "url": "https://www.unionleader.com/news/rehearing-on-controversial-small-homes-project-in-chester-set-for-wednesday/article_285f361e-0ef1-4308-85ea-9d40f34efd99.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-02",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
