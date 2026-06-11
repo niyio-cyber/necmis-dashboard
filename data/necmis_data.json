@@ -1,13 +1,13 @@
 {
-  "generated": "2026-06-10T14:12:57.923200Z",
+  "generated": "2026-06-11T14:26:32.895930Z",
   "summary": {
-    "total_opportunities": 36,
+    "total_opportunities": 32,
     "total_value_low": 351312494,
     "total_value_high": 351312494,
     "by_state": {
-      "VT": 3,
+      "VT": 4,
       "NH": 7,
-      "ME": 5,
+      "ME": 3,
       "MA": 25,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 8,
-      "funding": 6
+      "news": 11,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -601,69 +601,27 @@
   ],
   "news": [
     {
-      "id": "3cd3ac6dd90b",
-      "title": "Kennebunk approves $30.27M municipal budget, elects 2 to select board",
-      "summary": "3 candidates were also elected to RSU 21 school board seats in uncontested races.",
-      "url": "https://www.pressherald.com/2026/06/10/kennebunk-approves-30-27m-municipal-budget-elects-2-to-select-board/",
+      "id": "f420e9627a87",
+      "title": "4 great locally owned bookstores in Biddeford, Saco and Old Orchard Beach",
+      "summary": "Pick up a summer read from one of these spots and head to the beach.",
+      "url": "https://www.pressherald.com/2026/06/11/4-great-locally-owned-bookstores-in-biddeford-saco-and-old-orchard-beach/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-10",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bc172cebbf41",
-      "title": "Scarborough voters approve $78M school budget",
-      "summary": "The total school and municipal budget will result in a tax increase of 3.2%.",
-      "url": "https://www.pressherald.com/2026/06/10/scarborough-voters-approve-78m-school-budget/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-10",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d95533ec0e35",
-      "title": "Biddeford voters approve $52.6M school budget",
-      "summary": "Voters also chose 7 members of the new Charter Review Commission and picked a Democratic nominee for the York County Commissioners.",
-      "url": "https://www.pressherald.com/2026/06/10/biddeford-voters-approve-52-6m-school-budget/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-10",
-      "category": "funding",
+      "date": "2026-06-11",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "a7fb1f789436",
-      "title": "Westbrook voters approve $57.2M school budget",
-      "summary": "The total municipal and school budget is $106.5 million.",
-      "url": "https://www.pressherald.com/2026/06/10/westbrook-voters-approve-57-2m-school-budget/",
-      "source": "Portland Press Herald",
+      "id": "f097cdbea5a3",
+      "title": "Pickering Square construction to resume\u00a0this week",
+      "summary": "The expected completion date this summer will come two years after the renovations began.",
+      "url": "https://www.bangordailynews.com/2026/06/11/bangor/bangor-government/pickering-square-bangor-construction-update-joam40zk0w/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-06-10",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "284204543746",
-      "title": "Blue Sox will \u2018shoot for another winning streak\u2019 after first loss",
-      "summary": "The Valley Blue Sox are looking ahead to their three-game road trip after suffering their first loss of the summer on Tuesday.",
-      "url": "https://www.masslive.com/bluesox/2026/06/blue-sox-will-shoot-for-another-winning-streak-after-sufferring-first-loss.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -671,15 +629,57 @@
       ]
     },
     {
-      "id": "a542beb97659",
-      "title": "Springfield will use $18M in federal grants for housing programs",
-      "summary": "One grant is shared with other Hampden County communities.",
-      "url": "https://www.masslive.com/westernmass/2026/06/springfield-will-use-18m-in-federal-grants-for-housing-programs.html",
+      "id": "ebff957e84bb",
+      "title": "Lawsuit from Central Mass. mother says company\u2019s negligence led to son\u2019s highway death",
+      "summary": "A mother is suing a company after her son was fatally struck by a crane, saying it was transported without required permits or escorts.",
+      "url": "https://www.masslive.com/centralmass/2026/06/lawsuit-from-central-mass-mother-says-companys-negligence-led-to-sons-highway-death.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-06-11",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "190dcf97744f",
+      "title": "Rival evaluators flame Red Sox for roster construction this season",
+      "summary": "\u201cThe holes that were there at the start of the season are still there,\" one rival evaluator told The Boston Globe of the Red Sox.",
+      "url": "https://www.masslive.com/redsox/2026/06/rival-evaluators-flame-red-sox-for-roster-construction-this-season.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0f3fb23c1d1b",
+      "title": "\u2018Like Christmas\u2019: For Vermont\u2019s Congolese community, a historic World Cup bid is cause for celebration",
+      "summary": "This year\u2019s tournament, along with all its controversy, also comes at a moment when soccer has perhaps never had as many fans in Vermont as it does today.\nRead the story on VTDigger here:  \u2018Like Christmas\u2019: For Vermont\u2019s Congolese community, a historic World Cup bid is cause for celebration.",
+      "url": "https://vtdigger.org/2026/06/10/like-christmas-for-vermonts-congolese-community-a-historic-world-cup-bid-is-cause-for-celebration/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-06-10",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1a8ba81ea796",
+      "title": "Developers give HUD official, exec councilors an earful on housing roadblocks",
+      "summary": "Developers told U.S. Housing and Urban Development (HUD) Regional Administrator Mike Banks and three executive councilors that despite the infusion of federal money and a steady diet of state legislative actions, New Hampshire remains a challenging and, in many places,\u2026",
+      "url": "https://www.unionleader.com/news/homes/housing/developers-give-hud-official-exec-councilors-an-earful-on-housing-roadblocks/article_8aa9264e-0ed0-409a-9698-fac8c814de9e.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-06-10",
       "category": "funding",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -778,20 +778,6 @@
       "date": "2026-06-05",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "665a280605ba",
-      "title": "Rite Aid reuse: What is becoming of vacant pharmacy locations across NH?",
-      "summary": "The faded outlines of the letters spelling \u201cRite Aid\u201d remain on the building at 420 Daniel Webster Highway in Merrimack, but the former pharmacy has taken on new life as a Brazilian church, Lagoinha Nashua Church.",
-      "url": "https://www.unionleader.com/news/business/rite-aid-reuse-what-is-becoming-of-vacant-pharmacy-locations-across-nh/article_faa4455d-1ec9-480a-a6d4-213643daf003.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-05",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
