@@ -1,43 +1,488 @@
 {
-  "generated": "2026-06-13T12:19:09.245518Z",
+  "generated": "2026-06-14T12:30:18.118601Z",
   "summary": {
-    "total_opportunities": 10,
-    "total_value_low": 0,
-    "total_value_high": 0,
+    "total_opportunities": 33,
+    "total_value_low": 352922164,
+    "total_value_high": 352922164,
     "by_state": {
       "VT": 3,
       "NH": 5,
-      "ME": 3,
-      "MA": 1,
+      "ME": 5,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 8,
-      "news": 6,
+      "dot_letting": 31,
+      "news": 8,
       "funding": 2
     }
   },
   "dot_lettings": [
     {
-      "id": "2462b4920286",
+      "id": "a7c7f3901d4c",
       "state": "MA",
-      "project_id": null,
-      "description": "MassDOT Bid Schedule - Visit portal for current lettings",
-      "cost_low": null,
-      "cost_high": null,
-      "cost_display": "See Portal",
-      "ad_date": null,
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.601 PLUMBING WORK",
+      "cost_low": 148648,
+      "cost_high": 148648,
+      "cost_display": "$149K",
+      "ad_date": "2026-04-25",
       "let_date": null,
-      "project_type": null,
-      "location": null,
-      "district": null,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.605 FIRE PROTECTION WORK",
+      "cost_low": 1356960,
+      "cost_high": 1356960,
+      "cost_display": "$1.4M",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.611 ANCILLARY HVAC WORK",
+      "cost_low": 5508859,
+      "cost_high": 5508859,
+      "cost_display": "$5.5M",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.691 WATERPROOFING, DAMPPROOFING, AND CAULKING WORK",
+      "cost_low": 202110,
+      "cost_high": 202110,
+      "cost_display": "$202K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.701 ROOFING AND FLASHING WORK",
+      "cost_low": 401772,
+      "cost_high": 401772,
+      "cost_display": "$402K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.711 MASONRY WORK",
+      "cost_low": 265405,
+      "cost_high": 265405,
+      "cost_display": "$265K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.751 PAINTING",
+      "cost_low": 186371,
+      "cost_high": 186371,
+      "cost_display": "$186K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.811 MISCELLANEOUS AND ORNAMENTAL IRON",
+      "cost_low": 303123,
+      "cost_high": 303123,
+      "cost_display": "$303K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e223bf077b53",
+      "state": "MA",
+      "project_id": "614072",
+      "description": "Scheduled and Emergency Water Quality Control Structures (WQCS) Clean Out & Repair in I-90 & I-93 Tunnels",
+      "cost_low": 735250,
+      "cost_high": 735250,
+      "cost_display": "$735K",
+      "ad_date": "2026-05-02",
+      "let_date": null,
+      "project_type": "Catch Basin Cleaning",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614072",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0739b2088d23",
+      "state": "MA",
+      "project_id": "613404",
+      "description": "HVAC Repairs to District Administration Building at 811 North King Street",
+      "cost_low": 1464080,
+      "cost_high": 1464080,
+      "cost_display": "$1.5M",
+      "ad_date": "2026-02-28",
+      "let_date": null,
+      "project_type": "DCAMM-HVAC",
+      "location": "Northampton",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation",
+      "cost_low": 76265555,
+      "cost_high": 76265555,
+      "cost_display": "$76.3M",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM-General Building Construction, Electrical\u0096All Type\u0096Inc",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2ae67002e868",
+      "state": "MA",
+      "project_id": "608634",
+      "description": "Bridge Replacement, D-06-001, Upper Road over Deerfield River",
+      "cost_low": 23663072,
+      "cost_high": 23663072,
+      "cost_display": "$23.7M",
+      "ad_date": "2026-05-30",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Deerfield",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608634",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "46f2c7d0d22a",
+      "state": "MA",
+      "project_id": "614017",
+      "description": "Scheduled & Emergency Bridge Deck/Joint Repairs at Various Locations",
+      "cost_low": 981011,
+      "cost_high": 981011,
+      "cost_display": "$981K",
+      "ad_date": "2026-05-23",
+      "let_date": null,
+      "project_type": "Bridge - Deck Repairs",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614017",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "2c2347406a0f",
+      "state": "MA",
+      "project_id": "614014",
+      "description": "Scheduled and Emergency Bridge Maintenance at Various Locations",
+      "cost_low": 107260,
+      "cost_high": 107260,
+      "cost_display": "$107K",
+      "ad_date": "2026-05-30",
+      "let_date": null,
+      "project_type": "Pavement - Surfacing , Highway - Construction",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614014",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
+      ]
+    },
+    {
+      "id": "b74183368ecf",
+      "state": "MA",
+      "project_id": "613274",
+      "description": "Bridge Preservation at 6 Bridges along the I-95 Corridor",
+      "cost_low": 4126711,
+      "cost_high": 4126711,
+      "cost_display": "$4.1M",
+      "ad_date": "2026-05-23",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Foxborough",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613274",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4c58ebff6291",
+      "state": "MA",
+      "project_id": "612190",
+      "description": "Bridge Replacement, H-18-004, Salisbury Street over G&W Railroad",
+      "cost_low": 7377503,
+      "cost_high": 7377503,
+      "cost_display": "$7.4M",
+      "ad_date": "2026-05-30",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Holden",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612190",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "5fe25c6ee95e",
+      "state": "MA",
+      "project_id": "612505",
+      "description": "Bridge Preservation, N-14-039, Route 2 over South Branch of the Hoosic River and Route 8",
+      "cost_low": 11279150,
+      "cost_high": 11279150,
+      "cost_display": "$11.3M",
+      "ad_date": "2026-05-30",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "North Adams",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612505",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "27459932f020",
+      "state": "MA",
+      "project_id": "611953",
+      "description": "Guide and Traffic Sign Replacement on Interstate 291 and a Section of US Route 5",
+      "cost_low": 1502675,
+      "cost_high": 1502675,
+      "cost_display": "$1.5M",
+      "ad_date": "2026-05-23",
+      "let_date": null,
+      "project_type": "Signing - Structural",
+      "location": "Agawam - Chicopee - Springfield",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611953",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "d18c0a5f2514",
+      "state": "MA",
+      "project_id": "612183",
+      "description": "Bridge Replacement, G-11-002, Division Street over Housatonic River",
+      "cost_low": 8625802,
+      "cost_high": 8625802,
+      "cost_display": "$8.6M",
+      "ad_date": "2026-06-06",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Great Barrington",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612183",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "430215f74cac",
+      "state": "MA",
+      "project_id": "614071",
+      "description": "Bridge Painting and Maintenance Of 3 Bridges: B-16-272 (3F6), C-02-036 (35H, 35J)",
+      "cost_low": 6964310,
+      "cost_high": 6964310,
+      "cost_display": "$7.0M",
+      "ad_date": "2026-06-06",
+      "let_date": null,
+      "project_type": "Painting - Structural",
+      "location": "Boston - Canton",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614071",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "205f5dbd8b4e",
+      "state": "MA",
+      "project_id": "614018",
+      "description": "Scheduled & Emergency Bridge Superstructure Repairs at Various Locations",
+      "cost_low": 1101450,
+      "cost_high": 1101450,
+      "cost_display": "$1.1M",
+      "ad_date": "2026-06-06",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614018",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4684d4ad9563",
+      "state": "MA",
+      "project_id": "611952",
+      "description": "Guide and Traffic Sign Replacement on a Section of Route 2",
+      "cost_low": 1609670,
+      "cost_high": 1609670,
+      "cost_display": "$1.6M",
+      "ad_date": "2026-06-13",
+      "let_date": null,
+      "project_type": "Signing - Structural",
+      "location": "Acton - Concord - Harvard - Littleton",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611952",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "90382ec0c775",
+      "state": "MA",
+      "project_id": "612004",
+      "description": "Mystic River Bicycle and Pedestrian Bridge Design-Build",
+      "cost_low": 52985417,
+      "cost_high": 52985417,
+      "cost_display": "$53.0M",
+      "ad_date": "2026-03-07",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Everett - Somerville",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612004",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8f7a0f9d7277",
+      "state": "MA",
+      "project_id": "612187",
+      "description": "Bridge Replacement, C-13-038, I-391 over (ST 116) Chicopee Street Design-Build",
+      "cost_low": 145760000,
+      "cost_high": 145760000,
+      "cost_display": "$145.8M",
+      "ad_date": "2026-05-02",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Chicopee",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612187",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
       ]
     },
     {
@@ -176,13 +621,13 @@
   ],
   "news": [
     {
-      "id": "cb7020f845ea",
-      "title": "Boutique marks 5 years of selling art with heart in Derry",
-      "summary": "An upcycled yard sale planter. A historic building seeking a new purpose. A piece of furniture, found on the side of the road, repainted into vibrancy.",
-      "url": "https://www.unionleader.com/news/business/boutique-marks-5-years-of-selling-art-with-heart-in-derry/article_14bc33d3-8bb2-4abd-88e7-5dd45042045c.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-13",
+      "id": "f8882530ab16",
+      "title": "Take a road trip through Maine\u2019s food and drink trails this summer",
+      "summary": "We spotlight more than 15 delicious destinations for some of the state's best nibbles and sips.",
+      "url": "https://www.pressherald.com/2026/06/14/take-a-road-trip-through-maines-food-and-drink-trails-this-summer/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-14",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -190,12 +635,40 @@
       ]
     },
     {
-      "id": "9b3c8a6ccb60",
-      "title": "Portland\u2019s trees make way for yet more soulless construction | Letter",
-      "summary": "This city's priorities are blindingly clear.",
-      "url": "https://www.pressherald.com/2026/06/13/portlands-trees-make-way-for-yet-more-soulless-construction-letter/",
-      "source": "Portland Press Herald",
+      "id": "69b32e7135bf",
+      "title": "Acadia tackles climate change with its largest-ever restoration project",
+      "summary": "The Great Meadow, a 116-acre wetland located next to Park Loop Road near downtown Bar Harbor, is the scene of the project.",
+      "url": "https://www.bangordailynews.com/2026/06/14/hancock/hancock-environment/acadia-tackles-climate-change-largest-restoration-project-joam40zk0w/",
+      "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-06-14",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "78672403f9ef",
+      "title": "Brewer woman dies in I-95 crash in Newburgh",
+      "summary": "A\u00a0Brewer woman died Saturday in a single-vehicle crash on Interstate 95 in Newburgh, according to police. Darcel Geiser, 58, was driving north on the highway at approximately 1:30 p.m. when the vehicle went off the road and rolled several times, Shannon Moss, spokesperson for Maine Department of Pub",
+      "url": "https://www.bangordailynews.com/2026/06/13/penobscot/penobscot-police-courts/brewer-woman-dies-in-i-95-crash-in-newburgh/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-14",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cb7020f845ea",
+      "title": "Boutique marks 5 years of selling art with heart in Derry",
+      "summary": "An upcycled yard sale planter. A historic building seeking a new purpose. A piece of furniture, found on the side of the road, repainted into vibrancy.",
+      "url": "https://www.unionleader.com/news/business/boutique-marks-5-years-of-selling-art-with-heart-in-derry/article_14bc33d3-8bb2-4abd-88e7-5dd45042045c.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-06-13",
       "category": "news",
       "priority": "medium",
@@ -290,9 +763,9 @@
   ],
   "market_health": {
     "dot_pipeline": {
-      "score": 8.2,
+      "score": 9.0,
       "trend": "up",
-      "action": "Expand highway capacity"
+      "action": "Expand highway capacity - strong pipeline"
     },
     "housing_permits": {
       "score": 6.5,
@@ -319,7 +792,7 @@
       "trend": "stable",
       "action": "Selective growth"
     },
-    "overall_score": 7.0,
+    "overall_score": 7.2,
     "overall_status": "stable"
   }
 }
