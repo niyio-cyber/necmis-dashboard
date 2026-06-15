@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-14T12:30:18.118601Z",
+  "generated": "2026-06-15T16:10:29.018833Z",
   "summary": {
     "total_opportunities": 33,
     "total_value_low": 352922164,
     "total_value_high": 352922164,
     "by_state": {
-      "VT": 3,
+      "VT": 2,
       "NH": 5,
-      "ME": 5,
-      "MA": 24,
+      "ME": 1,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 8,
+      "news": 4,
       "funding": 2
     }
   },
@@ -621,41 +621,13 @@
   ],
   "news": [
     {
-      "id": "f8882530ab16",
-      "title": "Take a road trip through Maine\u2019s food and drink trails this summer",
-      "summary": "We spotlight more than 15 delicious destinations for some of the state's best nibbles and sips.",
-      "url": "https://www.pressherald.com/2026/06/14/take-a-road-trip-through-maines-food-and-drink-trails-this-summer/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "69b32e7135bf",
-      "title": "Acadia tackles climate change with its largest-ever restoration project",
-      "summary": "The Great Meadow, a 116-acre wetland located next to Park Loop Road near downtown Bar Harbor, is the scene of the project.",
-      "url": "https://www.bangordailynews.com/2026/06/14/hancock/hancock-environment/acadia-tackles-climate-change-largest-restoration-project-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "78672403f9ef",
-      "title": "Brewer woman dies in I-95 crash in Newburgh",
-      "summary": "A\u00a0Brewer woman died Saturday in a single-vehicle crash on Interstate 95 in Newburgh, according to police. Darcel Geiser, 58, was driving north on the highway at approximately 1:30 p.m. when the vehicle went off the road and rolled several times, Shannon Moss, spokesperson for Maine Department of Pub",
-      "url": "https://www.bangordailynews.com/2026/06/13/penobscot/penobscot-police-courts/brewer-woman-dies-in-i-95-crash-in-newburgh/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-14",
+      "id": "9146accfddf2",
+      "title": "Blue Sox bid farewell to winning streak after loss to Keene",
+      "summary": "The Valley Blue Sox were unable to extend their winning streak to four games on Sunday.",
+      "url": "https://www.masslive.com/bluesox/2026/06/blue-sox-bid-farewell-to-winning-streak-after-loss-to-keene.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-15",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -677,20 +649,6 @@
       ]
     },
     {
-      "id": "9518fb765ce7",
-      "title": "Letter: More investment needed to prevent wildlife-vehicle collisions",
-      "summary": "\"Using wildlife crossings \u2014 like bridges, tunnels, and culverts \u2014 animals are able to safely cross our roads, reducing animal-vehicle collisions by 80% to 90%, sometimes even more.\"",
-      "url": "https://www.bangordailynews.com/2026/06/13/opinion/letters/letter-more-investment-needed-to-prevent-wildlife-vehicle-collisions-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-13",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "b3a7e10d0de3",
       "title": "Vermont\u2019s flash flood season opens with washed-out roads \u2014 and a heat advisory right behind it",
       "summary": "With heat index values forecast to approach 100 and more thunderstorms possible through the weekend, state officials say they're watching both threats at once after storms washed out roads in Hardwick and Wolcott.\nRead the story on VTDigger here:  Vermont\u2019s flash flood season opens with washed-out",
@@ -700,20 +658,6 @@
       "date": "2026-06-11",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0f3fb23c1d1b",
-      "title": "\u2018Like Christmas\u2019: For Vermont\u2019s Congolese community, a historic World Cup bid is cause for celebration",
-      "summary": "This year\u2019s tournament, along with all its controversy, also comes at a moment when soccer has perhaps never had as many fans in Vermont as it does today.\nRead the story on VTDigger here:  \u2018Like Christmas\u2019: For Vermont\u2019s Congolese community, a historic World Cup bid is cause for celebration.",
-      "url": "https://vtdigger.org/2026/06/10/like-christmas-for-vermonts-congolese-community-a-historic-world-cup-bid-is-cause-for-celebration/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-06-10",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
