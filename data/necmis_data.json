@@ -1,13 +1,13 @@
 {
-  "generated": "2026-06-15T16:10:29.018833Z",
+  "generated": "2026-06-16T15:46:00.564152Z",
   "summary": {
     "total_opportunities": 33,
     "total_value_low": 352922164,
     "total_value_high": 352922164,
     "by_state": {
-      "VT": 2,
+      "VT": 1,
       "NH": 5,
-      "ME": 1,
+      "ME": 2,
       "MA": 25,
       "NY": 1,
       "RI": 1,
@@ -621,15 +621,29 @@
   ],
   "news": [
     {
-      "id": "9146accfddf2",
-      "title": "Blue Sox bid farewell to winning streak after loss to Keene",
-      "summary": "The Valley Blue Sox were unable to extend their winning streak to four games on Sunday.",
-      "url": "https://www.masslive.com/bluesox/2026/06/blue-sox-bid-farewell-to-winning-streak-after-loss-to-keene.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-15",
+      "id": "8eb227a1207c",
+      "title": "Maine House candidate could win primary despite dropping out of race",
+      "summary": "Lawrence \u201cSkip\u201d Bessey decided to end his campaign for the Maine House\u2019s 58th district not long after he launched the bid.",
+      "url": "https://www.bangordailynews.com/2026/06/16/politics/elections/lawrence-bessey-maine-house-candidate-final-count-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-16",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e0fa1c154f46",
+      "title": "Bruins\u2019 2024 first-round pick highlights development camp roster",
+      "summary": "Dean Letourneau, who wrapped up his sophomore season at Boston College with 22 goals and 17 assists, will take part in Bruins\u2019 development camp this week.",
+      "url": "https://www.masslive.com/bruins/2026/06/bruins-2024-first-round-pick-highlights-development-camp-roster.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-16",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -642,20 +656,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-06-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b3a7e10d0de3",
-      "title": "Vermont\u2019s flash flood season opens with washed-out roads \u2014 and a heat advisory right behind it",
-      "summary": "With heat index values forecast to approach 100 and more thunderstorms possible through the weekend, state officials say they're watching both threats at once after storms washed out roads in Hardwick and Wolcott.\nRead the story on VTDigger here:  Vermont\u2019s flash flood season opens with washed-out",
-      "url": "https://vtdigger.org/2026/06/11/vermonts-flash-flood-season-opens-with-washed-out-roads-and-a-heat-advisory-right-behind-it/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-06-11",
       "category": "news",
       "priority": "medium",
       "business_lines": [
