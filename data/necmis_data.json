@@ -1,216 +1,26 @@
 {
-  "generated": "2026-06-16T15:46:00.564152Z",
+  "generated": "2026-06-17T14:20:06.057862Z",
   "summary": {
-    "total_opportunities": 33,
-    "total_value_low": 352922164,
-    "total_value_high": 352922164,
+    "total_opportunities": 24,
+    "total_value_low": 342349586,
+    "total_value_high": 342349586,
     "by_state": {
-      "VT": 1,
+      "VT": 2,
       "NH": 5,
-      "ME": 2,
-      "MA": 25,
+      "ME": 4,
+      "MA": 15,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 31,
-      "news": 4,
-      "funding": 2
+      "dot_letting": 21,
+      "news": 6,
+      "funding": 3
     }
   },
   "dot_lettings": [
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.601 PLUMBING WORK",
-      "cost_low": 148648,
-      "cost_high": 148648,
-      "cost_display": "$149K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.605 FIRE PROTECTION WORK",
-      "cost_low": 1356960,
-      "cost_high": 1356960,
-      "cost_display": "$1.4M",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.611 ANCILLARY HVAC WORK",
-      "cost_low": 5508859,
-      "cost_high": 5508859,
-      "cost_display": "$5.5M",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.691 WATERPROOFING, DAMPPROOFING, AND CAULKING WORK",
-      "cost_low": 202110,
-      "cost_high": 202110,
-      "cost_display": "$202K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.701 ROOFING AND FLASHING WORK",
-      "cost_low": 401772,
-      "cost_high": 401772,
-      "cost_display": "$402K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.711 MASONRY WORK",
-      "cost_low": 265405,
-      "cost_high": 265405,
-      "cost_display": "$265K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.751 PAINTING",
-      "cost_low": 186371,
-      "cost_high": 186371,
-      "cost_display": "$186K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.811 MISCELLANEOUS AND ORNAMENTAL IRON",
-      "cost_low": 303123,
-      "cost_high": 303123,
-      "cost_display": "$303K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e223bf077b53",
-      "state": "MA",
-      "project_id": "614072",
-      "description": "Scheduled and Emergency Water Quality Control Structures (WQCS) Clean Out & Repair in I-90 & I-93 Tunnels",
-      "cost_low": 735250,
-      "cost_high": 735250,
-      "cost_display": "$735K",
-      "ad_date": "2026-05-02",
-      "let_date": null,
-      "project_type": "Catch Basin Cleaning",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614072",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0739b2088d23",
-      "state": "MA",
-      "project_id": "613404",
-      "description": "HVAC Repairs to District Administration Building at 811 North King Street",
-      "cost_low": 1464080,
-      "cost_high": 1464080,
-      "cost_display": "$1.5M",
-      "ad_date": "2026-02-28",
-      "let_date": null,
-      "project_type": "DCAMM-HVAC",
-      "location": "Northampton",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613404",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "a7c7f3901d4c",
       "state": "MA",
@@ -621,13 +431,13 @@
   ],
   "news": [
     {
-      "id": "8eb227a1207c",
-      "title": "Maine House candidate could win primary despite dropping out of race",
-      "summary": "Lawrence \u201cSkip\u201d Bessey decided to end his campaign for the Maine House\u2019s 58th district not long after he launched the bid.",
-      "url": "https://www.bangordailynews.com/2026/06/16/politics/elections/lawrence-bessey-maine-house-candidate-final-count-joam40zk0w/",
+      "id": "c4c463aea39f",
+      "title": "Trump delays Jay Clayton\u2019s nomination for intel director to try to push Congress on voting bill",
+      "summary": "EVIAN-LES-BAINS, France (AP) \u2014 President Donald Trump said Wednesday that he was delaying Jay Clayton\u2019s nomination to lead the U.S. intelligence community in a bid to force Congress to act on a voter ID bill that currently lacks enough support for passage. Trump said in a social media post just hour",
+      "url": "https://www.bangordailynews.com/2026/06/17/nation/trump-delays-jay-claytons-nomination-for-intel-director-to-try-to-push-congress-on-voting-bill/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -635,12 +445,54 @@
       ]
     },
     {
-      "id": "e0fa1c154f46",
-      "title": "Bruins\u2019 2024 first-round pick highlights development camp roster",
-      "summary": "Dean Letourneau, who wrapped up his sophomore season at Boston College with 22 goals and 17 assists, will take part in Bruins\u2019 development camp this week.",
-      "url": "https://www.masslive.com/bruins/2026/06/bruins-2024-first-round-pick-highlights-development-camp-roster.html",
+      "id": "9a396fbf7a22",
+      "title": "Aroostook County shouldn\u2019t use a failed approach to reduce youth substance use",
+      "summary": "\u201cIn 2024, the Bangor Daily News reported\u00a0that Aroostook County sends\u00a0more children to Long Creek Youth Development Center than any other county in Maine.\u201d",
+      "url": "https://www.bangordailynews.com/2026/06/17/opinion/opinion-contributor/aroostook-county-failed-approach-to-reduce-youth-substance-use-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "67bb056ece3b",
+      "title": "Letter: Political action committee forgets high prices during Biden administration",
+      "summary": "\u201cI do not recall nonstop television commercials from Majority Forward about the cost of living at the time.\u201d",
+      "url": "https://www.bangordailynews.com/2026/06/17/opinion/letters/letter-political-action-committee-forgets-high-prices-during-biden-administration/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e5ebf80fc130",
+      "title": "State to reimburse Westfield and Southwick for snow and ice removal",
+      "summary": "Because many of the commonwealth\u2019s municipalities incurred some of the largest cost ever to remove ice and snow from their roads, Westfield and Southwick were included in an $80 million allocation included in the state\u2019s fiscal 2027 budget to offset the cost.",
+      "url": "https://www.masslive.com/westfieldnews/2026/06/state-to-reimburse-westfield-and-southwick-for-snow-and-ice-removal.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-06-17",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "81d12645669e",
+      "title": "Partial rollback of Vermont\u2019s land-use law Act 181 becomes official with Phil Scott\u2019s signature",
+      "summary": "The move marks a win for a broad coalition of rural landowners who organized en masse to protest against Act 181, a land-use permitting overhaul passed in 2024.\nRead the story on VTDigger here:  Partial rollback of Vermont\u2019s land-use law Act 181 becomes official with Phil Scott\u2019s signature.",
+      "url": "https://vtdigger.org/2026/06/16/partial-rollback-of-vermonts-land-use-law-act-181-becomes-official-with-phil-scotts-signature/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-06-16",
       "category": "news",
       "priority": "medium",
