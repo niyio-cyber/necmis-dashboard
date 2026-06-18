@@ -1,13 +1,13 @@
 {
-  "generated": "2026-06-17T14:20:06.057862Z",
+  "generated": "2026-06-18T13:53:28.148006Z",
   "summary": {
     "total_opportunities": 24,
     "total_value_low": 342349586,
     "total_value_high": 342349586,
     "by_state": {
-      "VT": 2,
-      "NH": 5,
-      "ME": 4,
+      "VT": 4,
+      "NH": 6,
+      "ME": 2,
       "MA": 15,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 21,
-      "news": 6,
+      "news": 7,
       "funding": 3
     }
   },
@@ -431,13 +431,13 @@
   ],
   "news": [
     {
-      "id": "c4c463aea39f",
-      "title": "Trump delays Jay Clayton\u2019s nomination for intel director to try to push Congress on voting bill",
-      "summary": "EVIAN-LES-BAINS, France (AP) \u2014 President Donald Trump said Wednesday that he was delaying Jay Clayton\u2019s nomination to lead the U.S. intelligence community in a bid to force Congress to act on a voter ID bill that currently lacks enough support for passage. Trump said in a social media post just hour",
-      "url": "https://www.bangordailynews.com/2026/06/17/nation/trump-delays-jay-claytons-nomination-for-intel-director-to-try-to-push-congress-on-voting-bill/",
+      "id": "309c3ab57c5b",
+      "title": "With a sledgehammer and a shovel, volunteers raced to save passengers in Texas plane crash",
+      "summary": "The business jet barreled cockeyed down the dark highway, knocking down one light pole after another, an orange glow of sparks trailing it. From a distance, Ivan Franco thought it must be a car. But as he approached in his tow truck, he saw it was a plane \u2014 broken in half, its fuselage resting [\u2026]",
+      "url": "https://www.bangordailynews.com/2026/06/18/nation/with-a-sledgehammer-and-a-shovel-volunteers-raced-to-save-passengers-in-texas-plane-crash/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -445,12 +445,26 @@
       ]
     },
     {
-      "id": "9a396fbf7a22",
-      "title": "Aroostook County shouldn\u2019t use a failed approach to reduce youth substance use",
-      "summary": "\u201cIn 2024, the Bangor Daily News reported\u00a0that Aroostook County sends\u00a0more children to Long Creek Youth Development Center than any other county in Maine.\u201d",
-      "url": "https://www.bangordailynews.com/2026/06/17/opinion/opinion-contributor/aroostook-county-failed-approach-to-reduce-youth-substance-use-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "b25a01ae6fb7",
+      "title": "Climate Matters: Powering Westfield\u2019s future through local leadership and clean energy",
+      "summary": "Westfield Gas & Electric is proud to be one of 40 locally owned utilities serving communities across Massachusetts. As a public power utility, we are guided by the core principles that have defined municipal utilities for generations: safety, local control, affordability, reliability, and accountabi",
+      "url": "https://www.masslive.com/westfieldnews/2026/06/climate-matters-powering-westfields-future-through-local-leadership-and-clean-energy.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9430a5cec986",
+      "title": "Vernon community and the state grapple with potential redevelopment of Vermont Yankee site",
+      "summary": "Ideas for the site of the former nuclear plant include a data center, battery storage or a small nuclear reactor, but no plan has yet been finalized.\nRead the story on VTDigger here:  Vernon community and the state grapple with potential redevelopment of Vermont Yankee site.",
+      "url": "https://vtdigger.org/2026/06/17/vernon-community-and-the-state-grapple-with-potential-redevelopment-of-vermont-yankee-site/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-06-17",
       "category": "news",
       "priority": "medium",
@@ -459,26 +473,26 @@
       ]
     },
     {
-      "id": "67bb056ece3b",
-      "title": "Letter: Political action committee forgets high prices during Biden administration",
-      "summary": "\u201cI do not recall nonstop television commercials from Majority Forward about the cost of living at the time.\u201d",
-      "url": "https://www.bangordailynews.com/2026/06/17/opinion/letters/letter-political-action-committee-forgets-high-prices-during-biden-administration/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "5933439808b9",
+      "title": "Public weighs in on roadmap for state land planning",
+      "summary": "Some worry public input may suffer under proposed rules; proponents say it would streamline the process.\nRead the story on VTDigger here:  Public weighs in on roadmap for state land planning.",
+      "url": "https://vtdigger.org/2026/06/17/public-weighs-in-on-roadmap-for-state-land-planning/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-06-17",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "e5ebf80fc130",
-      "title": "State to reimburse Westfield and Southwick for snow and ice removal",
-      "summary": "Because many of the commonwealth\u2019s municipalities incurred some of the largest cost ever to remove ice and snow from their roads, Westfield and Southwick were included in an $80 million allocation included in the state\u2019s fiscal 2027 budget to offset the cost.",
-      "url": "https://www.masslive.com/westfieldnews/2026/06/state-to-reimburse-westfield-and-southwick-for-snow-and-ice-removal.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "30653b291f68",
+      "title": "Builder fined $18K over lead at Newport apartment complex",
+      "summary": "Officials with the U.S. Environmental Protection Agency (EPA) announced this week a settlement agreement has been reached with a Vermont-based construction company resolving alleged lead safety violations at a New Hampshire apartment complex.",
+      "url": "https://www.unionleader.com/news/environment/builder-fined-18k-over-lead-at-newport-apartment-complex/article_8f9d490f-0869-4210-b8b0-672bd1798d1a.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-06-17",
       "category": "funding",
       "priority": "medium",
