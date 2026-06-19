@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-18T13:53:28.148006Z",
+  "generated": "2026-06-19T13:57:09.109372Z",
   "summary": {
-    "total_opportunities": 24,
+    "total_opportunities": 23,
     "total_value_low": 342349586,
     "total_value_high": 342349586,
     "by_state": {
-      "VT": 4,
-      "NH": 6,
-      "ME": 2,
-      "MA": 15,
+      "VT": 5,
+      "NH": 8,
+      "ME": 3,
+      "MA": 14,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 21,
-      "news": 7,
-      "funding": 3
+      "news": 11,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -431,13 +431,13 @@
   ],
   "news": [
     {
-      "id": "309c3ab57c5b",
-      "title": "With a sledgehammer and a shovel, volunteers raced to save passengers in Texas plane crash",
-      "summary": "The business jet barreled cockeyed down the dark highway, knocking down one light pole after another, an orange glow of sparks trailing it. From a distance, Ivan Franco thought it must be a car. But as he approached in his tow truck, he saw it was a plane \u2014 broken in half, its fuselage resting [\u2026]",
-      "url": "https://www.bangordailynews.com/2026/06/18/nation/with-a-sledgehammer-and-a-shovel-volunteers-raced-to-save-passengers-in-texas-plane-crash/",
-      "source": "Bangor Daily News",
+      "id": "89af1ea20230",
+      "title": "Obituary: Ralph L. Hight",
+      "summary": "BIDDEFORD - Ralph L. Hight, 82, of Hills Beach, Biddeford, passed away peacefully on Monday, June 15, 2026, in Biddeford. \n\nBorn ...",
+      "url": "https://www.pressherald.com/2026/06/19/obituaryralph-l-hight-2/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -445,12 +445,68 @@
       ]
     },
     {
-      "id": "b25a01ae6fb7",
-      "title": "Climate Matters: Powering Westfield\u2019s future through local leadership and clean energy",
-      "summary": "Westfield Gas & Electric is proud to be one of 40 locally owned utilities serving communities across Massachusetts. As a public power utility, we are guided by the core principles that have defined municipal utilities for generations: safety, local control, affordability, reliability, and accountabi",
-      "url": "https://www.masslive.com/westfieldnews/2026/06/climate-matters-powering-westfields-future-through-local-leadership-and-clean-energy.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "5baabec830e0",
+      "title": "What you can, and can\u2019t, do with your Maine moose permit",
+      "summary": "There are significant limitations with a few options when it comes to actually going on your Maine moose hunt.",
+      "url": "https://www.bangordailynews.com/2026/06/19/outdoors/hunting/maine-moose-hunt-permit-lottery-explainer/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-19",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a4d8bfc34e26",
+      "title": "Vergennes battery project raises red flags",
+      "summary": "Lightshift has been evasive about fire risks, financial returns and community impact at the proposed Panton Road site.\nRead the story on VTDigger here:  Vergennes battery project raises red flags.",
+      "url": "https://vtdigger.org/2026/06/18/opinion-vergennes-battery-project-raises-red-flags/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-06-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b46bf8b43f64",
+      "title": "Developer wants to build hotel along with retail, commercial space in Merrimack",
+      "summary": "The group behind a potential large commercial development in Merrimack had its opportunity Tuesday to describe their plans after their Planning Board application was continued twice in May.",
+      "url": "https://www.unionleader.com/news/local/merrimack/developer-wants-to-build-hotel-along-with-retail-commercial-space-in-merrimack/article_87445e41-6b67-467a-afcb-eac09cf01742.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-06-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "40d10c0c6b5c",
+      "title": "Ayotte, Opponents Celebrate as Casella Withdraws Landfill Permit, But Company Insists Dalton Plan Isn\u2019t Over",
+      "summary": "While Gov. Kelly Ayotte and opponents celebrated Casella's withdrawal of an application for a wetlands permit key to a proposed landfill near Forest Lake State Park in Dalton, the company indicated that might be premature.",
+      "url": "https://indepthnh.org/2026/06/18/ayotte-opponents-celebrate-as-casella-withdraws-landfill-permit-but-company-insists-dalton-plan-isnt-over/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-06-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "086c2b241644",
+      "title": "Smaller Southeastern Towns Lead NH Population Growth",
+      "summary": "The analysis, authored by NHFPI Senior Policy Analyst Jessica Williams, includes an interactive map that allows readers to explore population changes in every New Hampshire municipality and download the underlying data.",
+      "url": "https://indepthnh.org/2026/06/18/smaller-southeastern-towns-lead-nh-population-growth-as-housing-costs-availability-shape-where-people-move/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-06-18",
       "category": "news",
       "priority": "medium",
@@ -551,20 +607,6 @@
       "state": "NH",
       "date": "2026-06-09",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ac9121813a5a",
-      "title": "AGC of New Hampshire recognizes industry excellence at 2026 awards night",
-      "summary": "The Associated General Contractors of New Hampshire recognized some of the state\u2019s top construction projects, companies and industry leaders during its 2026 Awards Night recently in Manchester.",
-      "url": "https://www.unionleader.com/news/business/agc-of-new-hampshire-recognizes-industry-excellence-at-2026-awards-night/article_0599b54e-9f6d-4eaf-8e6e-d3c4d6cd5214.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-07",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
