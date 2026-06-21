@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-20T12:21:28.356610Z",
+  "generated": "2026-06-21T12:59:09.513851Z",
   "summary": {
-    "total_opportunities": 27,
+    "total_opportunities": 26,
     "total_value_low": 345036366,
     "total_value_high": 345036366,
     "by_state": {
-      "VT": 4,
+      "VT": 2,
       "NH": 9,
-      "ME": 7,
-      "MA": 18,
+      "ME": 3,
+      "MA": 16,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 23,
-      "news": 15,
-      "funding": 4
+      "news": 8,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -469,41 +469,13 @@
   ],
   "news": [
     {
-      "id": "517756fe67f6",
-      "title": "Local control is holding education back in Maine | Opinion",
-      "summary": "When it comes to accountability among educators, a statewide system for teacher evaluation and teachers' professional development would be of huge benefit to our state.",
-      "url": "https://www.pressherald.com/2026/06/20/local-control-is-holding-education-back-in-maine-opinion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7857073f7d8b",
-      "title": "Hearts of Pine suffer fourth straight loss",
-      "summary": "Portland is winless in its last nine road matches after a blowout defeat against Westchester SC.",
-      "url": "https://www.pressherald.com/2026/06/19/hearts-of-pine-suffer-fourth-straight-loss/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "27b6f4c187c5",
-      "title": "Listen live to the Maine moose lottery drawing",
-      "summary": "Hunters who can't make it to Acton for Saturday's Maine moose permit lottery drawing can follow the event live, here.",
-      "url": "https://www.bangordailynews.com/2026/06/20/outdoors/hunting/live-maine-moose-lottery-drawing-joam40zk0w/",
+      "id": "a31124556ece",
+      "title": "You drew a Maine moose permit. Here\u2019s what to do right now.",
+      "summary": "There are several important steps moose permit winners should take as soon as possible to help ensure a successful hunt.",
+      "url": "https://www.bangordailynews.com/2026/06/21/outdoors/hunting/you-drew-maine-moose-permit-now-what-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -511,69 +483,13 @@
       ]
     },
     {
-      "id": "e61df4cd0ac9",
-      "title": "Westfield council cuts mayor\u2019s budget by $1.5 million, reduces tax hike",
-      "summary": "Westfield council cut $1.5M from the mayor's budget, lowered the tax increase, and preserved funding for an economic development director.",
-      "url": "https://www.masslive.com/westfieldnews/2026/06/westfield-council-cuts-mayors-budget-by-15-million-reduces-tax-hike.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-20",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9b6941cb100f",
-      "title": "Red Sox reactions: Ranger Suarez, Marcelo Mayer shine in win over Mariners",
-      "summary": "Behind Ranger Suarez's no-hit bid and a big night from Marcelo Mayer, the Red Sox snapped their four-game losing streak with a win in Seattle on Friday night.",
-      "url": "https://www.masslive.com/redsox/2026/06/red-sox-reactions-ranger-suarez-marcelo-mayer-shine-in-win-over-mariners.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-20",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3e85cdf0b759",
-      "title": "Biddeford\u2019s Juneteenth celebration spotlights  progress and differences",
-      "summary": "Participants at the second annual event contemplated the significance of the holiday.",
-      "url": "https://www.pressherald.com/2026/06/19/biddefords-juneteenth-celebration-spotlights-progress-and-differences/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-19",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ab4bf57e6e63",
-      "title": "Route 141 in Swanville closed for crash",
-      "summary": "The road, also known as Swan Lake Avenue, was closed from Town House Road (Route 131) to Upper Oak HIll Road.",
-      "url": "https://www.bangordailynews.com/2026/06/19/midcoast/midcoast-police-courts/route-141-in-swanville-closed-for-crash/",
+      "id": "c3007c9176ed",
+      "title": "Didn\u2019t draw a Maine moose permit? Here\u2019s where you can still hunt moose.",
+      "summary": "While many people wait years to draw a permit in Maine, there are options if you want to pursue this species out of state.",
+      "url": "https://www.bangordailynews.com/2026/06/21/outdoors/hunting/where-hunt-moose-no-permit-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-06-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "31b70528313d",
-      "title": "East Machias man dies after head-on crash in Ellsworth",
-      "summary": "The crash on Bucksport Road (Route 1) was reported at about 12:30 p.m. Thursday.",
-      "url": "https://www.bangordailynews.com/2026/06/19/hancock/hancock-police-courts/east-machias-man-dies-ellsworth-crash/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-19",
+      "date": "2026-06-21",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -644,34 +560,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-06-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9430a5cec986",
-      "title": "Vernon community and the state grapple with potential redevelopment of Vermont Yankee site",
-      "summary": "Ideas for the site of the former nuclear plant include a data center, battery storage or a small nuclear reactor, but no plan has yet been finalized.\nRead the story on VTDigger here:  Vernon community and the state grapple with potential redevelopment of Vermont Yankee site.",
-      "url": "https://vtdigger.org/2026/06/17/vernon-community-and-the-state-grapple-with-potential-redevelopment-of-vermont-yankee-site/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-06-17",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5933439808b9",
-      "title": "Public weighs in on roadmap for state land planning",
-      "summary": "Some worry public input may suffer under proposed rules; proponents say it would streamline the process.\nRead the story on VTDigger here:  Public weighs in on roadmap for state land planning.",
-      "url": "https://vtdigger.org/2026/06/17/public-weighs-in-on-roadmap-for-state-land-planning/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-06-17",
       "category": "news",
       "priority": "medium",
       "business_lines": [
