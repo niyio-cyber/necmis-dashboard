@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-21T12:59:09.513851Z",
+  "generated": "2026-06-22T15:46:00.703823Z",
   "summary": {
-    "total_opportunities": 26,
+    "total_opportunities": 25,
     "total_value_low": 345036366,
     "total_value_high": 345036366,
     "by_state": {
       "VT": 2,
-      "NH": 9,
+      "NH": 6,
       "ME": 3,
-      "MA": 16,
+      "MA": 18,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 23,
       "news": 8,
-      "funding": 3
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -469,13 +469,13 @@
   ],
   "news": [
     {
-      "id": "a31124556ece",
-      "title": "You drew a Maine moose permit. Here\u2019s what to do right now.",
-      "summary": "There are several important steps moose permit winners should take as soon as possible to help ensure a successful hunt.",
-      "url": "https://www.bangordailynews.com/2026/06/21/outdoors/hunting/you-drew-maine-moose-permit-now-what-joam40zk0w/",
+      "id": "62b5cdbd5e78",
+      "title": "2 killed in weekend off-road crashes",
+      "summary": "The two men died in separate crashes, one in Lowell. One occurred in Lowell, while the other occurred in Mayfield.",
+      "url": "https://www.bangordailynews.com/2026/06/22/central-maine/central-maine-police-courts/2-killed-weekend-off-road-crashes/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -483,15 +483,43 @@
       ]
     },
     {
-      "id": "c3007c9176ed",
-      "title": "Didn\u2019t draw a Maine moose permit? Here\u2019s where you can still hunt moose.",
-      "summary": "While many people wait years to draw a permit in Maine, there are options if you want to pursue this species out of state.",
-      "url": "https://www.bangordailynews.com/2026/06/21/outdoors/hunting/where-hunt-moose-no-permit-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "476a6e0029e4",
+      "title": "Economic Development Commission tackles full agenda",
+      "summary": "Scheduling a meeting with local businesses, talking about drafting a formal TIF policy and preparing proposals for the state\u2019s Complete Street Fund Program were the central topics discussed during Southwick's Economic Development Commission meeting Wednesday.",
+      "url": "https://www.masslive.com/westfieldnews/2026/06/economic-development-commission-tackles-full-agenda.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b0342a6103bf",
+      "title": "Man accused of running over pedestrian while driving stolen car in Boston to face judge Monday",
+      "summary": "The 37-year-old Hyde Park man will be arraigned on murder and several other charges in Boston Municipal Court.",
+      "url": "https://www.masslive.com/boston/2026/06/man-accused-of-running-over-pedestrian-while-driving-stolen-car-in-boston-to-face-judge-monday.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "84b2ce63e029",
+      "title": "Biddeford celebrates French heritage with La Kermesse festival",
+      "summary": "The Franco-American festival took over Biddeford's St. Louis Field for its 43rd year.",
+      "url": "https://www.pressherald.com/2026/06/21/biddeford-celebrates-french-heritage-with-la-kermesse-festival/",
+      "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-06-21",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -553,20 +581,6 @@
       ]
     },
     {
-      "id": "086c2b241644",
-      "title": "Smaller Southeastern Towns Lead NH Population Growth",
-      "summary": "The analysis, authored by NHFPI Senior Policy Analyst Jessica Williams, includes an interactive map that allows readers to explore population changes in every New Hampshire municipality and download the underlying data.",
-      "url": "https://indepthnh.org/2026/06/18/smaller-southeastern-towns-lead-nh-population-growth-as-housing-costs-availability-shape-where-people-move/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-06-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "30653b291f68",
       "title": "Builder fined $18K over lead at Newport apartment complex",
       "summary": "Officials with the U.S. Environmental Protection Agency (EPA) announced this week a settlement agreement has been reached with a Vermont-based construction company resolving alleged lead safety violations at a New Hampshire apartment complex.",
@@ -588,34 +602,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-06-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1a8ba81ea796",
-      "title": "Developers give HUD official, exec councilors an earful on housing roadblocks",
-      "summary": "Developers told U.S. Housing and Urban Development (HUD) Regional Administrator Mike Banks and three executive councilors that despite the infusion of federal money and a steady diet of state legislative actions, New Hampshire remains a challenging and, in many places,\u2026",
-      "url": "https://www.unionleader.com/news/homes/housing/developers-give-hud-official-exec-councilors-an-earful-on-housing-roadblocks/article_8aa9264e-0ed0-409a-9698-fac8c814de9e.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-10",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9f5e961214fd",
-      "title": "Scrapyard in Londonderry eyed by residential developer",
-      "summary": "A Merrimack-based developer wants to buy a scrap metal site on Rockingham Road in Londonderry and build 60 residential units on it.",
-      "url": "https://www.unionleader.com/news/local/derry_londonderry/scrapyard-in-londonderry-eyed-by-residential-developer/article_4faa5d22-eed3-4bd5-b093-94e4fb0ceb87.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-09",
       "category": "news",
       "priority": "medium",
       "business_lines": [
