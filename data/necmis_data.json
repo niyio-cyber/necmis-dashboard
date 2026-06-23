@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-22T15:46:00.703823Z",
+  "generated": "2026-06-23T13:32:32.873655Z",
   "summary": {
-    "total_opportunities": 25,
+    "total_opportunities": 26,
     "total_value_low": 345036366,
     "total_value_high": 345036366,
     "by_state": {
-      "VT": 2,
-      "NH": 6,
-      "ME": 3,
-      "MA": 18,
+      "VT": 1,
+      "NH": 5,
+      "ME": 4,
+      "MA": 17,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 23,
-      "news": 8,
-      "funding": 2
+      "news": 5,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -469,57 +469,57 @@
   ],
   "news": [
     {
-      "id": "62b5cdbd5e78",
-      "title": "2 killed in weekend off-road crashes",
-      "summary": "The two men died in separate crashes, one in Lowell. One occurred in Lowell, while the other occurred in Mayfield.",
-      "url": "https://www.bangordailynews.com/2026/06/22/central-maine/central-maine-police-courts/2-killed-weekend-off-road-crashes/",
+      "id": "11e47aa02d97",
+      "title": "Modular construction, big or small, fills a hole in Maine\u2019s housing market",
+      "summary": "When available homes don't quite fit the bill, prefab housing can help.",
+      "url": "https://www.pressherald.com/2026/06/23/modular-construction-big-or-small-emerges-as-solution-to-maines-housing-crisis/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7614ae5a163b",
+      "title": "Obituary: Robert Andrew Genthner",
+      "summary": "SEBAGO - Robert Andrew Genthner, 94, of Sebago, formerly of Biddeford, passed away peacefully on June 14, 2026. Born to Grace ...",
+      "url": "https://www.pressherald.com/2026/06/23/obituaryrobert-andrew-genthner-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-23",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d1151a24eeb3",
+      "title": "Permit granted for Clark Street project with family-only rentals",
+      "summary": "Westfield approved a permit for two family-only rentals on Clark Street after the owner agreed to ban undergraduate tenants and create parking.",
+      "url": "https://www.masslive.com/westfieldnews/2026/06/permit-granted-for-clark-street-project-with-family-only-rentals.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-23",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2c7bf8cc46d1",
+      "title": "Graham Platner\u00a0still making inroads with Democratic groups that backed Janet Mills",
+      "summary": "Planned Parenthood endorsed U.S. Senate candidate Graham Platner in his campaign against Republican Susan Collins, joining other Democratic-aligned groups and emphasizing abortion rights as a central election issue.",
+      "url": "https://www.bangordailynews.com/2026/06/22/politics/elections/graham-platner-planned-parenthood/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-06-22",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "476a6e0029e4",
-      "title": "Economic Development Commission tackles full agenda",
-      "summary": "Scheduling a meeting with local businesses, talking about drafting a formal TIF policy and preparing proposals for the state\u2019s Complete Street Fund Program were the central topics discussed during Southwick's Economic Development Commission meeting Wednesday.",
-      "url": "https://www.masslive.com/westfieldnews/2026/06/economic-development-commission-tackles-full-agenda.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b0342a6103bf",
-      "title": "Man accused of running over pedestrian while driving stolen car in Boston to face judge Monday",
-      "summary": "The 37-year-old Hyde Park man will be arraigned on murder and several other charges in Boston Municipal Court.",
-      "url": "https://www.masslive.com/boston/2026/06/man-accused-of-running-over-pedestrian-while-driving-stolen-car-in-boston-to-face-judge-monday.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "84b2ce63e029",
-      "title": "Biddeford celebrates French heritage with La Kermesse festival",
-      "summary": "The Franco-American festival took over Biddeford's St. Louis Field for its 43rd year.",
-      "url": "https://www.pressherald.com/2026/06/21/biddeford-celebrates-french-heritage-with-la-kermesse-festival/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-21",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -539,39 +539,11 @@
       ]
     },
     {
-      "id": "a4d8bfc34e26",
-      "title": "Vergennes battery project raises red flags",
-      "summary": "Lightshift has been evasive about fire risks, financial returns and community impact at the proposed Panton Road site.\nRead the story on VTDigger here:  Vergennes battery project raises red flags.",
-      "url": "https://vtdigger.org/2026/06/18/opinion-vergennes-battery-project-raises-red-flags/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-06-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "b46bf8b43f64",
       "title": "Developer wants to build hotel along with retail, commercial space in Merrimack",
       "summary": "The group behind a potential large commercial development in Merrimack had its opportunity Tuesday to describe their plans after their Planning Board application was continued twice in May.",
       "url": "https://www.unionleader.com/news/local/merrimack/developer-wants-to-build-hotel-along-with-retail-commercial-space-in-merrimack/article_87445e41-6b67-467a-afcb-eac09cf01742.html",
       "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "40d10c0c6b5c",
-      "title": "Ayotte, Opponents Celebrate as Casella Withdraws Landfill Permit, But Company Insists Dalton Plan Isn\u2019t Over",
-      "summary": "While Gov. Kelly Ayotte and opponents celebrated Casella's withdrawal of an application for a wetlands permit key to a proposed landfill near Forest Lake State Park in Dalton, the company indicated that might be premature.",
-      "url": "https://indepthnh.org/2026/06/18/ayotte-opponents-celebrate-as-casella-withdraws-landfill-permit-but-company-insists-dalton-plan-isnt-over/",
-      "source": "InDepthNH",
       "state": "NH",
       "date": "2026-06-18",
       "category": "news",
