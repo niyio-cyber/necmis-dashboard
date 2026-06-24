@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-23T13:32:32.873655Z",
+  "generated": "2026-06-24T13:08:36.526323Z",
   "summary": {
-    "total_opportunities": 26,
+    "total_opportunities": 27,
     "total_value_low": 345036366,
     "total_value_high": 345036366,
     "by_state": {
-      "VT": 1,
+      "VT": 2,
       "NH": 5,
-      "ME": 4,
-      "MA": 17,
+      "ME": 7,
+      "MA": 16,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 23,
-      "news": 5,
-      "funding": 3
+      "news": 7,
+      "funding": 4
     }
   },
   "dot_lettings": [
@@ -469,13 +469,13 @@
   ],
   "news": [
     {
-      "id": "11e47aa02d97",
-      "title": "Modular construction, big or small, fills a hole in Maine\u2019s housing market",
-      "summary": "When available homes don't quite fit the bill, prefab housing can help.",
-      "url": "https://www.pressherald.com/2026/06/23/modular-construction-big-or-small-emerges-as-solution-to-maines-housing-crisis/",
+      "id": "d7b11c8add18",
+      "title": "Obituary: Stephen Michael Broad II",
+      "summary": "MANCHESTER - Stephen Michael Broad II, 51, of Portland, passed away unexpectedly on Friday, June 19, 2026. He was born on ...",
+      "url": "https://www.pressherald.com/2026/06/24/obituarystephen-michael-broad-ii-2/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -483,27 +483,27 @@
       ]
     },
     {
-      "id": "7614ae5a163b",
-      "title": "Obituary: Robert Andrew Genthner",
-      "summary": "SEBAGO - Robert Andrew Genthner, 94, of Sebago, formerly of Biddeford, passed away peacefully on June 14, 2026. Born to Grace ...",
-      "url": "https://www.pressherald.com/2026/06/23/obituaryrobert-andrew-genthner-2/",
+      "id": "9e337ea4301c",
+      "title": "Death Notice: Stephen Michael Broad II",
+      "summary": "Broad II, Stephen Michael 51, of Portland, June 19, 2026. Visit, 4-7 p.m., June 24, Jones, Rich & Barnes Funeral Home, ...",
+      "url": "https://www.pressherald.com/2026/06/24/obituarystephen-michael-broad-ii/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "d1151a24eeb3",
-      "title": "Permit granted for Clark Street project with family-only rentals",
-      "summary": "Westfield approved a permit for two family-only rentals on Clark Street after the owner agreed to ban undergraduate tenants and create parking.",
-      "url": "https://www.masslive.com/westfieldnews/2026/06/permit-granted-for-clark-street-project-with-family-only-rentals.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-23",
+      "id": "25d3a9c075be",
+      "title": "New Balance Foundation commits $1 million to Skowhegan River Park as boardwalk construction begins",
+      "summary": "Public invited to June 29 groundbreaking; future phases gain funding support SKOWHEGAN \u2014 Main Street Skowhegan announced a transformational $1 million naming gift from New Balance Foundation to the Skowhegan River Park, alongside the start of construction on Phase 1 of the project\u2019s riverfront board",
+      "url": "https://www.bangordailynews.com/2026/06/24/bdn-maine/new-balance-foundation-commits-1-million-to-skowhegan-river-park-as-boardwalk-construction-begins/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-24",
       "category": "funding",
       "priority": "medium",
       "business_lines": [
@@ -511,13 +511,55 @@
       ]
     },
     {
-      "id": "2c7bf8cc46d1",
-      "title": "Graham Platner\u00a0still making inroads with Democratic groups that backed Janet Mills",
-      "summary": "Planned Parenthood endorsed U.S. Senate candidate Graham Platner in his campaign against Republican Susan Collins, joining other Democratic-aligned groups and emphasizing abortion rights as a central election issue.",
-      "url": "https://www.bangordailynews.com/2026/06/22/politics/elections/graham-platner-planned-parenthood/",
+      "id": "2534d398a4b6",
+      "title": "Michigan Senate candidate accuses Trump of keeping Canada-US bridge closed to help donor",
+      "summary": "WASHINGTON (AP) \u2014 The delayed opening of a bridge connecting Michigan and Canada is spilling into one of the country\u2019s most closely watched Senate races, as Democratic candidate Mallory McMorrow launches the first major effort to turn the controversy into a political liability for President Donald T",
+      "url": "https://www.bangordailynews.com/2026/06/24/nation/michigan-senate-candidate-accuses-trump-of-keeping-canada-us-bridge-closed-to-help-donor/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-06-22",
+      "date": "2026-06-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d45738913026",
+      "title": "Maine\u2019s antlerless deer permit lottery opens Thursday. Here\u2019s what\u2019s new for 2026.",
+      "summary": "New unlimited-permit districts, the addition of antlerless permits in WMDs 2 and 5 and an expanded muzzleloader season in parts of the state, are among the changes.",
+      "url": "https://www.bangordailynews.com/2026/06/24/outdoors/hunting/maine-antlerless-deer-permit-lottery-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f5c43bcde932",
+      "title": "A Milford development with 142 homes is mysteriously\u00a0being sold mid-construction",
+      "summary": "The future home of Deer Park Village off Bradley Road in Milford hit the market on June 18 with an asking price of $1.8 million.",
+      "url": "https://www.bangordailynews.com/2026/06/24/business/business-housing/milford-development-mysteriously-being-sold-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-24",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "efbeb3b6c5f6",
+      "title": "Vermont needs better housing, not just more of it",
+      "summary": "New developments are scarring the landscape and shortchanging Vermonters on design, location and affordability.\nRead the story on VTDigger here:  Vermont needs better housing, not just more of it.",
+      "url": "https://vtdigger.org/2026/06/23/opinion-vermont-needs-better-housing-not-just-more-of-it/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-06-23",
       "category": "news",
       "priority": "medium",
       "business_lines": [
