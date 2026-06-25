@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-24T13:08:36.526323Z",
+  "generated": "2026-06-25T13:08:16.532785Z",
   "summary": {
-    "total_opportunities": 27,
+    "total_opportunities": 24,
     "total_value_low": 345036366,
     "total_value_high": 345036366,
     "by_state": {
-      "VT": 2,
-      "NH": 5,
-      "ME": 7,
-      "MA": 16,
+      "VT": 3,
+      "NH": 4,
+      "ME": 5,
+      "MA": 18,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 23,
-      "news": 7,
-      "funding": 4
+      "news": 10,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -469,13 +469,41 @@
   ],
   "news": [
     {
-      "id": "d7b11c8add18",
-      "title": "Obituary: Stephen Michael Broad II",
-      "summary": "MANCHESTER - Stephen Michael Broad II, 51, of Portland, passed away unexpectedly on Friday, June 19, 2026. He was born on ...",
-      "url": "https://www.pressherald.com/2026/06/24/obituarystephen-michael-broad-ii-2/",
+      "id": "6f5e41df6335",
+      "title": "Obituary: Clara Pauline Pate",
+      "summary": "BIDDEFORD - Clara Pauline Pate, 91, formerly of Wildwood Drive, Saco, passed away peacefully at St. Andre\u2019s in Biddeford on June ...",
+      "url": "https://www.pressherald.com/2026/06/25/obituaryclara-pauline-pate-2/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "52c5b3b47e46",
+      "title": "Death Notice: Clara Pauline Pate",
+      "summary": "Pate, Clara Pauline 91, of Saco, in Biddeford, June 22, 2026. Visit, June 28, 3\u20135 p.m., Dennett, Craig & Pate ...",
+      "url": "https://www.pressherald.com/2026/06/25/obituaryclara-pauline-pate/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-25",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e31fbc7dc376",
+      "title": "Sebago motorcycle crash leaves 1 dead and 2 injured",
+      "summary": "The crash occurred at around 5:30 p.m. when 63-year-old Ernest Poulos crossed the centerline of Convene Road on his motorcycle.",
+      "url": "https://www.bangordailynews.com/2026/06/25/central-maine/sebago-fatal-motorcycle-crash/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-25",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -483,40 +511,40 @@
       ]
     },
     {
-      "id": "9e337ea4301c",
-      "title": "Death Notice: Stephen Michael Broad II",
-      "summary": "Broad II, Stephen Michael 51, of Portland, June 19, 2026. Visit, 4-7 p.m., June 24, Jones, Rich & Barnes Funeral Home, ...",
-      "url": "https://www.pressherald.com/2026/06/24/obituarystephen-michael-broad-ii/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-24",
+      "id": "64a246cccfcc",
+      "title": "1 person killed in wrong-way crash on busy Central Mass. highway",
+      "summary": "A Subaru and a Jeep were found on fire, having sustained severe damage.",
+      "url": "https://www.masslive.com/centralmass/2026/06/1-person-killed-in-wrong-way-crash-on-busy-central-mass-highway.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-25",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "25d3a9c075be",
-      "title": "New Balance Foundation commits $1 million to Skowhegan River Park as boardwalk construction begins",
-      "summary": "Public invited to June 29 groundbreaking; future phases gain funding support SKOWHEGAN \u2014 Main Street Skowhegan announced a transformational $1 million naming gift from New Balance Foundation to the Skowhegan River Park, alongside the start of construction on Phase 1 of the project\u2019s riverfront board",
-      "url": "https://www.bangordailynews.com/2026/06/24/bdn-maine/new-balance-foundation-commits-1-million-to-skowhegan-river-park-as-boardwalk-construction-begins/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-24",
-      "category": "funding",
-      "priority": "medium",
+      "id": "068f092f463e",
+      "title": "Transition Program honors four graduates at Bridge to Adulthood Ceremony",
+      "summary": "WESTFIELD \u2014 On June 15, the Westfield Community-Based Transition Program hosted its annual Bridge to Adulthood Ceremony to celebrate four graduates who are all aging out of the program.",
+      "url": "https://www.masslive.com/westfieldnews/2026/06/transition-program-honors-four-graduates-at-bridge-to-adulthood-ceremony.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-25",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "2534d398a4b6",
-      "title": "Michigan Senate candidate accuses Trump of keeping Canada-US bridge closed to help donor",
-      "summary": "WASHINGTON (AP) \u2014 The delayed opening of a bridge connecting Michigan and Canada is spilling into one of the country\u2019s most closely watched Senate races, as Democratic candidate Mallory McMorrow launches the first major effort to turn the controversy into a political liability for President Donald T",
-      "url": "https://www.bangordailynews.com/2026/06/24/nation/michigan-senate-candidate-accuses-trump-of-keeping-canada-us-bridge-closed-to-help-donor/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "aa536301859d",
+      "title": "Vermont Conversation: Cartoonist Tillie Walden celebrates early American queer love in Vermont in new book",
+      "summary": "The graphic novel reconstructs the lives of Charity Bryant and Sylvia Drake, a lesbian couple living in 1810s Weybridge, and the parallels with small town life in modern Vermont.\nRead the story on VTDigger here:  Vermont Conversation: Cartoonist Tillie Walden celebrates early American queer love in",
+      "url": "https://vtdigger.org/2026/06/24/vermont-conversation-cartoonist-tillie-walden-celebrates-early-american-queer-love-in-vermont-in-new-book/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-06-24",
       "category": "news",
       "priority": "high",
@@ -525,28 +553,14 @@
       ]
     },
     {
-      "id": "d45738913026",
-      "title": "Maine\u2019s antlerless deer permit lottery opens Thursday. Here\u2019s what\u2019s new for 2026.",
-      "summary": "New unlimited-permit districts, the addition of antlerless permits in WMDs 2 and 5 and an expanded muzzleloader season in parts of the state, are among the changes.",
-      "url": "https://www.bangordailynews.com/2026/06/24/outdoors/hunting/maine-antlerless-deer-permit-lottery-joam40zk0w/",
+      "id": "a2b1a74ade18",
+      "title": "Trump refuses to sign bipartisan housing bill into law. What does that mean for homebuyers, renters?",
+      "summary": "LOS ANGELES (AP) \u2014 A sprawling legislative package aimed at lowering the cost of housing and spurring more home construction won bipartisan approval from Congress this week, but it\u2019s hit a major roadblock in becoming law: President Donald Trump. The White House supported the 21st Century ROAD to Hou",
+      "url": "https://www.bangordailynews.com/2026/06/24/nation/trump-refuses-to-sign-bipartisan-housing-bill-into-law-what-does-that-mean-for-homebuyers-renters/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-06-24",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f5c43bcde932",
-      "title": "A Milford development with 142 homes is mysteriously\u00a0being sold mid-construction",
-      "summary": "The future home of Deer Park Village off Bradley Road in Milford hit the market on June 18 with an asking price of $1.8 million.",
-      "url": "https://www.bangordailynews.com/2026/06/24/business/business-housing/milford-development-mysteriously-being-sold-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-24",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -561,20 +575,6 @@
       "state": "VT",
       "date": "2026-06-23",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6e590cc84146",
-      "title": "Budget Writers Slash Youth Development Center Abuse Settlement Fund Request",
-      "summary": "The new administrator for the Youth Development Center settlement fund had to settle for $20 million instead of the $55 million he sought from the Joint Legislative Fiscal Committee.",
-      "url": "https://indepthnh.org/2026/06/19/budget-writers-slash-youth-development-center-abuse-settlement-fund-request/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-06-19",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
