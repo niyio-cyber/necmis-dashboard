@@ -1,45 +1,26 @@
 {
-  "generated": "2026-06-26T13:04:25.360230Z",
+  "generated": "2026-06-27T12:03:07.181839Z",
   "summary": {
-    "total_opportunities": 24,
-    "total_value_low": 345036366,
-    "total_value_high": 345036366,
+    "total_opportunities": 39,
+    "total_value_low": 373314965,
+    "total_value_high": 373314965,
     "by_state": {
-      "VT": 3,
-      "NH": 4,
-      "ME": 3,
-      "MA": 16,
+      "VT": 1,
+      "NH": 6,
+      "ME": 6,
+      "MA": 31,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 23,
-      "news": 6,
-      "funding": 1
+      "dot_letting": 37,
+      "news": 9,
+      "funding": 2
     }
   },
   "dot_lettings": [
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation",
-      "cost_low": 76265555,
-      "cost_high": 76265555,
-      "cost_display": "$76.3M",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM-General Building Construction, Electrical\u0096All Type\u0096Inc",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "2ae67002e868",
       "state": "MA",
@@ -276,6 +257,177 @@
       ]
     },
     {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.601 PLUMBING WORK",
+      "cost_low": 148648,
+      "cost_high": 148648,
+      "cost_display": "$149K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.605 FIRE PROTECTION WORK",
+      "cost_low": 1356960,
+      "cost_high": 1356960,
+      "cost_display": "$1.4M",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.611 ANCILLARY HVAC WORK",
+      "cost_low": 5508859,
+      "cost_high": 5508859,
+      "cost_display": "$5.5M",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.691 WATERPROOFING, DAMPPROOFING, AND CAULKING WORK",
+      "cost_low": 202110,
+      "cost_high": 202110,
+      "cost_display": "$202K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.701 ROOFING AND FLASHING WORK",
+      "cost_low": 401772,
+      "cost_high": 401772,
+      "cost_display": "$402K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.711 MASONRY WORK",
+      "cost_low": 265405,
+      "cost_high": 265405,
+      "cost_display": "$265K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.751 PAINTING",
+      "cost_low": 186371,
+      "cost_high": 186371,
+      "cost_display": "$186K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.811 MISCELLANEOUS AND ORNAMENTAL IRON",
+      "cost_low": 303123,
+      "cost_high": 303123,
+      "cost_display": "$303K",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "76e00402709c",
+      "state": "MA",
+      "project_id": "614144",
+      "description": "Scheduled & Emergency Drainage Repairs and Improvements at Various Locations",
+      "cost_low": 950000,
+      "cost_high": 950000,
+      "cost_display": "$950K",
+      "ad_date": "2026-06-27",
+      "let_date": null,
+      "project_type": "Drainage",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614144",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "a92c92d8b37b",
       "state": "MA",
       "project_id": "614090",
@@ -295,6 +447,64 @@
       ]
     },
     {
+      "id": "3f38dc4bfee0",
+      "state": "MA",
+      "project_id": "609213",
+      "description": "Resurfacing and Box Widening on Ayer Road, from Route 2 to the Ayer Town Line",
+      "cost_low": 9976550,
+      "cost_high": 9976550,
+      "cost_display": "$10.0M",
+      "ad_date": "2026-06-27",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Harvard",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609213",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
+      ]
+    },
+    {
+      "id": "fc205f67d268",
+      "state": "MA",
+      "project_id": "610535",
+      "description": "Pedestrian and Bicycle Improvements on Pleasant Street",
+      "cost_low": 3924628,
+      "cost_high": 3924628,
+      "cost_display": "$3.9M",
+      "ad_date": "2026-06-27",
+      "let_date": null,
+      "project_type": "Highway - Construction , Highway - Bike Paths",
+      "location": "Worcester",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610535",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation",
+      "cost_low": 76265555,
+      "cost_high": 76265555,
+      "cost_display": "$76.3M",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM-General Building Construction, Electrical\u0096All Type\u0096Inc",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "90382ec0c775",
       "state": "MA",
       "project_id": "612004",
@@ -308,6 +518,63 @@
       "location": "Everett - Somerville",
       "district": 4,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612004",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "62c57da6b888",
+      "state": "MA",
+      "project_id": "616302",
+      "description": "Maintenance and Preservation of Municipal Bridges at Multiple Locations (D2 Contract 2)",
+      "cost_low": 2166161,
+      "cost_high": 2166161,
+      "cost_display": "$2.2M",
+      "ad_date": "2026-06-27",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Belchertown - Hampden - Monson - South Hadley - Southwick",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616302",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "068713fd5a7a",
+      "state": "MA",
+      "project_id": "614225",
+      "description": "Bridge Maintenance, F-04-019, including the Furnishing & Installation of a Safety Fence and Related Work (Arthur Ditomasso Bridge)",
+      "cost_low": 1265149,
+      "cost_high": 1265149,
+      "cost_display": "$1.3M",
+      "ad_date": "2026-06-27",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Fitchburg",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614225",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fd55cd531d1f",
+      "state": "MA",
+      "project_id": "616301",
+      "description": "Maintenance and Preservation of Municipal Bridges at Multiple Locations (D2 Contract 1)",
+      "cost_low": 1622863,
+      "cost_high": 1622863,
+      "cost_display": "$1.6M",
+      "ad_date": "2026-06-27",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Gill - Northfield - Royalston - Winchendon",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616301",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -469,13 +736,13 @@
   ],
   "news": [
     {
-      "id": "ef170aef3f8f",
-      "title": "Ashamed by Graham Platner? Quite the opposite. | Letter",
-      "summary": "Regarding the June 18 op-ed \u201cGraham Platner and the new American pillory,\u201d I am an American Jew and Zionist who was born in the shadow of the Holocaust. Aided by the Biden and Trump administrations, by the American the Israel Public Affairs Committee and Christians United for Israel, I\u2019ve witnessed",
-      "url": "https://www.pressherald.com/2026/06/26/ashamed-by-graham-platner-quite-the-opposite-letter/",
+      "id": "94373e136d91",
+      "title": "Proud of Susan Collins\u2019 championing gay rights | Opinion",
+      "summary": "Maine's senior senator has been a consistent in her efforts to bridge divides, choosing inclusion over division.",
+      "url": "https://www.pressherald.com/2026/06/27/proud-of-susan-collins-championing-gay-rights-opinion/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -483,12 +750,96 @@
       ]
     },
     {
-      "id": "7e2dc39799c4",
-      "title": "Volunteers pedal people with disabilities along Acadia\u2019s carriage roads",
-      "summary": "MDI Wheelers, which began in 2021, is meeting a growing need in Acadia as the park\u2019s visitation count continues to rise.",
-      "url": "https://www.bangordailynews.com/2026/06/26/hancock/hancock-culture/mdi-wheelers-acadia-national-park-joam40zk0w/",
+      "id": "d7133f8a24df",
+      "title": "Portland must act on road safety now | Letter",
+      "summary": "The fatalities in our city are no accident.",
+      "url": "https://www.pressherald.com/2026/06/27/portland-must-act-on-road-safety-now-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "98ff5c251673",
+      "title": "Maine\u2019s roadside farm stands now have their own map",
+      "summary": "A Brunswick hobby farmer started soliciting listings for his Farmstands Guide in the spring.",
+      "url": "https://www.pressherald.com/2026/06/27/maines-roadside-farm-stands-now-have-their-own-map/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-06-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4dad6630f104",
+      "title": "As Pride Month ends, real faith must trump political performance",
+      "summary": "\u201cIf a rainbow painted on pavement feels like a threat, the problem isn\u2019t the rainbow.\u201d",
+      "url": "https://www.bangordailynews.com/2026/06/27/opinion/opinion-contributor/as-pride-month-ends-real-faith-must-trump-political-performance-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-06-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "hma"
+      ]
+    },
+    {
+      "id": "4dbad17a0c6e",
+      "title": "Energy company looking to build solar field along southern College Highway",
+      "summary": "Southwick town officials recently met with representatives of an energy company that has plans to build a solar field on property that fronts College Highway and Nicholson Hill Road.",
+      "url": "https://www.masslive.com/westfieldnews/2026/06/energy-company-looking-to-build-solar-field-along-southern-college-highway.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-27",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "71fb7a14f40d",
+      "title": "Friendships forged in China help Atlas Fireworks mark America's 250th",
+      "summary": "Sure, fireworks are mostly produced in China. They\u2019re purchased by American entrepreneurs and imported to the states to mark our nation\u2019s largest celebrations and events. But to leave it at that would be to misunderstand their importance here and abroad.",
+      "url": "https://www.unionleader.com/news/business/friendships-forged-in-china-help-atlas-fireworks-mark-americas-250th/article_d8a3a3a2-47e7-4c8e-85f2-802926c62318.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-06-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fcb87c10a1a6",
+      "title": "Polygamous sect leader convicted of abuse charges after girls found in trailer on Arizona highway",
+      "summary": "PHOENIX (AP) \u2014 A polygamous sect leader already serving a 50-year federal prison sentence for orchestrating sex involving children was convicted Friday on state child abuse charges after girls were found in an unventilated trailer he was hauling through Arizona. Someone alerted authorities about the",
+      "url": "https://www.bangordailynews.com/2026/06/26/nation/polygamous-sect-leader-convicted-of-abuse-charges-after-girls-found-in-trailer-on-arizona-highway/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-26",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5e3b2cf5ce5f",
+      "title": "AG Reports Officer-Involved Shooting in Landaff",
+      "summary": "The incident reportedly occurred as police were responding to a report of an adult male walking in and out of traffic in the area of Lost River Road.",
+      "url": "https://indepthnh.org/2026/06/26/ag-reports-officer-involved-shooting-ion-landaff/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-06-26",
       "category": "news",
       "priority": "medium",
@@ -504,34 +855,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-06-25",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "aa536301859d",
-      "title": "Vermont Conversation: Cartoonist Tillie Walden celebrates early American queer love in Vermont in new book",
-      "summary": "The graphic novel reconstructs the lives of Charity Bryant and Sylvia Drake, a lesbian couple living in 1810s Weybridge, and the parallels with small town life in modern Vermont.\nRead the story on VTDigger here:  Vermont Conversation: Cartoonist Tillie Walden celebrates early American queer love in",
-      "url": "https://vtdigger.org/2026/06/24/vermont-conversation-cartoonist-tillie-walden-celebrates-early-american-queer-love-in-vermont-in-new-book/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-06-24",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "efbeb3b6c5f6",
-      "title": "Vermont needs better housing, not just more of it",
-      "summary": "New developments are scarring the landscape and shortchanging Vermonters on design, location and affordability.\nRead the story on VTDigger here:  Vermont needs better housing, not just more of it.",
-      "url": "https://vtdigger.org/2026/06/23/opinion-vermont-needs-better-housing-not-just-more-of-it/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-06-23",
       "category": "news",
       "priority": "medium",
       "business_lines": [
