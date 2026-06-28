@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-27T12:03:07.181839Z",
+  "generated": "2026-06-28T12:11:20.469464Z",
   "summary": {
-    "total_opportunities": 39,
+    "total_opportunities": 38,
     "total_value_low": 373314965,
     "total_value_high": 373314965,
     "by_state": {
       "VT": 1,
-      "NH": 6,
-      "ME": 6,
-      "MA": 31,
+      "NH": 7,
+      "ME": 1,
+      "MA": 30,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 37,
-      "news": 9,
-      "funding": 2
+      "news": 5,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -736,69 +736,13 @@
   ],
   "news": [
     {
-      "id": "94373e136d91",
-      "title": "Proud of Susan Collins\u2019 championing gay rights | Opinion",
-      "summary": "Maine's senior senator has been a consistent in her efforts to bridge divides, choosing inclusion over division.",
-      "url": "https://www.pressherald.com/2026/06/27/proud-of-susan-collins-championing-gay-rights-opinion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-27",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d7133f8a24df",
-      "title": "Portland must act on road safety now | Letter",
-      "summary": "The fatalities in our city are no accident.",
-      "url": "https://www.pressherald.com/2026/06/27/portland-must-act-on-road-safety-now-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-27",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "98ff5c251673",
-      "title": "Maine\u2019s roadside farm stands now have their own map",
-      "summary": "A Brunswick hobby farmer started soliciting listings for his Farmstands Guide in the spring.",
-      "url": "https://www.pressherald.com/2026/06/27/maines-roadside-farm-stands-now-have-their-own-map/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-06-27",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4dad6630f104",
-      "title": "As Pride Month ends, real faith must trump political performance",
-      "summary": "\u201cIf a rainbow painted on pavement feels like a threat, the problem isn\u2019t the rainbow.\u201d",
-      "url": "https://www.bangordailynews.com/2026/06/27/opinion/opinion-contributor/as-pride-month-ends-real-faith-must-trump-political-performance-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-27",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "hma"
-      ]
-    },
-    {
-      "id": "4dbad17a0c6e",
-      "title": "Energy company looking to build solar field along southern College Highway",
-      "summary": "Southwick town officials recently met with representatives of an energy company that has plans to build a solar field on property that fronts College Highway and Nicholson Hill Road.",
-      "url": "https://www.masslive.com/westfieldnews/2026/06/energy-company-looking-to-build-solar-field-along-southern-college-highway.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-27",
+      "id": "d1ecbf74aaf7",
+      "title": "Pride Parade and Festival Draws Big Crowd in Manchester",
+      "summary": "Hundreds of people lined Elm Street in Manchester as the gay pride parade traveled from Bridge Street to Veterans Park Saturday where the pride festival was held.",
+      "url": "https://indepthnh.org/2026/06/27/pride-parade-and-festival-draws-big-crowd-in-manchester/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-06-28",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -815,20 +759,6 @@
       "date": "2026-06-26",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fcb87c10a1a6",
-      "title": "Polygamous sect leader convicted of abuse charges after girls found in trailer on Arizona highway",
-      "summary": "PHOENIX (AP) \u2014 A polygamous sect leader already serving a 50-year federal prison sentence for orchestrating sex involving children was convicted Friday on state child abuse charges after girls were found in an unventilated trailer he was hauling through Arizona. Someone alerted authorities about the",
-      "url": "https://www.bangordailynews.com/2026/06/26/nation/polygamous-sect-leader-convicted-of-abuse-charges-after-girls-found-in-trailer-on-arizona-highway/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-26",
-      "category": "funding",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
