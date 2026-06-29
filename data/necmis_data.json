@@ -1,12 +1,12 @@
 {
-  "generated": "2026-06-28T12:11:20.469464Z",
+  "generated": "2026-06-29T14:39:58.764028Z",
   "summary": {
-    "total_opportunities": 38,
+    "total_opportunities": 37,
     "total_value_low": 373314965,
     "total_value_high": 373314965,
     "by_state": {
       "VT": 1,
-      "NH": 7,
+      "NH": 5,
       "ME": 1,
       "MA": 30,
       "NY": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 37,
-      "news": 5,
-      "funding": 1
+      "news": 4,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -786,34 +786,6 @@
       "state": "NH",
       "date": "2026-06-25",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b46bf8b43f64",
-      "title": "Developer wants to build hotel along with retail, commercial space in Merrimack",
-      "summary": "The group behind a potential large commercial development in Merrimack had its opportunity Tuesday to describe their plans after their Planning Board application was continued twice in May.",
-      "url": "https://www.unionleader.com/news/local/merrimack/developer-wants-to-build-hotel-along-with-retail-commercial-space-in-merrimack/article_87445e41-6b67-467a-afcb-eac09cf01742.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "30653b291f68",
-      "title": "Builder fined $18K over lead at Newport apartment complex",
-      "summary": "Officials with the U.S. Environmental Protection Agency (EPA) announced this week a settlement agreement has been reached with a Vermont-based construction company resolving alleged lead safety violations at a New Hampshire apartment complex.",
-      "url": "https://www.unionleader.com/news/environment/builder-fined-18k-over-lead-at-newport-apartment-complex/article_8f9d490f-0869-4210-b8b0-672bd1798d1a.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-17",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
