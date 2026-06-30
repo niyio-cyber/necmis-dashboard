@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-29T14:39:58.764028Z",
+  "generated": "2026-06-30T12:59:31.820392Z",
   "summary": {
     "total_opportunities": 37,
     "total_value_low": 373314965,
     "total_value_high": 373314965,
     "by_state": {
-      "VT": 1,
-      "NH": 5,
-      "ME": 1,
-      "MA": 30,
+      "VT": 2,
+      "NH": 7,
+      "ME": 5,
+      "MA": 31,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 37,
-      "news": 4,
+      "news": 12,
       "funding": 0
     }
   },
@@ -736,6 +736,133 @@
   ],
   "news": [
     {
+      "id": "7a79db1a8f56",
+      "title": "Optima Dermatology expands its services in Nashua",
+      "summary": "In July 2026, Optima Dermatology will open the doors to another practice in New Hampshire at 169 Daniel Webster Highway, Suite 300, in Nashua.",
+      "url": "https://www.unionleader.com/news/health/optima-dermatology-expands-its-services-in-nashua/article_c0d0dfdd-ffbe-4e2b-894a-b75f8fae8e22.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-06-30",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a66756418150",
+      "title": "3 Maine municipalities making temporary changes to busy roads to keep pedestrians safety",
+      "summary": "Nearly 30 people were killed or seriously injured in crashes last year in Greater Portland.",
+      "url": "https://www.bangordailynews.com/2026/06/30/portland/portland-government/maine-greater-portland-road-changes-pedestrian-safety/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "85f6c657289f",
+      "title": "Ellsworth considers options after no one bids for summer food truck slots at harbor park",
+      "summary": "For the past couple of years, Salsa Shack has been the park\u2019s primary food vendor.",
+      "url": "https://www.bangordailynews.com/2026/06/30/hancock/hancock-government/ellsworth-no-bids-food-truck-harbor-park-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-30",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e00e1c54828f",
+      "title": "Bangor permitted fewer houses last year than towns a fraction\u00a0of its size",
+      "summary": "New state data provides for the first time the ability to easily compare how towns are performing against each other when it comes to creating more housing.",
+      "url": "https://www.bangordailynews.com/2026/06/30/business/business-housing/bangor-house-permits-data-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "47b9adda44df",
+      "title": "How I unwind in the North Maine Woods",
+      "summary": "\"Outhouses and bumpy gravel roads aren\u2019t everyone\u2019s idea of a relaxing time. But if you\u2019re even a little bit intrigued, I suggest you check it out.\"",
+      "url": "https://www.bangordailynews.com/2026/06/30/outdoors/act-out/unwind-in-the-north-maine-woods-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-06-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "aggregates"
+      ]
+    },
+    {
+      "id": "bfcb1cc99feb",
+      "title": "Planning Board approves minor site plan changes for convenience store and gas station on Friendly\u2019s Way",
+      "summary": "With a significant restructuring of the Exit 41 interchange occurring in the next five years, the Westfield Planning Board recently approved minor changes to the special permit for the company planning to build a Pride convenience store and gas station on the site of the old Friendly\u2019s.",
+      "url": "https://www.masslive.com/westfieldnews/2026/06/planning-board-approves-minor-site-plan-changes-for-convenience-store-and-gas-station-on-friendlys-way.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-06-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "02ad0cb0e18a",
+      "title": "Burlington\u2019s Champlain Parkway, a project 60 years in the making, opens to the public",
+      "summary": "The new roadway, which spent decades marred by legal battles and other delays, links Interstate 189 and Lakeside Avenue in an effort to reduce congestion in nearby neighborhoods.\nRead the story on VTDigger here:  Burlington\u2019s Champlain Parkway, a project 60 years in the making, opens to the public.",
+      "url": "https://vtdigger.org/2026/06/29/burlingtons-champlain-parkway-a-project-60-years-in-the-making-opens-to-the-public/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-06-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "19e6cd935200",
+      "title": "Six-story, 51-unit mixed-use building at North End Superette site up for review",
+      "summary": "Plans for a new six-story, 51-unit multifamily housing development at the site of a popular Manchester convenience store are slated to go before the Manchester Planning Board later this week.",
+      "url": "https://www.unionleader.com/news/business/six-story-51-unit-mixed-use-building-at-north-end-superette-site-up-for-review/article_45b47332-f0a9-4473-95e4-45f118e539d6.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-06-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d8c51f4b30f0",
+      "title": "NBCUniversal to be split from Comcast in latest media shakeup",
+      "summary": "Comcast will split into two publicly traded companies through a spinoff of NBCUniversal and Sky, separating its cash-generating broadband arm from a media and entertainment business under pressure from streaming rivals and industry consolidation.",
+      "url": "https://www.unionleader.com/news/business/nbcuniversal-to-be-split-from-comcast-in-latest-media-shakeup/article_d220cd33-6b89-5333-82cc-e23d89d07390.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-06-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "d1ecbf74aaf7",
       "title": "Pride Parade and Festival Draws Big Crowd in Manchester",
       "summary": "Hundreds of people lined Elm Street in Manchester as the gay pride parade traveled from Bridge Street to Veterans Park Saturday where the pride festival was held.",
@@ -755,20 +882,6 @@
       "summary": "Sure, fireworks are mostly produced in China. They\u2019re purchased by American entrepreneurs and imported to the states to mark our nation\u2019s largest celebrations and events. But to leave it at that would be to misunderstand their importance here and abroad.",
       "url": "https://www.unionleader.com/news/business/friendships-forged-in-china-help-atlas-fireworks-mark-americas-250th/article_d8a3a3a2-47e7-4c8e-85f2-802926c62318.html",
       "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5e3b2cf5ce5f",
-      "title": "AG Reports Officer-Involved Shooting in Landaff",
-      "summary": "The incident reportedly occurred as police were responding to a report of an adult male walking in and out of traffic in the area of Lost River Road.",
-      "url": "https://indepthnh.org/2026/06/26/ag-reports-officer-involved-shooting-ion-landaff/",
-      "source": "InDepthNH",
       "state": "NH",
       "date": "2026-06-26",
       "category": "news",
