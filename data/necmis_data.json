@@ -1,144 +1,26 @@
 {
-  "generated": "2026-06-30T12:59:31.820392Z",
+  "generated": "2026-07-01T13:28:29.252656Z",
   "summary": {
-    "total_opportunities": 37,
-    "total_value_low": 373314965,
-    "total_value_high": 373314965,
+    "total_opportunities": 31,
+    "total_value_low": 325780258,
+    "total_value_high": 325780258,
     "by_state": {
       "VT": 2,
       "NH": 7,
-      "ME": 5,
-      "MA": 31,
+      "ME": 4,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 37,
-      "news": 12,
+      "dot_letting": 31,
+      "news": 10,
       "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "2ae67002e868",
-      "state": "MA",
-      "project_id": "608634",
-      "description": "Bridge Replacement, D-06-001, Upper Road over Deerfield River",
-      "cost_low": 23663072,
-      "cost_high": 23663072,
-      "cost_display": "$23.7M",
-      "ad_date": "2026-05-30",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Deerfield",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608634",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "46f2c7d0d22a",
-      "state": "MA",
-      "project_id": "614017",
-      "description": "Scheduled & Emergency Bridge Deck/Joint Repairs at Various Locations",
-      "cost_low": 981011,
-      "cost_high": 981011,
-      "cost_display": "$981K",
-      "ad_date": "2026-05-23",
-      "let_date": null,
-      "project_type": "Bridge - Deck Repairs",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614017",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "2c2347406a0f",
-      "state": "MA",
-      "project_id": "614014",
-      "description": "Scheduled and Emergency Bridge Maintenance at Various Locations",
-      "cost_low": 107260,
-      "cost_high": 107260,
-      "cost_display": "$107K",
-      "ad_date": "2026-05-30",
-      "let_date": null,
-      "project_type": "Pavement - Surfacing , Highway - Construction",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614014",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "b74183368ecf",
-      "state": "MA",
-      "project_id": "613274",
-      "description": "Bridge Preservation at 6 Bridges along the I-95 Corridor",
-      "cost_low": 4126711,
-      "cost_high": 4126711,
-      "cost_display": "$4.1M",
-      "ad_date": "2026-05-23",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Foxborough",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613274",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4c58ebff6291",
-      "state": "MA",
-      "project_id": "612190",
-      "description": "Bridge Replacement, H-18-004, Salisbury Street over G&W Railroad",
-      "cost_low": 7377503,
-      "cost_high": 7377503,
-      "cost_display": "$7.4M",
-      "ad_date": "2026-05-30",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Holden",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612190",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "5fe25c6ee95e",
-      "state": "MA",
-      "project_id": "612505",
-      "description": "Bridge Preservation, N-14-039, Route 2 over South Branch of the Hoosic River and Route 8",
-      "cost_low": 11279150,
-      "cost_high": 11279150,
-      "cost_display": "$11.3M",
-      "ad_date": "2026-05-30",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "North Adams",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612505",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "27459932f020",
       "state": "MA",
@@ -736,6 +618,48 @@
   ],
   "news": [
     {
+      "id": "0739acfdab71",
+      "title": "In Maine, ranked-choice voting is worth the wait | Opinion",
+      "summary": "The system did what it was designed to do. It produced a winner who has broader support among the electorate.",
+      "url": "https://www.pressherald.com/2026/07/01/in-maine-ranked-choice-voting-is-worth-the-wait-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3e9a0a057caa",
+      "title": "How Old Town\u2019s new economic development director plans to lure businesses to the city",
+      "summary": "People have approached Amy Collinsworth about opening businesses in Old Town, but the economic development director said owners of vacant storefronts are either uninterested in leasing their space or can't be reached.",
+      "url": "https://www.bangordailynews.com/2026/07/01/bangor/bangor-government/old-town-economic-development-director-plans-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c05fd88597f5",
+      "title": "Letter: Maine should expand fall deer season",
+      "summary": "\u201cI think it's very logical to expand the \u201cany deer permits\u201d along the coast of Maine.\u201d",
+      "url": "https://www.bangordailynews.com/2026/07/01/opinion/letters/letter-maine-should-expand-fall-deer-season-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "7a79db1a8f56",
       "title": "Optima Dermatology expands its services in Nashua",
       "summary": "In July 2026, Optima Dermatology will open the doors to another practice in New Hampshire at 169 Daniel Webster Highway, Suite 300, in Nashua.",
@@ -745,77 +669,6 @@
       "date": "2026-06-30",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a66756418150",
-      "title": "3 Maine municipalities making temporary changes to busy roads to keep pedestrians safety",
-      "summary": "Nearly 30 people were killed or seriously injured in crashes last year in Greater Portland.",
-      "url": "https://www.bangordailynews.com/2026/06/30/portland/portland-government/maine-greater-portland-road-changes-pedestrian-safety/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-30",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "85f6c657289f",
-      "title": "Ellsworth considers options after no one bids for summer food truck slots at harbor park",
-      "summary": "For the past couple of years, Salsa Shack has been the park\u2019s primary food vendor.",
-      "url": "https://www.bangordailynews.com/2026/06/30/hancock/hancock-government/ellsworth-no-bids-food-truck-harbor-park-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-30",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e00e1c54828f",
-      "title": "Bangor permitted fewer houses last year than towns a fraction\u00a0of its size",
-      "summary": "New state data provides for the first time the ability to easily compare how towns are performing against each other when it comes to creating more housing.",
-      "url": "https://www.bangordailynews.com/2026/06/30/business/business-housing/bangor-house-permits-data-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-30",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "47b9adda44df",
-      "title": "How I unwind in the North Maine Woods",
-      "summary": "\"Outhouses and bumpy gravel roads aren\u2019t everyone\u2019s idea of a relaxing time. But if you\u2019re even a little bit intrigued, I suggest you check it out.\"",
-      "url": "https://www.bangordailynews.com/2026/06/30/outdoors/act-out/unwind-in-the-north-maine-woods-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-06-30",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway",
-        "aggregates"
-      ]
-    },
-    {
-      "id": "bfcb1cc99feb",
-      "title": "Planning Board approves minor site plan changes for convenience store and gas station on Friendly\u2019s Way",
-      "summary": "With a significant restructuring of the Exit 41 interchange occurring in the next five years, the Westfield Planning Board recently approved minor changes to the special permit for the company planning to build a Pride convenience store and gas station on the site of the old Friendly\u2019s.",
-      "url": "https://www.masslive.com/westfieldnews/2026/06/planning-board-approves-minor-site-plan-changes-for-convenience-store-and-gas-station-on-friendlys-way.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-06-30",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
