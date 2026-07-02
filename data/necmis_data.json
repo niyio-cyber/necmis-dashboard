@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T13:28:29.252656Z",
+  "generated": "2026-07-02T12:51:25.311361Z",
   "summary": {
     "total_opportunities": 31,
     "total_value_low": 325780258,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 2,
       "NH": 7,
-      "ME": 4,
-      "MA": 24,
+      "ME": 3,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -618,13 +618,13 @@
   ],
   "news": [
     {
-      "id": "0739acfdab71",
-      "title": "In Maine, ranked-choice voting is worth the wait | Opinion",
-      "summary": "The system did what it was designed to do. It produced a winner who has broader support among the electorate.",
-      "url": "https://www.pressherald.com/2026/07/01/in-maine-ranked-choice-voting-is-worth-the-wait-opinion/",
+      "id": "025ea5096da5",
+      "title": "Take extra care on Maine roads this weekend | Letter",
+      "summary": "Be mindful and play it safe while traveling this Fourth of July.",
+      "url": "https://www.pressherald.com/2026/07/02/take-extra-care-on-maine-roads-this-weekend-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -632,10 +632,24 @@
       ]
     },
     {
-      "id": "3e9a0a057caa",
-      "title": "How Old Town\u2019s new economic development director plans to lure businesses to the city",
-      "summary": "People have approached Amy Collinsworth about opening businesses in Old Town, but the economic development director said owners of vacant storefronts are either uninterested in leasing their space or can't be reached.",
-      "url": "https://www.bangordailynews.com/2026/07/01/bangor/bangor-government/old-town-economic-development-director-plans-joam40zk0w/",
+      "id": "8a3680888ff0",
+      "title": "Proposal could allow much larger signs for big Holyoke developments",
+      "summary": "City Council Vice President Meg Magrath-Smith, the ordinance committee chair, said the proposal is intended to get ahead of a development planned for the former Kmart Plaza site.",
+      "url": "https://www.masslive.com/westernmass/2026/07/proposal-could-allow-much-larger-signs-for-big-holyoke-developments.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-02",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8b759c42ffbd",
+      "title": "See how much new housing is being built in your Maine town",
+      "summary": "New Maine housing data shows about half of counties met building permit goals set by the state two years ago.",
+      "url": "https://www.bangordailynews.com/2026/07/01/business/business-housing/how-much-new-housing-maine-towns/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-07-01",
@@ -646,17 +660,17 @@
       ]
     },
     {
-      "id": "c05fd88597f5",
-      "title": "Letter: Maine should expand fall deer season",
-      "summary": "\u201cI think it's very logical to expand the \u201cany deer permits\u201d along the coast of Maine.\u201d",
-      "url": "https://www.bangordailynews.com/2026/07/01/opinion/letters/letter-maine-should-expand-fall-deer-season-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "f039926c9907",
+      "title": "State Takes \u2018Rogue\u2019 Abutter To Court For Blocking Northern Rail Trail",
+      "summary": "A dispute between an abutter and gravel pit owner and the state, which impacts the more than 150,000 bicycle riders and pedestrians who enjoy the 59-mile Northern Rail Trail, is going to court.",
+      "url": "https://indepthnh.org/2026/07/01/state-takes-rogue-abutter-to-court-over-his-blockage-of-northern-rail-trail-to-pedestrians/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-07-01",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "highway"
+        "aggregates"
       ]
     },
     {
@@ -711,20 +725,6 @@
       "date": "2026-06-29",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d1ecbf74aaf7",
-      "title": "Pride Parade and Festival Draws Big Crowd in Manchester",
-      "summary": "Hundreds of people lined Elm Street in Manchester as the gay pride parade traveled from Bridge Street to Veterans Park Saturday where the pride festival was held.",
-      "url": "https://indepthnh.org/2026/06/27/pride-parade-and-festival-draws-big-crowd-in-manchester/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-06-28",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
