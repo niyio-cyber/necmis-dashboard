@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-02T12:51:25.311361Z",
+  "generated": "2026-07-03T12:49:43.557053Z",
   "summary": {
     "total_opportunities": 31,
     "total_value_low": 325780258,
     "total_value_high": 325780258,
     "by_state": {
-      "VT": 2,
-      "NH": 7,
-      "ME": 3,
-      "MA": 25,
+      "VT": 3,
+      "NH": 8,
+      "ME": 5,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 10,
+      "news": 13,
       "funding": 0
     }
   },
@@ -618,12 +618,68 @@
   ],
   "news": [
     {
-      "id": "025ea5096da5",
-      "title": "Take extra care on Maine roads this weekend | Letter",
-      "summary": "Be mindful and play it safe while traveling this Fourth of July.",
-      "url": "https://www.pressherald.com/2026/07/02/take-extra-care-on-maine-roads-this-weekend-letter/",
+      "id": "944f30b13348",
+      "title": "Noah Kahan fans blamed for disappearing Strafford road sign",
+      "summary": "Town officials think fans of the famous singer-songwriter are stealing a road sign referenced in one of his songs.\nRead the story on VTDigger here:  Noah Kahan fans blamed for disappearing Strafford road sign.",
+      "url": "https://vtdigger.org/2026/07/03/noah-kahan-fans-blamed-for-disappearing-strafford-road-sign/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-03",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "88c1b25c7b53",
+      "title": "Dirt Road News is back on the road this summer",
+      "summary": "Join us as we travel around Vermont, listen to communities and continue the conversation with a new survey and summer events.\nRead the story on VTDigger here:  Dirt Road News is back on the road this summer.",
+      "url": "https://vtdigger.org/2026/07/03/dirt-road-news-listening-tour/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-03",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b733c9534294",
+      "title": "Here\u2019s a presidential thought experiment | Letter",
+      "summary": "Just imagine. It\u2019s January 2024 and Joe Biden has just been inaugurated as president of the United States. Since that day, President Biden has: While performing his presidential duties, Sleepy Joe has been found countless times napping during Cabinet meetings and public events and sending mean and h",
+      "url": "https://www.pressherald.com/2026/07/03/heres-a-presidential-thought-experiment-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-07-03",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8370dc9920fd",
+      "title": "What\u2019s causing unsafe bacteria levels at Maine beaches?",
+      "summary": "Recent swim advisories highlight how old infrastructure and heavy summer downpours combine to trap bacteria along the coast.",
+      "url": "https://www.pressherald.com/2026/07/03/whats-causing-unsafe-bacteria-levels-at-maine-beaches/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-03",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "929e76d36d62",
+      "title": "Zuckerberg says AI agent tech is developing more slowly\u00a0than expected",
+      "summary": "Meta Chief Executive Mark Zuckerberg told an internal town hall on Thursday that AI agent development over the last four months had not \u201caccelerated in the way we expected,\u201d according to a recording heard by Reuters.",
+      "url": "https://www.unionleader.com/news/business/zuckerberg-says-ai-agent-tech-is-developing-more-slowly-than-expected/article_34612053-5382-592e-9e68-8ade4de6beba.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-07-02",
       "category": "news",
       "priority": "medium",
@@ -632,31 +688,32 @@
       ]
     },
     {
-      "id": "8a3680888ff0",
-      "title": "Proposal could allow much larger signs for big Holyoke developments",
-      "summary": "City Council Vice President Meg Magrath-Smith, the ordinance committee chair, said the proposal is intended to get ahead of a development planned for the former Kmart Plaza site.",
-      "url": "https://www.masslive.com/westernmass/2026/07/proposal-could-allow-much-larger-signs-for-big-holyoke-developments.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-02",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8b759c42ffbd",
-      "title": "See how much new housing is being built in your Maine town",
-      "summary": "New Maine housing data shows about half of counties met building permit goals set by the state two years ago.",
-      "url": "https://www.bangordailynews.com/2026/07/01/business/business-housing/how-much-new-housing-maine-towns/",
+      "id": "e8485f316d02",
+      "title": "Chris Mantis becomes 1st former UMaine player to make NBA Summer League roster",
+      "summary": "The 6-foot-7 forward from Lowell, Indiana, played for the Capital City Go-Go in the NBA\u2019s developmental G League this past season.",
+      "url": "https://www.bangordailynews.com/2026/07/02/sports/professional-basketball/chris-mantis-former-umaine-player-nba-summer-league/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "81c245a61d6b",
+      "title": "How \u2018Country Roads\u2019 became the soundtrack of the US team\u2019s World Cup run",
+      "summary": "It\u2019s become one of the enduring scenes of the U.S. team during this World Cup: jubilant U.S. players joining tens of thousands of fans in singing John Denver\u2019s \u201cTake Me Home, Country Roads\u201d at the end of their matches. Even coach Mauricio Pochettino, who was born in Argentina and lives in Spain, got",
+      "url": "https://www.bangordailynews.com/2026/07/02/nation/how-country-roads-became-the-soundtrack-of-the-us-teams-world-cup-run/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-02",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "aggregates"
       ]
     },
     {
@@ -683,20 +740,6 @@
       "date": "2026-06-30",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "02ad0cb0e18a",
-      "title": "Burlington\u2019s Champlain Parkway, a project 60 years in the making, opens to the public",
-      "summary": "The new roadway, which spent decades marred by legal battles and other delays, links Interstate 189 and Lakeside Avenue in an effort to reduce congestion in nearby neighborhoods.\nRead the story on VTDigger here:  Burlington\u2019s Champlain Parkway, a project 60 years in the making, opens to the public.",
-      "url": "https://vtdigger.org/2026/06/29/burlingtons-champlain-parkway-a-project-60-years-in-the-making-opens-to-the-public/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-06-29",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
