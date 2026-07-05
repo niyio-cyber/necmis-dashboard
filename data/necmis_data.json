@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-04T11:58:54.619557Z",
+  "generated": "2026-07-05T12:06:51.132245Z",
   "summary": {
-    "total_opportunities": 34,
+    "total_opportunities": 33,
     "total_value_low": 337358800,
     "total_value_high": 337358800,
     "by_state": {
       "VT": 3,
       "NH": 7,
-      "ME": 6,
-      "MA": 28,
+      "ME": 2,
+      "MA": 30,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 14,
-      "funding": 1
+      "news": 13,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -656,55 +656,13 @@
   ],
   "news": [
     {
-      "id": "24219910d737",
-      "title": "Red Sox starts road trip with win over Angels",
-      "summary": "Aroldis Chapman sets the record for career strikeouts by a reliever and Jake Bennett pitches into the eighth in Boston's victory.",
-      "url": "https://www.pressherald.com/2026/07/04/red-sox-starts-road-trip-with-win-over-angels/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4a9f6e691415",
-      "title": "Sinclair Broadcast executive lists $16.5 million Cape Elizabeth mansion",
-      "summary": "David D. Smith is selling one of two summer homes he owns on Cunner Lane.",
-      "url": "https://www.pressherald.com/2026/07/04/sinclair-broadcast-executive-lists-16-5m-cape-elizabeth-mansion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-04",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6152d963e5f8",
-      "title": "Portland should bring in new road traffic rules | Letter",
-      "summary": "I read in the paper that the city is considering an emergency workshop on traffic safety after a pedestrian was unfortunately killed while standing on a raised median (June 23). I certainly don\u2019t think that anyone in the city thinks that it is a safe idea to stand there; I wouldn\u2019t want my kids or [",
-      "url": "https://www.pressherald.com/2026/07/04/portland-should-bring-in-new-road-traffic-rules-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "acfa780b1ced",
-      "title": "Mystery fluid identified after leak on Ohio highway, and it\u2019s delicious",
-      "summary": "\u201cWill just make the roadkill tastier,\u201d one person joked.",
-      "url": "https://www.masslive.com/news/2026/07/mystery-fluid-identified-after-truck-leak-on-highway-and-its-delicious.html",
+      "id": "a85615ba169c",
+      "title": "Brooklyn Bridge catches fire during 4th of July fireworks (video)",
+      "summary": "The bridge was closed to traffic during the fireworks show.",
+      "url": "https://www.masslive.com/news/2026/07/brooklyn-bridge-catches-fire-during-4th-of-july-fireworks-video.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -712,12 +670,54 @@
       ]
     },
     {
-      "id": "af5f4a30e317",
-      "title": "Red Sox reactions: Behind strong Jake Bennett start, record-breaking strikeout for Aroldis Chapman, a win to start trip",
-      "summary": "The Red Sox raced out to a four-run lead after three and cruised to a win to open their road trip.",
-      "url": "https://www.masslive.com/redsox/2026/07/red-sox-reactions-behind-strong-jake-bennett-start-record-breaking-strikeout-for-aroldis-chapman-a-win-to-start-trip.html",
+      "id": "7341dffc8180",
+      "title": "Red Sox instant reactions: A quick start leads to a one-sided win",
+      "summary": "Two wins in two tries gets the Red Sox' road trip off to a good start.",
+      "url": "https://www.masslive.com/redsox/2026/07/red-sox-instant-reactions-a-quick-start-leads-to-a-one-sided-win.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-07-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7eb1ee2483e8",
+      "title": "East Longmeadow celebrates Fourth with annual parade, 4-mile road race (Photos)",
+      "summary": "Everybody loves a parade \u2014 and East Longmeadow is no exception.",
+      "url": "https://www.masslive.com/westernmass/2026/07/east-longmeadow-celebrates-fourth-with-annual-parade-4-mile-road-race-photos.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "45682c7c17ce",
+      "title": "How to watch Macy\u2019s 4th of July Fireworks 2026 tonight for free",
+      "summary": "\"Macy's 4th of July Fireworks\" premieres live from the Brooklyn Bridge, the Hudson River & the East River for the 50th year to celebrate the nation\u2019s 250th birthday.",
+      "url": "https://www.masslive.com/tv/2026/07/how-to-watch-macys-4th-of-july-fireworks-2026-tonight-for-free.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4cb2c30b3508",
+      "title": "Pickering Square construction still not done",
+      "summary": "A two-year construction project is still not finished in downtown Bangor, despite city officials saying it would be done by Friday.",
+      "url": "https://www.bangordailynews.com/2026/07/04/bangor/bangor-government/pickering-square-construction-still-not-done/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-07-04",
       "category": "news",
       "priority": "medium",
@@ -749,34 +749,6 @@
       "date": "2026-07-03",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c0951156435d",
-      "title": "Small businesses say they\u2019re having a good summer as Americans travel closer to home",
-      "summary": "NEW YORK (AP) \u2014 Small business owners in U.S. tourist destinations say they\u2019re seeing more Americans sticking closer to home this summer, trading overseas travel for road trips, choosing daylong sojourns over extended beach stays, and cooking instead of eating out while on vacation to save money. Th",
-      "url": "https://www.bangordailynews.com/2026/07/03/nation/small-businesses-say-theyre-having-a-good-summer-as-americans-travel-closer-to-home/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-03",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7b9f4f3d14d4",
-      "title": "Fatal fall from Rockport bridge under investigation",
-      "summary": "According to the Rockport Police Department, a person had fallen from the bridge at around 6:10 p.m. Thursday.",
-      "url": "https://www.bangordailynews.com/2026/07/03/midcoast/fatal-fall-rockport-bridge-investigation/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-03",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
