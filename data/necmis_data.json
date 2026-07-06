@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-05T12:06:51.132245Z",
+  "generated": "2026-07-06T14:17:33.286418Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 35,
     "total_value_low": 337358800,
     "total_value_high": 337358800,
     "by_state": {
-      "VT": 3,
+      "VT": 4,
       "NH": 7,
-      "ME": 2,
-      "MA": 30,
+      "ME": 4,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 13,
-      "funding": 0
+      "news": 12,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -656,27 +656,13 @@
   ],
   "news": [
     {
-      "id": "a85615ba169c",
-      "title": "Brooklyn Bridge catches fire during 4th of July fireworks (video)",
-      "summary": "The bridge was closed to traffic during the fireworks show.",
-      "url": "https://www.masslive.com/news/2026/07/brooklyn-bridge-catches-fire-during-4th-of-july-fireworks-video.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7341dffc8180",
-      "title": "Red Sox instant reactions: A quick start leads to a one-sided win",
-      "summary": "Two wins in two tries gets the Red Sox' road trip off to a good start.",
-      "url": "https://www.masslive.com/redsox/2026/07/red-sox-instant-reactions-a-quick-start-leads-to-a-one-sided-win.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-05",
+      "id": "0f68863b3dd6",
+      "title": "172-unit affordable housing development on the way in Windham",
+      "summary": "The first 36 units of Windham Village will open by the end of the year.",
+      "url": "https://www.pressherald.com/2026/07/06/172-unit-affordable-housing-development-on-the-way-in-windham/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-06",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -684,41 +670,83 @@
       ]
     },
     {
-      "id": "7eb1ee2483e8",
-      "title": "East Longmeadow celebrates Fourth with annual parade, 4-mile road race (Photos)",
-      "summary": "Everybody loves a parade \u2014 and East Longmeadow is no exception.",
-      "url": "https://www.masslive.com/westernmass/2026/07/east-longmeadow-celebrates-fourth-with-annual-parade-4-mile-road-race-photos.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-05",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "45682c7c17ce",
-      "title": "How to watch Macy\u2019s 4th of July Fireworks 2026 tonight for free",
-      "summary": "\"Macy's 4th of July Fireworks\" premieres live from the Brooklyn Bridge, the Hudson River & the East River for the 50th year to celebrate the nation\u2019s 250th birthday.",
-      "url": "https://www.masslive.com/tv/2026/07/how-to-watch-macys-4th-of-july-fireworks-2026-tonight-for-free.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-05",
-      "category": "news",
+      "id": "6f7a200a09df",
+      "title": "Proposed federal rule threatens far more than scientific research | Opinion",
+      "summary": "A troubling new framework for grant applications would put invaluable federal grants of all kinds at risk.",
+      "url": "https://www.pressherald.com/2026/07/06/proposed-federal-rule-threatens-far-more-than-scientific-research-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-06",
+      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "4cb2c30b3508",
-      "title": "Pickering Square construction still not done",
-      "summary": "A two-year construction project is still not finished in downtown Bangor, despite city officials saying it would be done by Friday.",
-      "url": "https://www.bangordailynews.com/2026/07/04/bangor/bangor-government/pickering-square-construction-still-not-done/",
+      "id": "dac333872524",
+      "title": "Effort to restore 50K acres of Wabanaki land reaches halfway point",
+      "summary": "The Mi\u2019kmaq Nation is celebrating the acquisiiton of 3,400 acres near Bridgewater, doubling its footprint in Aroostook County.",
+      "url": "https://www.bangordailynews.com/2026/07/06/aroostook/aroostook-culture/wabanaki-restore-50000-acres-land-halfway-point-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-07-04",
+      "date": "2026-07-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a53bb718a079",
+      "title": "Worcester developer plans 74 new apartments at former laundromat site",
+      "summary": "The development firm wants to add eight studio, 56 one-bedroom and 10 two-bedroom apartments to 27 Chandler St.",
+      "url": "https://www.masslive.com/centralmass/2026/07/worcester-developer-plans-74-new-apartments-at-former-laundromat-site.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-06",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "27f8ef5f9f89",
+      "title": "Mega Millions jackpot climbs to $576M ahead of Tuesday drawing",
+      "summary": "No lottery players took home the Mega Millions jackpot July 3, letting the prize raise to $576M for the next drawing Tuesday night.",
+      "url": "https://www.masslive.com/lottery/2026/07/mega-millions-jackpot-climbs-to-576m-ahead-of-tuesday-drawing.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-06",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c3a31941f4ab",
+      "title": "Montpelier tackles housing shortage with talks of taller buildings and simplified zoning",
+      "summary": "Planners say development projects in the River District, including apartment buildings, can shape Montpelier's future and that current zoning allows for six-story buildings but developers aren\u2019t doing it.\nRead the story on VTDigger here:  Montpelier tackles housing shortage with talks of taller bui",
+      "url": "https://vtdigger.org/2026/07/05/montpelier-tackles-housing-shortage-with-talks-of-taller-buildings-and-simplified-zoning/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e09fafdfedbc",
+      "title": "St. Mary\u2019s Bank completes renovations at Londonderry branch",
+      "summary": "St. Mary\u2019s Bank has completed renovations at its Londonderry branch, located at 50 Nashua Road in Londonderry Square.",
+      "url": "https://www.unionleader.com/news/business/st-mary-s-bank-completes-renovations-at-londonderry-branch/article_26308e25-de2f-4205-94fd-51797f2328d5.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-07-05",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -817,20 +845,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-06-29",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "71fb7a14f40d",
-      "title": "Friendships forged in China help Atlas Fireworks mark America's 250th",
-      "summary": "Sure, fireworks are mostly produced in China. They\u2019re purchased by American entrepreneurs and imported to the states to mark our nation\u2019s largest celebrations and events. But to leave it at that would be to misunderstand their importance here and abroad.",
-      "url": "https://www.unionleader.com/news/business/friendships-forged-in-china-help-atlas-fireworks-mark-americas-250th/article_d8a3a3a2-47e7-4c8e-85f2-802926c62318.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-26",
       "category": "news",
       "priority": "medium",
       "business_lines": [
