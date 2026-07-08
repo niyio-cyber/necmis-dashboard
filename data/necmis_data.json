@@ -1,66 +1,26 @@
 {
-  "generated": "2026-07-07T13:08:29.011357Z",
+  "generated": "2026-07-08T12:10:04.827061Z",
   "summary": {
-    "total_opportunities": 34,
-    "total_value_low": 337358800,
-    "total_value_high": 337358800,
+    "total_opportunities": 33,
+    "total_value_low": 327230323,
+    "total_value_high": 327230323,
     "by_state": {
-      "VT": 5,
+      "VT": 6,
       "NH": 7,
-      "ME": 1,
-      "MA": 28,
+      "ME": 5,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 33,
-      "news": 11,
-      "funding": 1
+      "dot_letting": 31,
+      "news": 14,
+      "funding": 2
     }
   },
   "dot_lettings": [
-    {
-      "id": "27459932f020",
-      "state": "MA",
-      "project_id": "611953",
-      "description": "Guide and Traffic Sign Replacement on Interstate 291 and a Section of US Route 5",
-      "cost_low": 1502675,
-      "cost_high": 1502675,
-      "cost_display": "$1.5M",
-      "ad_date": "2026-05-23",
-      "let_date": null,
-      "project_type": "Signing - Structural",
-      "location": "Agawam - Chicopee - Springfield",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611953",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "d18c0a5f2514",
-      "state": "MA",
-      "project_id": "612183",
-      "description": "Bridge Replacement, G-11-002, Division Street over Housatonic River",
-      "cost_low": 8625802,
-      "cost_high": 8625802,
-      "cost_display": "$8.6M",
-      "ad_date": "2026-06-06",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Great Barrington",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612183",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
     {
       "id": "430215f74cac",
       "state": "MA",
@@ -656,12 +616,83 @@
   ],
   "news": [
     {
-      "id": "8fa2927d88c3",
-      "title": "The National comes to town this Saturday",
-      "summary": "For motocross fans around the world, Southwick will be at the center of their universe at 9 a.m., this Saturday when the starting gate drops at The Wick 338 for the 45th running of The Crestview Construction Southwick National.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/the-national-comes-to-town-this-saturday.html",
+      "id": "e41dc4dcf72f",
+      "title": "Speculation swirls about future of Bath\u2019s fish cannery site",
+      "summary": "The City Council recently adopted changes to the land use code, and some neighbors say they fear overdevelopment is on the horizon for the old Stinson Seafood property.",
+      "url": "https://www.pressherald.com/2026/07/07/speculation-swirls-about-future-of-baths-fish-cannery-site/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f34decd5169c",
+      "title": "You can take an Aroostook \u2018Roadside Joyride on Route 1\u2019",
+      "summary": "\u201cIn my little chunk of road I knew that there were tons of roadside stands and we could become something to see, not just my stand.\"",
+      "url": "https://www.bangordailynews.com/2026/07/08/aroostook/aroostook-business/aroostook-roadside-joyride-route-1-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6f5cf137b233",
+      "title": "1-day show of George W Bush\u2019s paintings planned in Biddeford",
+      "summary": "The show is a benefit for St. Ann\u2019s Episcopal Church in Kennebunkport.",
+      "url": "https://www.bangordailynews.com/2026/07/07/york/york-culture/george-w-bush-painting-show-biddeford/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-08",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "dd3dc2fa45a3",
+      "title": "Wyben Fourth of July parade honors the country\u2019s milestone birthday",
+      "summary": "The Wyben Fourth of July parade kicked off at 5 p.m. on Saturday and marched from Montgomery Road to West Road.",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/wyben-fourth-of-july-parade-honors-the-countrys-milestone-birthday.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-07-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "aggregates"
+      ]
+    },
+    {
+      "id": "6a4592300699",
+      "title": "New Chittenden County recycling facility to remain on track after waste district recovers $2.27 million stolen in scam",
+      "summary": "The money was stolen early this year by scammers appearing as a construction company that the district had been working with for the project.\nRead the story on VTDigger here:  New Chittenden County recycling facility to remain on track after waste district recovers $2.27 million stolen in scam.",
+      "url": "https://vtdigger.org/2026/07/07/new-chittenden-county-recycling-facility-to-remain-on-track-after-waste-district-recovers-2-27-million-stolen-in-scam/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-07",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "dd54b8e351cc",
+      "title": "Grand Isle prosecutor\u2019s DUI case heading to court diversion, court records state",
+      "summary": "The program permits participants to avoid a criminal conviction provided they complete the requirements, which can include counseling and community service.\nRead the story on VTDigger here:  Grand Isle prosecutor\u2019s DUI case heading to court diversion, court records state.",
+      "url": "https://vtdigger.org/2026/07/07/grand-isle-prosecutors-dui-case-heading-to-court-diversion-court-records-state/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-07-07",
       "category": "news",
       "priority": "medium",
@@ -670,15 +701,29 @@
       ]
     },
     {
-      "id": "7ec1058b5bac",
-      "title": "Christian Pulisic\u2019s disappointing World Cup experience comes to end",
-      "summary": "United States forward Christian Pulisic could only watch from the bench as Belgium extinguished his team's World Cup bid.",
-      "url": "https://www.masslive.com/sports/2026/07/christian-pulisics-disappointing-world-cup-experience-comes-to-end.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "82f8893fe4c2",
+      "title": "State, local officials cut ribbon for large Londonderry development with a subdued boom",
+      "summary": "Afternoon showers didn\u2019t stop Gov. Kelly Ayotte and U.S. Sen. Maggie Hassan, D-N.H., from having a blast in Londonderry on Tuesday.",
+      "url": "https://www.unionleader.com/news/local/derry_londonderry/state-local-officials-cut-ribbon-for-large-londonderry-development-with-a-subdued-boom/article_7fe3a1d6-0ffd-4f98-9dae-45404f86959e.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-07-07",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "06de43b8df23",
+      "title": "Woman fatally struck by train in Brunswick",
+      "summary": "Police said the woman parked nearby and walked to the area where she was hit by the train, which is not near sidewalks or road crossings.",
+      "url": "https://www.bangordailynews.com/2026/07/07/midcoast/midcoast-police-courts/woman-fatally-struck-by-train-brunswick-maine/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-07",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -754,20 +799,6 @@
       ]
     },
     {
-      "id": "88c1b25c7b53",
-      "title": "Dirt Road News is back on the road this summer",
-      "summary": "Join us as we travel around Vermont, listen to communities and continue the conversation with a new survey and summer events.\nRead the story on VTDigger here:  Dirt Road News is back on the road this summer.",
-      "url": "https://vtdigger.org/2026/07/03/dirt-road-news-listening-tour/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-03",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "929e76d36d62",
       "title": "Zuckerberg says AI agent tech is developing more slowly\u00a0than expected",
       "summary": "Meta Chief Executive Mark Zuckerberg told an internal town hall on Thursday that AI agent development over the last four months had not \u201caccelerated in the way we expected,\u201d according to a recording heard by Reuters.",
@@ -800,20 +831,6 @@
       "title": "Six-story, 51-unit mixed-use building at North End Superette site up for review",
       "summary": "Plans for a new six-story, 51-unit multifamily housing development at the site of a popular Manchester convenience store are slated to go before the Manchester Planning Board later this week.",
       "url": "https://www.unionleader.com/news/business/six-story-51-unit-mixed-use-building-at-north-end-superette-site-up-for-review/article_45b47332-f0a9-4473-95e4-45f118e539d6.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-29",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d8c51f4b30f0",
-      "title": "NBCUniversal to be split from Comcast in latest media shakeup",
-      "summary": "Comcast will split into two publicly traded companies through a spinoff of NBCUniversal and Sky, separating its cash-generating broadband arm from a media and entertainment business under pressure from streaming rivals and industry consolidation.",
-      "url": "https://www.unionleader.com/news/business/nbcuniversal-to-be-split-from-comcast-in-latest-media-shakeup/article_d220cd33-6b89-5333-82cc-e23d89d07390.html",
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-06-29",
