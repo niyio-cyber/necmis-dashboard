@@ -1,13 +1,13 @@
 {
-  "generated": "2026-07-08T12:10:04.827061Z",
+  "generated": "2026-07-09T13:39:03.641052Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 35,
     "total_value_low": 327230323,
     "total_value_high": 327230323,
     "by_state": {
-      "VT": 6,
+      "VT": 5,
       "NH": 7,
-      "ME": 5,
+      "ME": 3,
       "MA": 25,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 14,
-      "funding": 2
+      "news": 9,
+      "funding": 4
     }
   },
   "dot_lettings": [
@@ -616,41 +616,27 @@
   ],
   "news": [
     {
-      "id": "e41dc4dcf72f",
-      "title": "Speculation swirls about future of Bath\u2019s fish cannery site",
-      "summary": "The City Council recently adopted changes to the land use code, and some neighbors say they fear overdevelopment is on the horizon for the old Stinson Seafood property.",
-      "url": "https://www.pressherald.com/2026/07/07/speculation-swirls-about-future-of-baths-fish-cannery-site/",
+      "id": "4900b165ca4d",
+      "title": "\u2018Broken\u2019 trust: Energy site redevelopment company seeks input from Vernon community on uses for former Vermont Yankee plant",
+      "summary": "\u201cCommunities have more say in outcomes, and I think it's important to figure out how we can work together,\u201d said PowerTransitions spokesperson at a Tuesday night meeting.\nRead the story on VTDigger here:  \u2018Broken\u2019 trust: Energy site redevelopment company seeks input from Vernon community on uses fo",
+      "url": "https://vtdigger.org/2026/07/09/broken-trust-energy-site-redevelopment-company-seeks-input-from-vernon-community-on-uses-for-former-vermont-yankee-plant/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8364f1cee4ce",
+      "title": "Graham Platner suspends bid for Maine Senate seat amid sexual assault scandal",
+      "summary": "Platner announced he was leaving the race in a video posted to X.",
+      "url": "https://www.pressherald.com/2026/07/08/graham-platner-ends-bid-for-maine-senate-seat-amid-sexual-assault-scandal/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f34decd5169c",
-      "title": "You can take an Aroostook \u2018Roadside Joyride on Route 1\u2019",
-      "summary": "\u201cIn my little chunk of road I knew that there were tons of roadside stands and we could become something to see, not just my stand.\"",
-      "url": "https://www.bangordailynews.com/2026/07/08/aroostook/aroostook-business/aroostook-roadside-joyride-route-1-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6f5cf137b233",
-      "title": "1-day show of George W Bush\u2019s paintings planned in Biddeford",
-      "summary": "The show is a benefit for St. Ann\u2019s Episcopal Church in Kennebunkport.",
-      "url": "https://www.bangordailynews.com/2026/07/07/york/york-culture/george-w-bush-painting-show-biddeford/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -658,18 +644,45 @@
       ]
     },
     {
-      "id": "dd3dc2fa45a3",
-      "title": "Wyben Fourth of July parade honors the country\u2019s milestone birthday",
-      "summary": "The Wyben Fourth of July parade kicked off at 5 p.m. on Saturday and marched from Montgomery Road to West Road.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/wyben-fourth-of-july-parade-honors-the-countrys-milestone-birthday.html",
+      "id": "93e30ac15624",
+      "title": "DOT shortfall shows why Maine must change transportation funding",
+      "summary": "\u201cMaine\u2019s traditional transportation funding sources no longer keep pace with infrastructure needs.\u201d",
+      "url": "https://www.bangordailynews.com/2026/07/09/opinion/opinion-contributor/dot-shortfall-shows-why-maine-must-change-transportation-funding-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-09",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "91b61949db5d",
+      "title": "Rare bacteria in water traced to AI data center construction in Wyoming",
+      "summary": "The $800 million project is for Meta, which operates Facebook and Instagram.",
+      "url": "https://www.masslive.com/news/2026/07/rare-bacteria-in-water-traced-to-ai-data-center-construction-project.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-07-09",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4ba0ba2e8bd1",
+      "title": "Epping waste transfer station approved after months of debate",
+      "summary": "A long-contested waste transfer station along the Piscassic River in Epping has received its solid waste permit, capping months of debate but requiring the operator to prove itself before running at full scale.",
+      "url": "https://www.unionleader.com/news/environment/epping-waste-transfer-station-approved-after-months-of-debate/article_0eae4b3f-1212-4802-9bba-ca8d8839ea24.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-07-08",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "highway",
-        "aggregates"
+        "highway"
       ]
     },
     {
@@ -715,20 +728,6 @@
       ]
     },
     {
-      "id": "06de43b8df23",
-      "title": "Woman fatally struck by train in Brunswick",
-      "summary": "Police said the woman parked nearby and walked to the area where she was hit by the train, which is not near sidewalks or road crossings.",
-      "url": "https://www.bangordailynews.com/2026/07/07/midcoast/midcoast-police-courts/woman-fatally-struck-by-train-brunswick-maine/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-07",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "cfc413bfab37",
       "title": "VTrans receives over $19 million in federal funds for Route 7 reconstruction",
       "summary": "The U.S. BUILD grant to help fund the reconstruction project was announced Monday by the Vermont Congressional Delegation.\nRead the story on VTDigger here:  VTrans receives over $19 million in federal funds for Route 7 reconstruction.",
@@ -757,20 +756,6 @@
       ]
     },
     {
-      "id": "c3a31941f4ab",
-      "title": "Montpelier tackles housing shortage with talks of taller buildings and simplified zoning",
-      "summary": "Planners say development projects in the River District, including apartment buildings, can shape Montpelier's future and that current zoning allows for six-story buildings but developers aren\u2019t doing it.\nRead the story on VTDigger here:  Montpelier tackles housing shortage with talks of taller bui",
-      "url": "https://vtdigger.org/2026/07/05/montpelier-tackles-housing-shortage-with-talks-of-taller-buildings-and-simplified-zoning/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-05",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "e09fafdfedbc",
       "title": "St. Mary\u2019s Bank completes renovations at Londonderry branch",
       "summary": "St. Mary\u2019s Bank has completed renovations at its Londonderry branch, located at 50 Nashua Road in Londonderry Square.",
@@ -778,20 +763,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-07-05",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "944f30b13348",
-      "title": "Noah Kahan fans blamed for disappearing Strafford road sign",
-      "summary": "Town officials think fans of the famous singer-songwriter are stealing a road sign referenced in one of his songs.\nRead the story on VTDigger here:  Noah Kahan fans blamed for disappearing Strafford road sign.",
-      "url": "https://vtdigger.org/2026/07/03/noah-kahan-fans-blamed-for-disappearing-strafford-road-sign/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-03",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -822,20 +793,6 @@
       "date": "2026-06-30",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "19e6cd935200",
-      "title": "Six-story, 51-unit mixed-use building at North End Superette site up for review",
-      "summary": "Plans for a new six-story, 51-unit multifamily housing development at the site of a popular Manchester convenience store are slated to go before the Manchester Planning Board later this week.",
-      "url": "https://www.unionleader.com/news/business/six-story-51-unit-mixed-use-building-at-north-end-superette-site-up-for-review/article_45b47332-f0a9-4473-95e4-45f118e539d6.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-06-29",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
