@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-09T13:39:03.641052Z",
+  "generated": "2026-07-10T13:01:22.646804Z",
   "summary": {
-    "total_opportunities": 35,
+    "total_opportunities": 32,
     "total_value_low": 327230323,
     "total_value_high": 327230323,
     "by_state": {
       "VT": 5,
-      "NH": 7,
-      "ME": 3,
-      "MA": 25,
+      "NH": 8,
+      "ME": 6,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 9,
-      "funding": 4
+      "news": 18,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -616,6 +616,104 @@
   ],
   "news": [
     {
+      "id": "f117c57838da",
+      "title": "America is at a crossroads. Maine must choose a road. | Opinion",
+      "summary": "We must choose between renewing our institutions or allowing them to decay.",
+      "url": "https://www.pressherald.com/2026/07/10/america-is-at-a-crossroads-maine-must-choose-a-road-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b030a8b16b7e",
+      "title": "New York construction scare highlights the challenges of converting offices into housing",
+      "summary": "NEW YORK (AP) \u2014 When two steel columns buckled this week inside the former Pfizer headquarters in midtown Manhattan, the scare prompted evacuations and halted work on one of the nation\u2019s largest office-to-apartment conversions. It also highlighted the complex engineering behind adaptive reuse projec",
+      "url": "https://www.bangordailynews.com/2026/07/10/nation/new-york-construction-scare-highlights-the-challenges-of-converting-offices-into-housing/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f2c05c1a4a85",
+      "title": "In any language: English speakers are tuning into World Cup broadcasts in Spanish",
+      "summary": "MIAMI (AP) \u2014 Ashleigh Hallam teaches English as a second language at her local library in Indiana. Soccer is now teaching her Spanish as a second language. For her, this World Cup couldn\u2019t make more sense. Hallam is among a sizable number of English-speaking people in the U.S. who are doing somethin",
+      "url": "https://www.bangordailynews.com/2026/07/10/nation/in-any-language-english-speakers-are-tuning-into-world-cup-broadcasts-in-spanish/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f82826ed0117",
+      "title": "Traffic detoured as fire shuts down main highway into Cape Cod",
+      "summary": "Heavy delays are expected through the morning, as vehicles were backed up for 5.5 miles along the highway.",
+      "url": "https://www.masslive.com/capecod/2026/07/traffic-detoured-as-fire-shuts-down-main-highway-into-cape-cod.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-10",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "22826dfeb6ff",
+      "title": "Belgian rising stars and Southwick privateers will race in The National",
+      "summary": "Not only will seven local motocross racers compete at The Wick 338 for the 45th running of The Crestview Construction Southwick National, including Jacob Walker and Austin Brooks from Southwick, two of the hottest rising stars in world motocross will take to the world-famous sand track.",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/belgian-rising-stars-and-southwick-privateers-will-race-in-the-national.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "d2144232e2d3",
+      "title": "Board of Health has significant role in siting renewable energy systems",
+      "summary": "With the expectation that a large solar field and a battery energy storage system being built along College Highway in the next year or so, Southwick\u2019s Board of Health heard a presentation Tuesday from a health department policy expert to explain the significant role boards of health play in siting",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/board-of-health-has-significant-role-in-siting-renewable-energy-systems.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-10",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "82fa9e4343c4",
+      "title": "Gov. Scott names new secretary of commerce and community development as Kurrle exits for Vermont Gas",
+      "summary": "Lindsay Kurrle, who has led the agency for seven years, will leave her position July 24 to become the energy company\u2019s president and CEO.\nRead the story on VTDigger here:  Gov. Scott names new secretary of commerce and community development as Kurrle exits for Vermont Gas.",
+      "url": "https://vtdigger.org/2026/07/09/gov-scott-names-new-secretary-of-commerce-and-community-development-as-kurrle-exits-for-vermont-gas/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "4900b165ca4d",
       "title": "\u2018Broken\u2019 trust: Energy site redevelopment company seeks input from Vernon community on uses for former Vermont Yankee plant",
       "summary": "\u201cCommunities have more say in outcomes, and I think it's important to figure out how we can work together,\u201d said PowerTransitions spokesperson at a Tuesday night meeting.\nRead the story on VTDigger here:  \u2018Broken\u2019 trust: Energy site redevelopment company seeks input from Vernon community on uses fo",
@@ -630,10 +728,24 @@
       ]
     },
     {
-      "id": "8364f1cee4ce",
-      "title": "Graham Platner suspends bid for Maine Senate seat amid sexual assault scandal",
-      "summary": "Platner announced he was leaving the race in a video posted to X.",
-      "url": "https://www.pressherald.com/2026/07/08/graham-platner-ends-bid-for-maine-senate-seat-amid-sexual-assault-scandal/",
+      "id": "de56de847a00",
+      "title": "Amazon distribution center set to open in Tilton",
+      "summary": "A 50,500-square-foot Amazon distribution center is scheduled to open next April in Tilton in a small industrial area on Sanborn Road, roughly a half-mile north of Routes 3 and 11.",
+      "url": "https://www.unionleader.com/news/business/amazon-distribution-center-set-to-open-in-tilton/article_0ec108c6-4ed3-4daf-9916-462f5c57a3e9.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-07-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "81cb8bd874f7",
+      "title": "Nirav Shah opens bid to win over Platner supporters",
+      "summary": "The former public health official, whom Graham Platner did not favor in the governor's race, cast himself on Thursday as another outsider who largely shared Platner's policy positions.",
+      "url": "https://www.pressherald.com/2026/07/09/nirav-shah-opens-bid-to-win-over-platner-supporters/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-09",
@@ -644,28 +756,14 @@
       ]
     },
     {
-      "id": "93e30ac15624",
-      "title": "DOT shortfall shows why Maine must change transportation funding",
-      "summary": "\u201cMaine\u2019s traditional transportation funding sources no longer keep pace with infrastructure needs.\u201d",
-      "url": "https://www.bangordailynews.com/2026/07/09/opinion/opinion-contributor/dot-shortfall-shows-why-maine-must-change-transportation-funding-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "7ba9c93537a8",
+      "title": "Oily rags the likely cause of fire that destroyed Harrison home",
+      "summary": "Shortly after 4 p.m., fire crews were called to 25 Ruby Lane, off Chapman Road, for a report that the single-family home was on fire.",
+      "url": "https://www.pressherald.com/2026/07/09/firefighters-encounter-exploding-fireworks-as-harrison-home-burns-2/",
+      "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-09",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "91b61949db5d",
-      "title": "Rare bacteria in water traced to AI data center construction in Wyoming",
-      "summary": "The $800 million project is for Meta, which operates Facebook and Instagram.",
-      "url": "https://www.masslive.com/news/2026/07/rare-bacteria-in-water-traced-to-ai-data-center-construction-project.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-09",
-      "category": "funding",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -722,20 +820,6 @@
       "state": "NH",
       "date": "2026-07-07",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cfc413bfab37",
-      "title": "VTrans receives over $19 million in federal funds for Route 7 reconstruction",
-      "summary": "The U.S. BUILD grant to help fund the reconstruction project was announced Monday by the Vermont Congressional Delegation.\nRead the story on VTDigger here:  VTrans receives over $19 million in federal funds for Route 7 reconstruction.",
-      "url": "https://vtdigger.org/2026/07/06/vtrans-receives-over-19-million-in-federal-funds-for-route-7-reconstruction/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-06",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
