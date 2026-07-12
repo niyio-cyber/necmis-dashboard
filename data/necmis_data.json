@@ -1,13 +1,13 @@
 {
-  "generated": "2026-07-11T11:40:19.653057Z",
+  "generated": "2026-07-12T11:48:19.263402Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 34,
     "total_value_low": 430280323,
     "total_value_high": 430280323,
     "by_state": {
-      "VT": 3,
-      "NH": 6,
-      "ME": 1,
+      "VT": 4,
+      "NH": 7,
+      "ME": 4,
       "MA": 25,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 32,
-      "news": 6,
-      "funding": 1
+      "news": 10,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -635,6 +635,76 @@
     }
   ],
   "news": [
+    {
+      "id": "c9aeb266a67d",
+      "title": "The nation is craving protein, but Vermont dairy isn\u2019t cashing in",
+      "summary": "Expensive land and aging infrastructure have left Vermont\u2019s dairy industry behind as other states dominate.\nRead the story on VTDigger here:  The nation is craving protein, but Vermont dairy isn\u2019t cashing in.",
+      "url": "https://vtdigger.org/2026/07/12/the-nation-is-craving-protein-but-vermont-dairy-isnt-cashing-in/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-12",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "834167130abb",
+      "title": "Fences along Maine highways could prevent animal collisions | Letter",
+      "summary": "On a recent trip to St. John, New Brunswick, Canada, I noticed the major highways had two sets of high fences along the major highway. One was immediately adjacent to the road, another about 40 or 50 feet away. These fences seemed at least 10 feet high. The function of these fences did not occur [\u2026]",
+      "url": "https://www.pressherald.com/2026/07/12/fences-along-maine-highways-could-prevent-animal-collisions-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-12",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "54c132a38324",
+      "title": "Eastbrook man arrested after road rage crash seriously injures motorcyclist",
+      "summary": "Witnesses said the pickup truck struck a motorcycle, forcing it into a guardrail. The motorcyclist then lost control and crashed.",
+      "url": "https://www.bangordailynews.com/2026/07/12/hancock/shannon-abbott-eastbrook-arrested-road-rage-crash-motorcyclist/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-12",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "262339cef0b7",
+      "title": "Judge tosses remnants of Proud Boys seditious conspiracy case after Trump\u2019s broad clemency",
+      "summary": "WASHINGTON (AP) \u2014 A federal judge has dismissed the remnants of the government\u2019s landmark case against far-right Proud Boys members who were convicted of seditious conspiracy for plotting to attack the Capitol to keep President Donald Trump in the White House more than five years ago. The case\u2019s dis",
+      "url": "https://www.bangordailynews.com/2026/07/11/nation/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trumps-broad-clemency/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-11",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fb112e12321c",
+      "title": "Distant Dome: Ayotte\u2019s Veto of Highway Plan Sets Off Lawmakers",
+      "summary": "Historically, there are two things a governor can do that really pisses off lawmakers, veto a hard-fought budget deal or the state\u2019s 10-Year Highway Improvement Plan.",
+      "url": "https://indepthnh.org/2026/07/11/ayottes-veto-of-highway-plan-sets-off-lawmakers/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-07-11",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
     {
       "id": "9387861800a9",
       "title": "Ayotte Signs Bill Paving Way for More Corporate Tax Cuts; Vetoes 10-Year-Highway Plan",
