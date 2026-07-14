@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-13T13:10:31.697909Z",
+  "generated": "2026-07-14T12:03:14.507343Z",
   "summary": {
-    "total_opportunities": 34,
+    "total_opportunities": 40,
     "total_value_low": 430280323,
     "total_value_high": 430280323,
     "by_state": {
-      "VT": 6,
+      "VT": 4,
       "NH": 6,
-      "ME": 5,
-      "MA": 27,
+      "ME": 13,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 32,
-      "news": 14,
-      "funding": 2
+      "news": 12,
+      "funding": 8
     }
   },
   "dot_lettings": [
@@ -636,10 +636,67 @@
   ],
   "news": [
     {
-      "id": "43ae645d2a7b",
-      "title": "Live updates:  Shooting reported in Biddeford, potentially involving federal agents",
-      "summary": "One person may be dead after a shooting that may have involved federal immigration agents.",
-      "url": "https://www.pressherald.com/2026/07/13/shooting-reported-in-biddeford-2/",
+      "id": "07ae58b642e5",
+      "title": "Hundreds gather for vigil in Biddeford after man killed by ICE agent",
+      "summary": "The vigil capped a day of protests sparked by the fatal shooting of a 26-year-old man from Colombia by a U.S. Immigration and Customs Enforcement agent on Monday.",
+      "url": "https://www.pressherald.com/2026/07/13/hundreds-gather-for-vigil-in-biddeford-after-man-killed-by-ice-agent/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-14",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "f5b4371e0a36",
+      "title": "New York to impose the country\u2019s first statewide moratorium on data centers",
+      "summary": "NEW YORK (AP) \u2014 New York will block the construction of any new large data centers for up to a year so the state can create rules to protect the environment and energy grid from the power-hungry facilities that fuel artificial intelligence technology. Gov. Kathy Hochul is set to sign an executive or",
+      "url": "https://www.bangordailynews.com/2026/07/14/nation/new-york-to-impose-the-countrys-first-statewide-moratorium-on-data-centers/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-14",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "75fce7b40b3c",
+      "title": "Maine DOT to start $3.7M bridge replacement in Aroostook",
+      "summary": "Construction will start on July 20 to replace Fort Fairfield's Puddle Dock Bridge. The project is about a year behind schedule.",
+      "url": "https://www.bangordailynews.com/2026/07/14/aroostook/aroostook-government/3-7-million-bridge-replacement-fort-fairfield-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-14",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "452dc9a85038",
+      "title": "State approves Hooksett Road expansion for 2031",
+      "summary": "About 1.5 miles of Route 28 just east of Southern New Hampshire University in Hooksett is going to be widened from two lanes to five, but the $30 million project is not scheduled to start until spring 2031.",
+      "url": "https://www.unionleader.com/news/local/hooksett/state-approves-hooksett-road-expansion-for-2031/article_8baa6c39-10e4-4204-ad3f-bb583cfc00b1.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-07-13",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "61fe5310fe25",
+      "title": "ICE agent kills man in Biddeford, spurring protests",
+      "summary": "Joan Sebastian Guerrero, 26, was not the target of the warrant agents were trying to execute, federal officials said.",
+      "url": "https://www.pressherald.com/2026/07/13/immigration-agent-kills-man-in-biddeford-spurring-protests/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-13",
@@ -650,10 +707,80 @@
       ]
     },
     {
-      "id": "22f122c14416",
-      "title": "ICE agents killed a person in Biddeford, lawmaker says",
-      "summary": "It's at least the 11th fatal shooting involving an ICE or Border Patrol agent since President Donald Trump took office last year.",
-      "url": "https://www.bangordailynews.com/2026/07/13/politics/state-politics/biddeford-maine-ice-shooting-investigation/",
+      "id": "240d6be3cc36",
+      "title": "South Portland, Cape Elizabeth seek regular community input",
+      "summary": "Both municipalities are beginning to use FlashVote, a technology that collects short, anonymous surveys from participating residents.",
+      "url": "https://www.pressherald.com/2026/07/13/south-portland-cape-elizabeth-seek-regular-community-input/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ca85f93fbfa3",
+      "title": "Lingering tensions from January ICE surge boil over in wake of Biddeford shooting",
+      "summary": "Hundreds of protesters marched through the city's downtown after federal immigration agents fatally shot a 26-year-old man.",
+      "url": "https://www.pressherald.com/2026/07/13/lingering-tensions-from-january-ice-surge-boil-over-in-wake-of-biddeford-shooting/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-13",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "407dfe9cb03a",
+      "title": "Sen. King says Biddeford shooting victim was not intended target of warrant",
+      "summary": "King had said earlier Monday that the country's top immigration enforcement official told him that the man who was shot 'was the target of (an) arrest warrant based upon his immigration status.'",
+      "url": "https://www.pressherald.com/2026/07/13/sen-king-says-biddeford-shooting-victim-was-not-intended-target-of-warrant/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-13",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "198118adcf22",
+      "title": "\u2018This has to end\u2019: Janet Mills reacts to ICE shooting in Biddeford",
+      "summary": "The governor's reaction followed new reporting that the victim was not the target of enforcement action.",
+      "url": "https://www.bangordailynews.com/2026/07/13/politics/state-politics/janet-mills-ice-shooting-biddeford/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-13",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "0afaa731496e",
+      "title": "Maine Maritime Academy\u2019s new $330M training ship arrives in Castine",
+      "summary": "Its arrival in Castine marks the approaching end of more than a decade of planning, millions of federal dollars and a construction delay.",
+      "url": "https://www.bangordailynews.com/2026/07/13/hancock/hancock-education/maine-maritime-academys-new-training-ship/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-13",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cb74639093fa",
+      "title": "Victim of Biddeford shooting\u00a0was not target of ICE warrant, Angus King\u2019s office says",
+      "summary": "DHS Secretary Markwayne Mullin previously told the senator that the victim was the target of an order to leave the country.",
+      "url": "https://www.bangordailynews.com/2026/07/13/politics/washington/victim-of-biddeford-shooting-was-not-target-of-ice-warrant-angus-kings-office-says/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-07-13",
@@ -664,29 +791,29 @@
       ]
     },
     {
-      "id": "c53ed5af66ce",
-      "title": "Rabid beaver attacking swimmers: \u2019It\u2019s just out for blood\u2019",
-      "summary": "The incident took place on July 4.",
-      "url": "https://www.masslive.com/news/2026/07/rabid-beaver-attacking-swimmers-its-just-out-for-blood.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "7d36c69d9cdc",
+      "title": "Protesters gather at Susan Collins\u2019 office after ICE shooting in Biddeford",
+      "summary": "Collins has faced criticism for casting a deciding vote to provide $70 billion over three years to ICE and Border Patrol after the agency killed two U.S. citizens and waged a controversial January enforcement surge into Maine.",
+      "url": "https://www.bangordailynews.com/2026/07/13/politics/washington/protest-susan-collins-office-ice-shooting-biddeford/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-07-13",
-      "category": "news",
+      "category": "funding",
       "priority": "high",
       "business_lines": [
-        "highway"
+        "ready_mix"
       ]
     },
     {
-      "id": "429087b95787",
-      "title": "Depot Street condominium project officially begins",
-      "summary": "After over four years, the site for the 100-unit condominium project at 42 Depot Street in Southwick is being prepared for construction.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/depot-street-condominium-project-officially-begins.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "f32ea7f94af9",
+      "title": "Maine AG\u2019s office investigating fatal shooting by ICE agent in Biddeford",
+      "summary": "Officials have not yet identified the victim, but immigrants rights groups say he was a 26-year-old from Colombia who had authorization to work in the U.S. and had been issued a Social Security number.",
+      "url": "https://www.bangordailynews.com/2026/07/13/york/maine-ag-investigating-fatal-shooting-ice-biddeford/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-07-13",
-      "category": "news",
-      "priority": "medium",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -748,34 +875,6 @@
       ]
     },
     {
-      "id": "f01c4be7023c",
-      "title": "Red Sox come from behind to top Mets, sweep 9-game road trip",
-      "summary": "New York's Francisco Lindor misplays a potential game-ending, double-play grounder for an error that helps Boston tie the game in the 9th inning.",
-      "url": "https://www.pressherald.com/2026/07/12/red-sox-come-from-behind-to-top-mets-sweep-9-game-road-trip/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "834167130abb",
-      "title": "Fences along Maine highways could prevent animal collisions | Letter",
-      "summary": "On a recent trip to St. John, New Brunswick, Canada, I noticed the major highways had two sets of high fences along the major highway. One was immediately adjacent to the road, another about 40 or 50 feet away. These fences seemed at least 10 feet high. The function of these fences did not occur [\u2026]",
-      "url": "https://www.pressherald.com/2026/07/12/fences-along-maine-highways-could-prevent-animal-collisions-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-12",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "fb112e12321c",
       "title": "Distant Dome: Ayotte\u2019s Veto of Highway Plan Sets Off Lawmakers",
       "summary": "Historically, there are two things a governor can do that really pisses off lawmakers, veto a hard-fought budget deal or the state\u2019s 10-Year Highway Improvement Plan.",
@@ -805,34 +904,6 @@
       ]
     },
     {
-      "id": "82fa9e4343c4",
-      "title": "Gov. Scott names new secretary of commerce and community development as Kurrle exits for Vermont Gas",
-      "summary": "Lindsay Kurrle, who has led the agency for seven years, will leave her position July 24 to become the energy company\u2019s president and CEO.\nRead the story on VTDigger here:  Gov. Scott names new secretary of commerce and community development as Kurrle exits for Vermont Gas.",
-      "url": "https://vtdigger.org/2026/07/09/gov-scott-names-new-secretary-of-commerce-and-community-development-as-kurrle-exits-for-vermont-gas/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-09",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4900b165ca4d",
-      "title": "\u2018Broken\u2019 trust: Energy site redevelopment company seeks input from Vernon community on uses for former Vermont Yankee plant",
-      "summary": "\u201cCommunities have more say in outcomes, and I think it's important to figure out how we can work together,\u201d said PowerTransitions spokesperson at a Tuesday night meeting.\nRead the story on VTDigger here:  \u2018Broken\u2019 trust: Energy site redevelopment company seeks input from Vernon community on uses fo",
-      "url": "https://vtdigger.org/2026/07/09/broken-trust-energy-site-redevelopment-company-seeks-input-from-vernon-community-on-uses-for-former-vermont-yankee-plant/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-09",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "4ba0ba2e8bd1",
       "title": "Epping waste transfer station approved after months of debate",
       "summary": "A long-contested waste transfer station along the Piscassic River in Epping has received its solid waste permit, capping months of debate but requiring the operator to prove itself before running at full scale.",
@@ -840,20 +911,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-07-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "82f8893fe4c2",
-      "title": "State, local officials cut ribbon for large Londonderry development with a subdued boom",
-      "summary": "Afternoon showers didn\u2019t stop Gov. Kelly Ayotte and U.S. Sen. Maggie Hassan, D-N.H., from having a blast in Londonderry on Tuesday.",
-      "url": "https://www.unionleader.com/news/local/derry_londonderry/state-local-officials-cut-ribbon-for-large-londonderry-development-with-a-subdued-boom/article_7fe3a1d6-0ffd-4f98-9dae-45404f86959e.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-07-07",
       "category": "news",
       "priority": "medium",
       "business_lines": [
