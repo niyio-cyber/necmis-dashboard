@@ -1,83 +1,26 @@
 {
-  "generated": "2026-07-14T12:03:14.507343Z",
+  "generated": "2026-07-15T12:07:42.413578Z",
   "summary": {
-    "total_opportunities": 40,
-    "total_value_low": 430280323,
-    "total_value_high": 430280323,
+    "total_opportunities": 34,
+    "total_value_low": 421412293,
+    "total_value_high": 421412293,
     "by_state": {
       "VT": 4,
-      "NH": 6,
-      "ME": 13,
-      "MA": 25,
+      "NH": 5,
+      "ME": 11,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 32,
+      "dot_letting": 29,
       "news": 12,
-      "funding": 8
+      "funding": 5
     }
   },
   "dot_lettings": [
-    {
-      "id": "430215f74cac",
-      "state": "MA",
-      "project_id": "614071",
-      "description": "Bridge Painting and Maintenance Of 3 Bridges: B-16-272 (3F6), C-02-036 (35H, 35J)",
-      "cost_low": 6964310,
-      "cost_high": 6964310,
-      "cost_display": "$7.0M",
-      "ad_date": "2026-06-06",
-      "let_date": null,
-      "project_type": "Painting - Structural",
-      "location": "Boston - Canton",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614071",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "205f5dbd8b4e",
-      "state": "MA",
-      "project_id": "614018",
-      "description": "Scheduled & Emergency Bridge Superstructure Repairs at Various Locations",
-      "cost_low": 1101450,
-      "cost_high": 1101450,
-      "cost_display": "$1.1M",
-      "ad_date": "2026-06-06",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614018",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fa8136f9415f",
-      "state": "MA",
-      "project_id": "614019",
-      "description": "Scheduled Bridge and Culvert Substructure Repairs at Various Locations",
-      "cost_low": 802270,
-      "cost_high": 802270,
-      "cost_display": "$802K",
-      "ad_date": "2026-06-20",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614019",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "4684d4ad9563",
       "state": "MA",
@@ -636,46 +579,143 @@
   ],
   "news": [
     {
-      "id": "07ae58b642e5",
-      "title": "Hundreds gather for vigil in Biddeford after man killed by ICE agent",
-      "summary": "The vigil capped a day of protests sparked by the fatal shooting of a 26-year-old man from Colombia by a U.S. Immigration and Customs Enforcement agent on Monday.",
-      "url": "https://www.pressherald.com/2026/07/13/hundreds-gather-for-vigil-in-biddeford-after-man-killed-by-ice-agent/",
+      "id": "5d7ad2321123",
+      "title": "Obituary: Leon E. Cambridge",
+      "summary": "PORTLAND - With profound sadness, we announce the passing of Leon E. Cambridge, 92, of Portland, who passed away peacefully on ...",
+      "url": "https://www.pressherald.com/2026/07/15/obituaryleon-e-cambridge-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "082d133b862f",
+      "title": "Death Notice: Leon E. Cambridge",
+      "summary": "Cambridge, Leon E. 92, of Portland, July 12, 2026. Service, July 17, 2 p.m., Evergreen Cemetery, Portland. ...",
+      "url": "https://www.pressherald.com/2026/07/15/obituaryleon-e-cambridge/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "af31417e11b9",
+      "title": "Crowd gathers in Portland to protest killing of Colombian man by federal immigration agent",
+      "summary": "Johan Sebasti\u00e1n Dur\u00e1n Guerrero was shot to death in a car Monday in Biddeford.",
+      "url": "https://www.pressherald.com/2026/07/14/crowd-gathers-in-portland-to-protest-killing-of-colombian-man-by-federal-immigration-agents/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-15",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "16e1c1df16e6",
+      "title": "ICE agent who killed 26-year-old in Biddeford was hired this year",
+      "summary": "Before joining ICE, the agent, whose identity hasn't been independently confirmed, worked with the VA's police force.",
+      "url": "https://www.bangordailynews.com/2026/07/15/york/york-police-courts/biddeford-maine-ice-agent-new-shooting-johan-sebastian-duran-guerrero/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3697296818cc",
+      "title": "Biden will publish \u2018Promise Me, America\u2019 memoir after the November midterm elections",
+      "summary": "NEW YORK (AP) \u2014 Former President Joe Biden will publish a memoir this fall, publisher Little, Brown and Company told The Associated Press. \u201cPromise Me, America,\u201d which Biden says will touch upon everything from the economy to his decision to drop his bid for reelection, is scheduled to come out Nov.",
+      "url": "https://www.bangordailynews.com/2026/07/15/nation/biden-will-publish-promise-me-america-memoir-after-the-november-midterm-elections/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "298f2afa0f65",
+      "title": "\u00bfQui\u00e9n era Johan Sebasti\u00e1n Dur\u00e1n Guerrero, el hombre asesinado por ICE en Biddeford?",
+      "summary": "Este joven colombiano de 26 a\u00f1os fue baleado por agentes federales de inmigraci\u00f3n el lunes por la ma\u00f1ana.",
+      "url": "https://www.pressherald.com/2026/07/14/quien-era-johan-sebastian-duran-guerrero-el-hombre-asesinado-por-ice-en-biddeford/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-14",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3d1b9595b1c7",
+      "title": "Dozens gather in Lewiston for victim of Biddeford ICE shooting",
+      "summary": "The vigil was held a day after Johan Sebasti\u00e1n Dur\u00e1n Guerrero was fatally shot by federal agents in Biddeford.",
+      "url": "https://www.pressherald.com/2026/07/14/dozens-gather-in-lewiston-for-victim-of-biddeford-ice-shooting/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-14",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "058b64dd8e8e",
+      "title": "Details of Biddeford ICE shooting are emerging, but gaps in timeline remain",
+      "summary": "Security camera footage shows moments before and after the shooting death of Johan Sebasti\u00e1n Dur\u00e1n Guerrero, but not the encounter itself.",
+      "url": "https://www.pressherald.com/2026/07/14/the-latest-on-the-biddeford-ice-shooting/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-14",
       "category": "news",
       "priority": "high",
       "business_lines": [
-        "ready_mix"
+        "highway"
       ]
     },
     {
-      "id": "f5b4371e0a36",
-      "title": "New York to impose the country\u2019s first statewide moratorium on data centers",
-      "summary": "NEW YORK (AP) \u2014 New York will block the construction of any new large data centers for up to a year so the state can create rules to protect the environment and energy grid from the power-hungry facilities that fuel artificial intelligence technology. Gov. Kathy Hochul is set to sign an executive or",
-      "url": "https://www.bangordailynews.com/2026/07/14/nation/new-york-to-impose-the-countrys-first-statewide-moratorium-on-data-centers/",
+      "id": "1daa11b16730",
+      "title": "Texas is drenched by heavy rains as forecasters warn that more storms could bring dangerous floods",
+      "summary": "Heavy downpours in South Texas washed out highways and stranded motorists Tuesday as forecasters warned that a threat of more severe weather could bring dangerous flooding to already drenched counties near the border with Mexico. Storms dumped up to a foot of rain in some rural areas of Texas, leadi",
+      "url": "https://www.bangordailynews.com/2026/07/14/nation/texas-is-drenched-by-heavy-rains-as-forecasters-warn-that-more-storms-could-bring-dangerous-floods/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-07-14",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "75fce7b40b3c",
-      "title": "Maine DOT to start $3.7M bridge replacement in Aroostook",
-      "summary": "Construction will start on July 20 to replace Fort Fairfield's Puddle Dock Bridge. The project is about a year behind schedule.",
-      "url": "https://www.bangordailynews.com/2026/07/14/aroostook/aroostook-government/3-7-million-bridge-replacement-fort-fairfield-joam40zk0w/",
+      "id": "aca743b47ff5",
+      "title": "Trump will speak on elections in primetime address after pushing debunked conspiracies",
+      "summary": "WASHINGTON (AP) \u2014 President Donald Trump will deliver a primetime address this week that he says will include a focus on elections, suggesting he could revisit long-debunked conspiracy theories about his 2020 defeat to Democrat Joe Biden. The speech comes as he\u2019s escalated calls for Republicans to p",
+      "url": "https://www.bangordailynews.com/2026/07/14/nation/trump-will-speak-on-elections-in-primetime-address-after-pushing-debunked-conspiracies/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-07-14",
-      "category": "funding",
+      "category": "news",
       "priority": "high",
       "business_lines": [
-        "highway",
-        "ready_mix"
+        "highway"
       ]
     },
     {
@@ -688,132 +728,6 @@
       "date": "2026-07-13",
       "category": "funding",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "61fe5310fe25",
-      "title": "ICE agent kills man in Biddeford, spurring protests",
-      "summary": "Joan Sebastian Guerrero, 26, was not the target of the warrant agents were trying to execute, federal officials said.",
-      "url": "https://www.pressherald.com/2026/07/13/immigration-agent-kills-man-in-biddeford-spurring-protests/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-13",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "240d6be3cc36",
-      "title": "South Portland, Cape Elizabeth seek regular community input",
-      "summary": "Both municipalities are beginning to use FlashVote, a technology that collects short, anonymous surveys from participating residents.",
-      "url": "https://www.pressherald.com/2026/07/13/south-portland-cape-elizabeth-seek-regular-community-input/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ca85f93fbfa3",
-      "title": "Lingering tensions from January ICE surge boil over in wake of Biddeford shooting",
-      "summary": "Hundreds of protesters marched through the city's downtown after federal immigration agents fatally shot a 26-year-old man.",
-      "url": "https://www.pressherald.com/2026/07/13/lingering-tensions-from-january-ice-surge-boil-over-in-wake-of-biddeford-shooting/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-13",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "407dfe9cb03a",
-      "title": "Sen. King says Biddeford shooting victim was not intended target of warrant",
-      "summary": "King had said earlier Monday that the country's top immigration enforcement official told him that the man who was shot 'was the target of (an) arrest warrant based upon his immigration status.'",
-      "url": "https://www.pressherald.com/2026/07/13/sen-king-says-biddeford-shooting-victim-was-not-intended-target-of-warrant/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-13",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "198118adcf22",
-      "title": "\u2018This has to end\u2019: Janet Mills reacts to ICE shooting in Biddeford",
-      "summary": "The governor's reaction followed new reporting that the victim was not the target of enforcement action.",
-      "url": "https://www.bangordailynews.com/2026/07/13/politics/state-politics/janet-mills-ice-shooting-biddeford/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-13",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "0afaa731496e",
-      "title": "Maine Maritime Academy\u2019s new $330M training ship arrives in Castine",
-      "summary": "Its arrival in Castine marks the approaching end of more than a decade of planning, millions of federal dollars and a construction delay.",
-      "url": "https://www.bangordailynews.com/2026/07/13/hancock/hancock-education/maine-maritime-academys-new-training-ship/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-13",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cb74639093fa",
-      "title": "Victim of Biddeford shooting\u00a0was not target of ICE warrant, Angus King\u2019s office says",
-      "summary": "DHS Secretary Markwayne Mullin previously told the senator that the victim was the target of an order to leave the country.",
-      "url": "https://www.bangordailynews.com/2026/07/13/politics/washington/victim-of-biddeford-shooting-was-not-target-of-ice-warrant-angus-kings-office-says/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-13",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7d36c69d9cdc",
-      "title": "Protesters gather at Susan Collins\u2019 office after ICE shooting in Biddeford",
-      "summary": "Collins has faced criticism for casting a deciding vote to provide $70 billion over three years to ICE and Border Patrol after the agency killed two U.S. citizens and waged a controversial January enforcement surge into Maine.",
-      "url": "https://www.bangordailynews.com/2026/07/13/politics/washington/protest-susan-collins-office-ice-shooting-biddeford/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-13",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "f32ea7f94af9",
-      "title": "Maine AG\u2019s office investigating fatal shooting by ICE agent in Biddeford",
-      "summary": "Officials have not yet identified the victim, but immigrants rights groups say he was a 26-year-old from Colombia who had authorization to work in the U.S. and had been issued a Social Security number.",
-      "url": "https://www.bangordailynews.com/2026/07/13/york/maine-ag-investigating-fatal-shooting-ice-biddeford/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-13",
-      "category": "funding",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -901,20 +815,6 @@
       "business_lines": [
         "highway",
         "hma"
-      ]
-    },
-    {
-      "id": "4ba0ba2e8bd1",
-      "title": "Epping waste transfer station approved after months of debate",
-      "summary": "A long-contested waste transfer station along the Piscassic River in Epping has received its solid waste permit, capping months of debate but requiring the operator to prove itself before running at full scale.",
-      "url": "https://www.unionleader.com/news/environment/epping-waste-transfer-station-approved-after-months-of-debate/article_0eae4b3f-1212-4802-9bba-ca8d8839ea24.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-07-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     }
   ],
