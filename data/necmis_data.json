@@ -1,13 +1,13 @@
 {
-  "generated": "2026-07-15T12:07:42.413578Z",
+  "generated": "2026-07-16T12:12:10.631378Z",
   "summary": {
-    "total_opportunities": 34,
+    "total_opportunities": 32,
     "total_value_low": 421412293,
     "total_value_high": 421412293,
     "by_state": {
-      "VT": 4,
+      "VT": 2,
       "NH": 5,
-      "ME": 11,
+      "ME": 6,
       "MA": 22,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 12,
-      "funding": 5
+      "news": 7,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -579,10 +579,38 @@
   ],
   "news": [
     {
-      "id": "5d7ad2321123",
-      "title": "Obituary: Leon E. Cambridge",
-      "summary": "PORTLAND - With profound sadness, we announce the passing of Leon E. Cambridge, 92, of Portland, who passed away peacefully on ...",
-      "url": "https://www.pressherald.com/2026/07/15/obituaryleon-e-cambridge-2/",
+      "id": "3a2f19151c90",
+      "title": "Obituary: Staci Kay Converse",
+      "summary": "SOUTH PORTLAND - Staci Kay Converse, an unyielding pillar of developmental disability rights in Maine, died unexpectedly Wednesday, July 8, 2026. ...",
+      "url": "https://www.pressherald.com/2026/07/16/obituarystaci-kay-converse-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "73766ce37777",
+      "title": "Judge rejects bid for new lawyer by Burlington man accused of shooting three Palestinian students",
+      "summary": "The ruling Wednesday comes ahead of a trial set for September for Jason Eaton on three counts of attempted murder.\nRead the story on VTDigger here:  Judge rejects bid for new lawyer by Burlington man accused of shooting three Palestinian students.",
+      "url": "https://vtdigger.org/2026/07/15/judge-rejects-bid-for-new-lawyer-by-burlington-man-accused-of-shooting-three-palestinian-students/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7ebd2bd57c33",
+      "title": "Protesters shoo Gov. Janet Mills from Johan Sebasti\u00e1n Dur\u00e1n Guerrero\u2019s memorial in Biddeford",
+      "summary": "'Don't come back up here unless you got results!' one person yelled at the governor.",
+      "url": "https://www.pressherald.com/2026/07/15/protesters-shoo-gov-janet-mills-from-johan-sebastian-duran-guerreros-memorial-in-biddeford/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-15",
@@ -593,24 +621,10 @@
       ]
     },
     {
-      "id": "082d133b862f",
-      "title": "Death Notice: Leon E. Cambridge",
-      "summary": "Cambridge, Leon E. 92, of Portland, July 12, 2026. Service, July 17, 2 p.m., Evergreen Cemetery, Portland. ...",
-      "url": "https://www.pressherald.com/2026/07/15/obituaryleon-e-cambridge/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-15",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "af31417e11b9",
-      "title": "Crowd gathers in Portland to protest killing of Colombian man by federal immigration agent",
-      "summary": "Johan Sebasti\u00e1n Dur\u00e1n Guerrero was shot to death in a car Monday in Biddeford.",
-      "url": "https://www.pressherald.com/2026/07/14/crowd-gathers-in-portland-to-protest-killing-of-colombian-man-by-federal-immigration-agents/",
+      "id": "361833f977d2",
+      "title": "Federal officials refuse to identify ICE agent who shot Biddeford man",
+      "summary": "ABC News and the Atlantic have reported that the unnamed agent was hired by ICE earlier this year, but have not disclosed his name.",
+      "url": "https://www.pressherald.com/2026/07/15/federal-officials-refuse-to-identify-ice-agent-who-shot-biddeford-man/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-15",
@@ -621,41 +635,27 @@
       ]
     },
     {
-      "id": "16e1c1df16e6",
-      "title": "ICE agent who killed 26-year-old in Biddeford was hired this year",
-      "summary": "Before joining ICE, the agent, whose identity hasn't been independently confirmed, worked with the VA's police force.",
-      "url": "https://www.bangordailynews.com/2026/07/15/york/york-police-courts/biddeford-maine-ice-agent-new-shooting-johan-sebastian-duran-guerrero/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-15",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3697296818cc",
-      "title": "Biden will publish \u2018Promise Me, America\u2019 memoir after the November midterm elections",
-      "summary": "NEW YORK (AP) \u2014 Former President Joe Biden will publish a memoir this fall, publisher Little, Brown and Company told The Associated Press. \u201cPromise Me, America,\u201d which Biden says will touch upon everything from the economy to his decision to drop his bid for reelection, is scheduled to come out Nov.",
-      "url": "https://www.bangordailynews.com/2026/07/15/nation/biden-will-publish-promise-me-america-memoir-after-the-november-midterm-elections/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-15",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "298f2afa0f65",
-      "title": "\u00bfQui\u00e9n era Johan Sebasti\u00e1n Dur\u00e1n Guerrero, el hombre asesinado por ICE en Biddeford?",
-      "summary": "Este joven colombiano de 26 a\u00f1os fue baleado por agentes federales de inmigraci\u00f3n el lunes por la ma\u00f1ana.",
-      "url": "https://www.pressherald.com/2026/07/14/quien-era-johan-sebastian-duran-guerrero-el-hombre-asesinado-por-ice-en-biddeford/",
+      "id": "3d436320c8af",
+      "title": "Why ICE says it needs to detain people in their vehicles \u2014 and how Trump shifted the policy again",
+      "summary": "Immigration and Customs Enforcement agents were told to no longer make most traffic stops after deadly shootings in Biddeford and Houston, but President Donald Trump has forced a reversal of that temporary policy shift.",
+      "url": "https://www.pressherald.com/2026/07/15/why-ice-says-it-needs-to-detain-people-in-their-vehicles-and-how-trump-shifted-its-policy-again/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "6dcc4323cc04",
+      "title": "\u2018It\u2019s too quiet:\u2019 Fear ripples through Maine immigrant communities after Biddeford ICE shooting",
+      "summary": "The killing of a 26-year-old Colombian man this week has paralyzed many communities already fearful of the Trump administration's immigration crackdown.",
+      "url": "https://www.pressherald.com/2026/07/15/its-too-quiet-fear-ripples-through-maine-immigrant-communities-in-wake-of-biddeford-ice-shooting/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-15",
       "category": "funding",
       "priority": "high",
       "business_lines": [
@@ -663,57 +663,15 @@
       ]
     },
     {
-      "id": "3d1b9595b1c7",
-      "title": "Dozens gather in Lewiston for victim of Biddeford ICE shooting",
-      "summary": "The vigil was held a day after Johan Sebasti\u00e1n Dur\u00e1n Guerrero was fatally shot by federal agents in Biddeford.",
-      "url": "https://www.pressherald.com/2026/07/14/dozens-gather-in-lewiston-for-victim-of-biddeford-ice-shooting/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-14",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "058b64dd8e8e",
-      "title": "Details of Biddeford ICE shooting are emerging, but gaps in timeline remain",
-      "summary": "Security camera footage shows moments before and after the shooting death of Johan Sebasti\u00e1n Dur\u00e1n Guerrero, but not the encounter itself.",
-      "url": "https://www.pressherald.com/2026/07/14/the-latest-on-the-biddeford-ice-shooting/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-14",
+      "id": "68988279ff0c",
+      "title": "Ayotte Signs 20 Bills, Including the Controversial Local School Budget Cap HB 1300",
+      "summary": "Gov. Kelly Ayotte signed 20 bills into law this week - including one of the most controversial HB 1300, which requires each municipality to include a question on the 2026 and 2028 ballots capping local school budgets \u201cfor a period of two years.\u201d\u00a0 She also vetoed three bills.",
+      "url": "https://indepthnh.org/2026/07/15/ayotte-signs-20-bills-including-the-controversial-local-school-budget-cap-hb-1300/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-07-15",
       "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1daa11b16730",
-      "title": "Texas is drenched by heavy rains as forecasters warn that more storms could bring dangerous floods",
-      "summary": "Heavy downpours in South Texas washed out highways and stranded motorists Tuesday as forecasters warned that a threat of more severe weather could bring dangerous flooding to already drenched counties near the border with Mexico. Storms dumped up to a foot of rain in some rural areas of Texas, leadi",
-      "url": "https://www.bangordailynews.com/2026/07/14/nation/texas-is-drenched-by-heavy-rains-as-forecasters-warn-that-more-storms-could-bring-dangerous-floods/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-14",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "aca743b47ff5",
-      "title": "Trump will speak on elections in primetime address after pushing debunked conspiracies",
-      "summary": "WASHINGTON (AP) \u2014 President Donald Trump will deliver a primetime address this week that he says will include a focus on elections, suggesting he could revisit long-debunked conspiracy theories about his 2020 defeat to Democrat Joe Biden. The speech comes as he\u2019s escalated calls for Republicans to p",
-      "url": "https://www.bangordailynews.com/2026/07/14/nation/trump-will-speak-on-elections-in-primetime-address-after-pushing-debunked-conspiracies/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-14",
-      "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -728,48 +686,6 @@
       "date": "2026-07-13",
       "category": "funding",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "637c485326d6",
-      "title": "Middlebury taps new housing development tool",
-      "summary": "The state\u2019s Community and Housing Infrastructure Program is designed to allow municipalities to finance essential infrastructure that supports new housing development without raising local property taxes.\nRead the story on VTDigger here:  Middlebury taps new housing development tool.",
-      "url": "https://vtdigger.org/2026/07/12/middlebury-taps-new-housing-development-tool/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-12",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "186af5175837",
-      "title": "Tunbridge fire chief pushes back against new forest fire warden law",
-      "summary": "A new statute gives fire chiefs more responsibilities. Some aren\u2019t happy about that.\nRead the story on VTDigger here:  Tunbridge fire chief pushes back against new forest fire warden law.",
-      "url": "https://vtdigger.org/2026/07/12/turnbridge-fire-chief-pushes-back-against-new-forest-fire-warden-law/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-12",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c9aeb266a67d",
-      "title": "The nation is craving protein, but Vermont dairy isn\u2019t cashing in",
-      "summary": "Expensive land and aging infrastructure have left Vermont\u2019s dairy industry behind as other states dominate.\nRead the story on VTDigger here:  The nation is craving protein, but Vermont dairy isn\u2019t cashing in.",
-      "url": "https://vtdigger.org/2026/07/12/the-nation-is-craving-protein-but-vermont-dairy-isnt-cashing-in/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-12",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -800,21 +716,6 @@
       "priority": "high",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "9387861800a9",
-      "title": "Ayotte Signs Bill Paving Way for More Corporate Tax Cuts; Vetoes 10-Year-Highway Plan",
-      "summary": "Gov. Kelly Ayotte signed HB 155 into law this week, legislation that Democrats say paves the way for another corporate tax cut and downshifts $26 million a year to local property taxpayers. She signed 37 other bills and vetoed five more.",
-      "url": "https://indepthnh.org/2026/07/10/ayotte-signs-bill-paving-way-for-more-corporate-tax-cuts-vetoes-10-year-highway-plan/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-07-10",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway",
-        "hma"
       ]
     }
   ],
