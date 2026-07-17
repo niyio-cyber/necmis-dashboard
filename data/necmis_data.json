@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-16T12:12:10.631378Z",
+  "generated": "2026-07-17T12:00:55.892296Z",
   "summary": {
-    "total_opportunities": 32,
+    "total_opportunities": 30,
     "total_value_low": 421412293,
     "total_value_high": 421412293,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 5,
-      "ME": 6,
-      "MA": 22,
+      "ME": 1,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 7,
-      "funding": 3
+      "news": 8,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -579,12 +579,68 @@
   ],
   "news": [
     {
-      "id": "3a2f19151c90",
-      "title": "Obituary: Staci Kay Converse",
-      "summary": "SOUTH PORTLAND - Staci Kay Converse, an unyielding pillar of developmental disability rights in Maine, died unexpectedly Wednesday, July 8, 2026. ...",
-      "url": "https://www.pressherald.com/2026/07/16/obituarystaci-kay-converse-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
+      "id": "a615bf997719",
+      "title": "One dead, driver critically hurt after commercial crane overturns on I-95 in North Carolina",
+      "summary": "A commercial crane vehicle overturned on Interstate 95 near Kenly, North Carolina, after investigators say a tire failure caused it to leave the roadway.",
+      "url": "https://www.masslive.com/news/2026/07/investigators-probe-fatal-north-carolina-highway-incident.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "20d60e1dd65b",
+      "title": "Traffic backed up after truck gets stuck under bridge on busy Boston road",
+      "summary": "The truck\u2019s roof was ripped off, or \u201cStorrowed,\u201d as locals refer to vehicles that become lodged under the road\u2019s low-clearance bridges.",
+      "url": "https://www.masslive.com/boston/2026/07/traffic-backed-up-after-truck-gets-stuck-under-bridge-on-busy-boston-road.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3f47f23c6ea6",
+      "title": "New special education facility at 390 Southampton Road readies for students",
+      "summary": "Westfield's new facility at 390 Southampton Road will house special education classrooms and transition services.",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/new-special-education-facility-at-390-southampton-road-readies-for-students.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "079538c03610",
+      "title": "Shuttered Vermont colleges: reincarnated and repurposed.",
+      "summary": "\"The success will be measured on whether we have preserved opportunity, jobs, community vitality, because the last thing we want is a closed campus to sit idle,\u201d said the Vermont Agency of Commerce and Community Development secretary.\nRead the story on VTDigger here:  Shuttered Vermont colleges: re",
+      "url": "https://vtdigger.org/2026/07/16/shuttered-vermont-colleges-reincarnated-and-repurposed/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e5b77ef152a3",
+      "title": "SNHU to sell building and parking garage in Manchester's Millyard",
+      "summary": "Southern New Hampshire University will move all of its offices and operations to its main campus on North River Road in Manchester as part of a plan to sell its Millyard building and six-story parking garage.",
+      "url": "https://www.unionleader.com/news/business/snhu-to-sell-building-and-parking-garage-in-manchesters-millyard/article_f89ed25a-91d6-4a83-845b-afb3f6c0fffb.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-07-16",
       "category": "news",
       "priority": "medium",
@@ -607,65 +663,9 @@
       ]
     },
     {
-      "id": "7ebd2bd57c33",
-      "title": "Protesters shoo Gov. Janet Mills from Johan Sebasti\u00e1n Dur\u00e1n Guerrero\u2019s memorial in Biddeford",
-      "summary": "'Don't come back up here unless you got results!' one person yelled at the governor.",
-      "url": "https://www.pressherald.com/2026/07/15/protesters-shoo-gov-janet-mills-from-johan-sebastian-duran-guerreros-memorial-in-biddeford/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-15",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "361833f977d2",
-      "title": "Federal officials refuse to identify ICE agent who shot Biddeford man",
-      "summary": "ABC News and the Atlantic have reported that the unnamed agent was hired by ICE earlier this year, but have not disclosed his name.",
-      "url": "https://www.pressherald.com/2026/07/15/federal-officials-refuse-to-identify-ice-agent-who-shot-biddeford-man/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-15",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3d436320c8af",
-      "title": "Why ICE says it needs to detain people in their vehicles \u2014 and how Trump shifted the policy again",
-      "summary": "Immigration and Customs Enforcement agents were told to no longer make most traffic stops after deadly shootings in Biddeford and Houston, but President Donald Trump has forced a reversal of that temporary policy shift.",
-      "url": "https://www.pressherald.com/2026/07/15/why-ice-says-it-needs-to-detain-people-in-their-vehicles-and-how-trump-shifted-its-policy-again/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-15",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "6dcc4323cc04",
-      "title": "\u2018It\u2019s too quiet:\u2019 Fear ripples through Maine immigrant communities after Biddeford ICE shooting",
-      "summary": "The killing of a 26-year-old Colombian man this week has paralyzed many communities already fearful of the Trump administration's immigration crackdown.",
-      "url": "https://www.pressherald.com/2026/07/15/its-too-quiet-fear-ripples-through-maine-immigrant-communities-in-wake-of-biddeford-ice-shooting/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-15",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "68988279ff0c",
       "title": "Ayotte Signs 20 Bills, Including the Controversial Local School Budget Cap HB 1300",
-      "summary": "Gov. Kelly Ayotte signed 20 bills into law this week - including one of the most controversial HB 1300, which requires each municipality to include a question on the 2026 and 2028 ballots capping local school budgets \u201cfor a period of two years.\u201d\u00a0 She also vetoed three bills.",
+      "summary": "Gov. Kelly Ayotte signed 20 bills into law this week - including one of the most controversial HB 1300, which requires each municipality to include a question on the 2026 and 2028 ballots capping local school budgets \u201cfor a period of two years.\u201d\u00a0 She also vetoed three bills.\nThe post Ayotte Signs 20",
       "url": "https://indepthnh.org/2026/07/15/ayotte-signs-20-bills-including-the-controversial-local-school-budget-cap-hb-1300/",
       "source": "InDepthNH",
       "state": "NH",
@@ -700,20 +700,6 @@
       "date": "2026-07-12",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fb112e12321c",
-      "title": "Distant Dome: Ayotte\u2019s Veto of Highway Plan Sets Off Lawmakers",
-      "summary": "Historically, there are two things a governor can do that really pisses off lawmakers, veto a hard-fought budget deal or the state\u2019s 10-Year Highway Improvement Plan.",
-      "url": "https://indepthnh.org/2026/07/11/ayottes-veto-of-highway-plan-sets-off-lawmakers/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-07-11",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
