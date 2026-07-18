@@ -1,23 +1,23 @@
 {
-  "generated": "2026-07-17T12:00:55.892296Z",
+  "generated": "2026-07-18T11:41:45.907176Z",
   "summary": {
-    "total_opportunities": 30,
-    "total_value_low": 421412293,
-    "total_value_high": 421412293,
+    "total_opportunities": 36,
+    "total_value_low": 436145168,
+    "total_value_high": 436145168,
     "by_state": {
       "VT": 3,
       "NH": 5,
-      "ME": 1,
-      "MA": 25,
+      "ME": 3,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 29,
-      "news": 8,
-      "funding": 1
+      "dot_letting": 33,
+      "news": 6,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -385,6 +385,44 @@
       ]
     },
     {
+      "id": "1dc9b7cde5b4",
+      "state": "MA",
+      "project_id": "610800",
+      "description": "Park and Ride Expansion and Improvements at Route 132",
+      "cost_low": 8007441,
+      "cost_high": 8007441,
+      "cost_display": "$8.0M",
+      "ad_date": "2026-07-18",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Barnstable",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610800",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0a5e59d23322",
+      "state": "MA",
+      "project_id": "616282",
+      "description": "Maintenance and Preservation of Municipal Bridges at Multiple Locations (D1 Contract 1)",
+      "cost_low": 1852820,
+      "cost_high": 1852820,
+      "cost_display": "$1.9M",
+      "ad_date": "2026-07-18",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Ashfield - Charlemont - Conway - Hawley",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616282",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "4cefb615f106",
       "state": "MA",
       "project_id": "613608",
@@ -401,6 +439,44 @@
       "source": "MassDOT",
       "business_lines": [
         "ready_mix"
+      ]
+    },
+    {
+      "id": "19b1db308eb6",
+      "state": "MA",
+      "project_id": "616286",
+      "description": "Maintenance and Preservation of Municipal Bridges at Multiple Locations (D1 Contract 2)",
+      "cost_low": 2272080,
+      "cost_high": 2272080,
+      "cost_display": "$2.3M",
+      "ad_date": "2026-07-18",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Chesterfield - Hinsdale - Middlefield - Pittsfield",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616286",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b35fd9456642",
+      "state": "MA",
+      "project_id": "609193",
+      "description": "Intersection Improvements at West Main Street (Route 123), North Worcester Street and South Worcester Street",
+      "cost_low": 2600534,
+      "cost_high": 2600534,
+      "cost_display": "$2.6M",
+      "ad_date": "2026-07-18",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Norton",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609193",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -579,27 +655,27 @@
   ],
   "news": [
     {
-      "id": "a615bf997719",
-      "title": "One dead, driver critically hurt after commercial crane overturns on I-95 in North Carolina",
-      "summary": "A commercial crane vehicle overturned on Interstate 95 near Kenly, North Carolina, after investigators say a tire failure caused it to leave the roadway.",
-      "url": "https://www.masslive.com/news/2026/07/investigators-probe-fatal-north-carolina-highway-incident.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-17",
-      "category": "news",
-      "priority": "medium",
+      "id": "ee442788c321",
+      "title": "How immigration has shaped Biddeford\u2019s identity for over 150 years",
+      "summary": "Johan Sebasti\u00e1n Dur\u00e1n Guerrero, a 25-year-old Columbian who was killed by an ICE agent this week, was the latest in a long line of immigrants seeking a better life in this Maine city.",
+      "url": "https://www.pressherald.com/2026/07/18/how-immigration-has-shaped-biddefords-identity-for-over-150-years/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-18",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "20d60e1dd65b",
-      "title": "Traffic backed up after truck gets stuck under bridge on busy Boston road",
-      "summary": "The truck\u2019s roof was ripped off, or \u201cStorrowed,\u201d as locals refer to vehicles that become lodged under the road\u2019s low-clearance bridges.",
-      "url": "https://www.masslive.com/boston/2026/07/traffic-backed-up-after-truck-gets-stuck-under-bridge-on-busy-boston-road.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-17",
+      "id": "bb609466ae4f",
+      "title": "Death Notice: Charles Patrick Scally",
+      "summary": "Scally, Charles Patrick 55, of Gorham, July 8. Visit 4-7 p.m., July 24, GracePoint Church, Biddeford. Celebration of Life 2 p.m., ...",
+      "url": "https://www.pressherald.com/2026/07/18/obituarycharles-patrick-scally/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-18",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -607,15 +683,15 @@
       ]
     },
     {
-      "id": "3f47f23c6ea6",
-      "title": "New special education facility at 390 Southampton Road readies for students",
-      "summary": "Westfield's new facility at 390 Southampton Road will house special education classrooms and transition services.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/new-special-education-facility-at-390-southampton-road-readies-for-students.html",
+      "id": "573c0d6135cc",
+      "title": "Neal, Blandford officials announce $1 million for water system upgrades",
+      "summary": "Blandford received $1 million in federal funding for major water system and infrastructure upgrades.",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/neal-blandford-officials-announce-1-million-for-water-system-upgrades.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-07-17",
-      "category": "news",
-      "priority": "medium",
+      "date": "2026-07-18",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
