@@ -1,13 +1,13 @@
 {
-  "generated": "2026-07-18T11:41:45.907176Z",
+  "generated": "2026-07-19T11:46:14.157341Z",
   "summary": {
     "total_opportunities": 36,
     "total_value_low": 436145168,
     "total_value_high": 436145168,
     "by_state": {
-      "VT": 3,
+      "VT": 4,
       "NH": 5,
-      "ME": 3,
+      "ME": 6,
       "MA": 27,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 6,
+      "news": 10,
       "funding": 3
     }
   },
@@ -655,13 +655,13 @@
   ],
   "news": [
     {
-      "id": "ee442788c321",
-      "title": "How immigration has shaped Biddeford\u2019s identity for over 150 years",
-      "summary": "Johan Sebasti\u00e1n Dur\u00e1n Guerrero, a 25-year-old Columbian who was killed by an ICE agent this week, was the latest in a long line of immigrants seeking a better life in this Maine city.",
-      "url": "https://www.pressherald.com/2026/07/18/how-immigration-has-shaped-biddefords-identity-for-over-150-years/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-18",
+      "id": "b882d3156db2",
+      "title": "President Trump\u2019s priorities could put a hefty portion of federal grants in Vermont on the chopping block under proposed rule",
+      "summary": "\u201cFederal grants were politicized under the last administration to promote a far-left DEI agenda with projects like drag shows in Ecuador and transgender experiments on mice,\u201d a government spokesperson wrote in an email to VTDIgger. \u201cThat ends now.\u201d\nRead the story on VTDigger here:  President Trump\u2019",
+      "url": "https://vtdigger.org/2026/07/19/president-trumps-priorities-could-put-a-hefty-portion-of-federal-grants-in-vermont-on-the-chopping-block-under-proposed-rule/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-19",
       "category": "funding",
       "priority": "high",
       "business_lines": [
@@ -669,13 +669,27 @@
       ]
     },
     {
-      "id": "bb609466ae4f",
-      "title": "Death Notice: Charles Patrick Scally",
-      "summary": "Scally, Charles Patrick 55, of Gorham, July 8. Visit 4-7 p.m., July 24, GracePoint Church, Biddeford. Celebration of Life 2 p.m., ...",
-      "url": "https://www.pressherald.com/2026/07/18/obituarycharles-patrick-scally/",
+      "id": "6fc663662876",
+      "title": "Maine ICE death is part of Susan Collins\u2019 legacy | Letter",
+      "summary": "So we finally have a death here in Biddeford, Maine \u2014 a 26-year-old Colombian with legal working papers \u2014 killed at the hands of the ICE goon squad. Our credulous Sen. Susan Collins \u2014 who voted for another $70 billion of enhanced funding for ICE \u2014 claims that this unvetted gang of armed thugs is [\u2026]",
+      "url": "https://www.pressherald.com/2026/07/19/maine-ice-death-is-part-of-susan-collins-legacy-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a36482a0253a",
+      "title": "For Maine artists angered by Biddeford ICE shooting, their art is their voice",
+      "summary": "Planned works include a mural honoring Johan Sebasti\u00e1n Dur\u00e1n Guerrero, a video projection of a peace dove over Biddeford, posters, signs and benefit concerts.",
+      "url": "https://www.pressherald.com/2026/07/19/for-maine-artists-speaking-out-on-biddeford-ice-shooting-their-art-is-their-voice/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-19",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -683,14 +697,56 @@
       ]
     },
     {
-      "id": "573c0d6135cc",
-      "title": "Neal, Blandford officials announce $1 million for water system upgrades",
-      "summary": "Blandford received $1 million in federal funding for major water system and infrastructure upgrades.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/neal-blandford-officials-announce-1-million-for-water-system-upgrades.html",
+      "id": "8dd56a7c3072",
+      "title": "Obituary: Shirley Jane Jones",
+      "summary": "SACO / BIDDEFORD - Shirley Jane Jones, devoted and beloved daughter, sister, aunt, teacher, coach and friend peacefully received her angel ...",
+      "url": "https://www.pressherald.com/2026/07/19/obituaryshirley-jane-jones-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-19",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a69f50baebe2",
+      "title": "Death Notice: Shirley Jane Jones",
+      "summary": "Jones, Shirley Jane 86, of Biddeford/Saco, June 27. Service 10 a.m., July 29, Notre Dame Church in Waterville. Celebration 1 p.m., ...",
+      "url": "https://www.pressherald.com/2026/07/19/obituaryshirley-jane-jones/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-19",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "19ee91885b7e",
+      "title": "Lawsuit with Springfield student at forefront highlights longstanding problem of segregation in Mass. schools",
+      "summary": "\u201cWhen municipal boundaries consistently separate students by race and wealth, we have a moral and constitutional obligation to ask whether we\u2019re preserving opportunity, or perpetuating inequality,\u201d says Bishop Talbert Swan II.",
+      "url": "https://www.masslive.com/westernmass/2026/07/lawsuit-with-springfield-student-at-forefront-highlights-longstanding-problem-of-segregation-in-mass-schools.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-07-19",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b79848b8b053",
+      "title": "Maine chefs offer advice on how to stretch your dollar in the kitchen",
+      "summary": "Maine chefs offer helpful tips to help stretch your food budget while still letting you put together delicious meals.",
+      "url": "https://www.bangordailynews.com/2026/07/18/state/state-health/maine-chef-advice-stretch-budget/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-07-18",
-      "category": "funding",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
