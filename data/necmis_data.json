@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-20T12:58:04.874408Z",
+  "generated": "2026-07-21T12:15:43.119425Z",
   "summary": {
-    "total_opportunities": 36,
+    "total_opportunities": 39,
     "total_value_low": 436145168,
     "total_value_high": 436145168,
     "by_state": {
-      "VT": 4,
-      "NH": 7,
-      "ME": 2,
-      "MA": 29,
+      "VT": 3,
+      "NH": 6,
+      "ME": 7,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 10,
-      "funding": 3
+      "news": 8,
+      "funding": 6
     }
   },
   "dot_lettings": [
@@ -655,13 +655,41 @@
   ],
   "news": [
     {
-      "id": "d0b6af6fda72",
-      "title": "Bucksport wants vacant downtown lot back after development promise\u00a0falls through",
-      "summary": "SFS Development didn't follow through with agreement to develop the property in exchange for a $1 purchase price, officials said.",
-      "url": "https://www.bangordailynews.com/2026/07/20/hancock/hancock-government/bucksport-wants-vacant-downtown-lot-back-joam40zk0w/",
+      "id": "974c90439a8f",
+      "title": "Susan Collins partially to blame for Biddeford killing | Letter",
+      "summary": "Sen. Collins' voting to allocate $70 billion to federal immigration enforcement showed a stark lack of supervision.",
+      "url": "https://www.pressherald.com/2026/07/21/susan-collins-partially-to-blame-for-biddeford-killing-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-21",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "45c68a1b1409",
+      "title": "Death Notice: Brad Tibbetts",
+      "summary": "Tibbetts, Brad of South Portland, April 17, 2026. Gather, 2 p.m., July 23, Willows on Broadway in South Portland. ...",
+      "url": "https://www.pressherald.com/2026/07/21/obituarybrad-tibbetts/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-21",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c2fa0994bc4e",
+      "title": "Some residents want ICE out of Scarborough. Is that possible?",
+      "summary": "A petition is calling on federal lawmakers to do something about the agency\u2019s facility on Manson Libby Road.",
+      "url": "https://www.bangordailynews.com/2026/07/21/portland/portland-police-courts/ice-out-of-scarborough-petition-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "category": "funding",
       "priority": "medium",
       "business_lines": [
@@ -669,43 +697,57 @@
       ]
     },
     {
-      "id": "ae5482cc8958",
-      "title": "Rideshare passenger hit, seriously hurt on Greater Boston highway while fleeing police",
-      "summary": "A rideshare car passenger was struck by oncoming highway traffic in Quincy on Sunday night after they tried to flee from police on foot.",
-      "url": "https://www.masslive.com/news/2026/07/rideshare-passenger-hit-seriously-hurt-on-mass-highway-while-fleeing-police.html",
+      "id": "f77130e89342",
+      "title": "Paving to begin this week at Westfield Middle School parking lot",
+      "summary": "Extensive work over the summer at Westfield Middle School includes a complete redesign of the parking area thanks to an $800,000 MVP grant and repainting of the first floor hallway in the school by the Hampden County Sheriff's Dept.",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/paving-to-begin-this-week-at-westfield-middle-school-parking-lot.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-07-21",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "hma"
+      ]
+    },
+    {
+      "id": "e0a6e030262f",
+      "title": "Portland council passes downtown entertainment license work-around",
+      "summary": "The change exempts single-day permits from a rule that limits the number of businesses that can hold entertainment licenses downtown.",
+      "url": "https://www.pressherald.com/2026/07/20/portland-council-passes-downtown-entertainment-license-work-around/",
+      "source": "Portland Press Herald",
+      "state": "ME",
       "date": "2026-07-20",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "6d15e9c38210",
-      "title": "Tipster charged with murder after making anonymous call for 1993 death in Alaska",
-      "summary": "The body was found in a barrel off a remote highway.",
-      "url": "https://www.masslive.com/news/2026/07/tipster-charged-with-murder-after-making-anonymous-call-for-1993-death.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "01e3a003c0f3",
+      "title": "Road deaths have declined globally since 1990 except in poorer countries, study finds",
+      "summary": "NEW YORK (AP) \u2014 Road deaths are declining in the U.S. and worldwide, but lower-income countries aren\u2019t experiencing much of the improvement, according to a study published Monday. Global rates of road injuries and deaths each fell more than 30% between 1990 and 2023, according to the study published",
+      "url": "https://www.bangordailynews.com/2026/07/20/nation/road-deaths-have-declined-globally-since-1990-except-in-poorer-countries-study-finds/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-07-20",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "0190e3d31c44",
-      "title": "MassDOT/MBTA boss Phil Eng has \u2018no timeline\u2019 to step down from dual roles | Bay State Briefing",
-      "summary": "Phil Eng says he\u2019s enjoying his roles as MassDOT secretary and MBTA general manager. He and Gov. Maura Healey said there are no plans to end the arrangement anytime soon.",
-      "url": "https://www.masslive.com/politics/2026/07/no-mad-dash-for-massdot-mbta-chief-phil-eng-to-drop-his-hyphen-bay-state-briefing.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "2fc5abdd355b",
+      "title": "Downtown Old Town office building\u00a0listed for $1.1M",
+      "summary": "The listing comes at a time when Old Town officials are trying to boost the city\u2019s economic development.",
+      "url": "https://www.bangordailynews.com/2026/07/20/bangor/bangor-business/old-town-office-building-for-sale/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-07-20",
-      "category": "news",
-      "priority": "high",
+      "category": "funding",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -727,7 +769,7 @@
     {
       "id": "b882d3156db2",
       "title": "President Trump\u2019s priorities could put a hefty portion of federal grants in Vermont on the chopping block under proposed rule",
-      "summary": "\u201cFederal grants were politicized under the last administration to promote a far-left DEI agenda with projects like drag shows in Ecuador and transgender experiments on mice,\u201d a government spokesperson wrote in an email to VTDIgger. \u201cThat ends now.\u201d\nRead the story on VTDigger here:  President Trump\u2019",
+      "summary": "\u201cFederal grants were politicized under the last administration to promote a far-left DEI agenda with projects like drag shows in Ecuador and transgender experiments on mice,\u201d a government spokesperson wrote in an email to VTDigger. \u201cThat ends now.\u201d\nRead the story on VTDigger here:  President Trump\u2019",
       "url": "https://vtdigger.org/2026/07/19/president-trumps-priorities-could-put-a-hefty-portion-of-federal-grants-in-vermont-on-the-chopping-block-under-proposed-rule/",
       "source": "VTDigger",
       "state": "VT",
@@ -767,20 +809,6 @@
       ]
     },
     {
-      "id": "079538c03610",
-      "title": "Shuttered Vermont colleges: reincarnated and repurposed.",
-      "summary": "\"The success will be measured on whether we have preserved opportunity, jobs, community vitality, because the last thing we want is a closed campus to sit idle,\u201d said the Vermont Agency of Commerce and Community Development secretary.\nRead the story on VTDigger here:  Shuttered Vermont colleges: re",
-      "url": "https://vtdigger.org/2026/07/16/shuttered-vermont-colleges-reincarnated-and-repurposed/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-16",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "e5b77ef152a3",
       "title": "SNHU to sell building and parking garage in Manchester's Millyard",
       "summary": "Southern New Hampshire University will move all of its offices and operations to its main campus on North River Road in Manchester as part of a plan to sell its Millyard building and six-story parking garage.",
@@ -788,20 +816,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-07-16",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "68988279ff0c",
-      "title": "Ayotte Signs 20 Bills, Including the Controversial Local School Budget Cap HB 1300",
-      "summary": "Gov. Kelly Ayotte signed 20 bills into law this week - including one of the most controversial HB 1300, which requires each municipality to include a question on the 2026 and 2028 ballots capping local school budgets \u201cfor a period of two years.\u201d\u00a0 She also vetoed three bills.\nThe post Ayotte Signs 20",
-      "url": "https://indepthnh.org/2026/07/15/ayotte-signs-20-bills-including-the-controversial-local-school-budget-cap-hb-1300/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-07-15",
       "category": "news",
       "priority": "medium",
       "business_lines": [
