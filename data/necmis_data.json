@@ -1,217 +1,26 @@
 {
-  "generated": "2026-07-21T12:15:43.119425Z",
+  "generated": "2026-07-22T12:18:21.577942Z",
   "summary": {
-    "total_opportunities": 39,
-    "total_value_low": 436145168,
-    "total_value_high": 436145168,
+    "total_opportunities": 26,
+    "total_value_low": 425212250,
+    "total_value_high": 425212250,
     "by_state": {
-      "VT": 3,
+      "VT": 4,
       "NH": 6,
-      "ME": 7,
-      "MA": 27,
+      "ME": 4,
+      "MA": 19,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 33,
-      "news": 8,
-      "funding": 6
+      "dot_letting": 23,
+      "news": 11,
+      "funding": 3
     }
   },
   "dot_lettings": [
-    {
-      "id": "4684d4ad9563",
-      "state": "MA",
-      "project_id": "611952",
-      "description": "Guide and Traffic Sign Replacement on a Section of Route 2",
-      "cost_low": 1609670,
-      "cost_high": 1609670,
-      "cost_display": "$1.6M",
-      "ad_date": "2026-06-13",
-      "let_date": null,
-      "project_type": "Signing - Structural",
-      "location": "Acton - Concord - Harvard - Littleton",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611952",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.601 PLUMBING WORK",
-      "cost_low": 148648,
-      "cost_high": 148648,
-      "cost_display": "$149K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.605 FIRE PROTECTION WORK",
-      "cost_low": 1356960,
-      "cost_high": 1356960,
-      "cost_display": "$1.4M",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.611 ANCILLARY HVAC WORK",
-      "cost_low": 5508859,
-      "cost_high": 5508859,
-      "cost_display": "$5.5M",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.691 WATERPROOFING, DAMPPROOFING, AND CAULKING WORK",
-      "cost_low": 202110,
-      "cost_high": 202110,
-      "cost_display": "$202K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.701 ROOFING AND FLASHING WORK",
-      "cost_low": 401772,
-      "cost_high": 401772,
-      "cost_display": "$402K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.711 MASONRY WORK",
-      "cost_low": 265405,
-      "cost_high": 265405,
-      "cost_display": "$265K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.751 PAINTING",
-      "cost_low": 186371,
-      "cost_high": 186371,
-      "cost_display": "$186K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation FILED SUB-BIDS: 100.811 MISCELLANEOUS AND ORNAMENTAL IRON",
-      "cost_low": 303123,
-      "cost_high": 303123,
-      "cost_display": "$303K",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "76e00402709c",
-      "state": "MA",
-      "project_id": "614144",
-      "description": "Scheduled & Emergency Drainage Repairs and Improvements at Various Locations",
-      "cost_low": 950000,
-      "cost_high": 950000,
-      "cost_display": "$950K",
-      "ad_date": "2026-06-27",
-      "let_date": null,
-      "project_type": "Drainage",
-      "location": "District 4",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614144",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "a92c92d8b37b",
       "state": "MA",
@@ -655,101 +464,115 @@
   ],
   "news": [
     {
-      "id": "974c90439a8f",
-      "title": "Susan Collins partially to blame for Biddeford killing | Letter",
-      "summary": "Sen. Collins' voting to allocate $70 billion to federal immigration enforcement showed a stark lack of supervision.",
-      "url": "https://www.pressherald.com/2026/07/21/susan-collins-partially-to-blame-for-biddeford-killing-letter/",
+      "id": "0b6e7da5c7ec",
+      "title": "Biddeford leaders, residents call for justice, accountability in wake of fatal ICE shooting",
+      "summary": "While city leaders' proclamations were met with applause, many of the roughly 40 residents at Tuesday\u2019s meeting called for action by the city.",
+      "url": "https://www.pressherald.com/2026/07/21/biddeford-leaders-residents-call-for-justice-accountability-in-wake-of-fatal-ice-shooting/",
       "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-07-22",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e47f172a69e0",
+      "title": "Roadwork taking shape on Presque Isle bypass",
+      "summary": "This second phase of the roadway will stretch 6.17 miles from Conant Road to Route 1 just outside Westfield.",
+      "url": "https://www.bangordailynews.com/2026/07/22/aroostook/aroostook-government/presque-isle-bypass-update-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "90643c953fdb",
+      "title": "Canada cancels joint bridge-opening event with US after Trump announces tariffs",
+      "summary": "WASHINGTON (AP) \u2014 A planned joint U.S.-Canada ceremony Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected to take place after President Donald Trump announced a 50% tariff on most Canadian goods. In announcing the tar",
+      "url": "https://www.bangordailynews.com/2026/07/21/nation/canada-cancels-joint-bridge-opening-event-with-us-after-trump-announces-tariffs/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-22",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "72856ef7967a",
+      "title": "Police try to address residents\u2019 concerns regarding automatic license plate readers on town roads",
+      "summary": "During the Southwick Select Board\u2019s meeting Monday, it was perhaps David Methe who summed up the tension created between public safety and individual privacy during a discussion about the police department potentially installing three automatic license plate readers in town.",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/police-try-to-address-residents-concerns-regarding-automatic-license-plate-readers-on-town-roads.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b9d1ac54f24d",
+      "title": "Panera just put a 30-drink limit on its once-unlimited beverage subscription",
+      "summary": "Panera joins other subscription programs cracking down on account sharing as it prepares a broader loyalty program overhaul.",
+      "url": "https://www.masslive.com/food/2026/07/panera-bread-cuts-unlimited-drinks-sets-new-cap-for-sip-club.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a10875664a10",
+      "title": "How 'red boxing' turns these Mass. campaign websites into road maps for dark money",
+      "summary": "Candidates aren't supposed to coordinate with super PACs. But a little-known tactic called \"red boxing\" helps them send messages anyway.",
+      "url": "https://www.masslive.com/politics/2026/07/the-back-door-way-big-money-is-getting-involved-in-these-key-mass-races.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "abdc04d2f376",
+      "title": "Judge denies bid by suspect\u2019s lawyers in border patrol agent killing to change records screening process",
+      "summary": "Attorneys for Teresa Youngblut had called on the federal judge overseeing the death penalty case in Vermont to set a new system after what they described as \u201cfailures\u201d with the current method.\nRead the story on VTDigger here:  Judge denies bid by suspect\u2019s lawyers in border patrol agent killing to",
+      "url": "https://vtdigger.org/2026/07/21/judge-denies-bid-by-suspects-lawyers-in-border-patrol-agent-killing-to-change-records-screening-process/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-07-21",
       "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ce9474ff41bf",
+      "title": "After Fatal ICE Shootings, Shaheen, Hassan Join Colleagues in Renewing Demands to DHS for Civilian Protections, Greater Transparency",
+      "summary": "The measures called for by the Senators are intended to help prevent future deadly encounters involving ICE enforcement officers\u2014and come after two recent fatal shootings during immigration enforcement operations in Biddeford, Maine, and Houston, Texas. \nThe post After Fatal ICE Shootings, Shaheen,",
+      "url": "https://indepthnh.org/2026/07/21/after-fatal-ice-shootings-shaheen-hassan-join-colleagues-in-renewing-demands-to-dhs-for-civilian-protections-greater-transparency/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-07-21",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "ready_mix"
-      ]
-    },
-    {
-      "id": "45c68a1b1409",
-      "title": "Death Notice: Brad Tibbetts",
-      "summary": "Tibbetts, Brad of South Portland, April 17, 2026. Gather, 2 p.m., July 23, Willows on Broadway in South Portland. ...",
-      "url": "https://www.pressherald.com/2026/07/21/obituarybrad-tibbetts/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-21",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c2fa0994bc4e",
-      "title": "Some residents want ICE out of Scarborough. Is that possible?",
-      "summary": "A petition is calling on federal lawmakers to do something about the agency\u2019s facility on Manson Libby Road.",
-      "url": "https://www.bangordailynews.com/2026/07/21/portland/portland-police-courts/ice-out-of-scarborough-petition-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-21",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f77130e89342",
-      "title": "Paving to begin this week at Westfield Middle School parking lot",
-      "summary": "Extensive work over the summer at Westfield Middle School includes a complete redesign of the parking area thanks to an $800,000 MVP grant and repainting of the first floor hallway in the school by the Hampden County Sheriff's Dept.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/paving-to-begin-this-week-at-westfield-middle-school-parking-lot.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-21",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "hma"
-      ]
-    },
-    {
-      "id": "e0a6e030262f",
-      "title": "Portland council passes downtown entertainment license work-around",
-      "summary": "The change exempts single-day permits from a rule that limits the number of businesses that can hold entertainment licenses downtown.",
-      "url": "https://www.pressherald.com/2026/07/20/portland-council-passes-downtown-entertainment-license-work-around/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "01e3a003c0f3",
-      "title": "Road deaths have declined globally since 1990 except in poorer countries, study finds",
-      "summary": "NEW YORK (AP) \u2014 Road deaths are declining in the U.S. and worldwide, but lower-income countries aren\u2019t experiencing much of the improvement, according to a study published Monday. Global rates of road injuries and deaths each fell more than 30% between 1990 and 2023, according to the study published",
-      "url": "https://www.bangordailynews.com/2026/07/20/nation/road-deaths-have-declined-globally-since-1990-except-in-poorer-countries-study-finds/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2fc5abdd355b",
-      "title": "Downtown Old Town office building\u00a0listed for $1.1M",
-      "summary": "The listing comes at a time when Old Town officials are trying to boost the city\u2019s economic development.",
-      "url": "https://www.bangordailynews.com/2026/07/20/bangor/bangor-business/old-town-office-building-for-sale/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-20",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     },
     {
@@ -831,20 +654,6 @@
       "state": "NH",
       "date": "2026-07-13",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4813c3ab4701",
-      "title": "The Moore Center welcomes new chief financial officer",
-      "summary": "The Moore Center, a Manchester-based nonprofit providing services to individuals with developmental and intellectual disabilities and acquired brain disorders as well as services to children and senior citizens, recently hired experienced financial leader Mahesh Bhatia as chief financial officer.",
-      "url": "https://www.unionleader.com/news/business/the-moore-center-welcomes-new-chief-financial-officer/article_ff156335-4c25-4d95-aa86-7fb397c0c918.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-07-12",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
