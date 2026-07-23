@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T12:18:21.577942Z",
+  "generated": "2026-07-23T12:16:11.254858Z",
   "summary": {
     "total_opportunities": 26,
     "total_value_low": 425212250,
@@ -7,7 +7,7 @@
     "by_state": {
       "VT": 4,
       "NH": 6,
-      "ME": 4,
+      "ME": 2,
       "MA": 19,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 23,
-      "news": 11,
+      "news": 9,
       "funding": 3
     }
   },
@@ -464,13 +464,13 @@
   ],
   "news": [
     {
-      "id": "0b6e7da5c7ec",
-      "title": "Biddeford leaders, residents call for justice, accountability in wake of fatal ICE shooting",
-      "summary": "While city leaders' proclamations were met with applause, many of the roughly 40 residents at Tuesday\u2019s meeting called for action by the city.",
-      "url": "https://www.pressherald.com/2026/07/21/biddeford-leaders-residents-call-for-justice-accountability-in-wake-of-fatal-ice-shooting/",
+      "id": "05ea721dcbab",
+      "title": "Susan Collins must go | Letter",
+      "summary": "I had a hard time sleeping last night. I could not stop thinking about the 3-year-old girl in Biddeford who lost her father on July 13, shot right through the windshield of the car, with her in the backseat. It is an unspeakable horror and heartbreak. And it would never have happened without Sen. Su",
+      "url": "https://www.pressherald.com/2026/07/23/susan-collins-must-go-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -478,13 +478,13 @@
       ]
     },
     {
-      "id": "e47f172a69e0",
-      "title": "Roadwork taking shape on Presque Isle bypass",
-      "summary": "This second phase of the roadway will stretch 6.17 miles from Conant Road to Route 1 just outside Westfield.",
-      "url": "https://www.bangordailynews.com/2026/07/22/aroostook/aroostook-government/presque-isle-bypass-update-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-22",
+      "id": "0705801832de",
+      "title": "C-SPAN: Republican Scott Brown Speaks to Veterans in Concord",
+      "summary": "InDepthNH.org is partnering with C-SPAN's Campaign 2026\u00a0imitative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail. Please watch for video of the candidates in which C-SPAN will provide nonprofit newsrooms with free access to on-the-ground election coverage\nThe post C-SPAN: Republica",
+      "url": "https://indepthnh.org/2026/07/22/c-span-republican-scott-brown-speaks-to-veterans-in-concord/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-07-23",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -492,27 +492,13 @@
       ]
     },
     {
-      "id": "90643c953fdb",
-      "title": "Canada cancels joint bridge-opening event with US after Trump announces tariffs",
-      "summary": "WASHINGTON (AP) \u2014 A planned joint U.S.-Canada ceremony Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected to take place after President Donald Trump announced a 50% tariff on most Canadian goods. In announcing the tar",
-      "url": "https://www.bangordailynews.com/2026/07/21/nation/canada-cancels-joint-bridge-opening-event-with-us-after-trump-announces-tariffs/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-22",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "72856ef7967a",
-      "title": "Police try to address residents\u2019 concerns regarding automatic license plate readers on town roads",
-      "summary": "During the Southwick Select Board\u2019s meeting Monday, it was perhaps David Methe who summed up the tension created between public safety and individual privacy during a discussion about the police department potentially installing three automatic license plate readers in town.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/police-try-to-address-residents-concerns-regarding-automatic-license-plate-readers-on-town-roads.html",
+      "id": "52e014a773db",
+      "title": "Southwick fiber-optic network project to start soon",
+      "summary": "With the Southwick Select Board approving a municipal agreement with Whip City Fiber during its meeting Monday to build a town-owned fiber optic network, the project\u2019s construction should start soon.",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/southwick-fiber-optic-network-project-to-start-soon.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -520,13 +506,13 @@
       ]
     },
     {
-      "id": "b9d1ac54f24d",
-      "title": "Panera just put a 30-drink limit on its once-unlimited beverage subscription",
-      "summary": "Panera joins other subscription programs cracking down on account sharing as it prepares a broader loyalty program overhaul.",
-      "url": "https://www.masslive.com/food/2026/07/panera-bread-cuts-unlimited-drinks-sets-new-cap-for-sip-club.html",
+      "id": "8a3b2cd1be2d",
+      "title": "Westfield Planning Board OKs outdoor equipment sales at Southampton Road",
+      "summary": "Westfield approved retail sales and indoor servicing of outdoor power equipment at 1026 Southampton Road under new permit conditions.",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/westfield-planning-board-oks-outdoor-equipment-sales-at-southampton-road.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -534,12 +520,40 @@
       ]
     },
     {
-      "id": "a10875664a10",
-      "title": "How 'red boxing' turns these Mass. campaign websites into road maps for dark money",
-      "summary": "Candidates aren't supposed to coordinate with super PACs. But a little-known tactic called \"red boxing\" helps them send messages anyway.",
-      "url": "https://www.masslive.com/politics/2026/07/the-back-door-way-big-money-is-getting-involved-in-these-key-mass-races.html",
+      "id": "77bd34ee3fdd",
+      "title": "Kohl's makes you walk through 2 aisles of impulse buys \u2014 and Reddit is done with it",
+      "summary": "A Reddit post about Kohl's pre-register aisles sparked a broader reckoning with the retail tricks engineered into every shopping trip.",
+      "url": "https://www.masslive.com/business/2026/07/reddit-users-slam-kohls-for-forcing-customers-through-impulse-gauntlet.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-07-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5ea3cddf40a5",
+      "title": "\u2018A step forward\u2019: Deep in the new federal housing law, changes to disaster recovery funding are brewing",
+      "summary": "Although the new law about the Department of Housing and Urban Development\u2019s long-term disaster recovery program leaves key questions open, experts say it moves in the right direction.\nRead the story on VTDigger here:  \u2018A step forward\u2019: Deep in the new federal housing law, changes to disaster recov",
+      "url": "https://vtdigger.org/2026/07/22/a-step-forward-deep-in-the-new-federal-housing-law-changes-to-disaster-recovery-funding-are-brewing/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-22",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "935e865865ad",
+      "title": "Brattleboro weighs a municipal tax hike to aid the local hospital\u2019s endangered birthing center",
+      "summary": "The selectboard may hold a special Town Meeting to ask residents to help subsidize a facility that\u2019s losing money due to cost and staffing challenges and declining births.\nRead the story on VTDigger here:  Brattleboro weighs a municipal tax hike to aid the local hospital\u2019s endangered birthing cente",
+      "url": "https://vtdigger.org/2026/07/22/brattleboro-weighs-a-municipal-tax-hike-to-aid-the-local-hospitals-endangered-birthing-center/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-07-22",
       "category": "news",
       "priority": "medium",
@@ -573,48 +587,6 @@
       "priority": "high",
       "business_lines": [
         "ready_mix"
-      ]
-    },
-    {
-      "id": "13d149a8738d",
-      "title": "Vermont\u2019s new education law pays districts to merge. It doesn\u2019t make them save.",
-      "summary": "Act 170 sets deadlines and creates regional service areas but leaves out efficiency targets, oversight and any requirement that savings actually materialize before construction aid flows.\nRead the story on VTDigger here:  Vermont\u2019s new education law pays districts to merge. It doesn\u2019t make them sav",
-      "url": "https://vtdigger.org/2026/07/19/opinion-vermonts-new-education-law-pays-districts-to-merge-it-doesnt-make-them-save/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b882d3156db2",
-      "title": "President Trump\u2019s priorities could put a hefty portion of federal grants in Vermont on the chopping block under proposed rule",
-      "summary": "\u201cFederal grants were politicized under the last administration to promote a far-left DEI agenda with projects like drag shows in Ecuador and transgender experiments on mice,\u201d a government spokesperson wrote in an email to VTDigger. \u201cThat ends now.\u201d\nRead the story on VTDigger here:  President Trump\u2019",
-      "url": "https://vtdigger.org/2026/07/19/president-trumps-priorities-could-put-a-hefty-portion-of-federal-grants-in-vermont-on-the-chopping-block-under-proposed-rule/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-19",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "be017dccd876",
-      "title": "AG: Youth Hospitalized After Serious Assault at YDC, Another Charged as Juvenile",
-      "summary": "The Attorney General's Office confirmed that one of the juveniles incarcerated at the Sununu Youth Services Center in Manchester, formerly and widely known as the Youth Development Center or YDC, has been hospitalized after a serious assault by another youth being held there.\nThe post AG: Youth Hosp",
-      "url": "https://indepthnh.org/2026/07/19/ag-youth-hospitalized-after-serious-assault-another-charged-as-juvenile/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-07-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     },
     {
