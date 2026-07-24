@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-23T12:16:11.254858Z",
+  "generated": "2026-07-24T12:09:18.938830Z",
   "summary": {
     "total_opportunities": 26,
     "total_value_low": 425212250,
     "total_value_high": 425212250,
     "by_state": {
-      "VT": 4,
-      "NH": 6,
-      "ME": 2,
-      "MA": 19,
+      "VT": 6,
+      "NH": 5,
+      "ME": 7,
+      "MA": 17,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 23,
-      "news": 9,
+      "news": 13,
       "funding": 3
     }
   },
@@ -464,10 +464,136 @@
   ],
   "news": [
     {
-      "id": "05ea721dcbab",
-      "title": "Susan Collins must go | Letter",
-      "summary": "I had a hard time sleeping last night. I could not stop thinking about the 3-year-old girl in Biddeford who lost her father on July 13, shot right through the windshield of the car, with her in the backseat. It is an unspeakable horror and heartbreak. And it would never have happened without Sen. Su",
-      "url": "https://www.pressherald.com/2026/07/23/susan-collins-must-go-letter/",
+      "id": "6dae35620b5c",
+      "title": "Dumping Biddeford killing at Collins\u2019 feet is sick, unfair | Opinion",
+      "summary": "Last Sunday's vile editorial attempted to politicize a terrible tragedy.",
+      "url": "https://www.pressherald.com/2026/07/24/dumping-biddeford-killing-at-collins-feet-is-sick-unfair-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "055c8f358ea5",
+      "title": "House with dramatic view of neighboring Penobscot Narrows Bridge listed for $595K",
+      "summary": "The Prospect property is among the closest to the landmark bridge\u00a0and has 745 feet of frontage on the Penobscot River.",
+      "url": "https://www.bangordailynews.com/2026/07/24/midcoast/midcoast-housing/house-with-view-of-penobscot-narrows-bridge-for-sale-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-24",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e2b101de5fff",
+      "title": "Eight years after deadliest antisemitic attack in US history, Tree of Life rabbi bids farewell",
+      "summary": "PITTSBURGH (AP) \u2014 After surviving the deadliest antisemitic attack in U.S. history, after presiding over multiple funerals for his slain congregants, Rabbi Jeffrey Myers struggled to pray. \u201cThere was this emptiness to it,\u201d recalls Myers, of Tree of Life Congregation in Pittsburgh. He turned to the b",
+      "url": "https://www.bangordailynews.com/2026/07/24/nation/eight-years-after-deadliest-antisemitic-attack-in-us-history-tree-of-life-rabbi-bids-farewell/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b76c210f628e",
+      "title": "Canada is ready to celebrate new bridge to US amid tariff troubles with Trump",
+      "summary": "WINDSOR, Ontario (AP) \u2014 Officials are gathering Friday in Ontario to take delight in a new U.S.-Canada bridge over the Detroit River, an international span that is expected to enhance trade on both sides of the border and give travelers another route to both countries. A ceremony is taking place in",
+      "url": "https://www.bangordailynews.com/2026/07/24/nation/canada-is-ready-to-celebrate-new-bridge-to-us-amid-tariff-troubles-with-trump/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1c35edfdc933",
+      "title": "In spilt vote, Select Board approves an additional-year contract for CAO Nicole Parker",
+      "summary": "In a split vote, the Southwick Select Board approved offering Chief Administrative Officer Nicole Parker a one-year contract to go into effect on June 30, 2027, which is the conclusion of her three-year contract, because the board didn\u2019t abide by its terms that included evaluating her performance.",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/in-spilt-vote-select-board-approves-an-additional-year-contract-for-cao-nicole-parker.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "913062f5dc11",
+      "title": "VTDigger expands statewide news partnership with four southern Vermont newspapers",
+      "summary": "The growing network helps local newsrooms broaden coverage while bringing more stories from southern Vermont to readers statewide.\nRead the story on VTDigger here:  VTDigger expands statewide news partnership with four southern Vermont newspapers.",
+      "url": "https://vtdigger.org/2026/07/23/vtdigger-expands-statewide-news-partnership-with-four-southern-vermont-newspapers/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b396bbe7bbf9",
+      "title": "Vermont-born Broadway musical \u2018Hadestown\u2019 returns home \u2014 as a movie",
+      "summary": "Singer-songwriter Ana\u00efs Mitchell\u2019s modern take on ancient myths has traveled from a shoestring debut at Barre\u2019s Old Labor Hall 20 years ago to a five-night state and national cinema run starting Friday.\nRead the story on VTDigger here:  Vermont-born Broadway musical \u2018Hadestown\u2019 returns home \u2014 as a",
+      "url": "https://vtdigger.org/2026/07/23/vermont-born-broadway-musical-hadestown-returns-home-as-a-movie/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "37e789fce973",
+      "title": "Hooksett lowers tax incentives for Marmon development",
+      "summary": "The Hooksett Town Council reduced its business growth incentives for Marmon Defense this week compared with what it discussed with the Manchester-based firm last year.",
+      "url": "https://www.unionleader.com/news/local/hooksett/hooksett-lowers-tax-incentives-for-marmon-development/article_300e6901-3430-4f0c-9929-b57b1a7985cd.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-07-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f38a31baa9d0",
+      "title": "Explosion likely sparked fire at Bridgton home",
+      "summary": "A propane leak inside a home under construction on Dyvonne Terrace likely led to the fire, the Office of State Fire Marshal said.",
+      "url": "https://www.pressherald.com/2026/07/23/crews-respond-to-fire-explosion-at-bridgton-home/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bb08fb7f6852",
+      "title": "Portland boots contractor over delays with Riverton pool repairs",
+      "summary": "City staff said the contractor, Doten's Construction, 'failed to demonstrate the capacity or expertise' to complete the project.",
+      "url": "https://www.pressherald.com/2026/07/23/portland-boots-contractor-over-delays-with-riverton-pool-repairs/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-23",
@@ -484,48 +610,6 @@
       "url": "https://indepthnh.org/2026/07/22/c-span-republican-scott-brown-speaks-to-veterans-in-concord/",
       "source": "InDepthNH",
       "state": "NH",
-      "date": "2026-07-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "52e014a773db",
-      "title": "Southwick fiber-optic network project to start soon",
-      "summary": "With the Southwick Select Board approving a municipal agreement with Whip City Fiber during its meeting Monday to build a town-owned fiber optic network, the project\u2019s construction should start soon.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/southwick-fiber-optic-network-project-to-start-soon.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8a3b2cd1be2d",
-      "title": "Westfield Planning Board OKs outdoor equipment sales at Southampton Road",
-      "summary": "Westfield approved retail sales and indoor servicing of outdoor power equipment at 1026 Southampton Road under new permit conditions.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/westfield-planning-board-oks-outdoor-equipment-sales-at-southampton-road.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "77bd34ee3fdd",
-      "title": "Kohl's makes you walk through 2 aisles of impulse buys \u2014 and Reddit is done with it",
-      "summary": "A Reddit post about Kohl's pre-register aisles sparked a broader reckoning with the retail tricks engineered into every shopping trip.",
-      "url": "https://www.masslive.com/business/2026/07/reddit-users-slam-kohls-for-forcing-customers-through-impulse-gauntlet.html",
-      "source": "MassLive",
-      "state": "MA",
       "date": "2026-07-23",
       "category": "news",
       "priority": "medium",
@@ -576,20 +660,6 @@
       ]
     },
     {
-      "id": "ce9474ff41bf",
-      "title": "After Fatal ICE Shootings, Shaheen, Hassan Join Colleagues in Renewing Demands to DHS for Civilian Protections, Greater Transparency",
-      "summary": "The measures called for by the Senators are intended to help prevent future deadly encounters involving ICE enforcement officers\u2014and come after two recent fatal shootings during immigration enforcement operations in Biddeford, Maine, and Houston, Texas. \nThe post After Fatal ICE Shootings, Shaheen,",
-      "url": "https://indepthnh.org/2026/07/21/after-fatal-ice-shootings-shaheen-hassan-join-colleagues-in-renewing-demands-to-dhs-for-civilian-protections-greater-transparency/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-07-21",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
       "id": "c0eb4b8dcc80",
       "title": "Zoo Health Club fights eviction from Steeplegate Mall",
       "summary": "Zoo Health Club continues to fight eviction from the Steeplegate Mall in Concord as the owner plans to tear down most of the building to make way for a mixed-use development, including 600 apartments and a Costco Wholesale.",
@@ -612,20 +682,6 @@
       "state": "NH",
       "date": "2026-07-16",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "452dc9a85038",
-      "title": "State approves Hooksett Road expansion for 2031",
-      "summary": "About 1.5 miles of Route 28 just east of Southern New Hampshire University in Hooksett is going to be widened from two lanes to five, but the $30 million project is not scheduled to start until spring 2031.",
-      "url": "https://www.unionleader.com/news/local/hooksett/state-approves-hooksett-road-expansion-for-2031/article_8baa6c39-10e4-4204-ad3f-bb583cfc00b1.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-07-13",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
