@@ -1,23 +1,23 @@
 {
-  "generated": "2026-07-24T12:09:18.938830Z",
+  "generated": "2026-07-25T11:54:07.660219Z",
   "summary": {
-    "total_opportunities": 26,
-    "total_value_low": 425212250,
-    "total_value_high": 425212250,
+    "total_opportunities": 29,
+    "total_value_low": 444347643,
+    "total_value_high": 444347643,
     "by_state": {
-      "VT": 6,
+      "VT": 3,
       "NH": 5,
-      "ME": 7,
-      "MA": 17,
+      "ME": 6,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 23,
-      "news": 13,
-      "funding": 3
+      "dot_letting": 28,
+      "news": 11,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -213,6 +213,25 @@
       ]
     },
     {
+      "id": "c32ac2567a67",
+      "state": "MA",
+      "project_id": "614074",
+      "description": "Standpipe & Fire Safety Inspection, Testing and Repairs",
+      "cost_low": 1458100,
+      "cost_high": 1458100,
+      "cost_display": "$1.5M",
+      "ad_date": "2026-07-25",
+      "let_date": null,
+      "project_type": "DCAMM-Fire Protection Sprinkler Systems",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614074",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "0a5e59d23322",
       "state": "MA",
       "project_id": "616282",
@@ -264,6 +283,84 @@
       "location": "Chesterfield - Hinsdale - Middlefield - Pittsfield",
       "district": 1,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616286",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0b5c543cf161",
+      "state": "MA",
+      "project_id": "614098",
+      "description": "Bridge Deck Wearing Surface Repairs at Various Locations",
+      "cost_low": 2200250,
+      "cost_high": 2200250,
+      "cost_display": "$2.2M",
+      "ad_date": "2026-07-25",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Pavement - Surfacing",
+      "location": "District 3",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614098",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "13b0fc77049a",
+      "state": "MA",
+      "project_id": "613163",
+      "description": "Rail Trail Construction, from Ford Avenue to the Peabody City Line",
+      "cost_low": 4893928,
+      "cost_high": 4893928,
+      "cost_display": "$4.9M",
+      "ad_date": "2026-07-25",
+      "let_date": null,
+      "project_type": "Highway - Bike Paths",
+      "location": "Lynnfield",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613163",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c3e413e5d01d",
+      "state": "MA",
+      "project_id": "609277",
+      "description": "Reconstruction of Ashland Street",
+      "cost_low": 9118115,
+      "cost_high": 9118115,
+      "cost_display": "$9.1M",
+      "ad_date": "2026-07-25",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "North Adams",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609277",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f64c23af7ede",
+      "state": "MA",
+      "project_id": "614106",
+      "description": "Emergency and Scheduled Shielding, Shoring and Cribbing at Various Locations",
+      "cost_low": 1465000,
+      "cost_high": 1465000,
+      "cost_display": "$1.5M",
+      "ad_date": "2026-07-25",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614106",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -464,13 +561,41 @@
   ],
   "news": [
     {
-      "id": "6dae35620b5c",
-      "title": "Dumping Biddeford killing at Collins\u2019 feet is sick, unfair | Opinion",
-      "summary": "Last Sunday's vile editorial attempted to politicize a terrible tragedy.",
-      "url": "https://www.pressherald.com/2026/07/24/dumping-biddeford-killing-at-collins-feet-is-sick-unfair-opinion/",
+      "id": "579611ea6f83",
+      "title": "Sea Dogs stroll past Rumble Ponies",
+      "summary": "A six-run fifth inning is more than enough for Portland, which picks up another road win.",
+      "url": "https://www.pressherald.com/2026/07/24/sea-dogs-stroll-past-rumble-ponies/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a182279cadcf",
+      "title": "Choosing safety is about valuing each other",
+      "summary": "\u201cIn the split second when someone justifies driving a little faster, the people working on the road seem to disappear.\u201d",
+      "url": "https://www.bangordailynews.com/2026/07/25/opinion/opinion-contributor/choosing-safety-is-about-valuing-each-other-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-25",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "33255b484c1b",
+      "title": "Officials need help locating family after rabid bat interrupts restaurant meal",
+      "summary": "San Diego County health officials are searching for anyone who may have touched a rabid bat after it landed on a family\u2019s table inside the Yellow Deli Restaurant in Vista, California.",
+      "url": "https://www.masslive.com/news/2026/07/health-officials-seek-diners-after-rabid-bat-lands-on-california-restaurant-table.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-25",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -478,11 +603,25 @@
       ]
     },
     {
-      "id": "055c8f358ea5",
-      "title": "House with dramatic view of neighboring Penobscot Narrows Bridge listed for $595K",
-      "summary": "The Prospect property is among the closest to the landmark bridge\u00a0and has 745 feet of frontage on the Penobscot River.",
-      "url": "https://www.bangordailynews.com/2026/07/24/midcoast/midcoast-housing/house-with-view-of-penobscot-narrows-bridge-for-sale-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "d4df6b9f8945",
+      "title": "Pease Development Authority investigation clears Ports and Harbors director of harassment claims",
+      "summary": "The Pease Development Authority hired a law firm to conduct an independent investigation into at least two complaints regarding Director of Ports and Harbors Richard Hartley.",
+      "url": "https://www.unionleader.com/news/business/pease-development-authority-investigation-clears-ports-and-harbors-director-of-harassment-claims/article_ca1601e7-811b-443d-ae58-d634917410d1.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-07-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "99e55729d4a7",
+      "title": "Any pride I had as a taxpayer has been wrecked by ICE | Letter",
+      "summary": "Johan Sebasti\u00e1n Dur\u00e1n Guerrero\u2019s Facebook photo (Portland Press Herald, July 14), taken before the federal government gunned him to a bloody death on the streets of Biddeford, took my heart and entered my memory for life.\u00a0 I take strong pride in paying my federal taxes with the expectation that the",
+      "url": "https://www.pressherald.com/2026/07/24/any-pride-i-had-as-a-taxpayer-has-been-wrecked-by-ice-letter/",
+      "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-24",
       "category": "funding",
@@ -492,43 +631,44 @@
       ]
     },
     {
-      "id": "e2b101de5fff",
-      "title": "Eight years after deadliest antisemitic attack in US history, Tree of Life rabbi bids farewell",
-      "summary": "PITTSBURGH (AP) \u2014 After surviving the deadliest antisemitic attack in U.S. history, after presiding over multiple funerals for his slain congregants, Rabbi Jeffrey Myers struggled to pray. \u201cThere was this emptiness to it,\u201d recalls Myers, of Tree of Life Congregation in Pittsburgh. He turned to the b",
-      "url": "https://www.bangordailynews.com/2026/07/24/nation/eight-years-after-deadliest-antisemitic-attack-in-us-history-tree-of-life-rabbi-bids-farewell/",
-      "source": "Bangor Daily News",
+      "id": "bb2a9c85080f",
+      "title": "Here\u2019s what to know about the Buxton-Hollis bridge replacement",
+      "summary": "Reconstruction of the 80-year-old span that connects Hollis and Buxton will cause traffic delays and necessitate a detour.",
+      "url": "https://www.pressherald.com/2026/07/24/heres-what-to-know-about-the-buxton-hollis-bridge-replacement/",
+      "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-24",
       "category": "news",
       "priority": "high",
       "business_lines": [
-        "highway"
+        "highway",
+        "ready_mix"
       ]
     },
     {
-      "id": "b76c210f628e",
-      "title": "Canada is ready to celebrate new bridge to US amid tariff troubles with Trump",
-      "summary": "WINDSOR, Ontario (AP) \u2014 Officials are gathering Friday in Ontario to take delight in a new U.S.-Canada bridge over the Detroit River, an international span that is expected to enhance trade on both sides of the border and give travelers another route to both countries. A ceremony is taking place in",
-      "url": "https://www.bangordailynews.com/2026/07/24/nation/canada-is-ready-to-celebrate-new-bridge-to-us-amid-tariff-troubles-with-trump/",
-      "source": "Bangor Daily News",
+      "id": "3bd0d02c2cd2",
+      "title": "After delay, Portland Congress Square work will stretch through August",
+      "summary": "The latest delay was caused by an unidentified utility line under the roadway.",
+      "url": "https://www.pressherald.com/2026/07/24/after-delay-portland-congress-square-work-will-stretch-through-august/",
+      "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-24",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "1c35edfdc933",
-      "title": "In spilt vote, Select Board approves an additional-year contract for CAO Nicole Parker",
-      "summary": "In a split vote, the Southwick Select Board approved offering Chief Administrative Officer Nicole Parker a one-year contract to go into effect on June 30, 2027, which is the conclusion of her three-year contract, because the board didn\u2019t abide by its terms that included evaluating her performance.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/in-spilt-vote-select-board-approves-an-additional-year-contract-for-cao-nicole-parker.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "9150cecc950d",
+      "title": "PDA: Investigation of Ports and Harbors Director Hartley Finds No Harassment; Legislator Questions Probe",
+      "summary": "There was no harassment or retaliation by Ports and Harbors Director Richard Hartley as alleged by one former and one present employee, according to a statement by the Pease Development Authority released Friday.\nThe post PDA: Investigation of Ports and Harbors Director Hartley Finds No Harassment;",
+      "url": "https://indepthnh.org/2026/07/24/pda-investigation-of-ports-and-harbors-director-hartley-finds-no-harassment-legislator-questions-probe/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-07-24",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -576,34 +716,6 @@
       ]
     },
     {
-      "id": "f38a31baa9d0",
-      "title": "Explosion likely sparked fire at Bridgton home",
-      "summary": "A propane leak inside a home under construction on Dyvonne Terrace likely led to the fire, the Office of State Fire Marshal said.",
-      "url": "https://www.pressherald.com/2026/07/23/crews-respond-to-fire-explosion-at-bridgton-home/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bb08fb7f6852",
-      "title": "Portland boots contractor over delays with Riverton pool repairs",
-      "summary": "City staff said the contractor, Doten's Construction, 'failed to demonstrate the capacity or expertise' to complete the project.",
-      "url": "https://www.pressherald.com/2026/07/23/portland-boots-contractor-over-delays-with-riverton-pool-repairs/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-23",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "0705801832de",
       "title": "C-SPAN: Republican Scott Brown Speaks to Veterans in Concord",
       "summary": "InDepthNH.org is partnering with C-SPAN's Campaign 2026\u00a0imitative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail. Please watch for video of the candidates in which C-SPAN will provide nonprofit newsrooms with free access to on-the-ground election coverage\nThe post C-SPAN: Republica",
@@ -611,76 +723,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-07-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5ea3cddf40a5",
-      "title": "\u2018A step forward\u2019: Deep in the new federal housing law, changes to disaster recovery funding are brewing",
-      "summary": "Although the new law about the Department of Housing and Urban Development\u2019s long-term disaster recovery program leaves key questions open, experts say it moves in the right direction.\nRead the story on VTDigger here:  \u2018A step forward\u2019: Deep in the new federal housing law, changes to disaster recov",
-      "url": "https://vtdigger.org/2026/07/22/a-step-forward-deep-in-the-new-federal-housing-law-changes-to-disaster-recovery-funding-are-brewing/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-22",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "935e865865ad",
-      "title": "Brattleboro weighs a municipal tax hike to aid the local hospital\u2019s endangered birthing center",
-      "summary": "The selectboard may hold a special Town Meeting to ask residents to help subsidize a facility that\u2019s losing money due to cost and staffing challenges and declining births.\nRead the story on VTDigger here:  Brattleboro weighs a municipal tax hike to aid the local hospital\u2019s endangered birthing cente",
-      "url": "https://vtdigger.org/2026/07/22/brattleboro-weighs-a-municipal-tax-hike-to-aid-the-local-hospitals-endangered-birthing-center/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "abdc04d2f376",
-      "title": "Judge denies bid by suspect\u2019s lawyers in border patrol agent killing to change records screening process",
-      "summary": "Attorneys for Teresa Youngblut had called on the federal judge overseeing the death penalty case in Vermont to set a new system after what they described as \u201cfailures\u201d with the current method.\nRead the story on VTDigger here:  Judge denies bid by suspect\u2019s lawyers in border patrol agent killing to",
-      "url": "https://vtdigger.org/2026/07/21/judge-denies-bid-by-suspects-lawyers-in-border-patrol-agent-killing-to-change-records-screening-process/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-21",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c0eb4b8dcc80",
-      "title": "Zoo Health Club fights eviction from Steeplegate Mall",
-      "summary": "Zoo Health Club continues to fight eviction from the Steeplegate Mall in Concord as the owner plans to tear down most of the building to make way for a mixed-use development, including 600 apartments and a Costco Wholesale.",
-      "url": "https://www.unionleader.com/news/business/zoo-health-club-fights-eviction-from-steeplegate-mall/article_224d4c33-c56e-403c-af4d-4b6ecdafd56b.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-07-17",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e5b77ef152a3",
-      "title": "SNHU to sell building and parking garage in Manchester's Millyard",
-      "summary": "Southern New Hampshire University will move all of its offices and operations to its main campus on North River Road in Manchester as part of a plan to sell its Millyard building and six-story parking garage.",
-      "url": "https://www.unionleader.com/news/business/snhu-to-sell-building-and-parking-garage-in-manchesters-millyard/article_f89ed25a-91d6-4a83-845b-afb3f6c0fffb.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-07-16",
       "category": "news",
       "priority": "medium",
       "business_lines": [
