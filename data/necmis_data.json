@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-26T11:51:10.323692Z",
+  "generated": "2026-07-27T13:30:26.539228Z",
   "summary": {
-    "total_opportunities": 29,
+    "total_opportunities": 28,
     "total_value_low": 444347643,
     "total_value_high": 444347643,
     "by_state": {
-      "VT": 3,
+      "VT": 2,
       "NH": 4,
-      "ME": 2,
-      "MA": 22,
+      "ME": 3,
+      "MA": 21,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 28,
       "news": 6,
-      "funding": 1
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -561,31 +561,31 @@
   ],
   "news": [
     {
-      "id": "9c789fdef5ff",
-      "title": "Despite protests and pleas, Biddeford waits on ICE to investigate itself after shooting",
-      "summary": "The sense that an opaque federal agency can kill with impunity has gripped residents and local officials now debating whether they're doing enough to prevent another tragedy \u2014 or if they can do anything at all.",
-      "url": "https://www.pressherald.com/2026/07/26/despite-protests-and-pleas-biddeford-waits-on-ice-to-investigate-itself-after-shooting/",
+      "id": "189f52274684",
+      "title": "Vetting of ICE agent in Biddeford shooting is part of investigation, Trump official says",
+      "summary": "If accusations of past violent behavior against David Brouillette are true, then he 'should not have cleared vetting,' border czar Tom Homan said.",
+      "url": "https://www.pressherald.com/2026/07/27/vetting-of-ice-agent-in-biddeford-shooting-is-part-of-investigation-trump-official-says/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-26",
-      "category": "funding",
+      "date": "2026-07-27",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "be99820e8239",
-      "title": "Country music singer making a comeback after hiatus: \u2018We\u2019re hitting the pavement\u2019",
-      "summary": "The 30-year-old singer stepped away from the stage earlier this year.",
-      "url": "https://www.masslive.com/entertainment/2026/07/country-music-singer-making-a-comeback-after-hiatus-were-hitting-the-pavement.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-26",
+      "id": "13aab8a78985",
+      "title": "Historic land deal clinched, conserving 78K acres in western Maine",
+      "summary": "The Magalloway project is one of Maine's biggest conservation victories in a decade, protecting remote forests and prime trout streams from development.",
+      "url": "https://www.pressherald.com/2026/07/27/historic-land-deal-clinched-conserving-78k-acres-in-western-maine/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-27",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "hma"
+        "highway"
       ]
     },
     {
@@ -621,20 +621,6 @@
       "title": "VTDigger expands statewide news partnership with four southern Vermont newspapers",
       "summary": "The growing network helps local newsrooms broaden coverage while bringing more stories from southern Vermont to readers statewide.\nRead the story on VTDigger here:  VTDigger expands statewide news partnership with four southern Vermont newspapers.",
       "url": "https://vtdigger.org/2026/07/23/vtdigger-expands-statewide-news-partnership-with-four-southern-vermont-newspapers/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b396bbe7bbf9",
-      "title": "Vermont-born Broadway musical \u2018Hadestown\u2019 returns home \u2014 as a movie",
-      "summary": "Singer-songwriter Ana\u00efs Mitchell\u2019s modern take on ancient myths has traveled from a shoestring debut at Barre\u2019s Old Labor Hall 20 years ago to a five-night state and national cinema run starting Friday.\nRead the story on VTDigger here:  Vermont-born Broadway musical \u2018Hadestown\u2019 returns home \u2014 as a",
-      "url": "https://vtdigger.org/2026/07/23/vermont-born-broadway-musical-hadestown-returns-home-as-a-movie/",
       "source": "VTDigger",
       "state": "VT",
       "date": "2026-07-23",
