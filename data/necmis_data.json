@@ -1,13 +1,13 @@
 {
-  "generated": "2026-07-27T13:30:26.539228Z",
+  "generated": "2026-07-28T12:27:36.760430Z",
   "summary": {
     "total_opportunities": 28,
     "total_value_low": 444347643,
     "total_value_high": 444347643,
     "by_state": {
-      "VT": 2,
-      "NH": 4,
-      "ME": 3,
+      "VT": 1,
+      "NH": 5,
+      "ME": 4,
       "MA": 21,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 28,
-      "news": 6,
+      "news": 7,
       "funding": 0
     }
   },
@@ -38,26 +38,6 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "3f38dc4bfee0",
-      "state": "MA",
-      "project_id": "609213",
-      "description": "Resurfacing and Box Widening on Ayer Road, from Route 2 to the Ayer Town Line",
-      "cost_low": 9976550,
-      "cost_high": 9976550,
-      "cost_display": "$10.0M",
-      "ad_date": "2026-06-27",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Harvard",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609213",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
       ]
     },
     {
@@ -229,6 +209,26 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "3f38dc4bfee0",
+      "state": "MA",
+      "project_id": "609213",
+      "description": "Resurfacing and Box Widening on Ayer Road, from Route 2 to the Ayer Town Line",
+      "cost_low": 9976550,
+      "cost_high": 9976550,
+      "cost_display": "$10.0M",
+      "ad_date": "2026-06-27",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Harvard",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609213",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
       ]
     },
     {
@@ -561,13 +561,13 @@
   ],
   "news": [
     {
-      "id": "189f52274684",
-      "title": "Vetting of ICE agent in Biddeford shooting is part of investigation, Trump official says",
-      "summary": "If accusations of past violent behavior against David Brouillette are true, then he 'should not have cleared vetting,' border czar Tom Homan said.",
-      "url": "https://www.pressherald.com/2026/07/27/vetting-of-ice-agent-in-biddeford-shooting-is-part-of-investigation-trump-official-says/",
+      "id": "710233ad16ae",
+      "title": "Biddeford organizations fear upheaval from proposed community center changes",
+      "summary": "Parks and Recreation Director Lisa Thompson says high demand for space is making a reconfiguration necessary. But groups like Meals on Wheels and the Biddeford Cultural and Heritage Center worry they could lose vital access.",
+      "url": "https://www.pressherald.com/2026/07/28/biddeford-organizations-fear-upheaval-from-proposed-community-center-changes/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -575,17 +575,45 @@
       ]
     },
     {
-      "id": "13aab8a78985",
-      "title": "Historic land deal clinched, conserving 78K acres in western Maine",
-      "summary": "The Magalloway project is one of Maine's biggest conservation victories in a decade, protecting remote forests and prime trout streams from development.",
-      "url": "https://www.pressherald.com/2026/07/27/historic-land-deal-clinched-conserving-78k-acres-in-western-maine/",
-      "source": "Portland Press Herald",
+      "id": "2b39c7bd6455",
+      "title": "ICE agent in Biddeford shooting had \u2018too many red flags\u2019 to become local\u00a0cop",
+      "summary": "Reports that David Brouillette shot and killed a man while working for U.S. Immigration and Customs Enforcement have pushed concerns about his past into a national spotlight.",
+      "url": "https://www.bangordailynews.com/2026/07/28/york/york-police-courts/ice-agent-biddeford-shooting-red-flags/",
+      "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-07-28",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "70203cbf6b49",
+      "title": "The Fox Run mall in Newington is on the road to rubble",
+      "summary": "Complete demolition of the Mall at Fox Run and its adjacent Newington Shopping Center is set to be complete by the end of 2026, making way for the development of Seacoast Landing, a sprawling mixed-use retail project.",
+      "url": "https://www.unionleader.com/news/business/the-fox-run-mall-in-newington-is-on-the-road-to-rubble/article_8bcdae88-aded-4615-9d75-a3511726728a.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-07-27",
       "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "37ab28277d58",
+      "title": "ICE agent in Biddeford shooting had \u2018too many red flags\u2019 to become local cop",
+      "summary": "Reports that David Brouillette shot and killed a man while working for U.S. Immigration and Customs Enforcement have pushed concerns about his past into a national spotlight.",
+      "url": "https://www.pressherald.com/2026/07/27/ice-agent-in-biddeford-shooting-had-too-many-red-flags-to-become-local-cop/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-27",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "ready_mix"
       ]
     },
     {
@@ -610,20 +638,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-07-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "913062f5dc11",
-      "title": "VTDigger expands statewide news partnership with four southern Vermont newspapers",
-      "summary": "The growing network helps local newsrooms broaden coverage while bringing more stories from southern Vermont to readers statewide.\nRead the story on VTDigger here:  VTDigger expands statewide news partnership with four southern Vermont newspapers.",
-      "url": "https://vtdigger.org/2026/07/23/vtdigger-expands-statewide-news-partnership-with-four-southern-vermont-newspapers/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-23",
       "category": "news",
       "priority": "medium",
       "business_lines": [
