@@ -1,64 +1,26 @@
 {
-  "generated": "2026-07-28T12:27:36.760430Z",
+  "generated": "2026-07-29T12:52:18.122885Z",
   "summary": {
-    "total_opportunities": 28,
-    "total_value_low": 444347643,
-    "total_value_high": 444347643,
+    "total_opportunities": 27,
+    "total_value_low": 438538505,
+    "total_value_high": 438538505,
     "by_state": {
-      "VT": 1,
-      "NH": 5,
-      "ME": 4,
-      "MA": 21,
+      "VT": 2,
+      "NH": 4,
+      "ME": 7,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 28,
-      "news": 7,
-      "funding": 0
+      "dot_letting": 26,
+      "news": 10,
+      "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "a92c92d8b37b",
-      "state": "MA",
-      "project_id": "614090",
-      "description": "Bridge Preservation, F-02-065, Fourth Street over I-195",
-      "cost_low": 1884510,
-      "cost_high": 1884510,
-      "cost_display": "$1.9M",
-      "ad_date": "2026-06-20",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Fall River",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614090",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fc205f67d268",
-      "state": "MA",
-      "project_id": "610535",
-      "description": "Pedestrian and Bicycle Improvements on Pleasant Street",
-      "cost_low": 3924628,
-      "cost_high": 3924628,
-      "cost_display": "$3.9M",
-      "ad_date": "2026-06-27",
-      "let_date": null,
-      "project_type": "Highway - Construction , Highway - Bike Paths",
-      "location": "Worcester",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610535",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "a7c7f3901d4c",
       "state": "MA",
@@ -561,13 +523,27 @@
   ],
   "news": [
     {
-      "id": "710233ad16ae",
-      "title": "Biddeford organizations fear upheaval from proposed community center changes",
-      "summary": "Parks and Recreation Director Lisa Thompson says high demand for space is making a reconfiguration necessary. But groups like Meals on Wheels and the Biddeford Cultural and Heritage Center worry they could lose vital access.",
-      "url": "https://www.pressherald.com/2026/07/28/biddeford-organizations-fear-upheaval-from-proposed-community-center-changes/",
+      "id": "6f2f4d2d7577",
+      "title": "Portland launches strategic plan for urban forest areas as risks persist",
+      "summary": "The city has partnered with the Portland Parks Conservancy and a consulting firm to identify ways to better protect trees against pests, climate change and development.",
+      "url": "https://www.pressherald.com/2026/07/29/portland-launches-strategic-plan-for-urban-forest-areas-as-risks-persist/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d5ec7cbfe139",
+      "title": "No, Maine kids are not alright | Opinion",
+      "summary": "The tragic loss in Biddeford is a reminder that we need to call on Maine's elected officials to prioritize the safety and security of all our children.",
+      "url": "https://www.pressherald.com/2026/07/29/no-maine-kids-are-not-alright-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-29",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -575,17 +551,87 @@
       ]
     },
     {
-      "id": "2b39c7bd6455",
-      "title": "ICE agent in Biddeford shooting had \u2018too many red flags\u2019 to become local\u00a0cop",
-      "summary": "Reports that David Brouillette shot and killed a man while working for U.S. Immigration and Customs Enforcement have pushed concerns about his past into a national spotlight.",
-      "url": "https://www.bangordailynews.com/2026/07/28/york/york-police-courts/ice-agent-biddeford-shooting-red-flags/",
-      "source": "Bangor Daily News",
+      "id": "c95ce07347b0",
+      "title": "What does the Hearts of Pine statement about the Biddeford shooting represent?",
+      "summary": "The club's call for ICE to be held accountable for the killing of a Biddeford man puts them in a small minority of pro sports teams to take a stand on human rights issues.",
+      "url": "https://www.pressherald.com/2026/07/29/what-does-the-hearts-of-pine-statement-about-the-biddeford-shooting-represent/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "category": "news",
       "priority": "high",
       "business_lines": [
-        "ready_mix"
+        "highway"
+      ]
+    },
+    {
+      "id": "daa95a078595",
+      "title": "ICE tactics raise alarms in wake of Biddeford shooting",
+      "summary": "The agent who allegedly shot Johan Sebasti\u00e1n Dur\u00e1n Guerrero had stopped another father in a similar circumstance just over a month prior.",
+      "url": "https://www.pressherald.com/2026/07/29/ice-tactics-raise-alarms-in-wake-of-biddeford-shooting/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-07-29",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1681cc2b40bd",
+      "title": "ICE agent who killed Biddeford\u00a0man left a trail of disputed arrests",
+      "summary": "The BDN reviewed records from four of David Brouillette's past arrests to better understand his conduct during his first months on the job.",
+      "url": "https://www.bangordailynews.com/2026/07/29/mainefocus/mainefocus-police-courts/ice-agent-fatal-biddeford-shooting-disputed-arrests-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-29",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "98b5f3b9abe1",
+      "title": "Why plastic traffic posts are suddenly popping up across Greater Bangor",
+      "summary": "The bollards appeared around the same time on roads in Bangor, Orono, Bradley, Veazie and Hampden.",
+      "url": "https://www.bangordailynews.com/2026/07/29/bangor/bangor-health/plastic-traffic-post-greater-bangor-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "66eb43ea4833",
+      "title": "Police searching for driver who hit bicyclist on Mass. highway",
+      "summary": "After the collision, the driver braked for a brief period, then continued driving into the next town.",
+      "url": "https://www.masslive.com/news/2026/07/police-searching-for-driver-who-hit-bicyclist-on-mass-highway.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-29",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1d1c53c88193",
+      "title": "Judge finds Vermont\u2019s federal grants can\u2019t be rescinded if political priorities shift",
+      "summary": "\u201cThis ruling is an important step toward protecting Vermont\u2019s federal funding, now and in the future, from arbitrary termination based on the shifting priorities of the Trump Administration,\u201d Vermont Attorney General Charity Clark wrote. \nRead the story on VTDigger here:  Judge finds Vermont\u2019s fede",
+      "url": "https://vtdigger.org/2026/07/28/judge-finds-vermonts-federal-grants-cant-be-rescinded-if-political-priorities-shift/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-07-28",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -603,39 +649,11 @@
       ]
     },
     {
-      "id": "37ab28277d58",
-      "title": "ICE agent in Biddeford shooting had \u2018too many red flags\u2019 to become local cop",
-      "summary": "Reports that David Brouillette shot and killed a man while working for U.S. Immigration and Customs Enforcement have pushed concerns about his past into a national spotlight.",
-      "url": "https://www.pressherald.com/2026/07/27/ice-agent-in-biddeford-shooting-had-too-many-red-flags-to-become-local-cop/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-27",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
       "id": "d4df6b9f8945",
       "title": "Pease Development Authority investigation clears Ports and Harbors director of harassment claims",
       "summary": "The Pease Development Authority hired a law firm to conduct an independent investigation into at least two complaints regarding Director of Ports and Harbors Richard Hartley.",
       "url": "https://www.unionleader.com/news/business/pease-development-authority-investigation-clears-ports-and-harbors-director-of-harassment-claims/article_ca1601e7-811b-443d-ae58-d634917410d1.html",
       "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-07-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9150cecc950d",
-      "title": "PDA: Investigation of Ports and Harbors Director Hartley Finds No Harassment; Legislator Questions Probe",
-      "summary": "There was no harassment or retaliation by Ports and Harbors Director Richard Hartley as alleged by one former and one present employee, according to a statement by the Pease Development Authority released Friday.\nThe post PDA: Investigation of Ports and Harbors Director Hartley Finds No Harassment;",
-      "url": "https://indepthnh.org/2026/07/24/pda-investigation-of-ports-and-harbors-director-hartley-finds-no-harassment-legislator-questions-probe/",
-      "source": "InDepthNH",
       "state": "NH",
       "date": "2026-07-24",
       "category": "news",
