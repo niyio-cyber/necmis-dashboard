@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-29T12:52:18.122885Z",
+  "generated": "2026-07-30T12:19:59.181691Z",
   "summary": {
-    "total_opportunities": 27,
+    "total_opportunities": 28,
     "total_value_low": 438538505,
     "total_value_high": 438538505,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 4,
-      "ME": 7,
-      "MA": 20,
+      "ME": 4,
+      "MA": 19,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 10,
-      "funding": 1
+      "news": 6,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -523,26 +523,40 @@
   ],
   "news": [
     {
-      "id": "6f2f4d2d7577",
-      "title": "Portland launches strategic plan for urban forest areas as risks persist",
-      "summary": "The city has partnered with the Portland Parks Conservancy and a consulting firm to identify ways to better protect trees against pests, climate change and development.",
-      "url": "https://www.pressherald.com/2026/07/29/portland-launches-strategic-plan-for-urban-forest-areas-as-risks-persist/",
+      "id": "b1119b2e512c",
+      "title": "Bipartisan federal housing bill offers a model to follow | Douglas Rooks",
+      "summary": "The spirit of cooperation shown during the passage of the 21st Century ROAD to Housing Act should be applied to immigration policy.",
+      "url": "https://www.pressherald.com/2026/07/30/bipartisan-federal-housing-bill-is-a-model-to-follow-douglas-rooks/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-29",
-      "category": "news",
+      "date": "2026-07-30",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "d5ec7cbfe139",
-      "title": "No, Maine kids are not alright | Opinion",
-      "summary": "The tragic loss in Biddeford is a reminder that we need to call on Maine's elected officials to prioritize the safety and security of all our children.",
-      "url": "https://www.pressherald.com/2026/07/29/no-maine-kids-are-not-alright-opinion/",
+      "id": "bebcc35ed9ea",
+      "title": "After Biddeford shooting, Mainers turn their anger on ICE facility in Scarborough",
+      "summary": "The Town Council passed a proclamation calling on Maine's congressional delegation to evaluate the necessity of having the ICE facility in town.",
+      "url": "https://www.pressherald.com/2026/07/29/after-ice-shooting-mainers-turn-their-anger-to-ice-facility-in-scarborough-2/",
       "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-07-30",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7956633cbca3",
+      "title": "Vermont Conversation: Author Chris Bohjalian on writing, activism and challenging the language of genocide",
+      "summary": "Bohjalian, who lives in Weybridge, tells aspiring writers to be persistent in their craft. \u201cWrite because you love it. Write in the genre you love to read. Write every day.\u201d\nRead the story on VTDigger here:  Vermont Conversation: Author Chris Bohjalian on writing, activism and challenging the langu",
+      "url": "https://vtdigger.org/2026/07/29/vermont-conversation-author-chris-bohjalian-on-writing-activism-and-challenging-the-language-of-genocide/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-07-29",
       "category": "news",
       "priority": "high",
@@ -551,71 +565,15 @@
       ]
     },
     {
-      "id": "c95ce07347b0",
-      "title": "What does the Hearts of Pine statement about the Biddeford shooting represent?",
-      "summary": "The club's call for ICE to be held accountable for the killing of a Biddeford man puts them in a small minority of pro sports teams to take a stand on human rights issues.",
-      "url": "https://www.pressherald.com/2026/07/29/what-does-the-hearts-of-pine-statement-about-the-biddeford-shooting-represent/",
+      "id": "f7e376f76470",
+      "title": "Could a Maine court case lead to broader campaign finance reform?",
+      "summary": "It would take a lot more litigating, but advocates say the potential is there.",
+      "url": "https://www.pressherald.com/2026/07/29/could-a-maine-court-case-lead-to-broader-campaign-finance-reform/",
       "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-29",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "daa95a078595",
-      "title": "ICE tactics raise alarms in wake of Biddeford shooting",
-      "summary": "The agent who allegedly shot Johan Sebasti\u00e1n Dur\u00e1n Guerrero had stopped another father in a similar circumstance just over a month prior.",
-      "url": "https://www.pressherald.com/2026/07/29/ice-tactics-raise-alarms-in-wake-of-biddeford-shooting/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-29",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1681cc2b40bd",
-      "title": "ICE agent who killed Biddeford\u00a0man left a trail of disputed arrests",
-      "summary": "The BDN reviewed records from four of David Brouillette's past arrests to better understand his conduct during his first months on the job.",
-      "url": "https://www.bangordailynews.com/2026/07/29/mainefocus/mainefocus-police-courts/ice-agent-fatal-biddeford-shooting-disputed-arrests-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-29",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "98b5f3b9abe1",
-      "title": "Why plastic traffic posts are suddenly popping up across Greater Bangor",
-      "summary": "The bollards appeared around the same time on roads in Bangor, Orono, Bradley, Veazie and Hampden.",
-      "url": "https://www.bangordailynews.com/2026/07/29/bangor/bangor-health/plastic-traffic-post-greater-bangor-joam40zk0w/",
-      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-07-29",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "66eb43ea4833",
-      "title": "Police searching for driver who hit bicyclist on Mass. highway",
-      "summary": "After the collision, the driver braked for a brief period, then continued driving into the next town.",
-      "url": "https://www.masslive.com/news/2026/07/police-searching-for-driver-who-hit-bicyclist-on-mass-highway.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-29",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
