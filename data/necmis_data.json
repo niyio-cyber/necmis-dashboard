@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-30T12:19:59.181691Z",
+  "generated": "2026-07-31T12:49:15.429106Z",
   "summary": {
-    "total_opportunities": 28,
+    "total_opportunities": 27,
     "total_value_low": 438538505,
     "total_value_high": 438538505,
     "by_state": {
       "VT": 3,
       "NH": 4,
       "ME": 4,
-      "MA": 19,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 6,
-      "funding": 2
+      "news": 8,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -523,29 +523,58 @@
   ],
   "news": [
     {
-      "id": "b1119b2e512c",
-      "title": "Bipartisan federal housing bill offers a model to follow | Douglas Rooks",
-      "summary": "The spirit of cooperation shown during the passage of the 21st Century ROAD to Housing Act should be applied to immigration policy.",
-      "url": "https://www.pressherald.com/2026/07/30/bipartisan-federal-housing-bill-is-a-model-to-follow-douglas-rooks/",
+      "id": "8d2ce3ec1689",
+      "title": "Maine DHHS should pause Lifespan Waiver | Opinion",
+      "summary": "While its goals to help individuals with intellectual and developmental disabilities are laudable, more time is needed to address key concerns.",
+      "url": "https://www.pressherald.com/2026/07/31/maine-dhhs-should-pause-lifespan-waiver-opinion/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-07-30",
-      "category": "funding",
+      "date": "2026-07-31",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "bebcc35ed9ea",
-      "title": "After Biddeford shooting, Mainers turn their anger on ICE facility in Scarborough",
-      "summary": "The Town Council passed a proclamation calling on Maine's congressional delegation to evaluate the necessity of having the ICE facility in town.",
-      "url": "https://www.pressherald.com/2026/07/29/after-ice-shooting-mainers-turn-their-anger-to-ice-facility-in-scarborough-2/",
-      "source": "Portland Press Herald",
+      "id": "4692e5db8268",
+      "title": "Main Street bridge in Caribou closed until November",
+      "summary": "The culvert will be replaced with a wider concrete arch designed to allow moose, deer and other large animals to pass under Route 164.",
+      "url": "https://www.bangordailynews.com/2026/07/31/aroostook/aroostook-government/main-street-bridge-caribou-closed-joam40zk0w/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "e76ddffd9732",
+      "title": "Letter: Maine roads need to be cleared of vegetation",
+      "summary": "\u201cAlong miles of state roads, highways and interstates, trees, brush, and tall grass have been allowed to grow mostly unchecked it seems, creating a serious safety hazard that should no longer be ignored.\u201d",
+      "url": "https://www.bangordailynews.com/2026/07/31/opinion/letters/letter-maine-roads-need-to-be-cleared-of-vegetation-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-07-31",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a3653697566e",
+      "title": "Public asked to stay off Westfield athletic fields amid ongoing construction",
+      "summary": "Officials urge the public to avoid Westfield High's new fields during construction for safety and to prevent project delays.",
+      "url": "https://www.masslive.com/westfieldnews/2026/07/public-asked-to-stay-off-westfield-athletic-fields-amid-ongoing-construction.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-07-31",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -560,20 +589,6 @@
       "date": "2026-07-29",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f7e376f76470",
-      "title": "Could a Maine court case lead to broader campaign finance reform?",
-      "summary": "It would take a lot more litigating, but advocates say the potential is there.",
-      "url": "https://www.pressherald.com/2026/07/29/could-a-maine-court-case-lead-to-broader-campaign-finance-reform/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-29",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
