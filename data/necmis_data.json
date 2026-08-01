@@ -1,23 +1,23 @@
 {
-  "generated": "2026-07-31T12:49:15.429106Z",
+  "generated": "2026-08-01T11:52:54.546100Z",
   "summary": {
-    "total_opportunities": 27,
-    "total_value_low": 438538505,
-    "total_value_high": 438538505,
+    "total_opportunities": 30,
+    "total_value_low": 459910533,
+    "total_value_high": 459910533,
     "by_state": {
-      "VT": 3,
-      "NH": 4,
-      "ME": 4,
-      "MA": 20,
+      "VT": 2,
+      "NH": 3,
+      "ME": 6,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 26,
-      "news": 8,
-      "funding": 1
+      "dot_letting": 30,
+      "news": 9,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -329,6 +329,82 @@
       ]
     },
     {
+      "id": "fdca6d7fbf17",
+      "state": "MA",
+      "project_id": "610544",
+      "description": "Multi-Use Path Construction of Independence Greenway at I-95 and Route 1",
+      "cost_low": 19203859,
+      "cost_high": 19203859,
+      "cost_display": "$19.2M",
+      "ad_date": "2026-08-01",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Highway - Construction",
+      "location": "Peabody",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610544",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d00e5adf2233",
+      "state": "MA",
+      "project_id": "614241",
+      "description": "VRU Crosswalk Installation at State Signals at Multiple Locations",
+      "cost_low": 423450,
+      "cost_high": 423450,
+      "cost_display": "$423K",
+      "ad_date": "2026-08-01",
+      "let_date": null,
+      "project_type": "Highway - Sidewalk And Curbing",
+      "location": "District 2",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614241",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c517565aa890",
+      "state": "MA",
+      "project_id": "614242",
+      "description": "VRU Crosswalk Installation at State Signals at Multiple Locations",
+      "cost_low": 791400,
+      "cost_high": 791400,
+      "cost_display": "$791K",
+      "ad_date": "2026-08-01",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614242",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d7088c1b8c28",
+      "state": "MA",
+      "project_id": "614243",
+      "description": "VRU Crosswalk Installation at State Signals at Multiple Locations",
+      "cost_low": 953319,
+      "cost_high": 953319,
+      "cost_display": "$953K",
+      "ad_date": "2026-08-01",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614243",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "b35fd9456642",
       "state": "MA",
       "project_id": "609193",
@@ -523,60 +599,88 @@
   ],
   "news": [
     {
-      "id": "8d2ce3ec1689",
-      "title": "Maine DHHS should pause Lifespan Waiver | Opinion",
-      "summary": "While its goals to help individuals with intellectual and developmental disabilities are laudable, more time is needed to address key concerns.",
-      "url": "https://www.pressherald.com/2026/07/31/maine-dhhs-should-pause-lifespan-waiver-opinion/",
+      "id": "b63b3a47d7c1",
+      "title": "Pleased with Portland\u2019s new paving | Letter",
+      "summary": "I am loving all the freshly paved roads in Portland and the surrounding areas. It\u2019s wonderful to drive on them. I want to thank Portland Public Works and the Maine Department of Transportation. I appreciate their hard work.\u00a0 Jennifer TuchinskyPortland",
+      "url": "https://www.pressherald.com/2026/08/01/pleased-with-portlands-new-paving-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-01",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway",
+        "hma"
+      ]
+    },
+    {
+      "id": "73d2f69b9db8",
+      "title": "The harrowing truth about Trump, ICE | Letter",
+      "summary": "Regarding the ICE killing in Biddeford, everyone should remember that President Donald Trump and the Republicans in Congress are OK with ICE killing people. If they weren\u2019t, they\u2019d stop it. It\u2019s that simple. Jack\u00a0WaltonPalm Springs, Calif.",
+      "url": "https://www.pressherald.com/2026/08/01/the-harrowing-truth-about-trump-ice-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-01",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fc6774baddbf",
+      "title": "Red Sox keep rolling, take opener against Dodgers",
+      "summary": "A five-run seventh inning lifts Boston to another road victory.",
+      "url": "https://www.pressherald.com/2026/08/01/red-sox-keep-rolling-take-opener-against-dodgers/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ca4bc42697b2",
+      "title": "Letter: Trapping is inhumane",
+      "summary": "\u201cWhy is this activity considered a sport or even permitted?\u201d",
+      "url": "https://www.bangordailynews.com/2026/08/01/opinion/letters/letter-trapping-is-inhumane-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "28a6f2e76505",
+      "title": "Americans give Republicans and Democrats brutal ratings on #1 issue: New poll",
+      "summary": "Voters are split when it comes to each party\u2019s handling of broad economic issues",
+      "url": "https://www.masslive.com/politics/2026/08/americans-give-republicans-and-democrats-brutal-ratings-on-1-issue-new-poll.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4e59817b41a6",
+      "title": "As a Gorham quarry pursues expansion, neighbors push back",
+      "summary": "The town will hire a consultant to see how Gorham's ordinances that regulate the Brickyard Quarry compare to other municipalities.",
+      "url": "https://www.pressherald.com/2026/07/31/as-a-gorham-quarry-pursues-expansion-neighbors-push-back/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-07-31",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4692e5db8268",
-      "title": "Main Street bridge in Caribou closed until November",
-      "summary": "The culvert will be replaced with a wider concrete arch designed to allow moose, deer and other large animals to pass under Route 164.",
-      "url": "https://www.bangordailynews.com/2026/07/31/aroostook/aroostook-government/main-street-bridge-caribou-closed-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-31",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "e76ddffd9732",
-      "title": "Letter: Maine roads need to be cleared of vegetation",
-      "summary": "\u201cAlong miles of state roads, highways and interstates, trees, brush, and tall grass have been allowed to grow mostly unchecked it seems, creating a serious safety hazard that should no longer be ignored.\u201d",
-      "url": "https://www.bangordailynews.com/2026/07/31/opinion/letters/letter-maine-roads-need-to-be-cleared-of-vegetation-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-07-31",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a3653697566e",
-      "title": "Public asked to stay off Westfield athletic fields amid ongoing construction",
-      "summary": "Officials urge the public to avoid Westfield High's new fields during construction for safety and to prevent project delays.",
-      "url": "https://www.masslive.com/westfieldnews/2026/07/public-asked-to-stay-off-westfield-athletic-fields-amid-ongoing-construction.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-07-31",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
+        "aggregates"
       ]
     },
     {
@@ -588,20 +692,6 @@
       "state": "VT",
       "date": "2026-07-29",
       "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1d1c53c88193",
-      "title": "Judge finds Vermont\u2019s federal grants can\u2019t be rescinded if political priorities shift",
-      "summary": "\u201cThis ruling is an important step toward protecting Vermont\u2019s federal funding, now and in the future, from arbitrary termination based on the shifting priorities of the Trump Administration,\u201d Vermont Attorney General Charity Clark wrote. \nRead the story on VTDigger here:  Judge finds Vermont\u2019s fede",
-      "url": "https://vtdigger.org/2026/07/28/judge-finds-vermonts-federal-grants-cant-be-rescinded-if-political-priorities-shift/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-28",
-      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
@@ -629,20 +719,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-07-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "37e789fce973",
-      "title": "Hooksett lowers tax incentives for Marmon development",
-      "summary": "The Hooksett Town Council reduced its business growth incentives for Marmon Defense this week compared with what it discussed with the Manchester-based firm last year.",
-      "url": "https://www.unionleader.com/news/local/hooksett/hooksett-lowers-tax-incentives-for-marmon-development/article_300e6901-3430-4f0c-9929-b57b1a7985cd.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-07-23",
       "category": "news",
       "priority": "medium",
       "business_lines": [
