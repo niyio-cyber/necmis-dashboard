@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T11:52:54.546100Z",
+  "generated": "2026-08-02T11:50:12.360622Z",
   "summary": {
     "total_opportunities": 30,
     "total_value_low": 459910533,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 2,
       "NH": 3,
-      "ME": 6,
-      "MA": 24,
+      "ME": 4,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 9,
+      "news": 8,
       "funding": 0
     }
   },
@@ -599,28 +599,13 @@
   ],
   "news": [
     {
-      "id": "b63b3a47d7c1",
-      "title": "Pleased with Portland\u2019s new paving | Letter",
-      "summary": "I am loving all the freshly paved roads in Portland and the surrounding areas. It\u2019s wonderful to drive on them. I want to thank Portland Public Works and the Maine Department of Transportation. I appreciate their hard work.\u00a0 Jennifer TuchinskyPortland",
-      "url": "https://www.pressherald.com/2026/08/01/pleased-with-portlands-new-paving-letter/",
+      "id": "de9ebba38ef6",
+      "title": "Death Notice: Mary E. Johnson",
+      "summary": "Johnson, Mary E. of Biddeford, July 23, 2026. Services later. ...",
+      "url": "https://www.pressherald.com/2026/08/02/obituarymary-e-johnson/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-08-01",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "73d2f69b9db8",
-      "title": "The harrowing truth about Trump, ICE | Letter",
-      "summary": "Regarding the ICE killing in Biddeford, everyone should remember that President Donald Trump and the Republicans in Congress are OK with ICE killing people. If they weren\u2019t, they\u2019d stop it. It\u2019s that simple. Jack\u00a0WaltonPalm Springs, Calif.",
-      "url": "https://www.pressherald.com/2026/08/01/the-harrowing-truth-about-trump-ice-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -628,13 +613,13 @@
       ]
     },
     {
-      "id": "fc6774baddbf",
-      "title": "Red Sox keep rolling, take opener against Dodgers",
-      "summary": "A five-run seventh inning lifts Boston to another road victory.",
-      "url": "https://www.pressherald.com/2026/08/01/red-sox-keep-rolling-take-opener-against-dodgers/",
-      "source": "Portland Press Herald",
+      "id": "96fae5132689",
+      "title": "These are the changes coming to Presque Isle\u2019s schools this fall",
+      "summary": "Dozens of changes \u2014 from new names to substantial construction \u2014 will greet students entering the district\u2019s three schools in Presque Isle.",
+      "url": "https://www.bangordailynews.com/2026/08/02/aroostook/aroostook-education/changes-presque-isle-schools-fall-2026-joam40zk0w/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -642,45 +627,45 @@
       ]
     },
     {
-      "id": "ca4bc42697b2",
-      "title": "Letter: Trapping is inhumane",
-      "summary": "\u201cWhy is this activity considered a sport or even permitted?\u201d",
-      "url": "https://www.bangordailynews.com/2026/08/01/opinion/letters/letter-trapping-is-inhumane-joam40zk0w/",
+      "id": "9bdb88ae0228",
+      "title": "Some in Mass. worry about repercussions of China\u2019s ethnic unity law",
+      "summary": "\u201cIn recent years, we have seen a rise in efforts by some foreign governments to interfere with freedom of expression and punish dissidents abroad. ... This challenges our fundamental democratic system and way of life.\u201d",
+      "url": "https://www.masslive.com/westernmass/2026/08/some-in-mass-worry-about-repercussions-of-chinas-ethnic-unity-law.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-02",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "991be2d2209c",
+      "title": "A developer promised to transform a vacant lot in Worcester \u2014 3 years later, it\u2019s still vacant",
+      "summary": "Despite city approval and a two-year permit extension, no progress or building permits have been made for 5 Salem Square as debts mount.",
+      "url": "https://www.masslive.com/centralmass/2026/08/a-developer-promised-to-transform-a-vacant-lot-in-worcester-3-years-later-its-still-vacant.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-02",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5f346b48ed91",
+      "title": "Michigan Supreme Court rejects permit for Enbridge oil pipeline under Great Lakes",
+      "summary": "The Michigan Supreme Court has ordered state regulators to reconsider a key permit that allowed a planned tunnel to carry an oil pipeline under part of the Great Lakes to move forward. The 6-1 decision further clouds the future of the 73-year-old pipeline owned by Canadian energy transportation comp",
+      "url": "https://www.bangordailynews.com/2026/08/01/nation/michigan-supreme-court-rejects-permit-for-enbridge-oil-pipeline-under-great-lakes/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-08-01",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "28a6f2e76505",
-      "title": "Americans give Republicans and Democrats brutal ratings on #1 issue: New poll",
-      "summary": "Voters are split when it comes to each party\u2019s handling of broad economic issues",
-      "url": "https://www.masslive.com/politics/2026/08/americans-give-republicans-and-democrats-brutal-ratings-on-1-issue-new-poll.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-01",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4e59817b41a6",
-      "title": "As a Gorham quarry pursues expansion, neighbors push back",
-      "summary": "The town will hire a consultant to see how Gorham's ordinances that regulate the Brickyard Quarry compare to other municipalities.",
-      "url": "https://www.pressherald.com/2026/07/31/as-a-gorham-quarry-pursues-expansion-neighbors-push-back/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-07-31",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "aggregates"
       ]
     },
     {
