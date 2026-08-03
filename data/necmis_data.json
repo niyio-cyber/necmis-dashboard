@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-02T11:50:12.360622Z",
+  "generated": "2026-08-03T13:31:33.698980Z",
   "summary": {
-    "total_opportunities": 30,
+    "total_opportunities": 31,
     "total_value_low": 459910533,
     "total_value_high": 459910533,
     "by_state": {
-      "VT": 2,
+      "VT": 1,
       "NH": 3,
       "ME": 4,
-      "MA": 25,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 8,
-      "funding": 0
+      "news": 4,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -599,85 +599,43 @@
   ],
   "news": [
     {
-      "id": "de9ebba38ef6",
-      "title": "Death Notice: Mary E. Johnson",
-      "summary": "Johnson, Mary E. of Biddeford, July 23, 2026. Services later. ...",
-      "url": "https://www.pressherald.com/2026/08/02/obituarymary-e-johnson/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-02",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "96fae5132689",
-      "title": "These are the changes coming to Presque Isle\u2019s schools this fall",
-      "summary": "Dozens of changes \u2014 from new names to substantial construction \u2014 will greet students entering the district\u2019s three schools in Presque Isle.",
-      "url": "https://www.bangordailynews.com/2026/08/02/aroostook/aroostook-education/changes-presque-isle-schools-fall-2026-joam40zk0w/",
+      "id": "56c57a101a6a",
+      "title": "Route 202 ramp connecting to I-395 will close for 1 day next week",
+      "summary": "That will allow crews to work on the bridge's rails.",
+      "url": "https://www.bangordailynews.com/2026/08/03/bangor/bangor-government/bangor-maine-route-202-interstate-395-ramp-closure-august-12-2026/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "9bdb88ae0228",
-      "title": "Some in Mass. worry about repercussions of China\u2019s ethnic unity law",
-      "summary": "\u201cIn recent years, we have seen a rise in efforts by some foreign governments to interfere with freedom of expression and punish dissidents abroad. ... This challenges our fundamental democratic system and way of life.\u201d",
-      "url": "https://www.masslive.com/westernmass/2026/08/some-in-mass-worry-about-repercussions-of-chinas-ethnic-unity-law.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-02",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "991be2d2209c",
-      "title": "A developer promised to transform a vacant lot in Worcester \u2014 3 years later, it\u2019s still vacant",
-      "summary": "Despite city approval and a two-year permit extension, no progress or building permits have been made for 5 Salem Square as debts mount.",
-      "url": "https://www.masslive.com/centralmass/2026/08/a-developer-promised-to-transform-a-vacant-lot-in-worcester-3-years-later-its-still-vacant.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-02",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5f346b48ed91",
-      "title": "Michigan Supreme Court rejects permit for Enbridge oil pipeline under Great Lakes",
-      "summary": "The Michigan Supreme Court has ordered state regulators to reconsider a key permit that allowed a planned tunnel to carry an oil pipeline under part of the Great Lakes to move forward. The 6-1 decision further clouds the future of the 73-year-old pipeline owned by Canadian energy transportation comp",
-      "url": "https://www.bangordailynews.com/2026/08/01/nation/michigan-supreme-court-rejects-permit-for-enbridge-oil-pipeline-under-great-lakes/",
+      "id": "df5af466e83a",
+      "title": "The Latest: Blanche rescinds fund for Trump allies after senators threaten to block his AG bid",
+      "summary": "Acting Attorney General Todd Blanche has put it in writing, issuing a formal order terminating President Donald Trump\u2019s $1.8 billion \u201canti-weaponization fund\u201d to compensate his political allies. The move follows weeks of negotiations with two Republican senators who were blocking his nomination for",
+      "url": "https://www.bangordailynews.com/2026/08/03/nation/the-latest-blanche-rescinds-fund-for-trump-allies-after-senators-threaten-to-block-his-ag-bid/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-08-01",
-      "category": "news",
+      "date": "2026-08-03",
+      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "7956633cbca3",
-      "title": "Vermont Conversation: Author Chris Bohjalian on writing, activism and challenging the language of genocide",
-      "summary": "Bohjalian, who lives in Weybridge, tells aspiring writers to be persistent in their craft. \u201cWrite because you love it. Write in the genre you love to read. Write every day.\u201d\nRead the story on VTDigger here:  Vermont Conversation: Author Chris Bohjalian on writing, activism and challenging the langu",
-      "url": "https://vtdigger.org/2026/07/29/vermont-conversation-author-chris-bohjalian-on-writing-activism-and-challenging-the-language-of-genocide/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-07-29",
+      "id": "bf82841b1f37",
+      "title": "An unprecedented housing development is being built in one of Maine\u2019s most desirable\u00a0cities",
+      "summary": "Belfast's Little River neighborhood will eventually grow to 48 single-family homes; six have been built so far.",
+      "url": "https://www.bangordailynews.com/2026/08/03/midcoast/midcoast-housing/48-unit-housing-development-belfast-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-03",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
