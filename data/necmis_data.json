@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-03T13:31:33.698980Z",
+  "generated": "2026-08-04T12:50:12.868771Z",
   "summary": {
-    "total_opportunities": 31,
+    "total_opportunities": 33,
     "total_value_low": 459910533,
     "total_value_high": 459910533,
     "by_state": {
-      "VT": 1,
-      "NH": 3,
-      "ME": 4,
-      "MA": 23,
+      "VT": 2,
+      "NH": 2,
+      "ME": 8,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,30 +16,11 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 4,
-      "funding": 1
+      "news": 7,
+      "funding": 3
     }
   },
   "dot_lettings": [
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation",
-      "cost_low": 76265555,
-      "cost_high": 76265555,
-      "cost_display": "$76.3M",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM-General Building Construction, Electrical\u0096All Type\u0096Inc",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "eceaac3d2239",
       "state": "MA",
@@ -92,6 +73,25 @@
       "location": "Belchertown - Hampden - Monson - South Hadley - Southwick",
       "district": 2,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616302",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7c7f3901d4c",
+      "state": "MA",
+      "project_id": "606859",
+      "description": "CANA Tunnel and Vent Building Rehabilitation",
+      "cost_low": 76265555,
+      "cost_high": 76265555,
+      "cost_display": "$76.3M",
+      "ad_date": "2026-04-25",
+      "let_date": null,
+      "project_type": "DCAMM-General Building Construction, Electrical\u0096All Type\u0096Inc",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -599,13 +599,27 @@
   ],
   "news": [
     {
-      "id": "56c57a101a6a",
-      "title": "Route 202 ramp connecting to I-395 will close for 1 day next week",
-      "summary": "That will allow crews to work on the bridge's rails.",
-      "url": "https://www.bangordailynews.com/2026/08/03/bangor/bangor-government/bangor-maine-route-202-interstate-395-ramp-closure-august-12-2026/",
-      "source": "Bangor Daily News",
+      "id": "dbdbad763089",
+      "title": "Judge allows clergy abuse claimants to sue for parish assets in Vermont Catholic bankruptcy case",
+      "summary": "The state\u2019s largest religious denomination has yet to respond to a court decision permitting creditors to file a lawsuit for an estimated $500 million in local properties and possessions the church has sheltered in trusts.\nRead the story on VTDigger here:  Judge allows clergy abuse claimants to sue",
+      "url": "https://vtdigger.org/2026/08/04/judge-allows-clergy-abuse-claimants-to-sue-for-parish-assets-in-vermont-catholic-bankruptcy-case/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-08-04",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "692031ff9e7a",
+      "title": "Death Notice:  Claudette M. Perreault",
+      "summary": "Perreault, Claudette M. 88, of Saco, August 1. Visitation, August 5, 4 p.m. to 7 p.m., Hope Memorial Chapel, Biddeford. Funeral ...",
+      "url": "https://www.pressherald.com/2026/08/04/obituary-claudette-m-perreault/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -613,13 +627,69 @@
       ]
     },
     {
-      "id": "df5af466e83a",
-      "title": "The Latest: Blanche rescinds fund for Trump allies after senators threaten to block his AG bid",
-      "summary": "Acting Attorney General Todd Blanche has put it in writing, issuing a formal order terminating President Donald Trump\u2019s $1.8 billion \u201canti-weaponization fund\u201d to compensate his political allies. The move follows weeks of negotiations with two Republican senators who were blocking his nomination for",
-      "url": "https://www.bangordailynews.com/2026/08/03/nation/the-latest-blanche-rescinds-fund-for-trump-allies-after-senators-threaten-to-block-his-ag-bid/",
+      "id": "a6a42d74e15c",
+      "title": "Obituary: Charles E. Martel",
+      "summary": "BIDDEFORD - Charles E. Martel, 85, passed away on July 23, 2026, at Southern Maine Medical Center in Biddeford.\n\nHe was born ...",
+      "url": "https://www.pressherald.com/2026/08/04/obituarycharles-e-martel-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-04",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "210ace1cf384",
+      "title": "Death Notice: Charles E. Martel",
+      "summary": "Martel, Charles E. 85, of Biddeford, July 23. Visiting hours, August 7, 12 p.m. to 1 p.m., Hope Memorial Chapel, Biddeford. ...",
+      "url": "https://www.pressherald.com/2026/08/04/obituarycharles-e-martel/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-04",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5f57320fc92b",
+      "title": "Maine dump truck crashes into concrete culvert while passing a tractor-trailer",
+      "summary": "Alfred Gubb, 53, took a sharp corner too fast as he passed the tractor-trailer, drifted onto the soft shoulder and then overcorrected.",
+      "url": "https://www.bangordailynews.com/2026/08/04/central-maine/central-maine-police-courts/new-sharon-maine-mile-hill-road-dump-truck-culvert-crash/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "7385f4272e7e",
+      "title": "Inside northern Maine\u2019s new $75M potato chip factory",
+      "summary": "After more than two years of planning and construction, the upstart Taste of Maine is now producing kettle chips.",
+      "url": "https://www.bangordailynews.com/2026/08/04/aroostook/aroostook-business/taste-of-maine-potato-chip-factory-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-04",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6fa3b588b985",
+      "title": "$360K federal grant will launch a new program to attract workers to Aroostook",
+      "summary": "The partnership\u2019s goals include advocacy, childcare and housing in the region, but also workforce development and attracting new residents.",
+      "url": "https://www.bangordailynews.com/2026/08/04/aroostook/aroostook-business/federal-grant-program-attract-workers-aroostook-county-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-04",
       "category": "funding",
       "priority": "high",
       "business_lines": [
@@ -627,17 +697,31 @@
       ]
     },
     {
-      "id": "bf82841b1f37",
-      "title": "An unprecedented housing development is being built in one of Maine\u2019s most desirable\u00a0cities",
-      "summary": "Belfast's Little River neighborhood will eventually grow to 48 single-family homes; six have been built so far.",
-      "url": "https://www.bangordailynews.com/2026/08/03/midcoast/midcoast-housing/48-unit-housing-development-belfast-joam40zk0w/",
+      "id": "030e0b42f573",
+      "title": "Two women. Two \u201caccidents.\u201d Decades later, investigators say the story may be far different.",
+      "summary": "Kentucky and Oregon authorities are reexamining the deaths of Joyce and Astrid Bridges after both were reclassified as homicides.",
+      "url": "https://www.masslive.com/news/2026/08/two-wives-died-decades-apart-now-investigators-are-asking-the-same-questions.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-04",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d769df1132a2",
+      "title": "Contractors building border wall ordered to stop drilling wells in drought-stricken New Mexico",
+      "summary": "PHOENIX (AP) \u2014 The Trump administration has ordered construction crews on a border wall to stop drilling wells in drought-stricken New Mexico after ranchers said pumping groundwater needed to make concrete could threaten their livestock. The order comes as crews across the southern border race to co",
+      "url": "https://www.bangordailynews.com/2026/08/03/nation/contractors-building-border-wall-ordered-to-stop-drilling-wells-in-drought-stricken-new-mexico/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-08-03",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "highway"
+        "ready_mix"
       ]
     },
     {
@@ -648,20 +732,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-07-27",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d4df6b9f8945",
-      "title": "Pease Development Authority investigation clears Ports and Harbors director of harassment claims",
-      "summary": "The Pease Development Authority hired a law firm to conduct an independent investigation into at least two complaints regarding Director of Ports and Harbors Richard Hartley.",
-      "url": "https://www.unionleader.com/news/business/pease-development-authority-investigation-clears-ports-and-harbors-director-of-harassment-claims/article_ca1601e7-811b-443d-ae58-d634917410d1.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-07-24",
       "category": "news",
       "priority": "medium",
       "business_lines": [
