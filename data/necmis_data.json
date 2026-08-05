@@ -1,45 +1,26 @@
 {
-  "generated": "2026-08-04T12:50:12.868771Z",
+  "generated": "2026-08-05T12:29:26.317069Z",
   "summary": {
-    "total_opportunities": 33,
-    "total_value_low": 459910533,
-    "total_value_high": 459910533,
+    "total_opportunities": 31,
+    "total_value_low": 459118798,
+    "total_value_high": 459118798,
     "by_state": {
       "VT": 2,
-      "NH": 2,
-      "ME": 8,
-      "MA": 24,
+      "NH": 3,
+      "ME": 4,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 30,
-      "news": 7,
-      "funding": 3
+      "dot_letting": 29,
+      "news": 5,
+      "funding": 2
     }
   },
   "dot_lettings": [
-    {
-      "id": "eceaac3d2239",
-      "state": "MA",
-      "project_id": "614075",
-      "description": "Bridge Drainage Installation & Rehabilitation at Various Locations",
-      "cost_low": 791735,
-      "cost_high": 791735,
-      "cost_display": "$792K",
-      "ad_date": "2026-07-04",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614075",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "90382ec0c775",
       "state": "MA",
@@ -599,6 +580,63 @@
   ],
   "news": [
     {
+      "id": "ba14d086be7e",
+      "title": "US water systems are facing cyberattacks. Is Maine at risk?",
+      "summary": "The state has so far avoided the recent wave of infrastructure attacks.",
+      "url": "https://www.pressherald.com/2026/08/05/us-water-systems-are-facing-cyberattacks-is-maine-at-risk/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c1a0f6c232dd",
+      "title": "Down East town wins decades-long fight over a gravel road",
+      "summary": "\u201cIt\u2019s been a whole thing in town,\u201d Clerk Marcia Hayward said.",
+      "url": "https://www.bangordailynews.com/2026/08/05/politics/state-politics/machiasport-wins-beach-road-lawsuit-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "aggregates"
+      ]
+    },
+    {
+      "id": "759390ce9f55",
+      "title": "More than a third of Bangor\u2019s pandemic relief funds still haven\u2019t\u00a0been spent",
+      "summary": "The money, distributed\u00a0to state and local governments under a law passed during the Biden administration, was intended to offset the impact of the COVID-19 pandemic on government services and local economies.",
+      "url": "https://www.bangordailynews.com/2026/08/05/bangor/bangor-government/bangor-unspent-pandemic-relief-funds-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ddbcd67dc4b8",
+      "title": "Westfield puts Fort Meadow Early Childhood Center up for public bid",
+      "summary": "Westfield is seeking bids for the former Fort Meadow school, a historic 20,880 sq. ft. building on 2.5 acres, by August 21, 2026.",
+      "url": "https://www.masslive.com/westfieldnews/2026/08/westfield-puts-fort-meadow-early-childhood-center-up-for-public-bid.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "dbdbad763089",
       "title": "Judge allows clergy abuse claimants to sue for parish assets in Vermont Catholic bankruptcy case",
       "summary": "The state\u2019s largest religious denomination has yet to respond to a court decision permitting creditors to file a lawsuit for an estimated $500 million in local properties and possessions the church has sheltered in trusts.\nRead the story on VTDigger here:  Judge allows clergy abuse claimants to sue",
@@ -613,115 +651,17 @@
       ]
     },
     {
-      "id": "692031ff9e7a",
-      "title": "Death Notice:  Claudette M. Perreault",
-      "summary": "Perreault, Claudette M. 88, of Saco, August 1. Visitation, August 5, 4 p.m. to 7 p.m., Hope Memorial Chapel, Biddeford. Funeral ...",
-      "url": "https://www.pressherald.com/2026/08/04/obituary-claudette-m-perreault/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-04",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a6a42d74e15c",
-      "title": "Obituary: Charles E. Martel",
-      "summary": "BIDDEFORD - Charles E. Martel, 85, passed away on July 23, 2026, at Southern Maine Medical Center in Biddeford.\n\nHe was born ...",
-      "url": "https://www.pressherald.com/2026/08/04/obituarycharles-e-martel-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-04",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "210ace1cf384",
-      "title": "Death Notice: Charles E. Martel",
-      "summary": "Martel, Charles E. 85, of Biddeford, July 23. Visiting hours, August 7, 12 p.m. to 1 p.m., Hope Memorial Chapel, Biddeford. ...",
-      "url": "https://www.pressherald.com/2026/08/04/obituarycharles-e-martel/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-04",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5f57320fc92b",
-      "title": "Maine dump truck crashes into concrete culvert while passing a tractor-trailer",
-      "summary": "Alfred Gubb, 53, took a sharp corner too fast as he passed the tractor-trailer, drifted onto the soft shoulder and then overcorrected.",
-      "url": "https://www.bangordailynews.com/2026/08/04/central-maine/central-maine-police-courts/new-sharon-maine-mile-hill-road-dump-truck-culvert-crash/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "7385f4272e7e",
-      "title": "Inside northern Maine\u2019s new $75M potato chip factory",
-      "summary": "After more than two years of planning and construction, the upstart Taste of Maine is now producing kettle chips.",
-      "url": "https://www.bangordailynews.com/2026/08/04/aroostook/aroostook-business/taste-of-maine-potato-chip-factory-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "202d52801b8b",
+      "title": "Goodlander Calls for Federal YDC Abuse Investigation",
+      "summary": "Breaking the seal on federal action, U.S. Rep. Maggie Goodlander (D-2nd Congressional District) is calling for a federal investigation into current and historic abuses inside the Sununu Youth Services Center, formerly called the Youth Development Center or YDC.\nThe post Goodlander Calls for Federal",
+      "url": "https://indepthnh.org/2026/08/04/goodlander-calls-for-federal-ydc-abuse-investigation/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-08-04",
       "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "6fa3b588b985",
-      "title": "$360K federal grant will launch a new program to attract workers to Aroostook",
-      "summary": "The partnership\u2019s goals include advocacy, childcare and housing in the region, but also workforce development and attracting new residents.",
-      "url": "https://www.bangordailynews.com/2026/08/04/aroostook/aroostook-business/federal-grant-program-attract-workers-aroostook-county-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-04",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "030e0b42f573",
-      "title": "Two women. Two \u201caccidents.\u201d Decades later, investigators say the story may be far different.",
-      "summary": "Kentucky and Oregon authorities are reexamining the deaths of Joyce and Astrid Bridges after both were reclassified as homicides.",
-      "url": "https://www.masslive.com/news/2026/08/two-wives-died-decades-apart-now-investigators-are-asking-the-same-questions.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-04",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d769df1132a2",
-      "title": "Contractors building border wall ordered to stop drilling wells in drought-stricken New Mexico",
-      "summary": "PHOENIX (AP) \u2014 The Trump administration has ordered construction crews on a border wall to stop drilling wells in drought-stricken New Mexico after ranchers said pumping groundwater needed to make concrete could threaten their livestock. The order comes as crews across the southern border race to co",
-      "url": "https://www.bangordailynews.com/2026/08/03/nation/contractors-building-border-wall-ordered-to-stop-drilling-wells-in-drought-stricken-new-mexico/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-03",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "ready_mix"
       ]
     },
     {
