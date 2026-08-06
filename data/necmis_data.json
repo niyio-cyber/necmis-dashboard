@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-05T12:29:26.317069Z",
+  "generated": "2026-08-06T12:47:19.606614Z",
   "summary": {
-    "total_opportunities": 31,
+    "total_opportunities": 32,
     "total_value_low": 459118798,
     "total_value_high": 459118798,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 3,
-      "ME": 4,
-      "MA": 23,
+      "ME": 5,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 29,
       "news": 5,
-      "funding": 2
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -580,41 +580,54 @@
   ],
   "news": [
     {
-      "id": "ba14d086be7e",
-      "title": "US water systems are facing cyberattacks. Is Maine at risk?",
-      "summary": "The state has so far avoided the recent wave of infrastructure attacks.",
-      "url": "https://www.pressherald.com/2026/08/05/us-water-systems-are-facing-cyberattacks-is-maine-at-risk/",
+      "id": "1399d27ce0e3",
+      "title": "Worth breaking down the meaning of \u2018Israel\u2019 today | Letter",
+      "summary": "I appreciated Ethan Wolin\u2019s July 22 report of Jewish sentiment regarding Maine\u2019s upcoming Senate race (\u201cAfter a rocky road with Platner, Jewish Mainers size up the state\u2019s progressive left\u201d). One important source Mr. Wolin missed was the rabbi of Portland\u2019s Temple Beth-El. In the Yom Kippur\u00a0service",
+      "url": "https://www.pressherald.com/2026/08/06/worth-breaking-down-the-meaning-of-israel-today-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-08-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c1a0f6c232dd",
-      "title": "Down East town wins decades-long fight over a gravel road",
-      "summary": "\u201cIt\u2019s been a whole thing in town,\u201d Clerk Marcia Hayward said.",
-      "url": "https://www.bangordailynews.com/2026/08/05/politics/state-politics/machiasport-wins-beach-road-lawsuit-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "highway",
-        "aggregates"
+        "highway"
       ]
     },
     {
-      "id": "759390ce9f55",
-      "title": "More than a third of Bangor\u2019s pandemic relief funds still haven\u2019t\u00a0been spent",
-      "summary": "The money, distributed\u00a0to state and local governments under a law passed during the Biden administration, was intended to offset the impact of the COVID-19 pandemic on government services and local economies.",
-      "url": "https://www.bangordailynews.com/2026/08/05/bangor/bangor-government/bangor-unspent-pandemic-relief-funds-joam40zk0w/",
+      "id": "c822bb756d5a",
+      "title": "Law firm representing family of Biddeford man killed by ICE asks neighbors to share video",
+      "summary": "Attorneys are hoping footage and photos from the area of the deadly shooting will help them piece together the events leading to Johan Sebasti\u00e1n Dur\u00e1n Guerrero's death.",
+      "url": "https://www.pressherald.com/2026/08/05/law-firm-representing-family-of-biddeford-ice-victim-asks-neighbors-to-share-video/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2d7d4a60994a",
+      "title": "Broadway will be closed 1 night next week for I-95 bridge work",
+      "summary": "No vehicle traffic will be allowed under the I-95 overpass.",
+      "url": "https://www.bangordailynews.com/2026/08/06/bangor/bangor-government/bangor-maine-broadway-closure-interstate-95-bridge-work-august-13/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-08-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c3a6af479488",
+      "title": "Vermont\u2019s GOP primary for U.S. House pits 2 different personalities against each other",
+      "summary": "Gerald Malloy and Mark Coester have run for Congress before, but this year they\u2019re squaring off against each other in a bid to unseat U.S. Rep. Becca Balint, D-Vt.\nRead the story on VTDigger here:  Vermont\u2019s GOP primary for U.S. House pits 2 different personalities against each other.",
+      "url": "https://vtdigger.org/2026/08/05/vermonts-gop-primary-for-u-s-house-pits-2-different-personalities-against-each-other/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-08-05",
       "category": "news",
       "priority": "high",
@@ -623,15 +636,29 @@
       ]
     },
     {
-      "id": "ddbcd67dc4b8",
-      "title": "Westfield puts Fort Meadow Early Childhood Center up for public bid",
-      "summary": "Westfield is seeking bids for the former Fort Meadow school, a historic 20,880 sq. ft. building on 2.5 acres, by August 21, 2026.",
-      "url": "https://www.masslive.com/westfieldnews/2026/08/westfield-puts-fort-meadow-early-childhood-center-up-for-public-bid.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "88c2f614c6e8",
+      "title": "Merrimack Planning Board delays vote on Flatley hotel, retail project",
+      "summary": "A site plan review for John Flatley Company\u2019s proposed hotel, commercial and retail space development along Daniel Webster Highway in Merrimack was continued for further scrutiny Tuesday night.",
+      "url": "https://www.unionleader.com/news/local/merrimack/merrimack-planning-board-delays-vote-on-flatley-hotel-retail-project/article_4e208a47-5766-4517-b420-4d4a0ccd05a7.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-08-05",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e57cb75c1c5c",
+      "title": "Presque Isle greenlights construction of $5M hangar for aerospace research park",
+      "summary": "The building will be identical to another research hangar currently under construction, and will be built after that hangar is completed.",
+      "url": "https://www.bangordailynews.com/2026/08/05/aroostook/aroostook-government/presque-isle-hangar-aerospace-research-park/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-05",
+      "category": "funding",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -659,20 +686,6 @@
       "state": "NH",
       "date": "2026-08-04",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "70203cbf6b49",
-      "title": "The Fox Run mall in Newington is on the road to rubble",
-      "summary": "Complete demolition of the Mall at Fox Run and its adjacent Newington Shopping Center is set to be complete by the end of 2026, making way for the development of Seacoast Landing, a sprawling mixed-use retail project.",
-      "url": "https://www.unionleader.com/news/business/the-fox-run-mall-in-newington-is-on-the-road-to-rubble/article_8bcdae88-aded-4615-9d75-a3511726728a.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-07-27",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
