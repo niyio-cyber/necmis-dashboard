@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-06T12:47:19.606614Z",
+  "generated": "2026-08-07T11:34:47.389820Z",
   "summary": {
-    "total_opportunities": 32,
-    "total_value_low": 459118798,
-    "total_value_high": 459118798,
+    "total_opportunities": 33,
+    "total_value_low": 406133381,
+    "total_value_high": 406133381,
     "by_state": {
-      "VT": 3,
-      "NH": 3,
-      "ME": 5,
+      "VT": 4,
+      "NH": 5,
+      "ME": 6,
       "MA": 22,
       "NY": 1,
       "RI": 1,
@@ -15,31 +15,12 @@
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 29,
-      "news": 5,
-      "funding": 3
+      "dot_letting": 28,
+      "news": 8,
+      "funding": 5
     }
   },
   "dot_lettings": [
-    {
-      "id": "90382ec0c775",
-      "state": "MA",
-      "project_id": "612004",
-      "description": "Mystic River Bicycle and Pedestrian Bridge Design-Build",
-      "cost_low": 52985417,
-      "cost_high": 52985417,
-      "cost_display": "$53.0M",
-      "ad_date": "2026-03-07",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Everett - Somerville",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612004",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "62c57da6b888",
       "state": "MA",
@@ -580,13 +561,28 @@
   ],
   "news": [
     {
-      "id": "1399d27ce0e3",
-      "title": "Worth breaking down the meaning of \u2018Israel\u2019 today | Letter",
-      "summary": "I appreciated Ethan Wolin\u2019s July 22 report of Jewish sentiment regarding Maine\u2019s upcoming Senate race (\u201cAfter a rocky road with Platner, Jewish Mainers size up the state\u2019s progressive left\u201d). One important source Mr. Wolin missed was the rabbi of Portland\u2019s Temple Beth-El. In the Yom Kippur\u00a0service",
-      "url": "https://www.pressherald.com/2026/08/06/worth-breaking-down-the-meaning-of-israel-today-letter/",
-      "source": "Portland Press Herald",
+      "id": "7580a329be3a",
+      "title": "ICE will release body camera video only when seen in the agency\u2019s \u2018best interests,\u2019 policy says",
+      "summary": "Immigration and Customs Enforcement is moving to equip officers with body cameras in the next two months but the agency\u2019s policy gives it broad control over what footage will be made public by specifying any releases must be in its \u201cbest interests.\u201d After years of delays, ICE said its field officers",
+      "url": "https://www.bangordailynews.com/2026/08/07/nation/ice-will-release-body-camera-video-only-when-seen-in-the-agencys-best-interests-policy-says/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "3e972b7342d4",
+      "title": "She wanted to build an addition for her aging parents. Now she\u2019s suing her contractor over work that doesn\u2019t meet code.",
+      "summary": "The Cape Elizabeth woman\u2019s experience shows how difficult it can be to financially recover when a homeowner is dissatisfied with a construction project.",
+      "url": "https://www.bangordailynews.com/2026/08/07/business/business-housing/maine-woman-suing-contractor-work-doesnt-meet-code-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-07",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -594,29 +590,99 @@
       ]
     },
     {
-      "id": "c822bb756d5a",
-      "title": "Law firm representing family of Biddeford man killed by ICE asks neighbors to share video",
-      "summary": "Attorneys are hoping footage and photos from the area of the deadly shooting will help them piece together the events leading to Johan Sebasti\u00e1n Dur\u00e1n Guerrero's death.",
-      "url": "https://www.pressherald.com/2026/08/05/law-firm-representing-family-of-biddeford-ice-victim-asks-neighbors-to-share-video/",
-      "source": "Portland Press Herald",
+      "id": "c12386d7718b",
+      "title": "How\u00a0southern Aroostook is changing its education to build the local workforce",
+      "summary": "\u201cWe want you in our buildings talking about your businesses just like we want our students in your buildings learning from you about what you do,\u201d RSU 29 Superintendent Joe Fagnant told the Southern Aroostook Development Corporation\u00a0board and other business leaders in Houlton on Wednesday.",
+      "url": "https://www.bangordailynews.com/2026/08/07/aroostook/aroostook-education/aroostook-education-business-partnership-joam40zk0w/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "691a9e62ce8e",
+      "title": "Ellsworth boutique and hair salon owner opens city\u2019s only gelato stand",
+      "summary": "Maple & Cream, sits in the parking lot of Fika Boutique, at the intersection of High Street and Beechland Road.",
+      "url": "https://www.bangordailynews.com/2026/08/07/hancock/hancock-business/ellsworth-gelato-stand-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a500345f00e5",
+      "title": "A new solution to road fixes? Make TikTok videos.",
+      "summary": "One content creator complained about squiggly lines near his house.",
+      "url": "https://www.masslive.com/news/2026/08/a-new-solution-to-road-fixes-make-tiktok-videos.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b0cc12be5957",
+      "title": "Local development corporation wins bid for former Montpelier post office",
+      "summary": "The final auction price of $540,000 was far under the federal government\u2019s initial asking price.\nRead the story on VTDigger here:  Local development corporation wins bid for former Montpelier post office.",
+      "url": "https://vtdigger.org/2026/08/06/local-development-corporation-wins-bid-for-former-montpelier-post-office/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-08-06",
+      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "2d7d4a60994a",
-      "title": "Broadway will be closed 1 night next week for I-95 bridge work",
-      "summary": "No vehicle traffic will be allowed under the I-95 overpass.",
-      "url": "https://www.bangordailynews.com/2026/08/06/bangor/bangor-government/bangor-maine-broadway-closure-interstate-95-bridge-work-august-13/",
-      "source": "Bangor Daily News",
+      "id": "4b8cbb0c2189",
+      "title": "Agency ends 39% household cap on local TV station owners",
+      "summary": "The Federal Communications Commission voted on Thursday to rescind the rule that bars local broadcast station owners from reaching more than 39% of U.S. TV households in a move that could spark industry consolidation.",
+      "url": "https://www.unionleader.com/news/politics/national/agency-ends-39-household-cap-on-local-tv-station-owners/article_71931da9-8e99-5344-abc7-92f9f53d11db.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-08-06",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "166a411656f6",
+      "title": "Maine community colleges to expand skilled manufacturing training",
+      "summary": "A federal grant will allow 600 more students to take free courses that prepare them for skilled manufacturing and defense industry jobs.",
+      "url": "https://www.pressherald.com/2026/08/06/maine-community-colleges-to-expand-manufacturing-training/",
+      "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-08-06",
-      "category": "news",
+      "category": "funding",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7a6e8d40c479",
+      "title": "U.S. Rep Chris Pappas D-NH Talks Social Security on C-SPAN",
+      "summary": "InDepthNH.org is partnering with C-SPAN\u2019s Campaign 2026\u00a0initiative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail.\u00a0Please watch for video of the candidates in which C-SPAN will provide nonprofit newsrooms with free access to on-the-ground election coverage. \nThe post U.S. Rep Chris",
+      "url": "https://indepthnh.org/2026/08/06/u-s-rep-chris-pappas-d-nh-talks-social-security-on-c-span/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-08-06",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -645,20 +711,6 @@
       "date": "2026-08-05",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e57cb75c1c5c",
-      "title": "Presque Isle greenlights construction of $5M hangar for aerospace research park",
-      "summary": "The building will be identical to another research hangar currently under construction, and will be built after that hangar is completed.",
-      "url": "https://www.bangordailynews.com/2026/08/05/aroostook/aroostook-government/presque-isle-hangar-aerospace-research-park/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-05",
-      "category": "funding",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
