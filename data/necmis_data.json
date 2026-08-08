@@ -1,23 +1,23 @@
 {
-  "generated": "2026-08-07T11:34:47.389820Z",
+  "generated": "2026-08-08T11:17:01.023591Z",
   "summary": {
-    "total_opportunities": 33,
-    "total_value_low": 406133381,
-    "total_value_high": 406133381,
+    "total_opportunities": 34,
+    "total_value_low": 445772380,
+    "total_value_high": 445772380,
     "by_state": {
-      "VT": 4,
-      "NH": 5,
-      "ME": 6,
-      "MA": 22,
+      "VT": 5,
+      "NH": 4,
+      "ME": 3,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 28,
-      "news": 8,
-      "funding": 5
+      "dot_letting": 31,
+      "news": 9,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -386,6 +386,45 @@
       ]
     },
     {
+      "id": "2eeb48079dd5",
+      "state": "MA",
+      "project_id": "613106",
+      "description": "Deck Replacement, R-04-018 (3U4, 3U5), I-195 (EB/WB) over Palmer River",
+      "cost_low": 8629272,
+      "cost_high": 8629272,
+      "cost_display": "$8.6M",
+      "ad_date": "2026-08-08",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Rehoboth",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613106",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "27535dff56c0",
+      "state": "MA",
+      "project_id": "609388",
+      "description": "Safety Improvements on Route 1A",
+      "cost_low": 4703208,
+      "cost_high": 4703208,
+      "cost_display": "$4.7M",
+      "ad_date": "2026-08-08",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Wenham",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609388",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "8f7a0f9d7277",
       "state": "MA",
       "project_id": "612187",
@@ -399,6 +438,26 @@
       "location": "Chicopee",
       "district": 2,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612187",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "0c199c450d44",
+      "state": "MA",
+      "project_id": "606352",
+      "description": "Culvert and Dam Replacement on Cranberry Highway at Route 28 and Route 6, Mill Pond Dam over Agawam River",
+      "cost_low": 26306519,
+      "cost_high": 26306519,
+      "cost_display": "$26.3M",
+      "ad_date": "2026-08-08",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Wareham",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606352",
       "source": "MassDOT",
       "business_lines": [
         "highway",
@@ -561,13 +620,55 @@
   ],
   "news": [
     {
-      "id": "7580a329be3a",
-      "title": "ICE will release body camera video only when seen in the agency\u2019s \u2018best interests,\u2019 policy says",
-      "summary": "Immigration and Customs Enforcement is moving to equip officers with body cameras in the next two months but the agency\u2019s policy gives it broad control over what footage will be made public by specifying any releases must be in its \u201cbest interests.\u201d After years of delays, ICE said its field officers",
-      "url": "https://www.bangordailynews.com/2026/08/07/nation/ice-will-release-body-camera-video-only-when-seen-in-the-agencys-best-interests-policy-says/",
+      "id": "0bdf702f5cea",
+      "title": "Road trip",
+      "summary": "Vacationland!",
+      "url": "https://www.bangordailynews.com/2026/08/08/opinion/danby-ink/road-trip/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "761ae1da75f1",
+      "title": "Top trending sports headlines this week August 4-8: ICYMI",
+      "summary": "Former NFL wide receiver Ray Jarvis died at age 77, longtime Giants broadcaster Mike Krukow announced his retirement and more trending sports headlines you may have missed this week, August 4-8, 2026.",
+      "url": "https://www.masslive.com/sports/2026/08/top-trending-sports-headlines-icymi-aug-4-8.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "98663b6574a4",
+      "title": "Board of Health looks to crack down on unpermitted food trucks",
+      "summary": "Using two examples of businesses and food trucks not following the town\u2019s food truck permitting process, Southwick's health director has asked the Board the Health to draft rules that would possibly establish fines for violating the rules.",
+      "url": "https://www.masslive.com/westfieldnews/2026/08/board-of-health-looks-to-crack-down-on-unpermitted-food-trucks.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "57eb051b8947",
+      "title": "Conservation Commission issues enforcement order for homeowner",
+      "summary": "The owner of a home on South Road in Southwick was issued an enforcement order by the Conservation Commission for sediment flow from his property that inundated a protected wetland area after a heavy rainstorm Monday.",
+      "url": "https://www.masslive.com/westfieldnews/2026/08/conservation-commission-issues-enforcement-order-for-homeowner.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-08",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -576,12 +677,12 @@
       ]
     },
     {
-      "id": "3e972b7342d4",
-      "title": "She wanted to build an addition for her aging parents. Now she\u2019s suing her contractor over work that doesn\u2019t meet code.",
-      "summary": "The Cape Elizabeth woman\u2019s experience shows how difficult it can be to financially recover when a homeowner is dissatisfied with a construction project.",
-      "url": "https://www.bangordailynews.com/2026/08/07/business/business-housing/maine-woman-suing-contractor-work-doesnt-meet-code-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "5e052cf71553",
+      "title": "Compensate Vermonters for the cost of coexisting with beavers",
+      "summary": "Beavers provide broad benefits to Vermont's landscape, but the people who bear the personal costs of living near them shouldn't have to foot the bill alone.\nRead the story on VTDigger here:  Compensate Vermonters for the cost of coexisting with beavers.",
+      "url": "https://vtdigger.org/2026/08/07/opinion-compensate-vermonters-for-the-cost-of-coexisting-with-beavers/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-08-07",
       "category": "news",
       "priority": "medium",
@@ -590,40 +691,26 @@
       ]
     },
     {
-      "id": "c12386d7718b",
-      "title": "How\u00a0southern Aroostook is changing its education to build the local workforce",
-      "summary": "\u201cWe want you in our buildings talking about your businesses just like we want our students in your buildings learning from you about what you do,\u201d RSU 29 Superintendent Joe Fagnant told the Southern Aroostook Development Corporation\u00a0board and other business leaders in Houlton on Wednesday.",
-      "url": "https://www.bangordailynews.com/2026/08/07/aroostook/aroostook-education/aroostook-education-business-partnership-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "d4e66e896a9f",
+      "title": "ICE agents arrest several in Londonderry operation",
+      "summary": "The people arrested were targeted while traveling to a construction job site, according to a member of Two Rivers Area Indivisible, an immigrants rights activist group in the area. \nRead the story on VTDigger here:  ICE agents arrest several in Londonderry operation.",
+      "url": "https://vtdigger.org/2026/08/07/ice-agents-arrest-several-in-londonderry-operation/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-08-07",
-      "category": "news",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "691a9e62ce8e",
-      "title": "Ellsworth boutique and hair salon owner opens city\u2019s only gelato stand",
-      "summary": "Maple & Cream, sits in the parking lot of Fika Boutique, at the intersection of High Street and Beechland Road.",
-      "url": "https://www.bangordailynews.com/2026/08/07/hancock/hancock-business/ellsworth-gelato-stand-joam40zk0w/",
+      "id": "42b519a59fe3",
+      "title": "Maine man accused of pointing gun at woman and child in Connecticut road rage incident",
+      "summary": "The incident allegedly started when the driver of a red Honda sedan brake-checked a woman on Route 15 in Westport.",
+      "url": "https://www.bangordailynews.com/2026/08/07/central-maine/central-maine-police-courts/maine-man-arrested-connecticut-road-rage/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-08-07",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a500345f00e5",
-      "title": "A new solution to road fixes? Make TikTok videos.",
-      "summary": "One content creator complained about squiggly lines near his house.",
-      "url": "https://www.masslive.com/news/2026/08/a-new-solution-to-road-fixes-make-tiktok-videos.html",
-      "source": "MassLive",
-      "state": "MA",
       "date": "2026-08-07",
       "category": "news",
       "priority": "medium",
@@ -655,20 +742,6 @@
       "date": "2026-08-06",
       "category": "funding",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "166a411656f6",
-      "title": "Maine community colleges to expand skilled manufacturing training",
-      "summary": "A federal grant will allow 600 more students to take free courses that prepare them for skilled manufacturing and defense industry jobs.",
-      "url": "https://www.pressherald.com/2026/08/06/maine-community-colleges-to-expand-manufacturing-training/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-06",
-      "category": "funding",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -711,34 +784,6 @@
       "date": "2026-08-05",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "dbdbad763089",
-      "title": "Judge allows clergy abuse claimants to sue for parish assets in Vermont Catholic bankruptcy case",
-      "summary": "The state\u2019s largest religious denomination has yet to respond to a court decision permitting creditors to file a lawsuit for an estimated $500 million in local properties and possessions the church has sheltered in trusts.\nRead the story on VTDigger here:  Judge allows clergy abuse claimants to sue",
-      "url": "https://vtdigger.org/2026/08/04/judge-allows-clergy-abuse-claimants-to-sue-for-parish-assets-in-vermont-catholic-bankruptcy-case/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-08-04",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "202d52801b8b",
-      "title": "Goodlander Calls for Federal YDC Abuse Investigation",
-      "summary": "Breaking the seal on federal action, U.S. Rep. Maggie Goodlander (D-2nd Congressional District) is calling for a federal investigation into current and historic abuses inside the Sununu Youth Services Center, formerly called the Youth Development Center or YDC.\nThe post Goodlander Calls for Federal",
-      "url": "https://indepthnh.org/2026/08/04/goodlander-calls-for-federal-ydc-abuse-investigation/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-08-04",
-      "category": "funding",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
