@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-09T11:17:14.998592Z",
+  "generated": "2026-08-10T11:38:22.937836Z",
   "summary": {
-    "total_opportunities": 35,
+    "total_opportunities": 34,
     "total_value_low": 445772380,
     "total_value_high": 445772380,
     "by_state": {
-      "VT": 5,
-      "NH": 4,
-      "ME": 7,
-      "MA": 25,
+      "VT": 4,
+      "NH": 7,
+      "ME": 2,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 10,
-      "funding": 4
+      "news": 7,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -620,54 +620,12 @@
   ],
   "news": [
     {
-      "id": "a13f4e1dfa87",
-      "title": "Collins absolutely deserves blame for Biddeford ICE killing | Letter",
-      "summary": "This was not an isolated incident and the senator should not dodge the consequences of her support for the agency.",
-      "url": "https://www.pressherald.com/2026/08/09/collins-absolutely-deserves-blame-for-biddeford-ice-killing-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-09",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a5ec9c899b26",
-      "title": "Comparing immigration policies | Letter",
-      "summary": "The recent immigration enforcement operation in Biddeford, which resulted in the fatal shooting of a legal immigrant, has left Mainers with many unanswered questions about immigration laws and what role federal agencies play in our communities. The recent tragedy reminds us of the importance of exam",
-      "url": "https://www.pressherald.com/2026/08/09/comparing-immigration-policies-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-09",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "223146c60c44",
-      "title": "Obituary: Nancy Small",
-      "summary": "SHAPLEIGH - Nancy Small, 96, lifelong Shapleigh resident, EMT, sailor, knitter, and Bridge Grand Master.\n\nPhoto of Nancy Small, at home in ...",
-      "url": "https://www.pressherald.com/2026/08/09/obituarynancy-small-4/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-09",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "24079b65e9f3",
-      "title": "Fire crews battle blaze at old Moosehead\u00a0Mill",
-      "summary": "A permitted debris burn got out of control at a Monson mill Saturday night, destroying at least three buildings.",
-      "url": "https://www.bangordailynews.com/2026/08/09/piscataquis/piscataquis-police-courts/fire-crews-battle-blaze-old-moosehead-mill-monson/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "4e7f1f8872c3",
+      "title": "Chester Planning Board to resume hearing on plan for 34 tiny homes",
+      "summary": "It\u2019s been several weeks since the last public hearing on a proposed small house development plan in Chester.",
+      "url": "https://www.unionleader.com/news/homes/chester-planning-board-to-resume-hearing-on-plan-for-34-tiny-homes/article_a635e9e1-52c1-457a-8919-f6e9e3e04f62.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-08-09",
       "category": "news",
       "priority": "medium",
@@ -676,27 +634,13 @@
       ]
     },
     {
-      "id": "d775933b01f5",
-      "title": "Asking Eric: Beloved bridge player is struggling and it\u2019s affecting the whole group",
-      "summary": "Some people have quit the group because of this person's inability to keep up with the games.",
-      "url": "https://www.masslive.com/advice/2026/08/asking-eric-beloved-bridge-player-is-struggling-and-its-affecting-the-whole-group.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "9488d460aef1",
+      "title": "Secondwind Water Systems expands with new Seacoast location",
+      "summary": "Secondwind Water Systems is opening its second location at 97 Lafayette Road inHampton Falls, expanding the company\u2019s presence on the Seacoast and strengthening its ability to serve homeowners, businesses, and public water systems throughout the region.",
+      "url": "https://www.unionleader.com/news/business/secondwind-water-systems-expands-with-new-seacoast-location/article_d807fa3a-ebfd-4144-8def-af511c1bdf10.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-08-09",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "34c8ec870301",
-      "title": "Hannaford recalls deli, produce items due to possible salmonella contamination",
-      "summary": "The Hannaford recall is part of a broader recall by jalapeno supplier Coast Citrus Distributors, company officials said.",
-      "url": "https://www.bangordailynews.com/2026/08/08/state/state-health/hannaford-recalls-deli-produce-items-due-to-possible-salmonella-contamination/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-08",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -704,13 +648,13 @@
       ]
     },
     {
-      "id": "db8f9dac0c8a",
-      "title": "Belfast\u2019s East Side is a \u2018business graveyard\u2019 compared with Searsport",
-      "summary": "The municipalities take a different approach to economic development, the author says.",
-      "url": "https://www.bangordailynews.com/2026/08/08/midcoast/midcoast-business/belfasts-east-side-business-graveyard-compared-to-searsport/",
+      "id": "9d441bc4ef2b",
+      "title": "Edgecomb man dead after truck crash in Wiscasset",
+      "summary": "Investigators believe a medical event may have led to the single-vehicle crash on Wiscasset Road in Boothbay.",
+      "url": "https://www.bangordailynews.com/2026/08/09/midcoast/midcoast-police-courts/edgecomb-man-dead-after-truck-crash-in-wiscasset/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -740,6 +684,20 @@
       "state": "VT",
       "date": "2026-08-07",
       "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "559000e2ae46",
+      "title": "Woodmont Commons gets extension for road upgrades as developer adds 300 more units.",
+      "summary": "A Londonderry developer is getting more time to finish road improvements as part of its agreement with the town to improve the corridor before adding more than 300 more units to the Woodmont Commons project.",
+      "url": "https://www.unionleader.com/news/local/derry_londonderry/woodmont-commons-gets-extension-for-road-upgrades-as-developer-adds-300-more-units/article_ef829da7-6bf8-49e3-858d-d381363f6458.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-08-07",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -783,20 +741,6 @@
       "date": "2026-08-06",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c3a6af479488",
-      "title": "Vermont\u2019s GOP primary for U.S. House pits 2 different personalities against each other",
-      "summary": "Gerald Malloy and Mark Coester have run for Congress before, but this year they\u2019re squaring off against each other in a bid to unseat U.S. Rep. Becca Balint, D-Vt.\nRead the story on VTDigger here:  Vermont\u2019s GOP primary for U.S. House pits 2 different personalities against each other.",
-      "url": "https://vtdigger.org/2026/08/05/vermonts-gop-primary-for-u-s-house-pits-2-different-personalities-against-each-other/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-08-05",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
