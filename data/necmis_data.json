@@ -1,102 +1,26 @@
 {
-  "generated": "2026-08-11T11:33:51.613786Z",
+  "generated": "2026-08-12T11:36:04.787067Z",
   "summary": {
-    "total_opportunities": 33,
-    "total_value_low": 445772380,
-    "total_value_high": 445772380,
+    "total_opportunities": 29,
+    "total_value_low": 364452652,
+    "total_value_high": 364452652,
     "by_state": {
-      "VT": 3,
-      "NH": 8,
-      "ME": 7,
-      "MA": 26,
+      "VT": 1,
+      "NH": 7,
+      "ME": 4,
+      "MA": 21,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 31,
-      "news": 15,
+      "dot_letting": 27,
+      "news": 8,
       "funding": 2
     }
   },
   "dot_lettings": [
-    {
-      "id": "62c57da6b888",
-      "state": "MA",
-      "project_id": "616302",
-      "description": "Maintenance and Preservation of Municipal Bridges at Multiple Locations (D2 Contract 2)",
-      "cost_low": 2166161,
-      "cost_high": 2166161,
-      "cost_display": "$2.2M",
-      "ad_date": "2026-06-27",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Belchertown - Hampden - Monson - South Hadley - Southwick",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616302",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a7c7f3901d4c",
-      "state": "MA",
-      "project_id": "606859",
-      "description": "CANA Tunnel and Vent Building Rehabilitation",
-      "cost_low": 76265555,
-      "cost_high": 76265555,
-      "cost_display": "$76.3M",
-      "ad_date": "2026-04-25",
-      "let_date": null,
-      "project_type": "DCAMM-General Building Construction, Electrical\u0096All Type\u0096Inc",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606859",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "068713fd5a7a",
-      "state": "MA",
-      "project_id": "614225",
-      "description": "Bridge Maintenance, F-04-019, including the Furnishing & Installation of a Safety Fence and Related Work (Arthur Ditomasso Bridge)",
-      "cost_low": 1265149,
-      "cost_high": 1265149,
-      "cost_display": "$1.3M",
-      "ad_date": "2026-06-27",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Fitchburg",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614225",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fd55cd531d1f",
-      "state": "MA",
-      "project_id": "616301",
-      "description": "Maintenance and Preservation of Municipal Bridges at Multiple Locations (D2 Contract 1)",
-      "cost_low": 1622863,
-      "cost_high": 1622863,
-      "cost_display": "$1.6M",
-      "ad_date": "2026-06-27",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Gill - Northfield - Royalston - Winchendon",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616301",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "1dc9b7cde5b4",
       "state": "MA",
@@ -620,13 +544,13 @@
   ],
   "news": [
     {
-      "id": "e444449581a0",
-      "title": "Sea Dogs chase their dreams while living the ever-changing life of a minor leaguer",
-      "summary": "There are more than a few twists, turns and exits on the road to Major League Baseball.",
-      "url": "https://www.pressherald.com/2026/08/11/sea-dogs-chase-their-dreams-while-living-the-ever-changing-life-of-a-minor-leaguer/",
+      "id": "b62317f7fd00",
+      "title": "A former long-haul trucking dispatcher returns to the road in debut novel",
+      "summary": "South Portland\u2019s Ryan Lowell writes about a high-stakes heist in 'Freight.'",
+      "url": "https://www.pressherald.com/2026/08/12/a-former-long-haul-trucking-dispatcher-returns-to-the-road-in-debut-novel/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -634,41 +558,13 @@
       ]
     },
     {
-      "id": "2d6d8466614a",
-      "title": "The time to implement the Lifespan Waiver is now | Letter",
-      "summary": "A recent op-ed about the new Lifespan Waiver applauded the goals of the waiver, while suggesting that its implementation be paused due to concerns that it will not achieve its goals (\u201cMaine DHHS should pause Lifespan Waiver,\u201d July 31). The Maine Developmental Services Oversight and Advisory Board is",
-      "url": "https://www.pressherald.com/2026/08/11/the-time-to-implement-the-lifespan-waiver-is-now-letter/",
+      "id": "edff4e01336a",
+      "title": "Danbury comeback delays Sanford\u2019s bid for NECBL title",
+      "summary": "The Mainers can't hold on to a five-run lead but will have another chance to win the championship series on Wednesday.",
+      "url": "https://www.pressherald.com/2026/08/11/danbury-comeback-delays-sanfords-bid-for-necbl-title/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-08-11",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c1605d5d1b55",
-      "title": "We need to learn to live with Canada geese | Letter",
-      "summary": "I have been made aware of several instances of Canada geese being removed and killed in South Portland and Scarborough. The geese are protected by the Migratory Bird Treaty Act. However, this protection can be waived by getting a permit that allows the killing \u2014 even for the \u201ccrime\u201d of pooping. Kill",
-      "url": "https://www.pressherald.com/2026/08/11/we-need-to-learn-to-live-with-canada-geese-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-11",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5758a53de136",
-      "title": "Obituary: Eleanor Knight",
-      "summary": "SANFORD - Eleanor was born in Biddeford, on Sept. 12, 1932, the daughter of William P. and Edith Clough Thomas. Eleanor ...",
-      "url": "https://www.pressherald.com/2026/08/11/obituaryeleanor-knight-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -676,41 +572,13 @@
       ]
     },
     {
-      "id": "38d319127eb1",
-      "title": "Obituary: Maryanne Gilbert",
-      "summary": "BIDDEFORD - Maryanne Gilbert, 70, passed away Saturday, Aug. 8, 2026 after brief illness. She is survived by husband John Gilbert, ...",
-      "url": "https://www.pressherald.com/2026/08/11/obituarymaryanne-gilbert-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-11",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6320f6068444",
-      "title": "Sanford Mainers bid for NECBL title on hold after postponement",
-      "summary": "Game 2 of the NECBL championship series against the Danbury Westerners was rained out and will be made up Tuesday.",
-      "url": "https://www.pressherald.com/2026/08/10/sanford-mainers-bid-at-necbl-title-on-hold-after-postponement/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-11",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3138dd324e60",
-      "title": "Littleville Fair features its iconic events for the 104th year",
-      "summary": "The 104th Littleville Fair took place from Aug. 7-9 at 15 Kinnebrook Road. All of the fair\u2019s most famous events, including the oxen draws, truck pull, bingo and Line Dancing with Stompin\u2019 Boots, returned this year. Performances included Cris Merenda & the Wheel, October Mountain Band, the Pitoniak B",
-      "url": "https://www.masslive.com/westfieldnews/2026/08/littleville-fair-features-its-iconic-events-for-the-104th-year.html",
+      "id": "821bd619188b",
+      "title": "Despite recent rain, mandatory water ban continues in Southwick",
+      "summary": "In the years before the state tied municipal water use to the state\u2019s drought status, Southwick's mandatory water ban would have already been lifted.",
+      "url": "https://www.masslive.com/westfieldnews/2026/08/despite-recent-rain-mandatory-water-ban-continues-in-southwick.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -718,14 +586,14 @@
       ]
     },
     {
-      "id": "bf27fce7561c",
-      "title": "Can a city require a permit for prayer at home? Supreme Court will decide",
-      "summary": "An Ohio homeowner\u2019s Supreme Court case over a home prayer gathering could reshape religious freedom claims, zoning disputes and First Amendment rights.",
-      "url": "https://www.masslive.com/news/2026/08/what-started-in-an-ohio-rec-room-could-change-religious-rights-nationwide.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "362fb4714653",
+      "title": "Demand for Maine trails grants remains high in second round of funding",
+      "summary": "Stakeholders have started talking about more sustainable funding sources for trail design and development.",
+      "url": "https://www.pressherald.com/2026/08/11/demand-for-maine-trails-grants-remains-high-in-second-round-of-funding/",
+      "source": "Portland Press Herald",
+      "state": "ME",
       "date": "2026-08-11",
-      "category": "news",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -736,20 +604,6 @@
       "title": "U.S. House Candidate Hollie Noveletsky Campaigns at Red Arrow Diner",
       "summary": "InDepthNH.org is partnering with C-SPAN\u2019s Campaign 2026\u00a0initiative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail.\nThe post U.S. House Candidate Hollie Noveletsky Campaigns at Red Arrow Diner appeared first on InDepthNH.org.",
       "url": "https://indepthnh.org/2026/08/10/u-s-house-candidate-hollie-noveletsky-campaigns-at-red-arrow-diner/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-08-10",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "59714bddd193",
-      "title": "Durham Sex Offender Arrested After Throwing Fireworks At Police",
-      "summary": "On Monday, August 10, 2026, at approximately 6:00 a.m., the Durham Police Department attempted to serve an arrest warrant at 16 Denbow Road on Rory Robertson (age 46), of Durham.\nThe post Durham Sex Offender Arrested After Throwing Fireworks At Police appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/08/10/durham-sex-offender-arrested-after-throwing-fireworks-at-police/",
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-08-10",
@@ -782,34 +636,6 @@
       "state": "NH",
       "date": "2026-08-09",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5e052cf71553",
-      "title": "Compensate Vermonters for the cost of coexisting with beavers",
-      "summary": "Beavers provide broad benefits to Vermont's landscape, but the people who bear the personal costs of living near them shouldn't have to foot the bill alone.\nRead the story on VTDigger here:  Compensate Vermonters for the cost of coexisting with beavers.",
-      "url": "https://vtdigger.org/2026/08/07/opinion-compensate-vermonters-for-the-cost-of-coexisting-with-beavers/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-08-07",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d4e66e896a9f",
-      "title": "ICE agents arrest several in Londonderry operation",
-      "summary": "The people arrested were targeted while traveling to a construction job site, according to a member of Two Rivers Area Indivisible, an immigrants rights activist group in the area. \nRead the story on VTDigger here:  ICE agents arrest several in Londonderry operation.",
-      "url": "https://vtdigger.org/2026/08/07/ice-agents-arrest-several-in-londonderry-operation/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-08-07",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
