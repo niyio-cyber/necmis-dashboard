@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-12T11:36:04.787067Z",
+  "generated": "2026-08-13T11:36:00.269167Z",
   "summary": {
-    "total_opportunities": 29,
+    "total_opportunities": 30,
     "total_value_low": 364452652,
     "total_value_high": 364452652,
     "by_state": {
-      "VT": 1,
+      "VT": 2,
       "NH": 7,
-      "ME": 4,
-      "MA": 21,
+      "ME": 7,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 8,
-      "funding": 2
+      "news": 13,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -544,27 +544,13 @@
   ],
   "news": [
     {
-      "id": "b62317f7fd00",
-      "title": "A former long-haul trucking dispatcher returns to the road in debut novel",
-      "summary": "South Portland\u2019s Ryan Lowell writes about a high-stakes heist in 'Freight.'",
-      "url": "https://www.pressherald.com/2026/08/12/a-former-long-haul-trucking-dispatcher-returns-to-the-road-in-debut-novel/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "edff4e01336a",
-      "title": "Danbury comeback delays Sanford\u2019s bid for NECBL title",
-      "summary": "The Mainers can't hold on to a five-run lead but will have another chance to win the championship series on Wednesday.",
-      "url": "https://www.pressherald.com/2026/08/11/danbury-comeback-delays-sanfords-bid-for-necbl-title/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-12",
+      "id": "abafcff0e903",
+      "title": "Killington passes budget after second vote but tumult still reigns",
+      "summary": "Killington\u2019s town manager is on administrative leave pending a disciplinary hearing, and large scale infrastructure projects are on hold because of a staffing shortage.\nRead the story on VTDigger here:  Killington passes budget after second vote but tumult still reigns.",
+      "url": "https://vtdigger.org/2026/08/13/killington-passes-budget-after-second-vote-but-tumult-still-reigns/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-08-13",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -572,13 +558,41 @@
       ]
     },
     {
-      "id": "821bd619188b",
-      "title": "Despite recent rain, mandatory water ban continues in Southwick",
-      "summary": "In the years before the state tied municipal water use to the state\u2019s drought status, Southwick's mandatory water ban would have already been lifted.",
-      "url": "https://www.masslive.com/westfieldnews/2026/08/despite-recent-rain-mandatory-water-ban-continues-in-southwick.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-12",
+      "id": "3f81d27d3176",
+      "title": "Saco River Corridor Commission considers permit extension for Biddeford pier project",
+      "summary": "Scientists pleaded with the commission to extend the pier project permit at a public hearing Wednesday night.",
+      "url": "https://www.pressherald.com/2026/08/13/saco-river-corridor-commission-considers-permit-extension-for-biddeford-pier-project/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-13",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "27d6daebc870",
+      "title": "Maine must get real about Susan Collins | Letter",
+      "summary": "I cannot understand how the news media, in good conscience, can run annoying \u201cpuff piece\u201d letters to the editor and op-eds about Sen. Susan Collins \u2014 especially after the killing by ICE of 25-year-old Johan Sebasti\u00e1n Dur\u00e1n Guerrero in broad daylight, at a location within walking distance of her Bidd",
+      "url": "https://www.pressherald.com/2026/08/13/maine-must-get-real-about-susan-collins-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-13",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "950cb9f44060",
+      "title": "Pedestrians are responsible for road safety too | Letter",
+      "summary": "Whatever happened to 'start them young'?",
+      "url": "https://www.pressherald.com/2026/08/13/pedestrians-are-responsible-for-road-safety-too-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-13",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -586,13 +600,55 @@
       ]
     },
     {
-      "id": "362fb4714653",
-      "title": "Demand for Maine trails grants remains high in second round of funding",
-      "summary": "Stakeholders have started talking about more sustainable funding sources for trail design and development.",
-      "url": "https://www.pressherald.com/2026/08/11/demand-for-maine-trails-grants-remains-high-in-second-round-of-funding/",
+      "id": "c2a772836d5b",
+      "title": "Streaky Red Sox drop 5th in a row",
+      "summary": "Toronto breaks a tie with five runs in the 8th, then holds off a 9th-inning comeback bid.",
+      "url": "https://www.pressherald.com/2026/08/12/streaky-red-sox-drop-5th-in-a-row/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-08-11",
+      "date": "2026-08-13",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6969708c5fa4",
+      "title": "Mission Improbable: A onetime Republican is trying to prove Democrats can win in Florida",
+      "summary": "LEESBURG, Fla. (AP) \u2014 Cyn Doyle is a self-described political cynic. So when David Jolly, the Republican-turned-independent who is now running for Florida governor as a Democrat, swung through this town dotted by lakes and Spanish moss, she had doubts. \u201cHow can you assure us,\u201d the 71-year-old presse",
+      "url": "https://www.bangordailynews.com/2026/08/13/nation/mission-improbable-a-onetime-republican-is-trying-to-prove-democrats-can-win-in-florida/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-13",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "efee6655c0ca",
+      "title": "Ellsworth weighs temporary ban on data center development",
+      "summary": "Ellsworth\u2019s ban would be preemptive, as it hasn't received any inquiries about potential data center developments.",
+      "url": "https://www.bangordailynews.com/2026/08/13/hancock/hancock-government/ellsworth-temporary-ban-data-centers-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d12928b5e2b8",
+      "title": "East Longmeadow council backs $43M fiber network with no change in taxes",
+      "summary": "Whip City Fiber will build and operate the broadband network, but the assets and profits will be owned by East Longmeadow\u2019s town government.",
+      "url": "https://www.masslive.com/westernmass/2026/08/east-longmeadow-council-backs-43m-fiber-network-with-no-change-in-taxes.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-13",
       "category": "funding",
       "priority": "medium",
       "business_lines": [
@@ -600,14 +656,42 @@
       ]
     },
     {
-      "id": "0405d7c4dba7",
-      "title": "U.S. House Candidate Hollie Noveletsky Campaigns at Red Arrow Diner",
-      "summary": "InDepthNH.org is partnering with C-SPAN\u2019s Campaign 2026\u00a0initiative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail.\nThe post U.S. House Candidate Hollie Noveletsky Campaigns at Red Arrow Diner appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/08/10/u-s-house-candidate-hollie-noveletsky-campaigns-at-red-arrow-diner/",
+      "id": "6730bbf5d558",
+      "title": "Appalachian Mountain Club needs volunteers to help with campsite construction",
+      "summary": "Volunteers are needed Saturday to help build a campsite planned by the National Park Service on the New England National Scenic Trail on property in Southwick along that trail that was acquired in 2023.",
+      "url": "https://www.masslive.com/westfieldnews/2026/08/appalachian-mountain-club-needs-volunteers-to-help-with-campsite-construction.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ae5eed80ffbc",
+      "title": "Pickleball court construction project at Whalley Park begins",
+      "summary": "With no fanfare, like a formal groundbreaking ceremony, construction on the six pickleball courts at Whalley Park in Southwick has begun.",
+      "url": "https://www.masslive.com/westfieldnews/2026/08/pickleball-court-construction-project-at-whalley-park-begins.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "705520dfba06",
+      "title": "Judge Orders Review of Manchester\u2019s Water Treatment Plant Permit",
+      "summary": "A federal appeals board has sent Manchester's wastewater treatment plant permit back for review after a legal challenge over \"forever chemicals\" discharge into the Merrimack River.\nThe post Judge Orders Review of Manchester\u2019s Water Treatment Plant Permit appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/08/12/judge-orders-review-of-manchesters-water-treatment-plant-permit/",
       "source": "InDepthNH",
       "state": "NH",
-      "date": "2026-08-10",
-      "category": "news",
+      "date": "2026-08-12",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
