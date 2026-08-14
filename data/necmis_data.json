@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-13T11:36:00.269167Z",
+  "generated": "2026-08-14T11:33:55.289022Z",
   "summary": {
-    "total_opportunities": 30,
+    "total_opportunities": 29,
     "total_value_low": 364452652,
     "total_value_high": 364452652,
     "by_state": {
-      "VT": 2,
-      "NH": 7,
-      "ME": 7,
-      "MA": 23,
+      "VT": 3,
+      "NH": 9,
+      "ME": 5,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 13,
-      "funding": 3
+      "news": 14,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -544,6 +544,76 @@
   ],
   "news": [
     {
+      "id": "4ebfcac946bf",
+      "title": "Deeply disappointed by Susan Collins\u2019 reply on Biddeford shooting | Letter",
+      "summary": "I'm in disbelief at this inappropriate and deficient piece of correspondence.",
+      "url": "https://www.pressherald.com/2026/08/14/deeply-disappointing-by-susan-collins-reply-on-biddeford-shooting-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-14",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "aa2088089bce",
+      "title": "Gray-New Gloucester/Raymond falls in Little League regional final",
+      "summary": "Bridgewater, Mass., claims the New England title at the expense of the Maine champions.",
+      "url": "https://www.pressherald.com/2026/08/13/gray-new-gloucester-raymond-falls-in-little-league-regional-final/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-14",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cd51e923e195",
+      "title": "WGI starts a special permitting process for new facility",
+      "summary": "After a consulting engineer for WGI, Inc. began to wrap up his presentation of the various impacts of the company\u2019s project to build a new 68,000-square-foot facility at the Southwick Planning Board meeting Tuesday, his hope was to \u201cmove this thing along tonight,\u201d meaning have the board vote approve",
+      "url": "https://www.masslive.com/westfieldnews/2026/08/wgi-starts-a-special-permitting-process-for-new-facility.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-14",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "87de2c69b861",
+      "title": "Why children risked snowstorms and highways to flee this Ohio facility",
+      "summary": "An investigation into Ohio\u2019s Fox Run Center reveals allegations of violence, restraints, suicide attempts and repeated escapes by children placed there for mental health treatment.",
+      "url": "https://www.masslive.com/news/2026/08/inside-the-ohio-center-where-some-kids-begged-not-to-return.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-14",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "199aabda1ac8",
+      "title": "Long-vacant \u2018pit\u2019 in downtown Newport nears new chapter with purchase plan",
+      "summary": "Caught up in scandal, the city block known as \u201cthe pit\u201d has been empty for a decade. Now it\u2019s slated for purchase by the Northeastern Vermont Development Association, which plans to transfer the property to the city or a development partner. \nRead the story on VTDigger here:  Long-vacant \u2018pit\u2019 in d",
+      "url": "https://vtdigger.org/2026/08/13/long-vacant-pit-in-downtown-newport-nears-new-chapter-with-purchase-plan/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-08-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "abafcff0e903",
       "title": "Killington passes budget after second vote but tumult still reigns",
       "summary": "Killington\u2019s town manager is on administrative leave pending a disciplinary hearing, and large scale infrastructure projects are on hold because of a staffing shortage.\nRead the story on VTDigger here:  Killington passes budget after second vote but tumult still reigns.",
@@ -558,10 +628,38 @@
       ]
     },
     {
-      "id": "3f81d27d3176",
-      "title": "Saco River Corridor Commission considers permit extension for Biddeford pier project",
-      "summary": "Scientists pleaded with the commission to extend the pier project permit at a public hearing Wednesday night.",
-      "url": "https://www.pressherald.com/2026/08/13/saco-river-corridor-commission-considers-permit-extension-for-biddeford-pier-project/",
+      "id": "a9158f817cd1",
+      "title": "Hooksett ponders a \u2018downtown,\u2019 river development as growth looms",
+      "summary": "Hooksett officials on Wednesday brainstormed ways to preserve community character while managing change.",
+      "url": "https://www.unionleader.com/news/local/hooksett/hooksett-ponders-a-downtown-river-development-as-growth-looms/article_4cb619cd-e331-44b5-b9f3-a465fe3aac95.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-08-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7adc07644466",
+      "title": "Partner of man shot by ICE agent in Biddeford posts tribute a month after his death",
+      "summary": "Johan Sebasti\u00e1n Dur\u00e1n Guerrero was shot and killed by a U.S. Immigration and Customs Enforcement officer on July 13.",
+      "url": "https://www.pressherald.com/2026/08/13/partner-of-man-shot-by-ice-agent-in-biddeford-posts-tribute-a-month-after-his-death/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-13",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "8b3b5843b07f",
+      "title": "Shark sighting shuts down swimming at Biddeford beaches",
+      "summary": "Great white sharks have been spotted several times along the Maine coast in the past week.",
+      "url": "https://www.pressherald.com/2026/08/13/shark-sighting-shuts-down-swimming-at-biddeford-beaches/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-08-13",
@@ -572,110 +670,12 @@
       ]
     },
     {
-      "id": "27d6daebc870",
-      "title": "Maine must get real about Susan Collins | Letter",
-      "summary": "I cannot understand how the news media, in good conscience, can run annoying \u201cpuff piece\u201d letters to the editor and op-eds about Sen. Susan Collins \u2014 especially after the killing by ICE of 25-year-old Johan Sebasti\u00e1n Dur\u00e1n Guerrero in broad daylight, at a location within walking distance of her Bidd",
-      "url": "https://www.pressherald.com/2026/08/13/maine-must-get-real-about-susan-collins-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-13",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "950cb9f44060",
-      "title": "Pedestrians are responsible for road safety too | Letter",
-      "summary": "Whatever happened to 'start them young'?",
-      "url": "https://www.pressherald.com/2026/08/13/pedestrians-are-responsible-for-road-safety-too-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c2a772836d5b",
-      "title": "Streaky Red Sox drop 5th in a row",
-      "summary": "Toronto breaks a tie with five runs in the 8th, then holds off a 9th-inning comeback bid.",
-      "url": "https://www.pressherald.com/2026/08/12/streaky-red-sox-drop-5th-in-a-row/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-13",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6969708c5fa4",
-      "title": "Mission Improbable: A onetime Republican is trying to prove Democrats can win in Florida",
-      "summary": "LEESBURG, Fla. (AP) \u2014 Cyn Doyle is a self-described political cynic. So when David Jolly, the Republican-turned-independent who is now running for Florida governor as a Democrat, swung through this town dotted by lakes and Spanish moss, she had doubts. \u201cHow can you assure us,\u201d the 71-year-old presse",
-      "url": "https://www.bangordailynews.com/2026/08/13/nation/mission-improbable-a-onetime-republican-is-trying-to-prove-democrats-can-win-in-florida/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-13",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "efee6655c0ca",
-      "title": "Ellsworth weighs temporary ban on data center development",
-      "summary": "Ellsworth\u2019s ban would be preemptive, as it hasn't received any inquiries about potential data center developments.",
-      "url": "https://www.bangordailynews.com/2026/08/13/hancock/hancock-government/ellsworth-temporary-ban-data-centers-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d12928b5e2b8",
-      "title": "East Longmeadow council backs $43M fiber network with no change in taxes",
-      "summary": "Whip City Fiber will build and operate the broadband network, but the assets and profits will be owned by East Longmeadow\u2019s town government.",
-      "url": "https://www.masslive.com/westernmass/2026/08/east-longmeadow-council-backs-43m-fiber-network-with-no-change-in-taxes.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-13",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6730bbf5d558",
-      "title": "Appalachian Mountain Club needs volunteers to help with campsite construction",
-      "summary": "Volunteers are needed Saturday to help build a campsite planned by the National Park Service on the New England National Scenic Trail on property in Southwick along that trail that was acquired in 2023.",
-      "url": "https://www.masslive.com/westfieldnews/2026/08/appalachian-mountain-club-needs-volunteers-to-help-with-campsite-construction.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ae5eed80ffbc",
-      "title": "Pickleball court construction project at Whalley Park begins",
-      "summary": "With no fanfare, like a formal groundbreaking ceremony, construction on the six pickleball courts at Whalley Park in Southwick has begun.",
-      "url": "https://www.masslive.com/westfieldnews/2026/08/pickleball-court-construction-project-at-whalley-park-begins.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "67c9deb393c8",
+      "title": "Fire Suppression, Water Woes Boil Over with Development Pressure in Lincoln",
+      "summary": "They learned that at least twice in recent years during structure fires in town, the fire chief was asked by the public works director to stop using town water to put the fire out because there was a lack of water.\nThe post Fire Suppression, Water Woes Boil Over with Development Pressure in Lincoln",
+      "url": "https://indepthnh.org/2026/08/13/water-concerns-boil-over-with-development-pressure-fire-suppression-concern-in-lincoln/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-08-13",
       "category": "news",
       "priority": "medium",
