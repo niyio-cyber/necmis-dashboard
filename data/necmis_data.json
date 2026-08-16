@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T11:07:13.436257Z",
+  "generated": "2026-08-16T11:08:26.889693Z",
   "summary": {
     "total_opportunities": 28,
     "total_value_low": 364452652,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 3,
       "NH": 10,
-      "ME": 2,
-      "MA": 21,
+      "ME": 1,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 12,
+      "news": 10,
       "funding": 1
     }
   },
@@ -543,34 +543,6 @@
     }
   ],
   "news": [
-    {
-      "id": "e071ccc2cfa6",
-      "title": "Downtown Portland is a deadly obstacle course | Letter",
-      "summary": "I read with interest the article of July 31 (\u201cCould reducing speed limits to 20 mph make Portland roads safer?\u201d). The idea is to prevent pedestrian deaths by reducing the speed limit to 20 mph. The article places responsibility on the driver. In most cases, I agree. At the same time, I believe the s",
-      "url": "https://www.pressherald.com/2026/08/15/downtown-portland-is-a-deadly-obstacle-course-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "abac2652ce72",
-      "title": "Council requests new site search, as Holyoke sports complex faces uncertainty",
-      "summary": "A proposed Holyoke sports complex near Elmwood Forest remains in limbo amid resident opposition, ongoing litigation and no formal development proposal before the city.",
-      "url": "https://www.masslive.com/westernmass/2026/08/council-requests-new-site-search-as-holyoke-sports-complex-faces-uncertainty.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "199aabda1ac8",
       "title": "Long-vacant \u2018pit\u2019 in downtown Newport nears new chapter with purchase plan",
