@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-16T11:08:26.889693Z",
+  "generated": "2026-08-17T11:13:11.472362Z",
   "summary": {
-    "total_opportunities": 28,
+    "total_opportunities": 27,
     "total_value_low": 364452652,
     "total_value_high": 364452652,
     "by_state": {
       "VT": 3,
-      "NH": 10,
-      "ME": 1,
-      "MA": 20,
+      "NH": 8,
+      "ME": 3,
+      "MA": 22,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 10,
-      "funding": 1
+      "news": 13,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -544,6 +544,62 @@
   ],
   "news": [
     {
+      "id": "816d66a9cdd5",
+      "title": "Warren goes West: Talking housing, Trump and the midterms in Pittsfield | Bay State Briefing",
+      "summary": "As ever, the Cambridge Democrat had lots on her mind. We listened.",
+      "url": "https://www.masslive.com/politics/2026/08/warren-goes-west-talking-housing-trump-and-the-midterms-in-pittsfield-bay-state-briefing.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f6279b93100d",
+      "title": "Dear Abby: Is it terribly insensitive to post pics of your mansion under construction?",
+      "summary": "Abby: Perhaps if you start counting the blessings you have in your own life, you can combat the green-eyed monster",
+      "url": "https://www.masslive.com/advice/2026/08/dear-abby-is-it-terribly-insensitive-to-post-pics-of-your-mansion-under-construction.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c7c40ddaa54f",
+      "title": "Cape Elizabeth considers new uses for old school building",
+      "summary": "A committee is looking into selling, leasing, demolishing or other municipal uses for the building.",
+      "url": "https://www.pressherald.com/2026/08/16/cape-elizabeth-considers-new-uses-for-old-school-building/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e02decfef001",
+      "title": "NH man charged after 14 callers report car going over 100 mph on Maine highway",
+      "summary": "The Bangor Regional Communications Center began receiving calls at approximately 3:35 p.m. about a vehicle driving erratically.",
+      "url": "https://www.bangordailynews.com/2026/08/16/bangor/bangor-police-courts/nh-man-charged-14-callers-car-100-mph-maine-highway/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-16",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "199aabda1ac8",
       "title": "Long-vacant \u2018pit\u2019 in downtown Newport nears new chapter with purchase plan",
       "summary": "Caught up in scandal, the city block known as \u201cthe pit\u201d has been empty for a decade. Now it\u2019s slated for purchase by the Northeastern Vermont Development Association, which plans to transfer the property to the city or a development partner. \nRead the story on VTDigger here:  Long-vacant \u2018pit\u2019 in d",
@@ -666,34 +722,6 @@
       "date": "2026-08-07",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4b8cbb0c2189",
-      "title": "Agency ends 39% household cap on local TV station owners",
-      "summary": "The Federal Communications Commission voted on Thursday to rescind the rule that bars local broadcast station owners from reaching more than 39% of U.S. TV households in a move that could spark industry consolidation.",
-      "url": "https://www.unionleader.com/news/politics/national/agency-ends-39-household-cap-on-local-tv-station-owners/article_71931da9-8e99-5344-abc7-92f9f53d11db.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-08-06",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "88c2f614c6e8",
-      "title": "Merrimack Planning Board delays vote on Flatley hotel, retail project",
-      "summary": "A site plan review for John Flatley Company\u2019s proposed hotel, commercial and retail space development along Daniel Webster Highway in Merrimack was continued for further scrutiny Tuesday night.",
-      "url": "https://www.unionleader.com/news/local/merrimack/merrimack-planning-board-delays-vote-on-flatley-hotel-retail-project/article_4e208a47-5766-4517-b420-4d4a0ccd05a7.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-08-05",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
