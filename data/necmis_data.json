@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-19T11:12:12.681452Z",
+  "generated": "2026-08-20T11:13:58.341762Z",
   "summary": {
-    "total_opportunities": 32,
+    "total_opportunities": 34,
     "total_value_low": 425823188,
     "total_value_high": 425823188,
     "by_state": {
       "VT": 3,
-      "NH": 5,
-      "ME": 7,
-      "MA": 26,
+      "NH": 7,
+      "ME": 9,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 13,
-      "funding": 2
+      "news": 14,
+      "funding": 4
     }
   },
   "dot_lettings": [
@@ -603,24 +603,136 @@
   ],
   "news": [
     {
-      "id": "1e830034e22c",
-      "title": "Thank you, Susan Collins, now hit the road | Opinion",
-      "summary": "I'll acquiesce to the senator's repeated requests for appreciation ... for the early days of service. As for today? Forget it.",
-      "url": "https://www.pressherald.com/2026/08/19/thank-you-susan-collins-now-hit-the-road-opinion/",
+      "id": "b9853d671f61",
+      "title": "How to stay safe when you or your kids are riding ATVs",
+      "summary": "In the wake of 2 fatal off-road crashes over the weekend, Maine officials are reminding riders to take safety precautions while working and recreating with all-terrain vehicles.",
+      "url": "https://www.pressherald.com/2026/08/20/how-to-stay-safe-when-you-or-your-kids-are-riding-atvs/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "38030454133a",
+      "title": "Ignorance or complicity by Sen. Collins? | Letter",
+      "summary": "Sen. Susan Collins enthusiastically supported putting another $70 billion into the hands of Donald Trump\u2019s secret police force. These are the same terrorists who recently murdered Joan Sebasti\u00e1n Dur\u00e1n Guerrero in Biddeford, and who illegally kidnapped Maine nurse Debora Kapisha, along with countless",
+      "url": "https://www.pressherald.com/2026/08/20/ignorance-or-complicity-by-sen-collins-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-20",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6a9b043fc4b3",
+      "title": "Unnecessary ships an example of government\u2019s misplaced priorities | Letter",
+      "summary": "Recently, our Republican government, following their president\u2019s direction, awarded no-bid contracts to build 11 icebreaking ships for Arctic duties. The contracts total about $7 billion, including $3.5 billion included in last July\u2019s \u201cbig, beautiful bill.\u201d That amount would likely have covered only",
+      "url": "https://www.pressherald.com/2026/08/20/unnecessary-ships-an-example-of-governments-misplaced-priorities-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-20",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "86856a12e56f",
+      "title": "When the signal drops, so do sales: Maine business owners need connections",
+      "summary": "The Maine Connectivity Authority is working to ensure all residents have access to broadband and cellular, as well as the skills and devices they need to use them.",
+      "url": "https://www.pressherald.com/2026/08/20/when-the-signal-drops-so-do-sales-maine-business-owners-need-connections/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "85dac06237b6",
+      "title": "All Roads Music Festival back in Belfast this fall",
+      "summary": "The two-day music festival kicks off on Friday, Oct. 16, with a lineup of more than two dozen acts playing at five different venues.",
+      "url": "https://www.bangordailynews.com/2026/08/20/midcoast/midcoast-culture/all-roads-music-festival-belfast-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f48cc0f8038d",
+      "title": "It\u2019s a city-owned snow dump. Caribou wants to turn it into affordable\u00a0housing.",
+      "summary": "Municipalities in Maine and across the U.S. have taken similar hands-on approaches as both younger Americans and seniors struggle to find quality affordable housing.",
+      "url": "https://www.bangordailynews.com/2026/08/20/aroostook/aroostook-government/caribou-snow-dump-affordable-housing-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e7a35ee91f25",
+      "title": "AOC backs Markey in latest twist of Mass. Democratic Senate showdown",
+      "summary": "With early voting set to begin Saturday, U.S. Rep. Alexandria Ocasio-Cortez, D.-N.Y., is backing Sen. Ed Markey's reelection bid, giving the incumbent a high-profile progressive endorsement.",
+      "url": "https://www.masslive.com/boston-fleet/2026/08/aoc-backs-markey-as-mass-senate-primary-enters-final-stretch.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-20",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5a38cbf73d2f",
+      "title": "Climate Matters: Sensing sacred presence in a changing climate",
+      "summary": "Simple, yet profound, expressions of nature remind us that our awareness of the Divine is found not only in temples and sacred texts, but also in creation herself. This realization bridges the natural world with our spiritual longing, reinforcing that the sacred is all around us. For me, that bridge",
+      "url": "https://www.masslive.com/westfieldnews/2026/08/climate-matters-sensing-sacred-presence-in-a-changing-climate.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-20",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9c2689ce4e41",
+      "title": "New county food resource to open next month in Biddeford",
+      "summary": "The York County Food Hub will help food pantries across the county provide meals for more families, advocates said at a forum Tuesday night.",
+      "url": "https://www.pressherald.com/2026/08/19/new-york-county-food-resource-to-open-next-month-in-biddeford/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-08-19",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "9c7f7e5f62b9",
-      "title": "Inside Troy Jackson\u2019s\u00a0warp-speed Senate campaign hiring spree",
-      "summary": "Jackson, who ran a comparatively small bid for governor, had days to assemble the infrastructure campaigns typically spend months building.",
-      "url": "https://www.bangordailynews.com/2026/08/19/politics/elections/troy-jackson-senate-campaign-hiring-spree-joam40zk0w/",
+      "id": "0a250b6da886",
+      "title": "Missouri court allows new Trump-backed US House districts be used in November election",
+      "summary": "JEFFERSON CITY, Mo. (AP) \u2014 A Missouri judge has allowed new U.S. House districts backed by President Donald Trump to be used in the November elections, rejecting a bid by to put the Republican-friendly districts to a statewide vote of the people. The ruling Wednesday by Cole County Circuit Judge Dan",
+      "url": "https://www.bangordailynews.com/2026/08/19/nation/missouri-court-allows-new-trump-backed-us-house-districts-be-used-in-november-election/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-08-19",
@@ -631,12 +743,12 @@
       ]
     },
     {
-      "id": "e73e6d13b4b0",
-      "title": "Letter: Mainers have the power to choose someone better than Susan Collins",
-      "summary": "\u201cI believe Sen. Susan Collins doesn\u2019t trust the citizens of Maine to support her in her bid for a sixth term.\u201d",
-      "url": "https://www.bangordailynews.com/2026/08/19/opinion/letters/letter-mainers-have-the-power-to-choose-someone-better-than-susan-collins-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "88b1f559c679",
+      "title": "Lawmakers Easily Override Ayotte\u2019s Veto of Highway Improvement Plan",
+      "summary": "This session Gov. Kelly Ayotte may have vetoed a modern record number of bills \u2014 33 \u2014 passed with her party in control of the legislature, but House and Senate members Wednesday were in a mood to overturn a healthy number \u2014 seven \u2014 of her vetoes Wednesday.\nThe post Lawmakers Easily Override Ayotte\u2019s",
+      "url": "https://indepthnh.org/2026/08/19/lawmakers-easily-override-ayottes-veto-of-highway-improvement-plan/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-08-19",
       "category": "news",
       "priority": "high",
@@ -645,71 +757,15 @@
       ]
     },
     {
-      "id": "1a738e990479",
-      "title": "Bar Harbor hotelier backs town\u2019s extended freeze on lodging developments",
-      "summary": "David C. Witham said he thinks the lodging industry has contributed to the loss of year-round housing, but it is not \u201cworthy of the bullseye many put on it for the housing challenges.\u201d",
-      "url": "https://www.bangordailynews.com/2026/08/18/hancock/hancock-government/bar-harbor-hotelier-backs-towns-extended-freeze-on-lodging-developments/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "3c85a010e19d",
+      "title": "Congresswoman says target of ICE operation in fatal Maine shooting wasn\u2019t up for removal",
+      "summary": "Johan Sebasti\u00e1n Dur\u00e1n Guerrero, a 25-year-old Colombian national,\u00a0was shot and killed\u00a0by an ICE agent in a car near his Biddeford home on July 13. \nThe post Congresswoman says target of ICE operation in fatal Maine shooting wasn\u2019t up for removal appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/08/19/congresswoman-says-target-of-ice-operation-in-fatal-maine-shooting-wasnt-up-for-removal/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-08-19",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e76dcad788b7",
-      "title": "5 drivers snagged in median-crossing crash on I-95 in Hermon",
-      "summary": "The chain reaction started when a pickup truck hauling a trailer failed to yield while merging onto the interstate from Coldbrook Road.",
-      "url": "https://www.bangordailynews.com/2026/08/18/bangor/bangor-police-courts/crash-i-95-hermon-maine/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b926a8390949",
-      "title": "State DEP to fund water pollution mitigation plan in the Congamond Lakes",
-      "summary": "At the Lake Management Committee meeting last week, it was announced the state\u2019s Department of Environmental Protection had chosen Congamond Lakes to fund the continued development of a watershed-management plan with the goal of increasing the water quality of the three Great Ponds.",
-      "url": "https://www.masslive.com/westfieldnews/2026/08/state-dep-to-fund-water-pollution-mitigation-plan-in-the-congamond-lakes.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1c2f4caae312",
-      "title": "Ohio prosecutor pushes new death penalty debate",
-      "summary": "Trumbull County Prosecutor Dennis Watkins is urging Ohio lawmakers to revisit the state\u2019s death penalty law after a new Pew Research Center poll found broad national support for capital punishment in murder cases.",
-      "url": "https://www.masslive.com/news/2026/08/longtime-ohio-prosecutor-wants-to-reopen-a-national-debate.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "76ca01ef6525",
-      "title": "DPW director updates the Select Board on road projects",
-      "summary": "With the completion of Ed Holcombe Road repair project, Southwick's DPW is moving forward with several other projects on the drawing board including finishing the restoration of Gargon Terrace.",
-      "url": "https://www.masslive.com/westfieldnews/2026/08/dpw-director-updates-the-select-board-on-road-projects.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-19",
-      "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -738,20 +794,6 @@
       "date": "2026-08-18",
       "category": "funding",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a3f62559164b",
-      "title": "Repair or replace: Bridge between Lubec and Campobello Island faces pivotal choice",
-      "summary": "Public feedback, environmental reviews and cross\u2011border impacts will guide MaineDOT\u2019s decision on the future of the 63\u2011year\u2011old international crossing.",
-      "url": "https://www.bangordailynews.com/2026/08/18/down-east/downeast-government/fdr-bridge-lubec-campobello-island-repair-replace/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-18",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
