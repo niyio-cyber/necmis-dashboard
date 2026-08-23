@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-22T11:08:32.004529Z",
+  "generated": "2026-08-23T11:09:08.463428Z",
   "summary": {
-    "total_opportunities": 37,
+    "total_opportunities": 39,
     "total_value_low": 587878693,
     "total_value_high": 587878693,
     "by_state": {
       "VT": 2,
-      "NH": 8,
-      "ME": 3,
+      "NH": 7,
+      "ME": 5,
       "MA": 29,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 35,
-      "news": 9,
-      "funding": 2
+      "news": 8,
+      "funding": 4
     }
   },
   "dot_lettings": [
@@ -701,6 +701,34 @@
   ],
   "news": [
     {
+      "id": "8e333363dc30",
+      "title": "Why a viral wallet maker set up shop in Presque Isle",
+      "summary": "Oldis Road uses a Presque Isle office to manage worldwide shipping for its vertical-opening leather wallets.",
+      "url": "https://www.bangordailynews.com/2026/08/23/aroostook/aroostook-business/oldis-road-viral-wallet-maker-presque-isle-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7025c4cdc5f5",
+      "title": "Major career shakeups hit stars of \u2018Bridgerton,\u2019 \u2018Oppenheimer\u2019 and Slipknot",
+      "summary": "Nicola Coughlan, David Krumholtz and Sid Wilson each reached major professional turning points this week after years in defining roles.",
+      "url": "https://www.masslive.com/entertainment/2026/08/major-career-shakeups-hit-stars-of-bridgerton-oppenheimer-and-slipknot.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-23",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "e105bd04496f",
       "title": "Middlebury submits state\u2019s first CHIP application",
       "summary": "The Community & Housing Infrastructure Program is attractive to local officials because it harnesses state education fund dollars to pay down infrastructure debt.\nRead the story on VTDigger here:  Middlebury submits state\u2019s first CHIP application.",
@@ -715,43 +743,43 @@
       ]
     },
     {
-      "id": "207ff7524561",
-      "title": "Marine electrification\u00a0is an economic opportunity\u00a0for\u00a0Maine | Opinion",
-      "summary": "Commercial vessels are already making the transition. Maine needs the infrastructure, financing and workforce to compete in a growing global market.",
-      "url": "https://www.pressherald.com/2026/08/22/marine-electrification-is-an-economic-opportunity-for-maine-opinion/",
-      "source": "Portland Press Herald",
+      "id": "7bed1130db42",
+      "title": "Ambulance carrying patient crashes in Bangor",
+      "summary": "The crash happened on Broadway in Bangor on Friday evening.",
+      "url": "https://www.bangordailynews.com/2026/08/22/bangor/bangor-police-courts/ambulance-carrying-patient-crashes-in-bangor/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-08-22",
       "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "23a423850af4",
+      "title": "Town & Country dedicates Connolly-Couture Bridge honoring long-time volunteers as Eastern Trail \u2018Close the Gap\u2019 project is completed",
+      "summary": "SCARBOROUGH \u2014 Following the completion of the Eastern Trail Alliance\u2019s long-awaited \u201cClose the Gap\u201d project, signage was officially installed for the new Connolly-Couture Bridge, a lasting tribute to two individuals whose dedication helped shape Town & Country Federal Credit Union and the communitie",
+      "url": "https://www.bangordailynews.com/2026/08/22/bdn-maine/town-country-dedicates-connolly-couture-bridge-honoring-long-time-volunteers-as-eastern-trail-close-the-gap-project-is-completed/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-22",
+      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "e8eacfe1389f",
-      "title": "Travel advisory issued for popular Caribbean destination, and it\u2019s good news for travelers",
-      "summary": "This Caribbean nation has the lowest State Department-issued travel advisory, which means it is a generally safe destination for U.S. citizens to travel abroad",
-      "url": "https://www.masslive.com/news/2026/08/travel-advisory-issued-for-popular-caribbean-destination-and-its-good-news-for-travelers.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1ce7cc494d0c",
-      "title": "Catalyzing Mid-Maine\u2019s innovation economy: CMGC creates new role to spotlight ecosystem growth",
-      "summary": "New innovation and development specialist role, filled by Amanda Wrigley, to focus on place-based ecosystem building and economic programming. WATERVILLE \u2014 The Central Maine Growth Council is pleased to welcome Amanda Wrigley as its innovation and development specialist. In this role, Wrigley will b",
-      "url": "https://www.bangordailynews.com/2026/08/21/bdn-maine/catalyzing-mid-maines-innovation-economy-cmgc-creates-new-role-to-spotlight-ecosystem-growth/",
+      "id": "2154dfaba548",
+      "title": "Trump urges court to reject BBC\u2019s bid to secure records from his family in defamation case",
+      "summary": "WASHINGTON (AP) \u2014 President Donald Trump has urged a federal judge to reject the BBC\u2019s request for the court\u2019s help in securing testimony and documents from three family members in response to his $10 billion defamation lawsuit against the British broadcaster. The BBC is trying to gain \u201cpolitically-",
+      "url": "https://www.bangordailynews.com/2026/08/22/nation/trump-urges-court-to-reject-bbcs-bid-to-secure-records-from-his-family-in-defamation-case/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-08-21",
-      "category": "news",
-      "priority": "medium",
+      "date": "2026-08-22",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -803,20 +831,6 @@
       "title": "Lawmakers Easily Override Ayotte\u2019s Veto of Highway Improvement Plan",
       "summary": "This session Gov. Kelly Ayotte may have vetoed a modern record number of bills \u2014 33 \u2014 passed with her party in control of the legislature, but House and Senate members Wednesday were in a mood to overturn a healthy number \u2014 seven \u2014 of her vetoes Wednesday.\nThe post Lawmakers Easily Override Ayotte\u2019s",
       "url": "https://indepthnh.org/2026/08/19/lawmakers-easily-override-ayottes-veto-of-highway-improvement-plan/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-08-19",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3c85a010e19d",
-      "title": "Congresswoman says target of ICE operation in fatal Maine shooting wasn\u2019t up for removal",
-      "summary": "Johan Sebasti\u00e1n Dur\u00e1n Guerrero, a 25-year-old Colombian national,\u00a0was shot and killed\u00a0by an ICE agent in a car near his Biddeford home on July 13. \nThe post Congresswoman says target of ICE operation in fatal Maine shooting wasn\u2019t up for removal appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/08/19/congresswoman-says-target-of-ice-operation-in-fatal-maine-shooting-wasnt-up-for-removal/",
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-08-19",
