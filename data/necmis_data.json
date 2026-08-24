@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-23T11:09:08.463428Z",
+  "generated": "2026-08-24T11:15:35.868942Z",
   "summary": {
-    "total_opportunities": 39,
+    "total_opportunities": 36,
     "total_value_low": 587878693,
     "total_value_high": 587878693,
     "by_state": {
       "VT": 2,
-      "NH": 7,
-      "ME": 5,
+      "NH": 6,
+      "ME": 4,
       "MA": 29,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 35,
-      "news": 8,
-      "funding": 4
+      "news": 9,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -701,12 +701,54 @@
   ],
   "news": [
     {
-      "id": "8e333363dc30",
-      "title": "Why a viral wallet maker set up shop in Presque Isle",
-      "summary": "Oldis Road uses a Presque Isle office to manage worldwide shipping for its vertical-opening leather wallets.",
-      "url": "https://www.bangordailynews.com/2026/08/23/aroostook/aroostook-business/oldis-road-viral-wallet-maker-presque-isle-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "558f1d966ced",
+      "title": "Why investment profit is at the center of CMP\u2019s rate hike",
+      "summary": "Maine's biggest electric utility and consumer advocates are at odds over how much money the company should be allowed to make on its infrastructure investments.",
+      "url": "https://www.pressherald.com/2026/08/24/why-investment-profit-is-at-the-center-of-cmps-rate-hike/",
+      "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-08-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b03d29120353",
+      "title": "Maine patients should not have to wait 12 years for an ME/CFS diagnosis \u2014 like I did | Opinion",
+      "summary": "A roadmap is now in place to prevent patients from living a prolonged nightmare with myalgic encephalomyelitis/chronic fatigue syndrome. All Congress needs to do is fund it.",
+      "url": "https://www.pressherald.com/2026/08/24/maine-patients-should-not-have-to-wait-12-years-for-an-me-cfs-diagnosis-like-i-did-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "250ecc5a6484",
+      "title": "Man gravely hurt in Raynham motorcycle, truck crash",
+      "summary": "A motorcyclist was seriously injured in a collision with a pickup truck in Raynham on Sunday night.",
+      "url": "https://www.masslive.com/news/2026/08/man-gravely-hurt-in-raynham-motorcycle-truck-crash.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "a605949f7eb2",
+      "title": "New Hampshire PBS public media leader Dawn DeAngelis to retire",
+      "summary": "New Hampshire PBS announced that Dawn DeAngelis, vice president and chief content officer, will retire Oct. 2, following a 46-year career at the forefront of commercial broadcasting, public television and the emergence of multi-platform media.",
+      "url": "https://www.unionleader.com/news/business/new-hampshire-pbs-public-media-leader-dawn-deangelis-to-retire/article_cd8a2e43-116d-44df-96a4-98ed8169055e.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-08-23",
       "category": "news",
       "priority": "medium",
@@ -715,15 +757,15 @@
       ]
     },
     {
-      "id": "7025c4cdc5f5",
-      "title": "Major career shakeups hit stars of \u2018Bridgerton,\u2019 \u2018Oppenheimer\u2019 and Slipknot",
-      "summary": "Nicola Coughlan, David Krumholtz and Sid Wilson each reached major professional turning points this week after years in defining roles.",
-      "url": "https://www.masslive.com/entertainment/2026/08/major-career-shakeups-hit-stars-of-bridgerton-oppenheimer-and-slipknot.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "cc04361dcab1",
+      "title": "New Hampshire man dead after crashing dirt bike in Parsonsfield",
+      "summary": "Kevin O'Connell was riding on a dusty road with low visibility when he struck a tree.",
+      "url": "https://www.pressherald.com/2026/08/23/new-hampshire-man-dead-after-crashing-dirt-bike-in-parsonsfield/",
+      "source": "Portland Press Herald",
+      "state": "ME",
       "date": "2026-08-23",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -737,48 +779,6 @@
       "state": "VT",
       "date": "2026-08-22",
       "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7bed1130db42",
-      "title": "Ambulance carrying patient crashes in Bangor",
-      "summary": "The crash happened on Broadway in Bangor on Friday evening.",
-      "url": "https://www.bangordailynews.com/2026/08/22/bangor/bangor-police-courts/ambulance-carrying-patient-crashes-in-bangor/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "23a423850af4",
-      "title": "Town & Country dedicates Connolly-Couture Bridge honoring long-time volunteers as Eastern Trail \u2018Close the Gap\u2019 project is completed",
-      "summary": "SCARBOROUGH \u2014 Following the completion of the Eastern Trail Alliance\u2019s long-awaited \u201cClose the Gap\u201d project, signage was officially installed for the new Connolly-Couture Bridge, a lasting tribute to two individuals whose dedication helped shape Town & Country Federal Credit Union and the communitie",
-      "url": "https://www.bangordailynews.com/2026/08/22/bdn-maine/town-country-dedicates-connolly-couture-bridge-honoring-long-time-volunteers-as-eastern-trail-close-the-gap-project-is-completed/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-22",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2154dfaba548",
-      "title": "Trump urges court to reject BBC\u2019s bid to secure records from his family in defamation case",
-      "summary": "WASHINGTON (AP) \u2014 President Donald Trump has urged a federal judge to reject the BBC\u2019s request for the court\u2019s help in securing testimony and documents from three family members in response to his $10 billion defamation lawsuit against the British broadcaster. The BBC is trying to gain \u201cpolitically-",
-      "url": "https://www.bangordailynews.com/2026/08/22/nation/trump-urges-court-to-reject-bbcs-bid-to-secure-records-from-his-family-in-defamation-case/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-22",
-      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
@@ -827,20 +827,6 @@
       ]
     },
     {
-      "id": "88b1f559c679",
-      "title": "Lawmakers Easily Override Ayotte\u2019s Veto of Highway Improvement Plan",
-      "summary": "This session Gov. Kelly Ayotte may have vetoed a modern record number of bills \u2014 33 \u2014 passed with her party in control of the legislature, but House and Senate members Wednesday were in a mood to overturn a healthy number \u2014 seven \u2014 of her vetoes Wednesday.\nThe post Lawmakers Easily Override Ayotte\u2019s",
-      "url": "https://indepthnh.org/2026/08/19/lawmakers-easily-override-ayottes-veto-of-highway-improvement-plan/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-08-19",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "7bbcb42ed246",
       "title": "Common Man Roadside sues after Hampton proposal rejected",
       "summary": "The process to redevelop the two liquor stores on Interstate 95 in Hampton has had multiple starts and stops over the past several years, and now a lawsuit against the New Hampshire Liquor Commission is in the mix.",
@@ -849,20 +835,6 @@
       "state": "NH",
       "date": "2026-08-18",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "43421e928fa2",
-      "title": "Disney, ABC sue FCC over threats to broadcast licenses",
-      "summary": "Disney and its ABC unit sued the Federal Communications Commission on Tuesday to block an early review of licenses for eight ABC stations, arguing that the Trump administration is trying to punish the network over its broadcast content.",
-      "url": "https://www.unionleader.com/news/courts/disney-abc-sue-fcc-over-threats-to-broadcast-licenses/article_23112985-5109-5431-a9b3-edfec13314d8.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-08-18",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
