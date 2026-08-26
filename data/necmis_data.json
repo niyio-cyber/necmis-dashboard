@@ -1,142 +1,26 @@
 {
-  "generated": "2026-08-25T11:19:33.264807Z",
+  "generated": "2026-08-26T11:16:49.969295Z",
   "summary": {
-    "total_opportunities": 35,
-    "total_value_low": 587878693,
-    "total_value_high": 587878693,
+    "total_opportunities": 29,
+    "total_value_low": 556754693,
+    "total_value_high": 556754693,
     "by_state": {
-      "VT": 2,
-      "NH": 4,
-      "ME": 4,
-      "MA": 29,
+      "VT": 1,
+      "NH": 2,
+      "ME": 3,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 35,
+      "dot_letting": 29,
       "news": 8,
       "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "0a5e59d23322",
-      "state": "MA",
-      "project_id": "616282",
-      "description": "Maintenance and Preservation of Municipal Bridges at Multiple Locations (D1 Contract 1)",
-      "cost_low": 1852820,
-      "cost_high": 1852820,
-      "cost_display": "$1.9M",
-      "ad_date": "2026-07-18",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Ashfield - Charlemont - Conway - Hawley",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616282",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4cefb615f106",
-      "state": "MA",
-      "project_id": "613608",
-      "description": "Electrical Cabinet Replacements along I-90 and I-93",
-      "cost_low": 10786807,
-      "cost_high": 10786807,
-      "cost_display": "$10.8M",
-      "ad_date": "2026-07-04",
-      "let_date": null,
-      "project_type": "Electrical\u0096All Type\u0096Including Electrical Maintenance",
-      "location": "Boston - Somerville",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613608",
-      "source": "MassDOT",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "19b1db308eb6",
-      "state": "MA",
-      "project_id": "616286",
-      "description": "Maintenance and Preservation of Municipal Bridges at Multiple Locations (D1 Contract 2)",
-      "cost_low": 2272080,
-      "cost_high": 2272080,
-      "cost_display": "$2.3M",
-      "ad_date": "2026-07-18",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Chesterfield - Hinsdale - Middlefield - Pittsfield",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616286",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0b5c543cf161",
-      "state": "MA",
-      "project_id": "614098",
-      "description": "Bridge Deck Wearing Surface Repairs at Various Locations",
-      "cost_low": 2200250,
-      "cost_high": 2200250,
-      "cost_display": "$2.2M",
-      "ad_date": "2026-07-25",
-      "let_date": null,
-      "project_type": "Bridge - Construction    , Pavement - Surfacing",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614098",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "13b0fc77049a",
-      "state": "MA",
-      "project_id": "613163",
-      "description": "Rail Trail Construction, from Ford Avenue to the Peabody City Line",
-      "cost_low": 4893928,
-      "cost_high": 4893928,
-      "cost_display": "$4.9M",
-      "ad_date": "2026-07-25",
-      "let_date": null,
-      "project_type": "Highway - Bike Paths",
-      "location": "Lynnfield",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613163",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c3e413e5d01d",
-      "state": "MA",
-      "project_id": "609277",
-      "description": "Reconstruction of Ashland Street",
-      "cost_low": 9118115,
-      "cost_high": 9118115,
-      "cost_display": "$9.1M",
-      "ad_date": "2026-07-25",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "North Adams",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609277",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "f64c23af7ede",
       "state": "MA",
@@ -252,26 +136,6 @@
       ]
     },
     {
-      "id": "2eeb48079dd5",
-      "state": "MA",
-      "project_id": "613106",
-      "description": "Deck Replacement, R-04-018 (3U4, 3U5), I-195 (EB/WB) over Palmer River",
-      "cost_low": 8629272,
-      "cost_high": 8629272,
-      "cost_display": "$8.6M",
-      "ad_date": "2026-08-08",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Rehoboth",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613106",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
       "id": "1ff2432a81e0",
       "state": "MA",
       "project_id": "608744",
@@ -304,6 +168,26 @@
       "location": "Raynham - Taunton",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613642",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "2eeb48079dd5",
+      "state": "MA",
+      "project_id": "613106",
+      "description": "Deck Replacement, R-04-018 (3U4, 3U5), I-195 (EB/WB) over Palmer River",
+      "cost_low": 8629272,
+      "cost_high": 8629272,
+      "cost_display": "$8.6M",
+      "ad_date": "2026-08-08",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Rehoboth",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613106",
       "source": "MassDOT",
       "business_lines": [
         "highway",
@@ -701,57 +585,99 @@
   ],
   "news": [
     {
-      "id": "90f83c644c7b",
-      "title": "Karen Guregian: Christian Gonzalez returns to Patriots practice, but the contract cloud hasn\u2019t lifted",
-      "summary": "Christian Gonzalez' return was a positive development. But the contract cloud hovering above remains.",
-      "url": "https://www.masslive.com/patriots/2026/08/christian-gonzalez-returns-to-patriots-practice-but-contract-cloud-hasnt-lifted-karen-guregian.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-25",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3b226666e685",
-      "title": "Portland City Council repeals downtown entertainment buffer",
-      "summary": "Removing the 3-decade-old rule received broad support from officials after businesses said it's outdated and hindering nightlife.",
-      "url": "https://www.pressherald.com/2026/08/24/portland-city-council-repeals-downtown-entertainment-buffer/",
+      "id": "9a7c270d020c",
+      "title": "Sea Dogs comeback bid thwarted by Flying Squirrels",
+      "summary": "Despite a home run and three RBI from Justin Gonzales, Portland loses a series opener in Virginia.",
+      "url": "https://www.pressherald.com/2026/08/25/sea-dogs-comeback-bid-thwarted-by-flying-squirrels/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-08-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ca43b172bfa1",
-      "title": "Freeport voters could decide whether long-landlocked ship gets to see the ocean",
-      "summary": "Last week, the Town Council declined to adopt an ordinance permitting the launch of the homemade ship Island Rover. If a citizens' petition gains enough valid signatures, the issue will go to voters.",
-      "url": "https://www.pressherald.com/2026/08/24/freeport-voters-could-decide-whether-long-landlocked-ship-gets-to-see-the-ocean/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "44dc7b91cae4",
-      "title": "Biddeford 911 calls detail moments after fatal ICE shooting",
-      "summary": "Newly released transcripts show several people calling for help and information after hearing the shots that killed Johan Sebasti\u00e1n Dur\u00e1n Guerrero on July 13.",
-      "url": "https://www.pressherald.com/2026/08/24/biddeford-911-calls-detail-moments-after-fatal-ice-shooting/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-24",
+      "date": "2026-08-26",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cbc5e635a3ae",
+      "title": "Longtime developmental education group opens Madawaska location",
+      "summary": "A group of parents founded the Central Aroostook Association more than 60 years ago\u00a0to provide support and education for local children with intellectual and developmental disabilities.",
+      "url": "https://www.bangordailynews.com/2026/08/26/aroostook/aroostook-education/longtime-developmental-education-group-opens-madawaska-location-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "53717cbb1b3b",
+      "title": "Travelers to popular Caribbean destination are in luck with latest advisory: Here\u2019s why",
+      "summary": "This Caribbean nation has the lowest State Department-issued travel advisory, which means it is a generally safe destination for U.S. citizens to travel abroad",
+      "url": "https://www.masslive.com/news/2026/08/travelers-to-popular-caribbean-destination-are-in-luck-with-latest-advisory-heres-why.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1077108babe8",
+      "title": "Dolly Parton\u2019s Broadway musical still a go, per her wishes",
+      "summary": "The musical tells the life story of the country-pop superstar.",
+      "url": "https://www.masslive.com/entertainment/2026/08/dolly-partons-broadway-musical-still-a-go-despite-country-legends-death-per-her-wishes.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "70a91cba8280",
+      "title": "Westfield Fair brings family fun for 98th year",
+      "summary": "WESTFIELD \u2014 The 98th Westfield Fair graced the fairgrounds on 137 Russellville Road from Aug. 21-23. Highlighted events included the Mass.",
+      "url": "https://www.masslive.com/westfieldnews/2026/08/westfield-fair-brings-family-fun-for-98th-year.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e2986b972b10",
+      "title": "Westfield holds groundbreaking ceremony to kick off construction of new police station",
+      "summary": "The groundbreaking ceremony held Tuesday to officially begin construction of Westfield's new police station, was a \u201clong time coming,\u201d said Mayor Michael McCabe.",
+      "url": "https://www.masslive.com/westfieldnews/2026/08/westfield-holds-groundbreaking-ceremony-to-kick-off-construction-of-new-police-station.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9996ff743e84",
+      "title": "Today\u2019s horoscope: Pisces - A partnership will hit a crossroads (Aug. 26, 2026)",
+      "summary": "Celebrities born on this day: Keke Palmer, 33; Macaulay Culkin, 46; Chris Pine, 46; Melissa McCarthy, 56.",
+      "url": "https://www.masslive.com/advice/2026/08/todays-horoscope-pisces-a-partnership-will-hit-a-crossroads-aug-26-2026.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-26",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -764,48 +690,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-08-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e105bd04496f",
-      "title": "Middlebury submits state\u2019s first CHIP application",
-      "summary": "The Community & Housing Infrastructure Program is attractive to local officials because it harnesses state education fund dollars to pay down infrastructure debt.\nRead the story on VTDigger here:  Middlebury submits state\u2019s first CHIP application.",
-      "url": "https://vtdigger.org/2026/08/22/middlebury-submits-states-first-chip-application/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-08-22",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3ce3452e2796",
-      "title": "Rep. Maggie Goodlander Accepts Environmental Group Endorsement, Tours Facility",
-      "summary": "InDepthNH.org is partnering with C-SPAN\u2019s Campaign 2026\u00a0initiative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail.\u00a0Please watch for video of the candidates in which C-SPAN will provide InDepthNH.org free access to on-the-ground election coverage.\nThe post Rep. Maggie Goodlander Acc",
-      "url": "https://indepthnh.org/2026/08/20/rep-maggie-goodlander-d-nh-accepts-environmental-group-endorsement-tours-energy-facility/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-08-21",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7bbcb42ed246",
-      "title": "Common Man Roadside sues after Hampton proposal rejected",
-      "summary": "The process to redevelop the two liquor stores on Interstate 95 in Hampton has had multiple starts and stops over the past several years, and now a lawsuit against the New Hampshire Liquor Commission is in the mix.",
-      "url": "https://www.unionleader.com/news/business/common-man-roadside-sues-after-hampton-proposal-rejected/article_95d67a66-1de8-4aed-a0a6-0e495482d93a.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-08-18",
       "category": "news",
       "priority": "medium",
       "business_lines": [
