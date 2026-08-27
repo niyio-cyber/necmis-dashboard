@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-26T11:16:49.969295Z",
+  "generated": "2026-08-27T20:49:21.876407Z",
   "summary": {
     "total_opportunities": 29,
     "total_value_low": 556754693,
     "total_value_high": 556754693,
     "by_state": {
-      "VT": 1,
+      "VT": 2,
       "NH": 2,
-      "ME": 3,
-      "MA": 27,
+      "ME": 2,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 8,
+      "news": 5,
       "funding": 0
     }
   },
@@ -585,13 +585,13 @@
   ],
   "news": [
     {
-      "id": "9a7c270d020c",
-      "title": "Sea Dogs comeback bid thwarted by Flying Squirrels",
-      "summary": "Despite a home run and three RBI from Justin Gonzales, Portland loses a series opener in Virginia.",
-      "url": "https://www.pressherald.com/2026/08/25/sea-dogs-comeback-bid-thwarted-by-flying-squirrels/",
+      "id": "1d87585a9a79",
+      "title": "Damariscotta Historical Society\u2019s annual silent auction begins Tuesday",
+      "summary": "Bidding takes place at the Skidompha Library from Sept. 1-11.",
+      "url": "https://www.pressherald.com/2026/08/27/damariscotta-historical-societys-annual-silent-auction-begins-tuesday/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -599,13 +599,27 @@
       ]
     },
     {
-      "id": "cbc5e635a3ae",
-      "title": "Longtime developmental education group opens Madawaska location",
-      "summary": "A group of parents founded the Central Aroostook Association more than 60 years ago\u00a0to provide support and education for local children with intellectual and developmental disabilities.",
-      "url": "https://www.bangordailynews.com/2026/08/26/aroostook/aroostook-education/longtime-developmental-education-group-opens-madawaska-location-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-08-26",
+      "id": "aabcba3e8ef5",
+      "title": "Kayshon Boutte shares heartfelt message to Patriots after trade",
+      "summary": "Kayshon Boutte bid farewell to the Patriots with a heartfelt message on Instagram.",
+      "url": "https://www.masslive.com/patriots/2026/08/kayshon-boutte-shares-heartfelt-message-to-patriots-after-trade.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-27",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fb2927de8ed8",
+      "title": "ESPN making major change to college football broadcasts",
+      "summary": "ESPN is changing its college football broadcasts in 2026 and doing away with the BottomLine ticker.",
+      "url": "https://www.masslive.com/sports/2026/08/espn-making-major-change-to-college-football-broadcasts.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-08-27",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -613,71 +627,15 @@
       ]
     },
     {
-      "id": "53717cbb1b3b",
-      "title": "Travelers to popular Caribbean destination are in luck with latest advisory: Here\u2019s why",
-      "summary": "This Caribbean nation has the lowest State Department-issued travel advisory, which means it is a generally safe destination for U.S. citizens to travel abroad",
-      "url": "https://www.masslive.com/news/2026/08/travelers-to-popular-caribbean-destination-are-in-luck-with-latest-advisory-heres-why.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "4501bbd6e1cb",
+      "title": "Manchester Selectboard discusses future of Flock cameras",
+      "summary": "Some town officials and residents are questioning the use of the cameras, which have been in place in Manchester since 2023, concerned about the potential creation of a surveillance-state infrastructure.\nRead the story on VTDigger here:  Manchester Selectboard discusses future of Flock cameras.",
+      "url": "https://vtdigger.org/2026/08/26/manchester-selectboard-discusses-future-of-flock-cameras/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-08-26",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1077108babe8",
-      "title": "Dolly Parton\u2019s Broadway musical still a go, per her wishes",
-      "summary": "The musical tells the life story of the country-pop superstar.",
-      "url": "https://www.masslive.com/entertainment/2026/08/dolly-partons-broadway-musical-still-a-go-despite-country-legends-death-per-her-wishes.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "70a91cba8280",
-      "title": "Westfield Fair brings family fun for 98th year",
-      "summary": "WESTFIELD \u2014 The 98th Westfield Fair graced the fairgrounds on 137 Russellville Road from Aug. 21-23. Highlighted events included the Mass.",
-      "url": "https://www.masslive.com/westfieldnews/2026/08/westfield-fair-brings-family-fun-for-98th-year.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e2986b972b10",
-      "title": "Westfield holds groundbreaking ceremony to kick off construction of new police station",
-      "summary": "The groundbreaking ceremony held Tuesday to officially begin construction of Westfield's new police station, was a \u201clong time coming,\u201d said Mayor Michael McCabe.",
-      "url": "https://www.masslive.com/westfieldnews/2026/08/westfield-holds-groundbreaking-ceremony-to-kick-off-construction-of-new-police-station.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9996ff743e84",
-      "title": "Today\u2019s horoscope: Pisces - A partnership will hit a crossroads (Aug. 26, 2026)",
-      "summary": "Celebrities born on this day: Keke Palmer, 33; Macaulay Culkin, 46; Chris Pine, 46; Melissa McCarthy, 56.",
-      "url": "https://www.masslive.com/advice/2026/08/todays-horoscope-pisces-a-partnership-will-hit-a-crossroads-aug-26-2026.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-26",
-      "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
