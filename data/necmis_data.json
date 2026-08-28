@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-27T20:49:21.876407Z",
+  "generated": "2026-08-28T21:16:23.324639Z",
   "summary": {
-    "total_opportunities": 29,
+    "total_opportunities": 30,
     "total_value_low": 556754693,
     "total_value_high": 556754693,
     "by_state": {
-      "VT": 2,
-      "NH": 2,
-      "ME": 2,
-      "MA": 24,
+      "VT": 3,
+      "NH": 3,
+      "ME": 6,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 29,
-      "news": 5,
-      "funding": 0
+      "news": 9,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -585,13 +585,27 @@
   ],
   "news": [
     {
-      "id": "1d87585a9a79",
-      "title": "Damariscotta Historical Society\u2019s annual silent auction begins Tuesday",
-      "summary": "Bidding takes place at the Skidompha Library from Sept. 1-11.",
-      "url": "https://www.pressherald.com/2026/08/27/damariscotta-historical-societys-annual-silent-auction-begins-tuesday/",
+      "id": "ece1f76fedbb",
+      "title": "Killington seeks financial help after cash crunch, TIF compliance issues",
+      "summary": "The town needed to take out a loan as it works on public infrastructure for the multibillion-dollar Killington Village project.\nRead the story on VTDigger here:  Killington seeks financial help after cash crunch, TIF compliance issues.",
+      "url": "https://vtdigger.org/2026/08/28/killington-seeks-financial-help-after-cash-crunch-tif-compliance-issues/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-08-28",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6600712da8e1",
+      "title": "Celebrated Cooper Flagg rookie card headed for auction with Fanatics",
+      "summary": "The merchandise company obtained the card, the only one of its kind in the world, and will put it up for bidding in September.",
+      "url": "https://www.pressherald.com/2026/08/28/celebrated-cooper-flagg-rookie-card-headed-for-auction-with-fanatics/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -599,13 +613,13 @@
       ]
     },
     {
-      "id": "aabcba3e8ef5",
-      "title": "Kayshon Boutte shares heartfelt message to Patriots after trade",
-      "summary": "Kayshon Boutte bid farewell to the Patriots with a heartfelt message on Instagram.",
-      "url": "https://www.masslive.com/patriots/2026/08/kayshon-boutte-shares-heartfelt-message-to-patriots-after-trade.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-08-27",
+      "id": "33533db60fbd",
+      "title": "July heat wave revealed the challenges facing Maine\u2019s electrical grid | Opinion",
+      "summary": "With stronger storms and more frequent extreme heat, the state's energy needs are evolving, and the grid must evolve with them. That's why continued investment in its infrastructure remains essential.",
+      "url": "https://www.pressherald.com/2026/08/28/july-heat-wave-revealed-the-challenges-facing-maines-electrical-grid-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-08-28",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -613,12 +627,68 @@
       ]
     },
     {
-      "id": "fb2927de8ed8",
-      "title": "ESPN making major change to college football broadcasts",
-      "summary": "ESPN is changing its college football broadcasts in 2026 and doing away with the BottomLine ticker.",
-      "url": "https://www.masslive.com/sports/2026/08/espn-making-major-change-to-college-football-broadcasts.html",
+      "id": "17c2e1d7c97a",
+      "title": "Ten things you\u2019ll see different at UMaine this fall",
+      "summary": "ORONO \u2014 Students returning to UMaine this fall will find a campus that looks \u2014 and in many places functions \u2014 noticeably different than it did when they left in May. New research and education facilities are open. Major athletics construction is taking shape. More parking spaces have been added, and",
+      "url": "https://www.bangordailynews.com/2026/08/28/bdn-maine/ten-things-youll-see-different-at-umaine-this-fall/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-28",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c1e2536f6241",
+      "title": "Millinocket salmon farm project paused due to tariffs \u2018roller coaster\u2019",
+      "summary": "The project was expected\u00a0to create more than 100 jobs during construction, and dozens when it was operational.",
+      "url": "https://www.bangordailynews.com/2026/08/28/penobscot/penobscot-business/millinocket-maine-salmon-farm-paused-tariffs/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-28",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f547c97fd3ee",
+      "title": "Rockland man admits to reduced charges in attack on protesters",
+      "summary": "Michael Robinson used a snow plow to inundate protesters with ice, snow and gravel.",
+      "url": "https://www.bangordailynews.com/2026/08/28/midcoast/midcoast-police-courts/rockland-maine-michael-robinson-protest-attack-plea-deal/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-28",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "2b25ea127cf8",
+      "title": "JD Vance allies expose alleged 2028 sabotage plot: \u2018Do you think we\u2019re f---ing stupid?\u2019",
+      "summary": "The vice president's political operation say there is a campaign brewing to destroy his possible presidential bid.",
+      "url": "https://www.masslive.com/politics/2026/08/jd-vance-allies-expose-alleged-2028-sabotage-plot-do-you-think-were-f-ing-stupid.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-08-28",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1fdad2e4de24",
+      "title": "Soil issues, other details delay Chester plan for 34 small homes",
+      "summary": "The Chester Planning Board may be getting closer to making a decision on whether to allow 34 small homes to be built at 611 Haverhill Road.",
+      "url": "https://www.unionleader.com/news/business/soil-issues-other-details-delay-chester-plan-for-34-small-homes/article_b3a69653-d490-4e78-bc8f-559adee0f2a7.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-08-27",
       "category": "news",
       "priority": "medium",
