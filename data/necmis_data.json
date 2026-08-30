@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T15:21:19.935799Z",
+  "generated": "2026-08-30T15:04:49.333333Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 34,
     "total_value_low": 623485255,
     "total_value_high": 623485255,
     "by_state": {
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 32,
-      "news": 7,
-      "funding": 1
+      "news": 6,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -642,6 +642,34 @@
   ],
   "news": [
     {
+      "id": "79233c65892e",
+      "title": "3 hurt in wrong-way driver crash on I-295",
+      "summary": "An 88-year-old New Hampshire man entered I-295 going the wrong way, leading to a head-on crash near Portland's Tukey's Bridge.",
+      "url": "https://www.bangordailynews.com/2026/08/30/portland/portland-police-courts/3-hurt-wrong-way-driver-crash-i-295/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-30",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "981dee212613",
+      "title": "Firefighters battle Penobscot wildfire, Castine Road closed",
+      "summary": "Firefighters returned Sunday to extinguish hot spots from the fire, and drivers were warned to watch for wildlife displaced by the blaze.",
+      "url": "https://www.bangordailynews.com/2026/08/30/hancock/hancock-police-courts/penobscot-wildfire-castine-road-closed/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-08-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "13ea0672d017",
       "title": "Lebanon among cities turning to AI to speed housing permitting",
       "summary": "New housing projects can sometimes stall out as a developer applies to city or county planning boards and goes through cycles of inspections, reviews and approvals.",
@@ -656,29 +684,15 @@
       ]
     },
     {
-      "id": "3e907de7903a",
-      "title": "What\u2019s next as UNE\u2019s Biddeford pier project moves forward",
-      "summary": "The proposal got a key extension Wednesday from the Saco River Corridor Commission, but the city has previously enacted undertaken steps to stall the project.",
-      "url": "https://www.pressherald.com/2026/08/29/whats-next-as-unes-biddeford-pier-project-moves-forward/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-29",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fe0ee2134334",
-      "title": "Some US cities have begun rewarding careful drivers with fewer red lights",
-      "summary": "Officials struggled for years to curb high-speed crashes along a residential corridor cutting through Albuquerque, New Mexico, but simply punishing the lead-footed drivers didn\u2019t seem to work. What ultimately did was rewarding the law-abiding ones with fewer red lights. The solution, which the city",
-      "url": "https://www.bangordailynews.com/2026/08/29/nation/some-us-cities-have-begun-rewarding-careful-drivers-with-fewer-red-lights/",
+      "id": "dc3ea9660e32",
+      "title": "Farmington Food Co-op awarded $15,000 grant to expand bulk foods and sustainable shopping options",
+      "summary": "FARMINGTON \u2014 The Farmington Food Co-op has been awarded a $15,000 grant from the Greater Franklin Development Council\u2019s Community Investment Fund to expand its fill-your-own bulk foods program and invest in staff training, helping the co-op offer more affordable, sustainable shopping options for the",
+      "url": "https://www.bangordailynews.com/2026/08/29/bdn-maine/farmington-food-co-op-awarded-15000-grant-to-expand-bulk-foods-and-sustainable-shopping-options/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-08-29",
-      "category": "news",
-      "priority": "high",
+      "category": "funding",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -692,20 +706,6 @@
       "state": "VT",
       "date": "2026-08-28",
       "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "56db215b6d65",
-      "title": "York County volunteers host school sendoff event with free backpacks",
-      "summary": "Uplifting Families Together, an initiative through Volunteers of America, hosted Friday's event in Biddeford to provide resources to families in need.",
-      "url": "https://www.pressherald.com/2026/08/28/york-county-volunteers-host-school-sendoff-event-with-free-backpacks/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-08-28",
-      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
