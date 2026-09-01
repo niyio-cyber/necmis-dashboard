@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-31T17:43:28.896308Z",
+  "generated": "2026-09-01T15:14:41.916301Z",
   "summary": {
-    "total_opportunities": 34,
-    "total_value_low": 623485255,
-    "total_value_high": 623485255,
+    "total_opportunities": 33,
+    "total_value_low": 623550355,
+    "total_value_high": 623550355,
     "by_state": {
       "VT": 3,
       "NH": 3,
       "ME": 2,
-      "MA": 26,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 32,
       "news": 4,
-      "funding": 2
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -277,8 +277,8 @@
       "state": "MA",
       "project_id": "607979",
       "description": "Shared Use Path Construction (Phase 1), from the Marion-Mattapoisett T.L. to Point Road",
-      "cost_low": 5557854,
-      "cost_high": 5557854,
+      "cost_low": 5622954,
+      "cost_high": 5622954,
       "cost_display": "$5.6M",
       "ad_date": "2026-08-15",
       "let_date": null,
@@ -642,26 +642,26 @@
   ],
   "news": [
     {
-      "id": "df08d795ad39",
-      "title": "House Republicans launch investigation into DEA tactic that allowed fentanyl to hit streets",
-      "summary": "MIAMI (AP) \u2014 Republicans on the House Oversight Committee have launched an investigation into a controversial policing tactic that permitted staggering amounts of deadly fentanyl to reach the streets as federal authorities sought to build bigger drug cases. The committee\u2019s chairman, Rep. James Comer",
-      "url": "https://www.bangordailynews.com/2026/08/31/nation/house-republicans-launch-investigation-into-dea-tactic-that-allowed-fentanyl-to-hit-streets/",
-      "source": "Bangor Daily News",
+      "id": "9d6b7e6a6f14",
+      "title": "Tempting cakes, tantalizing experiences and more up for bid in historical association\u2019s fundraiser",
+      "summary": "The Lincoln County Historical Association's annual Preservation Party is Sept. 13 at the Pownalborough Court House.",
+      "url": "https://www.pressherald.com/2026/08/31/tempting-cakes-tantalizing-experiences-and-more-up-for-bid-in-historical-associations-fundraiser/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-08-31",
-      "category": "funding",
-      "priority": "medium",
+      "date": "2026-09-01",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "439ffbdfed37",
-      "title": "Top Trump official shuts down MAGA bloodbath with just 2 words",
-      "summary": "Reports have surfaced that he is eyeing a 2028 presidential bid.",
-      "url": "https://www.masslive.com/politics/2026/08/top-trump-official-shuts-down-maga-bloodbath-with-just-2-words.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "44b0abb035b1",
+      "title": "\u2018Stronger now than it was\u2019: Quechee Gorge Bridge reopens with new suicide barriers",
+      "summary": "The upgrades to the bridge overlooking Vermont\u2019s deepest natural canyon are meant to save lives.\nRead the story on VTDigger here:  \u2018Stronger now than it was\u2019: Quechee Gorge Bridge reopens with new suicide barriers.",
+      "url": "https://vtdigger.org/2026/08/31/stronger-now-than-it-was-quechee-gorge-bridge-reopens-with-new-suicide-barriers/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-08-31",
       "category": "news",
       "priority": "high",
@@ -707,20 +707,6 @@
       "date": "2026-08-27",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4501bbd6e1cb",
-      "title": "Manchester Selectboard discusses future of Flock cameras",
-      "summary": "Some town officials and residents are questioning the use of the cameras, which have been in place in Manchester since 2023, concerned about the potential creation of a surveillance-state infrastructure.\nRead the story on VTDigger here:  Manchester Selectboard discusses future of Flock cameras.",
-      "url": "https://vtdigger.org/2026/08/26/manchester-selectboard-discusses-future-of-flock-cameras/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-08-26",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
