@@ -1,64 +1,26 @@
 {
-  "generated": "2026-09-01T15:14:41.916301Z",
+  "generated": "2026-09-02T14:45:21.184693Z",
   "summary": {
-    "total_opportunities": 33,
-    "total_value_low": 623550355,
-    "total_value_high": 623550355,
+    "total_opportunities": 32,
+    "total_value_low": 622085355,
+    "total_value_high": 622085355,
     "by_state": {
-      "VT": 3,
-      "NH": 3,
+      "VT": 2,
+      "NH": 5,
       "ME": 2,
-      "MA": 25,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 32,
-      "news": 4,
+      "dot_letting": 31,
+      "news": 5,
       "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "f64c23af7ede",
-      "state": "MA",
-      "project_id": "614106",
-      "description": "Emergency and Scheduled Shielding, Shoring and Cribbing at Various Locations",
-      "cost_low": 1465000,
-      "cost_high": 1465000,
-      "cost_display": "$1.5M",
-      "ad_date": "2026-07-25",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "District 4",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614106",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fdca6d7fbf17",
-      "state": "MA",
-      "project_id": "610544",
-      "description": "Multi-Use Path Construction of Independence Greenway at I-95 and Route 1",
-      "cost_low": 19203859,
-      "cost_high": 19203859,
-      "cost_display": "$19.2M",
-      "ad_date": "2026-08-01",
-      "let_date": null,
-      "project_type": "Bridge - Construction    , Highway - Construction",
-      "location": "Peabody",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610544",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "d00e5adf2233",
       "state": "MA",
@@ -130,6 +92,25 @@
       "location": "Norton",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609193",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fdca6d7fbf17",
+      "state": "MA",
+      "project_id": "610544",
+      "description": "Multi-Use Path Construction of Independence Greenway at I-95 and Route 1",
+      "cost_low": 19203859,
+      "cost_high": 19203859,
+      "cost_display": "$19.2M",
+      "ad_date": "2026-08-01",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Highway - Construction",
+      "location": "Peabody",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610544",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -642,12 +623,40 @@
   ],
   "news": [
     {
-      "id": "9d6b7e6a6f14",
-      "title": "Tempting cakes, tantalizing experiences and more up for bid in historical association\u2019s fundraiser",
-      "summary": "The Lincoln County Historical Association's annual Preservation Party is Sept. 13 at the Pownalborough Court House.",
-      "url": "https://www.pressherald.com/2026/08/31/tempting-cakes-tantalizing-experiences-and-more-up-for-bid-in-historical-associations-fundraiser/",
+      "id": "bb9cd0dab4a3",
+      "title": "Anheuser-Busch plant in Merrimack sold to United Therapeutics for $47.5M",
+      "summary": "Anheuser-Busch sold its former brewery and expansive property on the Daniel Webster Highway in Merrimack to United Therapeutics for $47.5 million, according to the Hillsborough County Registry of Deeds.",
+      "url": "https://www.unionleader.com/news/business/anheuser-busch-plant-in-merrimack-sold-to-united-therapeutics-for-47-5m/article_9435b283-6150-437e-aa18-2dfc0b21063d.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-09-02",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "660d4f97e182",
+      "title": "Obituary:  Barrett \u201cBarry\u201d Eugene Jenkins",
+      "summary": "BIDDEFORD - On August 28, 2026, Barrett \u201cBarry\u201d Eugene Jenkins, 85, passed away on what would have been his 61st wedding ...",
+      "url": "https://www.pressherald.com/2026/09/02/obituary-barrett-barry-eugene-jenkins-2/",
       "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-09-02",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9003131a8b62",
+      "title": "Court hearing on I-95 liquor store redevelopment lawsuit closed to public",
+      "summary": "Court proceedings on a lawsuit filed by the Common Man Roadside after being disqualified by the New Hampshire Liquor Commission from the bidding process to redevelop the two liquor stores on Interstate 95 in Hampton will take place behind closed\u2026",
+      "url": "https://www.unionleader.com/news/courts/court-hearing-on-i-95-liquor-store-redevelopment-lawsuit-closed-to-public/article_238686dc-6e46-4634-bbef-ae22d836daa7.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-09-01",
       "category": "news",
       "priority": "high",
@@ -679,20 +688,6 @@
       "date": "2026-08-29",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ece1f76fedbb",
-      "title": "Killington seeks financial help after cash crunch, TIF compliance issues",
-      "summary": "The town needed to take out a loan as it works on public infrastructure for the multibillion-dollar Killington Village project.\nRead the story on VTDigger here:  Killington seeks financial help after cash crunch, TIF compliance issues.",
-      "url": "https://vtdigger.org/2026/08/28/killington-seeks-financial-help-after-cash-crunch-tif-compliance-issues/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-08-28",
-      "category": "funding",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
