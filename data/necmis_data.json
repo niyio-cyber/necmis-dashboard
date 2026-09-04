@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-03T14:45:02.352070Z",
+  "generated": "2026-09-04T14:35:34.641072Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 34,
     "total_value_low": 622085355,
     "total_value_high": 622085355,
     "by_state": {
-      "VT": 2,
-      "NH": 6,
-      "ME": 5,
-      "MA": 25,
+      "VT": 3,
+      "NH": 5,
+      "ME": 3,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 9,
-      "funding": 2
+      "news": 5,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -623,41 +623,13 @@
   ],
   "news": [
     {
-      "id": "2e62ddb2efa4",
-      "title": "Troy Jackson tries to tap town hall magic that propelled Graham Platner\u2019s Senate bid",
-      "summary": "The stylistic differences between the current and former Democratic Senate nominees were on display in Lewiston on Tuesday night.",
-      "url": "https://www.pressherald.com/2026/09/03/troy-jackson-tries-to-tap-town-hall-magic-that-propelled-graham-platners-senate-bid/",
+      "id": "a81a41fa6665",
+      "title": "This historic York home is free to anyone who can move it",
+      "summary": "If no one agrees to pick up the John Kingsbury House and relocate it, then the 250-year-old building will likely be demolished to make room for a new mixed-use development.",
+      "url": "https://www.pressherald.com/2026/09/04/this-historic-york-home-is-free-to-anyone-who-can-move-it/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-03",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c3f745c83831",
-      "title": "Facing tough reelection bid, Susan Collins navigates Donald Trump\u2019s tariffs on Canada",
-      "summary": "The trade war with the longtime U.S. ally has pitted Collins against the president, who remains deeply unpopular with Maine Democrats and independents.",
-      "url": "https://www.bangordailynews.com/2026/09/03/politics/elections/maine-election-senate-2026-susan-collins-canada-trade-war/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-03",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "eaeeeb361db8",
-      "title": "Person found unresponsive along Dover-Foxcroft road",
-      "summary": "Evidence right now doesn\u2019t support early reports that this was a hit-and-run crash, police said.",
-      "url": "https://www.bangordailynews.com/2026/09/03/piscataquis/piscataquis-police-courts/dover-foxcroft-maine-north-street-unresponsive-person-found/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -665,29 +637,43 @@
       ]
     },
     {
-      "id": "c467b7c97c49",
-      "title": "Canadian brewery eyes move to shuttered Maine pub amid escalating tariff dispute",
-      "summary": "Given the latest developments, the owners of Mother Mushroom Brewery & Farmstay, have decided they can no longer operate out of their oceanfront lot on Campobello Island.",
-      "url": "https://www.bangordailynews.com/2026/09/03/down-east/downeast-business/campobello-brewery-move-to-lubec-tariff-dispute-joam40zk0w/",
+      "id": "ec32dfa77f5c",
+      "title": "This roadless area of Maine could lose federal protections",
+      "summary": "The roughly 6,000-acre tract\u00a0is part of the White Mountain National Forest in western Maine.",
+      "url": "https://www.bangordailynews.com/2026/09/04/outdoors/outdoors-environment/maine-forest-could-lose-federal-protections-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-09-03",
-      "category": "news",
+      "date": "2026-09-04",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "9df54c450116",
-      "title": "Coffee chain outbids rival with $143M offer for bankrupt drive-thru locations",
-      "summary": "The 73 former Salad and Go locations were closed in August.",
-      "url": "https://www.masslive.com/business/2026/09/coffee-chain-outbids-rival-with-143m-offer-for-bankrupt-drive-thru-locations.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "1eec4ce136ec",
+      "title": "For some patients seeking drugs like Ozempic, the best path is to just get sicker",
+      "summary": "Now a federal pilot program is broadening access to the weight loss medication for some Medicare patients.\nRead the story on VTDigger here:  For some patients seeking drugs like Ozempic, the best path is to just get sicker.",
+      "url": "https://vtdigger.org/2026/09/03/for-some-patients-seeking-drugs-like-ozempic-the-best-path-is-to-just-get-sicker/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-09-03",
       "category": "funding",
-      "priority": "high",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bb2d581c82ef",
+      "title": "Save New England\u2019s wildest forests before it\u2019s too late",
+      "summary": "The roadless rule protects 260,000 acres of the White and Green Mountain national forests. The Trump administration wants to rescind it.\nRead the story on VTDigger here:  Save New England\u2019s wildest forests before it\u2019s too late.",
+      "url": "https://vtdigger.org/2026/09/03/opinion-save-new-englands-wildest-forests-before-its-too-late/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-09-03",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -735,20 +721,6 @@
       ]
     },
     {
-      "id": "44b0abb035b1",
-      "title": "\u2018Stronger now than it was\u2019: Quechee Gorge Bridge reopens with new suicide barriers",
-      "summary": "The upgrades to the bridge overlooking Vermont\u2019s deepest natural canyon are meant to save lives.\nRead the story on VTDigger here:  \u2018Stronger now than it was\u2019: Quechee Gorge Bridge reopens with new suicide barriers.",
-      "url": "https://vtdigger.org/2026/08/31/stronger-now-than-it-was-quechee-gorge-bridge-reopens-with-new-suicide-barriers/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-08-31",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "13ea0672d017",
       "title": "Lebanon among cities turning to AI to speed housing permitting",
       "summary": "New housing projects can sometimes stall out as a developer applies to city or county planning boards and goes through cycles of inspections, reviews and approvals.",
@@ -756,20 +728,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-08-29",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1fdad2e4de24",
-      "title": "Soil issues, other details delay Chester plan for 34 small homes",
-      "summary": "The Chester Planning Board may be getting closer to making a decision on whether to allow 34 small homes to be built at 611 Haverhill Road.",
-      "url": "https://www.unionleader.com/news/business/soil-issues-other-details-delay-chester-plan-for-34-small-homes/article_b3a69653-d490-4e78-bc8f-559adee0f2a7.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-08-27",
       "category": "news",
       "priority": "medium",
       "business_lines": [
