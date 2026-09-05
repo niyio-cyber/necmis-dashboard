@@ -1,22 +1,22 @@
 {
-  "generated": "2026-09-04T14:35:34.641072Z",
+  "generated": "2026-09-05T13:35:08.325872Z",
   "summary": {
-    "total_opportunities": 34,
-    "total_value_low": 622085355,
-    "total_value_high": 622085355,
+    "total_opportunities": 42,
+    "total_value_low": 679739383,
+    "total_value_high": 679739383,
     "by_state": {
-      "VT": 3,
+      "VT": 4,
       "NH": 5,
-      "ME": 3,
-      "MA": 24,
+      "ME": 6,
+      "MA": 33,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 31,
-      "news": 5,
+      "dot_letting": 39,
+      "news": 10,
       "funding": 3
     }
   },
@@ -332,6 +332,44 @@
       ]
     },
     {
+      "id": "975d9e5682b1",
+      "state": "MA",
+      "project_id": "613727",
+      "description": "Reconstruction of Allen Street (MA285)",
+      "cost_low": 7704480,
+      "cost_high": 7704480,
+      "cost_display": "$7.7M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Braintree",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613727",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7ddab157aa68",
+      "state": "MA",
+      "project_id": "609052",
+      "description": "Intersection Improvements at Centre Street (Route 123) and Plymouth Street",
+      "cost_low": 3229621,
+      "cost_high": 3229621,
+      "cost_display": "$3.2M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Brockton",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609052",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "eb655c168e4d",
       "state": "MA",
       "project_id": "612061",
@@ -352,6 +390,46 @@
       ]
     },
     {
+      "id": "8e83ec2c0a41",
+      "state": "MA",
+      "project_id": "611940",
+      "description": "Bridge Replacement, S-17-016 (3GF), Webster Avenue over MBTA and BMRR",
+      "cost_low": 12015786,
+      "cost_high": 12015786,
+      "cost_display": "$12.0M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Somerville",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611940",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "1b6b21ed8820",
+      "state": "MA",
+      "project_id": "608862",
+      "description": "Bridge Replacement, S-21-009, Mill Street over McKinstry Brook & S-21-003, Mill Street over the Quinebaug River",
+      "cost_low": 9140772,
+      "cost_high": 9140772,
+      "cost_display": "$9.1M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Southbridge",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608862",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
       "id": "8f7a0f9d7277",
       "state": "MA",
       "project_id": "612187",
@@ -369,6 +447,25 @@
       "business_lines": [
         "highway",
         "ready_mix"
+      ]
+    },
+    {
+      "id": "b5fedd726f72",
+      "state": "MA",
+      "project_id": "609506",
+      "description": "Ledge Removal along Route 8, between MM 28.002 and MM 27.998",
+      "cost_low": 4385449,
+      "cost_high": 4385449,
+      "cost_display": "$4.4M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Becket",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609506",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -427,6 +524,66 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "cad0ee98b1b6",
+      "state": "MA",
+      "project_id": "616375",
+      "description": "Culvert Replacement, Culvert Repair and Retaining Wall Replacement and Related Work at Three Locations",
+      "cost_low": 4852675,
+      "cost_high": 4852675,
+      "cost_display": "$4.9M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Highway - Construction , Bridge - Culverts",
+      "location": "Leominster",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616375",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "feaf8c13ce2e",
+      "state": "MA",
+      "project_id": "609068",
+      "description": "Bridge Replacement, S-10-015, Kelsey Road over Schenob Brook",
+      "cost_low": 3427358,
+      "cost_high": 3427358,
+      "cost_display": "$3.4M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Sheffield",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609068",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "93958477080b",
+      "state": "MA",
+      "project_id": "607420",
+      "description": "Bridge Replacement, N-03-012, Boden Lane over CSX/MBTA",
+      "cost_low": 12897887,
+      "cost_high": 12897887,
+      "cost_display": "$12.9M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Natick",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=607420",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
       ]
     },
     {
@@ -623,12 +780,82 @@
   ],
   "news": [
     {
-      "id": "a81a41fa6665",
-      "title": "This historic York home is free to anyone who can move it",
-      "summary": "If no one agrees to pick up the John Kingsbury House and relocate it, then the 250-year-old building will likely be demolished to make room for a new mixed-use development.",
-      "url": "https://www.pressherald.com/2026/09/04/this-historic-york-home-is-free-to-anyone-who-can-move-it/",
+      "id": "c9ff4bcb99f4",
+      "title": "A word of caution about cyclists \u2018taking up space\u2019 | Letter",
+      "summary": "I am an avid bicyclist. I would encourage bicyclists to consider safety tip No. 9 in the Aug. 20 bike safety feature \u2014 \u201cTake up space\u201d \u2014 very carefully. I believe a bicyclist following this point risks ending up \u201cdead right.\u201d Traveling in the middle of the road where there are limited opportunities",
+      "url": "https://www.pressherald.com/2026/09/05/a-word-of-caution-about-cyclists-taking-up-space-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-09-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1312fa21aae7",
+      "title": "Obituary: Linda L. Fondak",
+      "summary": "SACO - Linda L. Fondak, 80, of McKenney Road passed away Tuesday Sept. 1, 2026, at her home with her family ...",
+      "url": "https://www.pressherald.com/2026/09/05/obituarylinda-l-fondak-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-09-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c3a2a9518624",
+      "title": "Biddeford field hockey outlasts Sanford/Kennebunk in season opener",
+      "summary": "Junior Mia Mariello scores 4 goals to help the Tigers hold off the Spartans after letting a three-goal lead slip away.",
+      "url": "https://www.pressherald.com/2026/09/04/biddeford-field-hockey-outlasts-sanford-kennebunk-in-season-opener/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-09-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ca42779c0e88",
+      "title": "Rhode Island Gov. Dan McKee faces rematch with Helena Foulkes amid turmoil over Washington Bridge",
+      "summary": "PROVIDENCE, R.I. (AP) \u2014 Four years ago, Rhode Island Gov. Dan McKee was celebrating his narrow victory in the Democratic primary surrounded by supporters, when someone handed him phone \u2014 it was his opponent simply calling to concede. \u201cThat\u2019s not going to happen,\u201d he said, waving the phone away. \u201cHan",
+      "url": "https://www.bangordailynews.com/2026/09/05/nation/rhode-island-gov-dan-mckee-faces-rematch-with-helena-foulkes-amid-turmoil-over-washington-bridge/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "70635cab5274",
+      "title": "Trump reveals 1 stunning reason behind his obsession with construction projects",
+      "summary": "In a recent interview with New Yorker magazine, Trump suggested that the reason behind all of his construction projects is to cement himself into U.S. history",
+      "url": "https://www.masslive.com/politics/2026/09/trump-reveals-1-stunning-reason-behind-his-obsession-with-construction-projects.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-09-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "4da490809d28",
+      "title": "UVM Health opens new outpatient clinic with leader in suicide care at the helm",
+      "summary": "The 100-patient clinic seeks to expand Vermont\u2019s capacity to treat suicidal thinking while also broadening research into the condition.\nRead the story on VTDigger here:  UVM Health opens new outpatient clinic with leader in suicide care at the helm.",
+      "url": "https://vtdigger.org/2026/09/04/uvm-health-opens-new-outpatient-clinic-with-leader-in-suicide-care-at-the-helm/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-09-04",
       "category": "news",
       "priority": "medium",
@@ -637,10 +864,10 @@
       ]
     },
     {
-      "id": "ec32dfa77f5c",
-      "title": "This roadless area of Maine could lose federal protections",
-      "summary": "The roughly 6,000-acre tract\u00a0is part of the White Mountain National Forest in western Maine.",
-      "url": "https://www.bangordailynews.com/2026/09/04/outdoors/outdoors-environment/maine-forest-could-lose-federal-protections-joam40zk0w/",
+      "id": "c745568d18dc",
+      "title": "Triathlete Sports buys former Family Dollar building in Bangor",
+      "summary": "The property on the corner of State Street and Broadway went on the market in June for nearly $1.4 million.",
+      "url": "https://www.bangordailynews.com/2026/09/04/bangor/bangor-business/former-family-dollar-building-bangor-sold-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-09-04",
