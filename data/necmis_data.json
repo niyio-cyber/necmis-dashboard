@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-07T16:07:50.428377Z",
+  "generated": "2026-09-08T14:47:51.016800Z",
   "summary": {
-    "total_opportunities": 41,
+    "total_opportunities": 42,
     "total_value_low": 679739383,
     "total_value_high": 679739383,
     "by_state": {
       "VT": 7,
       "NH": 5,
-      "ME": 4,
-      "MA": 33,
+      "ME": 6,
+      "MA": 32,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 39,
       "news": 12,
-      "funding": 2
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -780,6 +780,62 @@
   ],
   "news": [
     {
+      "id": "ef0178bf946e",
+      "title": "Millions in federal dollars for short-term workforce training programs come to Maine",
+      "summary": "Maine is rolling out Workforce Pell, a program that will allow students to use federal grant money for workforce training programs lasting 8 to 15 weeks.",
+      "url": "https://www.pressherald.com/2026/09/08/millions-in-federal-dollars-for-short-term-workforce-training-programs-come-to-maine/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-09-08",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "57fbcc5754dc",
+      "title": "Small plane ends up off road in Lincolnville",
+      "summary": "A man at the scene who identified himself as the pilot said he was unharmed and that the plane was OK.",
+      "url": "https://www.bangordailynews.com/2026/09/08/midcoast/midcoast-police-courts/lincolnville-maine-youngtown-road-plane-crash/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "540ee7f1684d",
+      "title": "Dust, landowners and a bridge disrupted this Maine ATV route. Now it\u2019s open again.",
+      "summary": "The proximity of nearby homes made it difficult to ameliorate landowner concerns about dust and traffic.",
+      "url": "https://www.bangordailynews.com/2026/09/08/outdoors/recreation/maine-atv-veterans-memorial-trail-dust-complaints-reopened-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-08",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9a46a7789ef2",
+      "title": "Meet the man behind Bangor\u2019s most controversial housing development",
+      "summary": "The backlash was so intense that Mike Myatt and his team decided to abandon a second supportive housing project in the city.",
+      "url": "https://www.bangordailynews.com/2026/09/08/bangor/bangor-housing/bangor-maine-yellen-pines-mike-myatt-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "0c1ee611d65f",
       "title": "Letting the river roam: Surveying the scars left by Irene 15 years later",
       "summary": "To river scientists and conservationists, a collapsing slope in southern Vermont is a case study in what happens when decades of flood\u2011control instincts collide with more recent extreme weather.\nRead the story on VTDigger here:  Letting the river roam: Surveying the scars left by Irene 15 years lat",
@@ -808,40 +864,12 @@
       ]
     },
     {
-      "id": "4b29d486b062",
-      "title": "Judge bans woman from Maine road",
-      "summary": "Leianne Messina, 57, kept driving past the victim's house honking her horn even after she was served with a protection from harassment order.",
-      "url": "https://www.bangordailynews.com/2026/09/07/midcoast/midcoast-police-courts/warren-maine-leianne-messina-oyster-river-road-ban/",
-      "source": "Bangor Daily News",
+      "id": "be63286e25ac",
+      "title": "Changes to deer hunt necessary to control herd",
+      "summary": "There are more anterless deer permits, and geographic area covered in the archery hunt has expanded.",
+      "url": "https://www.pressherald.com/2026/09/07/changes-to-deer-hunt-necessary-to-control-the-herd/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-07",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e726e7ac46d6",
-      "title": "This is my favorite excuse to head into the North Maine Woods",
-      "summary": "\"If there\u2019s anything that will get me to load up the F-150 and hit the road for a few days during the fall, it is ruffed grouse.\"",
-      "url": "https://www.bangordailynews.com/2026/09/07/outdoors/outdoors-contributors/favorite-excuse-head-into-north-maine-woods-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-07",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "13f5fdbe4879",
-      "title": "Police search for suspects after passenger fires shot into fleeing car on Mass. roadway",
-      "summary": "Police are investigating a Friday morning incident in Massachusetts during which a passenger fired a shot into another vehicle.",
-      "url": "https://www.masslive.com/news/2026/09/easton-police-search-for-suspects-after-passenger-fires-shot-into-fleeing-car.html",
-      "source": "MassLive",
-      "state": "MA",
       "date": "2026-09-07",
       "category": "news",
       "priority": "medium",
@@ -862,20 +890,6 @@
       "business_lines": [
         "highway",
         "ready_mix"
-      ]
-    },
-    {
-      "id": "599242b8323d",
-      "title": "History professor to speak in Brunswick on Chamberlain and Declaration of Independence",
-      "summary": "Chandra Manning of Georgetown University will present 'Something Abides: Joshua Lawrence Chamberlain and the Declaration of Independence' at 6 p.m. Friday at the Brunswick Hotel.",
-      "url": "https://www.pressherald.com/2026/09/06/history-professor-to-speak-in-brunswick-on-chamberlain-and-declaration-of-independence/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-09-06",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
       ]
     },
     {
