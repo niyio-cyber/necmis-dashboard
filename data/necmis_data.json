@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-08T14:47:51.016800Z",
+  "generated": "2026-09-09T14:49:59.195234Z",
   "summary": {
-    "total_opportunities": 42,
+    "total_opportunities": 40,
     "total_value_low": 679739383,
     "total_value_high": 679739383,
     "by_state": {
-      "VT": 7,
-      "NH": 5,
-      "ME": 6,
+      "VT": 5,
+      "NH": 4,
+      "ME": 4,
       "MA": 32,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 39,
-      "news": 12,
-      "funding": 3
+      "news": 9,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -32,8 +32,8 @@
       "ad_date": "2026-08-01",
       "let_date": null,
       "project_type": "Highway - Sidewalk And Curbing",
-      "location": "District 2",
-      "district": 2,
+      "location": "District 3",
+      "district": 3,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614241",
       "source": "MassDOT",
       "business_lines": [
@@ -780,27 +780,13 @@
   ],
   "news": [
     {
-      "id": "ef0178bf946e",
-      "title": "Millions in federal dollars for short-term workforce training programs come to Maine",
-      "summary": "Maine is rolling out Workforce Pell, a program that will allow students to use federal grant money for workforce training programs lasting 8 to 15 weeks.",
-      "url": "https://www.pressherald.com/2026/09/08/millions-in-federal-dollars-for-short-term-workforce-training-programs-come-to-maine/",
+      "id": "0bfbaea2534c",
+      "title": "Obituary: Joseph B. Esposito",
+      "summary": "PORTLAND - Joseph B. Esposito, 92, formerly of Curtis Road in Portland, passed away on Friday Sept. 4, 2026.\n\nVisiting hours will ...",
+      "url": "https://www.pressherald.com/2026/09/09/obituaryjoseph-b-esposito-2/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-08",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "57fbcc5754dc",
-      "title": "Small plane ends up off road in Lincolnville",
-      "summary": "A man at the scene who identified himself as the pilot said he was unharmed and that the plane was OK.",
-      "url": "https://www.bangordailynews.com/2026/09/08/midcoast/midcoast-police-courts/lincolnville-maine-youngtown-road-plane-crash/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -808,12 +794,40 @@
       ]
     },
     {
-      "id": "540ee7f1684d",
-      "title": "Dust, landowners and a bridge disrupted this Maine ATV route. Now it\u2019s open again.",
-      "summary": "The proximity of nearby homes made it difficult to ameliorate landowner concerns about dust and traffic.",
-      "url": "https://www.bangordailynews.com/2026/09/08/outdoors/recreation/maine-atv-veterans-memorial-trail-dust-complaints-reopened-joam40zk0w/",
+      "id": "76f80e5d3319",
+      "title": "Brewer firefighters battle blaze that started in back of trailer",
+      "summary": "Firefighters had to dump the construction debris along the side of the highway to get to the heart of the blaze.",
+      "url": "https://www.bangordailynews.com/2026/09/09/bangor/bangor-police-courts/brewer-maine-interstate-395-trailer-debris-fire/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-09-09",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "eda693280c5a",
+      "title": "Bangor Celtic Crossroads presents Woodson, Finley and Pearlman",
+      "summary": "BREWER \u2014 Bangor Celtic Crossroads presents Woodson, Finley and Pearlman in concert at 7 p.m. on\u00a0 Saturday, Sept. 19 at Next Generation Theatre 39 Center St. Tickets: Bangorceltic.org/tickets. Caitlin Finley (fiddle) and Will Woodson (flute, uilleann pipes) play sparky and driving traditional Irish m",
+      "url": "https://www.bangordailynews.com/2026/09/09/bdn-maine/bangor-celtic-crossroads-presents-woodson-finley-and-pearlman/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cac316333a40",
+      "title": "Vermont regulators finalize 5.5% rate increase for Green Mountain Power customers",
+      "summary": "The decision from the state\u2019s Public Utility Commission sought to balance affordability concerns with a desire to shore up electrical infrastructure against weather damage.\nRead the story on VTDigger here:  Vermont regulators finalize 5.5% rate increase for Green Mountain Power customers.",
+      "url": "https://vtdigger.org/2026/09/08/vermont-regulators-finalize-5-5-percent-rate-increase-for-green-mountain-power-customers/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-09-08",
       "category": "news",
       "priority": "high",
@@ -822,15 +836,15 @@
       ]
     },
     {
-      "id": "9a46a7789ef2",
-      "title": "Meet the man behind Bangor\u2019s most controversial housing development",
-      "summary": "The backlash was so intense that Mike Myatt and his team decided to abandon a second supportive housing project in the city.",
-      "url": "https://www.bangordailynews.com/2026/09/08/bangor/bangor-housing/bangor-maine-yellen-pines-mike-myatt-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "03f9e40a9e17",
+      "title": "Oil jumps on new Houthi attacks, reported Kharg Island blasts",
+      "summary": "Brent oil advanced to the highest level since late July as another round of strikes on Middle East energy infrastructure, including reported explosions at Iran\u2019s vital export hub Kharg Island, stoked fears of fresh supply tightness.",
+      "url": "https://www.unionleader.com/news/business/oil-jumps-on-new-houthi-attacks-reported-kharg-island-blasts/article_835a4f7d-950c-44d2-92ad-899afe0812c6.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-09-08",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -864,20 +878,6 @@
       ]
     },
     {
-      "id": "be63286e25ac",
-      "title": "Changes to deer hunt necessary to control herd",
-      "summary": "There are more anterless deer permits, and geographic area covered in the archery hunt has expanded.",
-      "url": "https://www.pressherald.com/2026/09/07/changes-to-deer-hunt-necessary-to-control-the-herd/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-09-07",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "a9275e0f20e0",
       "title": "Then Again: Armed with a spirit of discovery and a gun, the first lady road-trips through Vermont",
       "summary": "Eleanor Roosevelt had planned a getaway. But the trip also helped reshape expectations of what a first lady could do \u2014 and helped cement her role as a partner in her husband\u2019s presidency. \nRead the story on VTDigger here:  Then Again: Armed with a spirit of discovery and a gun, the first lady road-",
@@ -890,62 +890,6 @@
       "business_lines": [
         "highway",
         "ready_mix"
-      ]
-    },
-    {
-      "id": "fd3aecc4e8d0",
-      "title": "Firefighters Line Highways To Honor Fallen Firefighter Eric Phillips",
-      "summary": "Fire departments set up apparatus on overpasses as Firefighter Eric Phillips's body was escorted from an Epping funeral home to the Office of the Chief Medical Examiner in Concord.\nThe post Firefighters Line Highways To Honor Fallen Firefighter Eric Phillips appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/09/05/firefighters-line-highways-to-honor-fallen-firefighter-firefighter-eric-phillips/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-09-05",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4da490809d28",
-      "title": "UVM Health opens new outpatient clinic with leader in suicide care at the helm",
-      "summary": "The 100-patient clinic seeks to expand Vermont\u2019s capacity to treat suicidal thinking while also broadening research into the condition.\nRead the story on VTDigger here:  UVM Health opens new outpatient clinic with leader in suicide care at the helm.",
-      "url": "https://vtdigger.org/2026/09/04/uvm-health-opens-new-outpatient-clinic-with-leader-in-suicide-care-at-the-helm/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1eec4ce136ec",
-      "title": "For some patients seeking drugs like Ozempic, the best path is to just get sicker",
-      "summary": "Now a federal pilot program is broadening access to the weight loss medication for some Medicare patients.\nRead the story on VTDigger here:  For some patients seeking drugs like Ozempic, the best path is to just get sicker.",
-      "url": "https://vtdigger.org/2026/09/03/for-some-patients-seeking-drugs-like-ozempic-the-best-path-is-to-just-get-sicker/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-03",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bb2d581c82ef",
-      "title": "Save New England\u2019s wildest forests before it\u2019s too late",
-      "summary": "The roadless rule protects 260,000 acres of the White and Green Mountain national forests. The Trump administration wants to rescind it.\nRead the story on VTDigger here:  Save New England\u2019s wildest forests before it\u2019s too late.",
-      "url": "https://vtdigger.org/2026/09/03/opinion-save-new-englands-wildest-forests-before-its-too-late/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-03",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     },
     {
@@ -972,20 +916,6 @@
       "date": "2026-09-01",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "13ea0672d017",
-      "title": "Lebanon among cities turning to AI to speed housing permitting",
-      "summary": "New housing projects can sometimes stall out as a developer applies to city or county planning boards and goes through cycles of inspections, reviews and approvals.",
-      "url": "https://www.unionleader.com/news/homes/lebanon-among-cities-turning-to-ai-to-speed-housing-permitting/article_5385c395-16bc-4ec3-ac29-6acb7c26d223.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-08-29",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
