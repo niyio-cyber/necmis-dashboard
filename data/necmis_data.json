@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-10T14:40:20.409267Z",
+  "generated": "2026-09-11T14:39:04.919099Z",
   "summary": {
-    "total_opportunities": 36,
-    "total_value_low": 674970680,
-    "total_value_high": 674970680,
+    "total_opportunities": 38,
+    "total_value_low": 674972680,
+    "total_value_high": 674972680,
     "by_state": {
       "VT": 4,
       "NH": 4,
       "ME": 3,
-      "MA": 29,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 35,
-      "news": 8,
-      "funding": 1
+      "news": 5,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -93,26 +93,6 @@
       "location": "Rehoboth",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613106",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "0aae96dae523",
-      "state": "MA",
-      "project_id": "612184",
-      "description": "Bridge Replacement, R-05-015, Revere Beach Parkway over Broadway",
-      "cost_low": 17155893,
-      "cost_high": 17155893,
-      "cost_display": "$17.2M",
-      "ad_date": "2026-08-15",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Revere",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612184",
       "source": "MassDOT",
       "business_lines": [
         "highway",
@@ -233,6 +213,26 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "0aae96dae523",
+      "state": "MA",
+      "project_id": "612184",
+      "description": "Bridge Replacement, R-05-015, Revere Beach Parkway over Broadway",
+      "cost_low": 17155893,
+      "cost_high": 17155893,
+      "cost_display": "$17.2M",
+      "ad_date": "2026-08-15",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Revere",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612184",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
       ]
     },
     {
@@ -378,8 +378,8 @@
       "state": "MA",
       "project_id": "609506",
       "description": "Ledge Removal along Route 8, between MM 28.002 and MM 27.998",
-      "cost_low": 4385449,
-      "cost_high": 4385449,
+      "cost_low": 4387449,
+      "cost_high": 4387449,
       "cost_display": "$4.4M",
       "ad_date": "2026-09-05",
       "let_date": null,
@@ -704,6 +704,48 @@
   ],
   "news": [
     {
+      "id": "eea2934d092f",
+      "title": "Hancock County\u2019s new $5.5M emergency operations center to open in November",
+      "summary": "The new complex comes as some of the county\u2019s aging, underfunded infrastructure has strained under a steadily growing population.",
+      "url": "https://www.bangordailynews.com/2026/09/11/hancock/hancock-government/hancock-county-new-emergency-operations-center-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-11",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b734948b9401",
+      "title": "New owners revamp a 50-year-old store into a local hub",
+      "summary": "Lake Road Grocery is the only store for at least 10 miles in either direction, making it a lifeline for many residents.",
+      "url": "https://www.bangordailynews.com/2026/09/11/aroostook/aroostook-business/lake-road-grocery-new-canada-maine-new-owners-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3ddbd4d00a65",
+      "title": "Vermont awards first batch of $195 million in federal rural health funds",
+      "summary": "Rural workforce development and nursing homes receive the first round of $11.7 million in funds.\nRead the story on VTDigger here:  Vermont awards first batch of $195 million in federal rural health funds.",
+      "url": "https://vtdigger.org/2026/09/10/vermont-awards-first-batch-of-195-million-in-federal-rural-health-funds/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-09-10",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "66fe2c28f0a8",
       "title": "Thousands of acres conserved in Woodbury, where family plans to sustainably log for generations",
       "summary": "The final phase of a conservation easement project sees more than 18,000 acres of northern hardwood forest permanently set aside from development.\nRead the story on VTDigger here:  Thousands of acres conserved in Woodbury, where family plans to sustainably log for generations.",
@@ -725,62 +767,6 @@
       "source": "VTDigger",
       "state": "VT",
       "date": "2026-09-10",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "30ed9a9dee4a",
-      "title": "New weight restriction imposed on aging Hampden bridge",
-      "summary": "The weight limit on Manning Mill Bridge has dropped from 15 tons to just under 3 tons, potentially making some passenger vehicles and pickup trucks to heavy to safely cross.",
-      "url": "https://www.bangordailynews.com/2026/09/10/bangor/bangor-government/hampden-maine-manning-mill-bridge-weight-restriction-3-tons/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-10",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f3c8b39109fb",
-      "title": "Broken water pipe has left Camden road \u2018impassable\u2019",
-      "summary": "A Maine Water Co. worker called it \u201cthe worst one I have seen.\u201d",
-      "url": "https://www.bangordailynews.com/2026/09/10/midcoast/midcoast-police-courts/camden-maine-mountain-street-water-main-break-impassable/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-10",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b5e3ae67d0de",
-      "title": "Mysterious activity at Iranian mountain site draws new scrutiny",
-      "summary": "New satellite images show increased construction at Iran\u2019s Pickaxe Mountain facility, raising questions about nuclear activity and U.S. planning.",
-      "url": "https://www.masslive.com/news/2026/09/a-mountain-in-iran-is-drawing-fresh-attention-heres-why.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-09-10",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cac316333a40",
-      "title": "Vermont regulators finalize 5.5% rate increase for Green Mountain Power customers",
-      "summary": "The decision from the state\u2019s Public Utility Commission sought to balance affordability concerns with a desire to shore up electrical infrastructure against weather damage.\nRead the story on VTDigger here:  Vermont regulators finalize 5.5% rate increase for Green Mountain Power customers.",
-      "url": "https://vtdigger.org/2026/09/08/vermont-regulators-finalize-5-5-percent-rate-increase-for-green-mountain-power-customers/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-08",
       "category": "news",
       "priority": "high",
       "business_lines": [
