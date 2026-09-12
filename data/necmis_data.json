@@ -1,45 +1,26 @@
 {
-  "generated": "2026-09-11T14:39:04.919099Z",
+  "generated": "2026-09-12T13:47:04.044509Z",
   "summary": {
-    "total_opportunities": 38,
-    "total_value_low": 674972680,
-    "total_value_high": 674972680,
+    "total_opportunities": 41,
+    "total_value_low": 723930621,
+    "total_value_high": 723930621,
     "by_state": {
       "VT": 4,
       "NH": 4,
       "ME": 3,
-      "MA": 28,
+      "MA": 34,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 35,
-      "news": 5,
-      "funding": 3
+      "dot_letting": 39,
+      "news": 8,
+      "funding": 2
     }
   },
   "dot_lettings": [
-    {
-      "id": "fdca6d7fbf17",
-      "state": "MA",
-      "project_id": "610544",
-      "description": "Multi-Use Path Construction of Independence Greenway at I-95 and Route 1",
-      "cost_low": 19203859,
-      "cost_high": 19203859,
-      "cost_display": "$19.2M",
-      "ad_date": "2026-08-01",
-      "let_date": null,
-      "project_type": "Bridge - Construction    , Highway - Construction",
-      "location": "Peabody",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610544",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "1ff2432a81e0",
       "state": "MA",
@@ -210,6 +191,25 @@
       "location": "Huntington",
       "district": 1,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613185",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fdca6d7fbf17",
+      "state": "MA",
+      "project_id": "610544",
+      "description": "Multi-Use Path Construction of Independence Greenway at I-95 and Route 1",
+      "cost_low": 19203859,
+      "cost_high": 19203859,
+      "cost_display": "$19.2M",
+      "ad_date": "2026-08-01",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Highway - Construction",
+      "location": "Peabody",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610544",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -393,6 +393,25 @@
       ]
     },
     {
+      "id": "b65c4af8f1a9",
+      "state": "MA",
+      "project_id": "611974",
+      "description": "Intersection Improvements at Main Street/South Street, Main Street/Mystic Valley Parkway Ramps and Main Street/Mystic Avenue",
+      "cost_low": 6798996,
+      "cost_high": 6798996,
+      "cost_display": "$6.8M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Medford",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611974",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "0268ee45531f",
       "state": "MA",
       "project_id": "610825",
@@ -491,6 +510,26 @@
       ]
     },
     {
+      "id": "4b1fa3262b2e",
+      "state": "MA",
+      "project_id": "610728",
+      "description": "Resurfacing and Related Work on Route 20",
+      "cost_low": 5136381,
+      "cost_high": 5136381,
+      "cost_display": "$5.1M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Lee",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610728",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
+      ]
+    },
+    {
       "id": "93958477080b",
       "state": "MA",
       "project_id": "607420",
@@ -543,6 +582,44 @@
       "location": "Andover",
       "district": 4,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612193",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a3ad3c4e92bc",
+      "state": "MA",
+      "project_id": "609204",
+      "description": "Community Path, Belmont Component of the MCRT (Phase I)",
+      "cost_low": 35864137,
+      "cost_high": 35864137,
+      "cost_display": "$35.9M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Highway - Construction , Bridge - Construction",
+      "location": "Belmont",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609204",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "af6b21f67bba",
+      "state": "MA",
+      "project_id": "613689",
+      "description": "Neighborhood Electric Vehicle Charging Infrastructure (MA287)",
+      "cost_low": 1158427,
+      "cost_high": 1158427,
+      "cost_display": "$1.2M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Electrical\u0096All Type\u0096Including Electrical Maintenance",
+      "location": "Cambridge",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613689",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -704,24 +781,52 @@
   ],
   "news": [
     {
-      "id": "eea2934d092f",
-      "title": "Hancock County\u2019s new $5.5M emergency operations center to open in November",
-      "summary": "The new complex comes as some of the county\u2019s aging, underfunded infrastructure has strained under a steadily growing population.",
-      "url": "https://www.bangordailynews.com/2026/09/11/hancock/hancock-government/hancock-county-new-emergency-operations-center-joam40zk0w/",
+      "id": "9c181c407e18",
+      "title": "Judge rejects bid to release Arizona sheriff\u2019s office from supervision in racial profiling case",
+      "summary": "PHOENIX (AP) \u2014 A judge who ruled 13 years ago that Hispanics were racially profiled in then-Arizona Sheriff Joe Arpaio\u2019s immigration crackdowns has rejected a bid to end the court\u2019s supervision of the sheriff\u2019s office. Maricopa County failed to show that the objectives of the court\u2019s orders \u2014 such a",
+      "url": "https://www.bangordailynews.com/2026/09/11/nation/judge-rejects-bid-to-release-arizona-sheriffs-office-from-supervision-in-racial-profiling-case/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-09-11",
-      "category": "funding",
+      "date": "2026-09-12",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "b734948b9401",
-      "title": "New owners revamp a 50-year-old store into a local hub",
-      "summary": "Lake Road Grocery is the only store for at least 10 miles in either direction, making it a lifeline for many residents.",
-      "url": "https://www.bangordailynews.com/2026/09/11/aroostook/aroostook-business/lake-road-grocery-new-canada-maine-new-owners-joam40zk0w/",
+      "id": "c24710a8c777",
+      "title": "Man arraigned in connection with fatal road-rage fight at Mass. gas station",
+      "summary": "Officers found the victim outside the gas station, disoriented and experiencing headaches and blurred vision.",
+      "url": "https://www.masslive.com/news/2026/09/man-arraigned-in-connection-with-fatal-road-rage-fight-at-mass-gas-station.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-09-12",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2168dbcba51d",
+      "title": "Westfield Pickleball to host Kevin Fedora Memorial tournament Sept. 26",
+      "summary": "Westfield Pickleball will host the second annual Kevin Fedora Memorial tournament on Sept. 26 at the Municipal Playground courts on Greylock Street. Registration is available at westfieldpickleball.com.",
+      "url": "https://www.masslive.com/westfieldnews/2026/09/westfield-pickleball-to-host-kevin-fedora-memorial-tournament-sept-26.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-09-12",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "130eb84e5bb6",
+      "title": "Lawsuit alleges Houlton is still withholding camera information",
+      "summary": "It\u2019s the latest development in a case that appeared headed for resolution in October, when the town agreed to remove the facial recognition video surveillance system.",
+      "url": "https://www.bangordailynews.com/2026/09/11/aroostook/aroostook-police-courts/holton-video-camera-lawsuit/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-09-11",
