@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-12T13:47:04.044509Z",
+  "generated": "2026-09-13T14:43:08.280346Z",
   "summary": {
     "total_opportunities": 41,
     "total_value_low": 723930621,
     "total_value_high": 723930621,
     "by_state": {
-      "VT": 4,
+      "VT": 3,
       "NH": 4,
-      "ME": 3,
-      "MA": 34,
+      "ME": 5,
+      "MA": 32,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 39,
-      "news": 8,
+      "news": 7,
       "funding": 2
     }
   },
@@ -781,13 +781,13 @@
   ],
   "news": [
     {
-      "id": "9c181c407e18",
-      "title": "Judge rejects bid to release Arizona sheriff\u2019s office from supervision in racial profiling case",
-      "summary": "PHOENIX (AP) \u2014 A judge who ruled 13 years ago that Hispanics were racially profiled in then-Arizona Sheriff Joe Arpaio\u2019s immigration crackdowns has rejected a bid to end the court\u2019s supervision of the sheriff\u2019s office. Maricopa County failed to show that the objectives of the court\u2019s orders \u2014 such a",
-      "url": "https://www.bangordailynews.com/2026/09/11/nation/judge-rejects-bid-to-release-arizona-sheriffs-office-from-supervision-in-racial-profiling-case/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-12",
+      "id": "e272f2af4c9c",
+      "title": "Revealed in the river",
+      "summary": "Local historians discover the remnants of a blockhouse on the Crown Point Road, Vermont\u2019s first interstate highway.\nRead the story on VTDigger here:  Revealed in the river.",
+      "url": "https://vtdigger.org/2026/09/13/revealed-in-the-river/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-09-13",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -795,13 +795,13 @@
       ]
     },
     {
-      "id": "c24710a8c777",
-      "title": "Man arraigned in connection with fatal road-rage fight at Mass. gas station",
-      "summary": "Officers found the victim outside the gas station, disoriented and experiencing headaches and blurred vision.",
-      "url": "https://www.masslive.com/news/2026/09/man-arraigned-in-connection-with-fatal-road-rage-fight-at-mass-gas-station.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-09-12",
+      "id": "0f9edace8bb3",
+      "title": "Three-alarm fire at Sig Sauer plant in Epping leaves firefighter injured",
+      "summary": "A three-alarm fire tore through the Sig Sauer facility on Exeter Road in Epping Saturday morning, injuring one firefighter and drawing a large mutual aid response from surrounding communities, Epping Fire officials said.",
+      "url": "https://www.unionleader.com/news/safety/three-alarm-fire-at-sig-sauer-plant-in-epping-leaves-firefighter-injured/article_3ed8b451-e529-44e2-a009-719a1b512470.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-09-13",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -809,27 +809,55 @@
       ]
     },
     {
-      "id": "2168dbcba51d",
-      "title": "Westfield Pickleball to host Kevin Fedora Memorial tournament Sept. 26",
-      "summary": "Westfield Pickleball will host the second annual Kevin Fedora Memorial tournament on Sept. 26 at the Municipal Playground courts on Greylock Street. Registration is available at westfieldpickleball.com.",
-      "url": "https://www.masslive.com/westfieldnews/2026/09/westfield-pickleball-to-host-kevin-fedora-memorial-tournament-sept-26.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-09-12",
+      "id": "14a3adb998c5",
+      "title": "Our nation\u2019s war debt undermines our freedom | Opinion",
+      "summary": "We need to assert our right to determine what wars and military expenditures are justified, not leave it to lobbyists or the politicians intent on doing their bidding.",
+      "url": "https://www.pressherald.com/2026/09/13/our-nations-war-debt-undermines-our-freedom-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-09-13",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "130eb84e5bb6",
-      "title": "Lawsuit alleges Houlton is still withholding camera information",
-      "summary": "It\u2019s the latest development in a case that appeared headed for resolution in October, when the town agreed to remove the facial recognition video surveillance system.",
-      "url": "https://www.bangordailynews.com/2026/09/11/aroostook/aroostook-police-courts/holton-video-camera-lawsuit/",
+      "id": "ea8f79b1e1e6",
+      "title": "At this auction people bid with stories, not money",
+      "summary": "\"Sellers\" offer objects they are ready to part with, but carry too much sentimental weight to assign monetary value.",
+      "url": "https://www.bangordailynews.com/2026/09/13/state/state-culture/maine-artist-emotional-value-auctions/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-09-11",
+      "date": "2026-09-13",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b7dcceb3af35",
+      "title": "This remote Maine trail follows the route of a boy who survived 9 days lost in the wilderness",
+      "summary": "During the fourth and fifth days of his extraordinary ordeal in July 1939, 12-year-old Donn Fendler followed the old Wassataquoik Tote Road, the same route that runs through this remote corner of Baxter State Park. More than 80 years later, I\u2019m following part of that route. My primary goal on this f",
+      "url": "https://www.bangordailynews.com/2026/09/13/outdoors/outdoors-contributors/donn-fendler-historic-route-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b7b74a710534",
+      "title": "Anthropic CEO Dario Amodei says AI industry needs to slow down for safety",
+      "summary": "NEW YORK (AP) \u2014 The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch up. Without it, Dario Amodei warned AI could be capable within six to 12 months of leading a swarm that could take over the entire int",
+      "url": "https://www.bangordailynews.com/2026/09/12/nation/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-slow-down-for-safety/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-12",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -846,34 +874,6 @@
       "date": "2026-09-10",
       "category": "funding",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "66fe2c28f0a8",
-      "title": "Thousands of acres conserved in Woodbury, where family plans to sustainably log for generations",
-      "summary": "The final phase of a conservation easement project sees more than 18,000 acres of northern hardwood forest permanently set aside from development.\nRead the story on VTDigger here:  Thousands of acres conserved in Woodbury, where family plans to sustainably log for generations.",
-      "url": "https://vtdigger.org/2026/09/10/thousands-of-acres-conserved-in-woodbury-where-family-plans-to-sustainably-log-for-generations/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-10",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "aggregates"
-      ]
-    },
-    {
-      "id": "89ba5b02d0f1",
-      "title": "Affordable housing project falls apart over infrastructure gaps in Highgate",
-      "summary": "The lack of basic infrastructure like water and sewer lines has impeded housing development in many rural towns across Vermont. But the cancellation of a publicly-funded affordable housing project is highly unusual. \nRead the story on VTDigger here:  Affordable housing project falls apart over infr",
-      "url": "https://vtdigger.org/2026/09/10/affordable-housing-project-falls-apart-over-infrastructure-gaps-in-highgate/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-10",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -901,20 +901,6 @@
       "state": "NH",
       "date": "2026-09-02",
       "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9003131a8b62",
-      "title": "Court hearing on I-95 liquor store redevelopment lawsuit closed to public",
-      "summary": "Court proceedings on a lawsuit filed by the Common Man Roadside after being disqualified by the New Hampshire Liquor Commission from the bidding process to redevelop the two liquor stores on Interstate 95 in Hampton will take place behind closed\u2026",
-      "url": "https://www.unionleader.com/news/courts/court-hearing-on-i-95-liquor-store-redevelopment-lawsuit-closed-to-public/article_238686dc-6e46-4634-bbef-ae22d836daa7.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-09-01",
-      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
