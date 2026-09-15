@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-14T16:39:10.109383Z",
+  "generated": "2026-09-15T15:17:59.374210Z",
   "summary": {
-    "total_opportunities": 41,
+    "total_opportunities": 40,
     "total_value_low": 723930621,
     "total_value_high": 723930621,
     "by_state": {
-      "VT": 3,
+      "VT": 2,
       "NH": 3,
-      "ME": 3,
+      "ME": 5,
       "MA": 33,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 39,
-      "news": 5,
-      "funding": 2
+      "news": 7,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -781,6 +781,77 @@
   ],
   "news": [
     {
+      "id": "457c3e06a250",
+      "title": "Gorham gives green light to Amazon facility as opposition persists",
+      "summary": "The planning board approved Amazon's proposed facility for Main Street, outraging opponents. The project still needs state permits to move forward, and residents are circulating a petition to stop it.",
+      "url": "https://www.pressherald.com/2026/09/15/gorham-gives-green-light-to-amazon-facility-as-opposition-persists/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-09-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bf96da69eb3a",
+      "title": "The Latest: Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
+      "summary": "The Supreme Court has rejected President Donald Trump\u2019s bid to restrict mail ballots for the midterm elections, capping a flurry of last-minute legal action with voting already underway. The decision allows states to continue sending out mail ballots under the same processes they\u2019ve used for years.",
+      "url": "https://www.bangordailynews.com/2026/09/15/nation/the-latest-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8f404155a932",
+      "title": "State should demand better conservation plan from energy corridor",
+      "summary": "\u201cIt may take years before we know whether NECEC meets its promise of delivering 1,200 megawatts of clean electricity, but the Maine BEP can act in the weeks ahead to ensure that the NECEC complies with the permit requirement to conserve mature forests.\u201d",
+      "url": "https://www.bangordailynews.com/2026/09/15/opinion/opinion-contributor/state-should-demand-better-conservation-plan-from-energy-corridor-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8785f2ff0138",
+      "title": "Hampden takes 1st step toward building access to homes cut off by aging bridge",
+      "summary": "The years-long issue became more urgent when the bridge's weight limit was reduced last week, meaning that fire trucks, school buses and mail trucks can no longer cross it.",
+      "url": "https://www.bangordailynews.com/2026/09/14/bangor/bangor-government/hampden-approves-easements-access-road-aging-bridge/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-15",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cfd41b7b09af",
+      "title": "Holyoke council to weigh $750,000 for public safety through Ezekiel\u2019s Plan 2.0",
+      "summary": "After a previous $1 million plan failed, the mayor is seeking cannabis stabilization funds for a broad public safety initiative focused on enforcement, housing and neighborhood improvements.",
+      "url": "https://www.masslive.com/westernmass/2026/09/holyoke-council-to-weigh-750000-for-public-safety-through-ezekiels-plan-20.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-09-15",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
       "id": "4964158c1051",
       "title": "Blair Talbot Motors celebrates grand opening of new Dover facility designed and built by PROCON",
       "summary": "Blair Talbot Motors celebrated the grand opening of its new state-of-the-art facility at 34 Industrial Park Road in Dover, marking an exciting new chapter for one of New England\u2019s premier destinations for European automotive service and professional vehicle storage.",
@@ -795,48 +866,6 @@
       ]
     },
     {
-      "id": "11dd12609aba",
-      "title": "Texas landowners sue to block Trump border wall plans in the remote Big Bend region",
-      "summary": "MARFA, Texas (AP) \u2014 Landowners, ranchers and business owners in the Big Bend region of Texas along with a nonprofit organization dedicated to protecting the region\u2019s landscape and heritage are suing to stop the Trump administration\u2019s plans to build a wall and other border infrastructure through the",
-      "url": "https://www.bangordailynews.com/2026/09/14/nation/texas-landowners-sue-to-block-trump-border-wall-plans-in-the-remote-big-bend-region/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-14",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0c398588fcd8",
-      "title": "The great American road trip, fueled by \u2014 and undercut by \u2014 the automobile that created it",
-      "summary": "NASHVILLE, Tenn. (AP) \u2014 There\u2019s something about the American road trip. It brings to mind visions of cars the size of boats, the glory days before seat-belt laws and pit stops at the world\u2019s largest fill-in-the-blank. It has been memorialized in books like Jack Kerouac\u2019s \u201cOn the Road\u201d and satirized",
-      "url": "https://www.bangordailynews.com/2026/09/14/nation/the-great-american-road-trip-fueled-by-and-undercut-by-the-automobile-that-created-it/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e38a38f444a1",
-      "title": "East Bridgewater man wins $281K on $1 Mass. Lottery wager: \u2018It still doesn\u2019t feel real\u2019",
-      "summary": "An East Bridgewater man is celebrating a $281K Mass. Lottery win after turning a single dollar into a life-changing payout.",
-      "url": "https://www.masslive.com/lottery/2026/09/east-bridgewater-man-wins-281k-on-1-mass-lottery-wager-it-still-doesnt-feel-real.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-09-14",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "e272f2af4c9c",
       "title": "Revealed in the river",
       "summary": "Local historians discover the remnants of a blockhouse on the Crown Point Road, Vermont\u2019s first interstate highway.\nRead the story on VTDigger here:  Revealed in the river.",
@@ -846,20 +875,6 @@
       "date": "2026-09-13",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3ddbd4d00a65",
-      "title": "Vermont awards first batch of $195 million in federal rural health funds",
-      "summary": "Rural workforce development and nursing homes receive the first round of $11.7 million in funds.\nRead the story on VTDigger here:  Vermont awards first batch of $195 million in federal rural health funds.",
-      "url": "https://vtdigger.org/2026/09/10/vermont-awards-first-batch-of-195-million-in-federal-rural-health-funds/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-10",
-      "category": "funding",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
