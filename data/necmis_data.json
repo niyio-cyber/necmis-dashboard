@@ -1,104 +1,26 @@
 {
-  "generated": "2026-09-15T15:17:59.374210Z",
+  "generated": "2026-09-16T15:11:26.389080Z",
   "summary": {
-    "total_opportunities": 40,
-    "total_value_low": 723930621,
-    "total_value_high": 723930621,
+    "total_opportunities": 36,
+    "total_value_low": 689786230,
+    "total_value_high": 689786230,
     "by_state": {
-      "VT": 2,
+      "VT": 1,
       "NH": 3,
-      "ME": 5,
-      "MA": 33,
+      "ME": 4,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 39,
-      "news": 7,
+      "dot_letting": 35,
+      "news": 4,
       "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "1ff2432a81e0",
-      "state": "MA",
-      "project_id": "608744",
-      "description": "Corridor Improvements and Related Work on Shank Painter Road, from Route 6 to Bradford Street",
-      "cost_low": 15167624,
-      "cost_high": 15167624,
-      "cost_display": "$15.2M",
-      "ad_date": "2026-08-15",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Provincetown",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608744",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "70a573cf604e",
-      "state": "MA",
-      "project_id": "613642",
-      "description": "Bridge Replacement, R-02-003=T-01-004 (3M4), South Street East over the Taunton River",
-      "cost_low": 5644287,
-      "cost_high": 5644287,
-      "cost_display": "$5.6M",
-      "ad_date": "2026-08-15",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Raynham - Taunton",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613642",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "2eeb48079dd5",
-      "state": "MA",
-      "project_id": "613106",
-      "description": "Deck Replacement, R-04-018 (3U4, 3U5), I-195 (EB/WB) over Palmer River",
-      "cost_low": 8629272,
-      "cost_high": 8629272,
-      "cost_display": "$8.6M",
-      "ad_date": "2026-08-08",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Rehoboth",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613106",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "27535dff56c0",
-      "state": "MA",
-      "project_id": "609388",
-      "description": "Safety Improvements on Route 1A",
-      "cost_low": 4703208,
-      "cost_high": 4703208,
-      "cost_display": "$4.7M",
-      "ad_date": "2026-08-08",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Wenham",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609388",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "5e74e75c6138",
       "state": "MA",
@@ -781,27 +703,13 @@
   ],
   "news": [
     {
-      "id": "457c3e06a250",
-      "title": "Gorham gives green light to Amazon facility as opposition persists",
-      "summary": "The planning board approved Amazon's proposed facility for Main Street, outraging opponents. The project still needs state permits to move forward, and residents are circulating a petition to stop it.",
-      "url": "https://www.pressherald.com/2026/09/15/gorham-gives-green-light-to-amazon-facility-as-opposition-persists/",
+      "id": "3a69969b26bb",
+      "title": "Poet from Presque Isle muses on queer awakening as a marriage dissolves",
+      "summary": "In \u2018Abider,\u2019 Melissa Crowe returns to the Maine of her upbringing.",
+      "url": "https://www.pressherald.com/2026/09/16/poet-from-presque-isle-muses-on-queer-awakening-as-a-marriage-dissolves/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bf96da69eb3a",
-      "title": "The Latest: Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
-      "summary": "The Supreme Court has rejected President Donald Trump\u2019s bid to restrict mail ballots for the midterm elections, capping a flurry of last-minute legal action with voting already underway. The decision allows states to continue sending out mail ballots under the same processes they\u2019ve used for years.",
-      "url": "https://www.bangordailynews.com/2026/09/15/nation/the-latest-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -809,46 +717,31 @@
       ]
     },
     {
-      "id": "8f404155a932",
-      "title": "State should demand better conservation plan from energy corridor",
-      "summary": "\u201cIt may take years before we know whether NECEC meets its promise of delivering 1,200 megawatts of clean electricity, but the Maine BEP can act in the weeks ahead to ensure that the NECEC complies with the permit requirement to conserve mature forests.\u201d",
-      "url": "https://www.bangordailynews.com/2026/09/15/opinion/opinion-contributor/state-should-demand-better-conservation-plan-from-energy-corridor-joam40zk0w/",
+      "id": "fb77cf0aa628",
+      "title": "Trump administration has cut or frozen $177 billion in grants across every state, analysis shows",
+      "summary": "The Trump administration has cut or frozen up to $177 billion in federal grants since the president took office for his second term, according to a tracking tool released Wednesday by a pro-democracy nonprofit and a group of researchers and scientists. The cuts affected all 50 states and the Distric",
+      "url": "https://www.bangordailynews.com/2026/09/16/nation/trump-administration-has-cut-or-frozen-177-billion-in-grants-across-every-state-analysis-shows/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-09-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8785f2ff0138",
-      "title": "Hampden takes 1st step toward building access to homes cut off by aging bridge",
-      "summary": "The years-long issue became more urgent when the bridge's weight limit was reduced last week, meaning that fire trucks, school buses and mail trucks can no longer cross it.",
-      "url": "https://www.bangordailynews.com/2026/09/14/bangor/bangor-government/hampden-approves-easements-access-road-aging-bridge/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-15",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cfd41b7b09af",
-      "title": "Holyoke council to weigh $750,000 for public safety through Ezekiel\u2019s Plan 2.0",
-      "summary": "After a previous $1 million plan failed, the mayor is seeking cannabis stabilization funds for a broad public safety initiative focused on enforcement, housing and neighborhood improvements.",
-      "url": "https://www.masslive.com/westernmass/2026/09/holyoke-council-to-weigh-750000-for-public-safety-through-ezekiels-plan-20.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d4bd8da06fa1",
+      "title": "Americans are increasingly concerned about the environmental impact of AI, new poll finds",
+      "summary": "On the way home from a recent trip, Eriech Tapia drove past a sea of dark industrial buildings lining an already jam-packed northern Virginia road: data centers. \u201cIt was interesting to see how many were going up,\u201d said Tapia, a 30-year-old Republican from Arlington, Virginia, who works in higher edu",
+      "url": "https://www.bangordailynews.com/2026/09/16/nation/americans-are-increasingly-concerned-about-the-environmental-impact-of-ai-new-poll-finds/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-16",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
-        "highway",
-        "ready_mix"
+        "highway"
       ]
     },
     {
@@ -861,20 +754,6 @@
       "date": "2026-09-14",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e272f2af4c9c",
-      "title": "Revealed in the river",
-      "summary": "Local historians discover the remnants of a blockhouse on the Crown Point Road, Vermont\u2019s first interstate highway.\nRead the story on VTDigger here:  Revealed in the river.",
-      "url": "https://vtdigger.org/2026/09/13/revealed-in-the-river/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-13",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
