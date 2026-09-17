@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-16T15:11:26.389080Z",
+  "generated": "2026-09-17T15:20:12.622528Z",
   "summary": {
     "total_opportunities": 36,
     "total_value_low": 689786230,
     "total_value_high": 689786230,
     "by_state": {
       "VT": 1,
-      "NH": 3,
+      "NH": 6,
       "ME": 4,
-      "MA": 28,
+      "MA": 29,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 35,
-      "news": 4,
+      "news": 8,
       "funding": 1
     }
   },
@@ -703,12 +703,82 @@
   ],
   "news": [
     {
-      "id": "3a69969b26bb",
-      "title": "Poet from Presque Isle muses on queer awakening as a marriage dissolves",
-      "summary": "In \u2018Abider,\u2019 Melissa Crowe returns to the Maine of her upbringing.",
-      "url": "https://www.pressherald.com/2026/09/16/poet-from-presque-isle-muses-on-queer-awakening-as-a-marriage-dissolves/",
+      "id": "5bf7fc6661e6",
+      "title": "What you need to know about Biddeford\u2019s newest development",
+      "summary": "Plans for the 5-building Pearl Point project include housing, shops, offices and restaurants close to downtown Biddeford. It's expected to be completed in phases over the next several years.",
+      "url": "https://www.pressherald.com/2026/09/17/what-you-need-to-know-about-biddefords-newest-development/",
       "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-09-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3fcd8d557051",
+      "title": "Susan Collins is not a moderate Republican | Letter",
+      "summary": "Sen. Susan Collins presents herself as a moderate Republican. Analysis does not bear that out. According to one nonpartisan research group, in Trump\u2019s current administration, Collins voted with President Trump\u2019s legislation 95% of the time. According to the American Bridge PAC, in Trump\u2019s first admi",
+      "url": "https://www.pressherald.com/2026/09/17/susan-collins-is-not-a-moderate-republican-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-09-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e736a18154e0",
+      "title": "State to spend more than $30M improving Maine island\u2019s roads",
+      "summary": "Deer Isle Town Manager Jim Fisher said local officials have been meeting with MDOT representatives on incoming projects for months.",
+      "url": "https://www.bangordailynews.com/2026/09/17/midcoast/midcoast-government/state-to-spend-more-than-30m-improving-maine-islands-roads/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-17",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f9997534bb72",
+      "title": "Worcester board seeks further review of controversial housing project near peat bog",
+      "summary": "The controversial development would consist of 300 apartments, 600 parking spaces and a pool house built in a currently wooded area with a peat bog.",
+      "url": "https://www.masslive.com/centralmass/2026/09/worcester-board-seeks-further-review-of-controversial-housing-project-near-peat-bog.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-09-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f7670920ff07",
+      "title": "Bill to require AM radio in automobiles passes House",
+      "summary": "Members of the House of Representatives passed legislation to require AM broadcast radio devices in all automobiles on Tuesday, a move to ensure than Americans have access to information during emergencies.",
+      "url": "https://www.unionleader.com/news/business/bill-to-require-am-radio-in-automobiles-passes-house/article_2fd518cd-a8e8-5bd3-82f5-8a863063761b.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-09-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "99eefc4743a0",
+      "title": "Council Mulls Home Heating Funds, Cost To Replace Cannon Tram & Accepts MacDonald Resignation Without Discussion",
+      "summary": "With winter around the corner, the Executive Council took on issues related to home heating for the vulnerable, and bids that came in much higher than anticipated for the state's only tramway for skiers and tourists at Cannon Mountain in Franconia Notch State Park.\nThe post Council Mulls Home Heatin",
+      "url": "https://indepthnh.org/2026/09/16/council-mulls-home-heating-funds-cost-to-replace-cannon-tram-accepts-macdonald-resignation-without-discussion/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-09-16",
       "category": "news",
       "priority": "high",
@@ -717,26 +787,12 @@
       ]
     },
     {
-      "id": "fb77cf0aa628",
-      "title": "Trump administration has cut or frozen $177 billion in grants across every state, analysis shows",
-      "summary": "The Trump administration has cut or frozen up to $177 billion in federal grants since the president took office for his second term, according to a tracking tool released Wednesday by a pro-democracy nonprofit and a group of researchers and scientists. The cuts affected all 50 states and the Distric",
-      "url": "https://www.bangordailynews.com/2026/09/16/nation/trump-administration-has-cut-or-frozen-177-billion-in-grants-across-every-state-analysis-shows/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-16",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d4bd8da06fa1",
-      "title": "Americans are increasingly concerned about the environmental impact of AI, new poll finds",
-      "summary": "On the way home from a recent trip, Eriech Tapia drove past a sea of dark industrial buildings lining an already jam-packed northern Virginia road: data centers. \u201cIt was interesting to see how many were going up,\u201d said Tapia, a 30-year-old Republican from Arlington, Virginia, who works in higher edu",
-      "url": "https://www.bangordailynews.com/2026/09/16/nation/americans-are-increasingly-concerned-about-the-environmental-impact-of-ai-new-poll-finds/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "5ba1497ff515",
+      "title": "Divisions emerge in the tech industry over calls for a coordinated AI slowdown",
+      "summary": "Fears about out-of-control artificial intelligence and suggestions to hit the brakes on the technology's development aren't new, but they have recently found new life as warnings about rogue AI systems causing mayhem grow louder.\nThe post Divisions emerge in the tech industry over calls for a coordi",
+      "url": "https://indepthnh.org/2026/09/16/divisions-emerge-in-the-tech-industry-over-calls-for-a-coordinated-ai-slowdown/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-09-16",
       "category": "news",
       "priority": "medium",
