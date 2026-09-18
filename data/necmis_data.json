@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-17T15:20:12.622528Z",
+  "generated": "2026-09-18T14:40:27.910083Z",
   "summary": {
-    "total_opportunities": 36,
+    "total_opportunities": 35,
     "total_value_low": 689786230,
     "total_value_high": 689786230,
     "by_state": {
       "VT": 1,
       "NH": 6,
-      "ME": 4,
-      "MA": 29,
+      "ME": 2,
+      "MA": 30,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 35,
       "news": 8,
-      "funding": 1
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -703,57 +703,57 @@
   ],
   "news": [
     {
-      "id": "5bf7fc6661e6",
-      "title": "What you need to know about Biddeford\u2019s newest development",
-      "summary": "Plans for the 5-building Pearl Point project include housing, shops, offices and restaurants close to downtown Biddeford. It's expected to be completed in phases over the next several years.",
-      "url": "https://www.pressherald.com/2026/09/17/what-you-need-to-know-about-biddefords-newest-development/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-09-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3fcd8d557051",
-      "title": "Susan Collins is not a moderate Republican | Letter",
-      "summary": "Sen. Susan Collins presents herself as a moderate Republican. Analysis does not bear that out. According to one nonpartisan research group, in Trump\u2019s current administration, Collins voted with President Trump\u2019s legislation 95% of the time. According to the American Bridge PAC, in Trump\u2019s first admi",
-      "url": "https://www.pressherald.com/2026/09/17/susan-collins-is-not-a-moderate-republican-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-09-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e736a18154e0",
-      "title": "State to spend more than $30M improving Maine island\u2019s roads",
-      "summary": "Deer Isle Town Manager Jim Fisher said local officials have been meeting with MDOT representatives on incoming projects for months.",
-      "url": "https://www.bangordailynews.com/2026/09/17/midcoast/midcoast-government/state-to-spend-more-than-30m-improving-maine-islands-roads/",
+      "id": "fc68ef6b031d",
+      "title": "Kauai small businesses ask tourists to return after Hurricane Lowell, with aloha and some patience",
+      "summary": "Watching her staff happily hand out free meals for hundreds of residents outside their Wailua commercial kitchen, food truck co-owner Kelly Kakalia felt fulfilled. It was the day after Hurricane Lowell finished knocking out power, washing out roads and felling trees across Kauai, and Kakalia was foc",
+      "url": "https://www.bangordailynews.com/2026/09/18/nation/kauai-small-businesses-ask-tourists-to-return-after-hurricane-lowell-with-aloha-and-some-patience/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-09-17",
-      "category": "funding",
-      "priority": "high",
+      "date": "2026-09-18",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "f9997534bb72",
-      "title": "Worcester board seeks further review of controversial housing project near peat bog",
-      "summary": "The controversial development would consist of 300 apartments, 600 parking spaces and a pool house built in a currently wooded area with a peat bog.",
-      "url": "https://www.masslive.com/centralmass/2026/09/worcester-board-seeks-further-review-of-controversial-housing-project-near-peat-bog.html",
+      "id": "fe1601ca3f7d",
+      "title": "Communities deserve top say in data center construction | The Republican Editorials",
+      "summary": "We are glad the governor said communities should say yes before data centers are built. That should be Healey\u2019s position on this, but it might depend on the results of the latest poll.",
+      "url": "https://www.masslive.com/opinion/2026/09/communities-deserve-top-say-in-data-center-construction-the-republican-editorials.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c516b69752ad",
+      "title": "WMass school places principal, asst. principal on leave amid investigation",
+      "summary": "Chief of Schools Sarita Graveline has been assigned to oversee Peck Middle School during the investigation. The district anticipates naming an interim principal next week, officials said.",
+      "url": "https://www.masslive.com/westernmass/2026/09/wmass-school-places-principal-asst-principal-on-leave-amid-investigation.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-09-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "7c798017c09d",
+      "title": "Pam Smart\u2019s latest bid for freedom rejected",
+      "summary": "Decades after she was convicted of manipulating her teenage boyfriend into murdering her husband, Pam Smart\u2019s latest attempt to get out of prison failed.\nThe post Pam Smart\u2019s latest bid for freedom rejected appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/09/17/pam-smarts-latest-bid-for-freedom-rejected/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-09-17",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -810,20 +810,6 @@
       "date": "2026-09-14",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "03f9e40a9e17",
-      "title": "Oil jumps on new Houthi attacks, reported Kharg Island blasts",
-      "summary": "Brent oil advanced to the highest level since late July as another round of strikes on Middle East energy infrastructure, including reported explosions at Iran\u2019s vital export hub Kharg Island, stoked fears of fresh supply tightness.",
-      "url": "https://www.unionleader.com/news/business/oil-jumps-on-new-houthi-attacks-reported-kharg-island-blasts/article_835a4f7d-950c-44d2-92ad-899afe0812c6.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-09-08",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
