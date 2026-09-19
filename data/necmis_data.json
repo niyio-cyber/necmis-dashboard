@@ -1,23 +1,23 @@
 {
-  "generated": "2026-09-18T14:40:27.910083Z",
+  "generated": "2026-09-19T14:00:54.324278Z",
   "summary": {
-    "total_opportunities": 35,
-    "total_value_low": 689786230,
-    "total_value_high": 689786230,
+    "total_opportunities": 41,
+    "total_value_low": 2308488380,
+    "total_value_high": 2308488380,
     "by_state": {
-      "VT": 1,
-      "NH": 6,
-      "ME": 2,
-      "MA": 30,
+      "VT": 3,
+      "NH": 5,
+      "ME": 3,
+      "MA": 33,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 35,
-      "news": 8,
-      "funding": 0
+      "dot_letting": 39,
+      "news": 7,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -315,6 +315,25 @@
       ]
     },
     {
+      "id": "5291f654c39d",
+      "state": "MA",
+      "project_id": "614073",
+      "description": "Scheduled and Emergency Mechanical and Millwright Services at Various Locations",
+      "cost_low": 1823000,
+      "cost_high": 1823000,
+      "cost_display": "$1.8M",
+      "ad_date": "2026-09-19",
+      "let_date": null,
+      "project_type": "DCAMM-Mechanical Systems",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614073",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "b65c4af8f1a9",
       "state": "MA",
       "project_id": "611974",
@@ -412,6 +431,26 @@
       ]
     },
     {
+      "id": "6d3350755c04",
+      "state": "MA",
+      "project_id": "605323",
+      "description": "Bridge Replacement, O-06-030, (ST 56) Leicester Road over the French River",
+      "cost_low": 3707417,
+      "cost_high": 3707417,
+      "cost_display": "$3.7M",
+      "ad_date": "2026-09-19",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Oxford",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=605323",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
       "id": "feaf8c13ce2e",
       "state": "MA",
       "project_id": "609068",
@@ -429,6 +468,25 @@
       "business_lines": [
         "highway",
         "ready_mix"
+      ]
+    },
+    {
+      "id": "2d36113de09e",
+      "state": "MA",
+      "project_id": "616276",
+      "description": "Bridge Preservation along I-495, F-06-023, M-18-042, M-18-043, N-23-026, N-23-027 & N-23-034",
+      "cost_low": 9271734,
+      "cost_high": 9271734,
+      "cost_display": "$9.3M",
+      "ad_date": "2026-09-19",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Painting - Structural",
+      "location": "Foxborough",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616276",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -568,6 +626,27 @@
       ]
     },
     {
+      "id": "fc755032b9b2",
+      "state": "MA",
+      "project_id": "608020",
+      "description": "BRIDGE REPLACEMENT, B-17-005, (ARF) (SAGAMORE BRIDGE), US 6 OVER THE CAPE COD CANAL, SANDWICH ROAD (ROUTE 6A) AND MCR/MBTA RAILROAD, INCLUDES REPLACEMENT OF B-17-027 ROUTE 3 OVER US 6 (CAPE COD BRIDGE",
+      "cost_low": 1603899999,
+      "cost_high": 1603899999,
+      "cost_display": "$1.6B",
+      "ad_date": "2026-09-19",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Highway - Construction",
+      "location": "Bourne",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608020",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "aggregates",
+        "ready_mix"
+      ]
+    },
+    {
       "id": "8b98c149c319",
       "state": "ME",
       "project_id": null,
@@ -703,13 +782,55 @@
   ],
   "news": [
     {
-      "id": "fc68ef6b031d",
-      "title": "Kauai small businesses ask tourists to return after Hurricane Lowell, with aloha and some patience",
-      "summary": "Watching her staff happily hand out free meals for hundreds of residents outside their Wailua commercial kitchen, food truck co-owner Kelly Kakalia felt fulfilled. It was the day after Hurricane Lowell finished knocking out power, washing out roads and felling trees across Kauai, and Kakalia was foc",
-      "url": "https://www.bangordailynews.com/2026/09/18/nation/kauai-small-businesses-ask-tourists-to-return-after-hurricane-lowell-with-aloha-and-some-patience/",
+      "id": "3012e6b6fd7c",
+      "title": "How existential fears are shaping the debate over AI",
+      "summary": "The current round of panic over artificial intelligence is based on the conviction that the technology has slipped out of human control to do its own bidding in several recent incidents. To some disillusioned AI researchers \u2014 and some senior\u2026",
+      "url": "https://www.unionleader.com/news/business/how-existential-fears-are-shaping-the-debate-over-ai/article_5f0ed5ac-6b96-4330-b9af-6d3c7d8717e9.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-09-19",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4cd42e54bf6f",
+      "title": "Portland\u2019s road safety efforts must extend to Riverton | Letter",
+      "summary": "This is clearly one of the city's locations most in need of creative and effective safety improvements.",
+      "url": "https://www.pressherald.com/2026/09/19/portlands-road-safety-efforts-must-extend-to-riverton-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-09-19",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8ee7b154452d",
+      "title": "Demolition of long-condemned Belfast building set to begin this fall",
+      "summary": "The city has awarded a $264,065 contract to Lakeside Concrete Cutting Inc., clearing the way for work to begin this fall.",
+      "url": "https://www.bangordailynews.com/2026/09/19/midcoast/midcoast-government/demolition-of-long-condemned-belfast-building-set-to-begin-this-fall/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "5b87b6615895",
+      "title": "One surprising guest changed football Sundays in a big way",
+      "summary": "Taylor Swift\u2019s Chiefs game appearances boosted NFL ratings, sparked debate, changed broadcasts and brought new fans to football.",
+      "url": "https://www.masslive.com/sports/2026/09/how-taylor-swifts-chiefs-appearances-changed-nfl-broadcasts-and-fan-culture.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-09-19",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -717,31 +838,31 @@
       ]
     },
     {
-      "id": "fe1601ca3f7d",
-      "title": "Communities deserve top say in data center construction | The Republican Editorials",
-      "summary": "We are glad the governor said communities should say yes before data centers are built. That should be Healey\u2019s position on this, but it might depend on the results of the latest poll.",
-      "url": "https://www.masslive.com/opinion/2026/09/communities-deserve-top-say-in-data-center-construction-the-republican-editorials.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "a45b497027eb",
+      "title": "Pre-dawn calf washes and tail fluffing: Scenes from opening day at Tunbridge World\u2019s Fair",
+      "summary": "More than 2,100 students visited the fairgrounds Thursday, where young exhibitors and veteran judges showed them what goes into raising, showing and judging animals.\nRead the story on VTDigger here:  Pre-dawn calf washes and tail fluffing: Scenes from opening day at Tunbridge World\u2019s Fair\u00a0.",
+      "url": "https://vtdigger.org/2026/09/18/pre-dawn-calf-washes-and-tail-fluffing-scenes-from-opening-day-at-tunbridge-worlds-fair/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-09-18",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "c516b69752ad",
-      "title": "WMass school places principal, asst. principal on leave amid investigation",
-      "summary": "Chief of Schools Sarita Graveline has been assigned to oversee Peck Middle School during the investigation. The district anticipates naming an interim principal next week, officials said.",
-      "url": "https://www.masslive.com/westernmass/2026/09/wmass-school-places-principal-asst-principal-on-leave-amid-investigation.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "b1e25ebd6f9f",
+      "title": "Federal government rejects winning bid for Montpelier\u2019s former post office",
+      "summary": "A local development corporation won the auction for 87 State St. in August, but the treasurer of the organization says the federal government wants more money for it. \nRead the story on VTDigger here:  Federal government rejects winning bid for Montpelier\u2019s former post office.",
+      "url": "https://vtdigger.org/2026/09/18/federal-government-rejects-winning-bid-for-montpeliers-former-post-office/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-09-18",
-      "category": "news",
-      "priority": "medium",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
-        "aggregates"
+        "highway"
       ]
     },
     {
@@ -764,34 +885,6 @@
       "summary": "Members of the House of Representatives passed legislation to require AM broadcast radio devices in all automobiles on Tuesday, a move to ensure than Americans have access to information during emergencies.",
       "url": "https://www.unionleader.com/news/business/bill-to-require-am-radio-in-automobiles-passes-house/article_2fd518cd-a8e8-5bd3-82f5-8a863063761b.html",
       "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-09-16",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "99eefc4743a0",
-      "title": "Council Mulls Home Heating Funds, Cost To Replace Cannon Tram & Accepts MacDonald Resignation Without Discussion",
-      "summary": "With winter around the corner, the Executive Council took on issues related to home heating for the vulnerable, and bids that came in much higher than anticipated for the state's only tramway for skiers and tourists at Cannon Mountain in Franconia Notch State Park.\nThe post Council Mulls Home Heatin",
-      "url": "https://indepthnh.org/2026/09/16/council-mulls-home-heating-funds-cost-to-replace-cannon-tram-accepts-macdonald-resignation-without-discussion/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-09-16",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5ba1497ff515",
-      "title": "Divisions emerge in the tech industry over calls for a coordinated AI slowdown",
-      "summary": "Fears about out-of-control artificial intelligence and suggestions to hit the brakes on the technology's development aren't new, but they have recently found new life as warnings about rogue AI systems causing mayhem grow louder.\nThe post Divisions emerge in the tech industry over calls for a coordi",
-      "url": "https://indepthnh.org/2026/09/16/divisions-emerge-in-the-tech-industry-over-calls-for-a-coordinated-ai-slowdown/",
-      "source": "InDepthNH",
       "state": "NH",
       "date": "2026-09-16",
       "category": "news",
