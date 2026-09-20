@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T14:00:54.324278Z",
+  "generated": "2026-09-20T14:21:53.742144Z",
   "summary": {
     "total_opportunities": 41,
     "total_value_low": 2308488380,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 3,
       "NH": 5,
-      "ME": 3,
-      "MA": 33,
+      "ME": 4,
+      "MA": 32,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -782,6 +782,21 @@
   ],
   "news": [
     {
+      "id": "594aeffc2f6d",
+      "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
+      "summary": "WASHINGTON (AP) \u2014 President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when it comes to longer-term borrowing costs, economists say. The economy is growing steadily despite be",
+      "url": "https://www.bangordailynews.com/2026/09/20/nation/federal-reserve-rate-hike-reflects-new-world-of-sticky-inflation-and-faster-growth/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-20",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "hma"
+      ]
+    },
+    {
       "id": "3012e6b6fd7c",
       "title": "How existential fears are shaping the debate over AI",
       "summary": "The current round of panic over artificial intelligence is based on the conviction that the technology has slipped out of human control to do its own bidding in several recent incidents. To some disillusioned AI researchers \u2014 and some senior\u2026",
@@ -796,11 +811,11 @@
       ]
     },
     {
-      "id": "4cd42e54bf6f",
-      "title": "Portland\u2019s road safety efforts must extend to Riverton | Letter",
-      "summary": "This is clearly one of the city's locations most in need of creative and effective safety improvements.",
-      "url": "https://www.pressherald.com/2026/09/19/portlands-road-safety-efforts-must-extend-to-riverton-letter/",
-      "source": "Portland Press Herald",
+      "id": "d481bd9dc63a",
+      "title": "Lowriding culture celebrated in San Francisco as it receives broader recognition",
+      "summary": "SAN FRANCISCO (AP) \u2014 Drivers in vehicles built to move low and slow cruised Saturday down San Francisco\u2019s Mission Street in celebration of one of the city\u2019s most distinctive cultural traditions: lowriding. Music played as hundreds of customized cars bounced, tilted and otherwise made their way along",
+      "url": "https://www.bangordailynews.com/2026/09/19/nation/lowriding-culture-celebrated-in-san-francisco-as-it-receives-broader-recognition/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-09-19",
       "category": "news",
@@ -810,26 +825,12 @@
       ]
     },
     {
-      "id": "8ee7b154452d",
-      "title": "Demolition of long-condemned Belfast building set to begin this fall",
-      "summary": "The city has awarded a $264,065 contract to Lakeside Concrete Cutting Inc., clearing the way for work to begin this fall.",
-      "url": "https://www.bangordailynews.com/2026/09/19/midcoast/midcoast-government/demolition-of-long-condemned-belfast-building-set-to-begin-this-fall/",
+      "id": "44440ee7afee",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+      "summary": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development. The lawsuit, which was filed Friday in the U.S. District Court for the Northern District of California, argues that the leading AI companies violated antitrust laws w",
+      "url": "https://www.bangordailynews.com/2026/09/19/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-09-19",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "5b87b6615895",
-      "title": "One surprising guest changed football Sundays in a big way",
-      "summary": "Taylor Swift\u2019s Chiefs game appearances boosted NFL ratings, sparked debate, changed broadcasts and brought new fans to football.",
-      "url": "https://www.masslive.com/sports/2026/09/how-taylor-swifts-chiefs-appearances-changed-nfl-broadcasts-and-fan-culture.html",
-      "source": "MassLive",
-      "state": "MA",
       "date": "2026-09-19",
       "category": "news",
       "priority": "medium",
