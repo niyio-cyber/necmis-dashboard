@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T14:21:53.742144Z",
+  "generated": "2026-09-21T16:39:17.046964Z",
   "summary": {
     "total_opportunities": 41,
     "total_value_low": 2308488380,
@@ -782,18 +782,59 @@
   ],
   "news": [
     {
-      "id": "594aeffc2f6d",
-      "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
-      "summary": "WASHINGTON (AP) \u2014 President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when it comes to longer-term borrowing costs, economists say. The economy is growing steadily despite be",
-      "url": "https://www.bangordailynews.com/2026/09/20/nation/federal-reserve-rate-hike-reflects-new-world-of-sticky-inflation-and-faster-growth/",
-      "source": "Bangor Daily News",
+      "id": "a464a532d923",
+      "title": "Maine needs more oversight of cable and broadband providers | Letter",
+      "summary": "I\u2019ve had cable television since it first became available in Wells in the early 1980s. Back then, using it was simple. Now, in my mid-80s, Spectrum\u2019s service has become far more complicated, unreliable and expensive. I pay\u00a0$305.67 a month\u00a0for a package that includes many channels I neither watch nor",
+      "url": "https://www.pressherald.com/2026/09/21/maine-needs-more-oversight-of-cable-and-broadband-providers-letter/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "category": "funding",
       "priority": "medium",
       "business_lines": [
-        "highway",
-        "hma"
+        "highway"
+      ]
+    },
+    {
+      "id": "d192477358df",
+      "title": "8 Maine events include Common Ground Country Fair, Biddeford Oktoberfest",
+      "summary": "The Runaway Maine Music Fest in Turner features Marcy Playground and Sister Hazel.",
+      "url": "https://www.pressherald.com/2026/09/21/8-maine-events-include-common-ground-country-fair-biddeford-oktoberfest/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-09-21",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b95f7a3f5c38",
+      "title": "Belfast won\u2019t permit recreational cannabis sales",
+      "summary": "That was fueled partly by worries that Belfast could be perceived as a \"pot town.\"",
+      "url": "https://www.bangordailynews.com/2026/09/21/midcoast/midcoast-government/belfast-maine-recreational-cannabis-sales-rejected/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-21",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "eddaaae94ffe",
+      "title": "Common Man Roadside asks judge to reconsider I-95 Hampton liquor store bid ruling",
+      "summary": "Common Man Roadside has asked a judge to reconsider an order denying a request to halt the state\u2019s bidding process to redevelop the two liquor stores on Interstate 95 in Hampton.",
+      "url": "https://www.unionleader.com/news/business/common-man-roadside-asks-judge-to-reconsider-i-95-hampton-liquor-store-bid-ruling/article_19636d0d-a423-4fc9-88be-b592addb0e81.html",
+      "source": "Union Leader",
+      "state": "NH",
+      "date": "2026-09-20",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -806,34 +847,6 @@
       "date": "2026-09-19",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d481bd9dc63a",
-      "title": "Lowriding culture celebrated in San Francisco as it receives broader recognition",
-      "summary": "SAN FRANCISCO (AP) \u2014 Drivers in vehicles built to move low and slow cruised Saturday down San Francisco\u2019s Mission Street in celebration of one of the city\u2019s most distinctive cultural traditions: lowriding. Music played as hundreds of customized cars bounced, tilted and otherwise made their way along",
-      "url": "https://www.bangordailynews.com/2026/09/19/nation/lowriding-culture-celebrated-in-san-francisco-as-it-receives-broader-recognition/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-19",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "44440ee7afee",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
-      "summary": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development. The lawsuit, which was filed Friday in the U.S. District Court for the Northern District of California, argues that the leading AI companies violated antitrust laws w",
-      "url": "https://www.bangordailynews.com/2026/09/19/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-09-19",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -888,20 +901,6 @@
       "source": "Union Leader",
       "state": "NH",
       "date": "2026-09-16",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4964158c1051",
-      "title": "Blair Talbot Motors celebrates grand opening of new Dover facility designed and built by PROCON",
-      "summary": "Blair Talbot Motors celebrated the grand opening of its new state-of-the-art facility at 34 Industrial Park Road in Dover, marking an exciting new chapter for one of New England\u2019s premier destinations for European automotive service and professional vehicle storage.",
-      "url": "https://www.unionleader.com/news/business/blair-talbot-motors-celebrates-grand-opening-of-new-dover-facility-designed-and-built-by-procon/article_06ceb704-3b8e-4d5d-97d7-6eb972bae13b.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-09-14",
       "category": "news",
       "priority": "medium",
       "business_lines": [
