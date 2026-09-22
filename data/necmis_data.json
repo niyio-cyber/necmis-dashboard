@@ -1,12 +1,12 @@
 {
-  "generated": "2026-09-21T16:39:17.046964Z",
+  "generated": "2026-09-22T15:12:05.103254Z",
   "summary": {
     "total_opportunities": 41,
     "total_value_low": 2308488380,
     "total_value_high": 2308488380,
     "by_state": {
-      "VT": 3,
-      "NH": 5,
+      "VT": 2,
+      "NH": 6,
       "ME": 4,
       "MA": 32,
       "NY": 1,
@@ -782,27 +782,13 @@
   ],
   "news": [
     {
-      "id": "a464a532d923",
-      "title": "Maine needs more oversight of cable and broadband providers | Letter",
-      "summary": "I\u2019ve had cable television since it first became available in Wells in the early 1980s. Back then, using it was simple. Now, in my mid-80s, Spectrum\u2019s service has become far more complicated, unreliable and expensive. I pay\u00a0$305.67 a month\u00a0for a package that includes many channels I neither watch nor",
-      "url": "https://www.pressherald.com/2026/09/21/maine-needs-more-oversight-of-cable-and-broadband-providers-letter/",
+      "id": "264e26ffdcc1",
+      "title": "Campaigning against Susan Collins in style | Letter",
+      "summary": "I wear a shirt very often these days that I got in Biddeford at a protest concerning the killing of Johan Sebasti\u00e1n Dur\u00e1n Guerrero. It says, \u201cSenator Collins, abolish ICE now!\u201d I wear it to continue to remind people that \u2014 despite all the ads on TV now \u2014 the bottom line for Susan Collins [\u2026]",
+      "url": "https://www.pressherald.com/2026/09/22/oft-worn-shirt-sends-a-message-to-sen-collins-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-21",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d192477358df",
-      "title": "8 Maine events include Common Ground Country Fair, Biddeford Oktoberfest",
-      "summary": "The Runaway Maine Music Fest in Turner features Marcy Playground and Sister Hazel.",
-      "url": "https://www.pressherald.com/2026/09/21/8-maine-events-include-common-ground-country-fair-biddeford-oktoberfest/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -810,15 +796,58 @@
       ]
     },
     {
-      "id": "b95f7a3f5c38",
-      "title": "Belfast won\u2019t permit recreational cannabis sales",
-      "summary": "That was fueled partly by worries that Belfast could be perceived as a \"pot town.\"",
-      "url": "https://www.bangordailynews.com/2026/09/21/midcoast/midcoast-government/belfast-maine-recreational-cannabis-sales-rejected/",
+      "id": "523e117cdd78",
+      "title": "Business owner running for City Council wants Bangor to focus on economic development",
+      "summary": "Anthony Cote's top issue is \u201cmaking Bangor business friendly,\u201d he said, noting it\u2019s an area where he thinks the city has been lacking.",
+      "url": "https://www.bangordailynews.com/2026/09/22/bangor/bangor-government/anthony-cote-bangor-city-council-candidate-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c3b0d7f07283",
+      "title": "Aroostook town raises $61K for veterans monument",
+      "summary": "The 20-foot granite wall of honor and more than 100 engraved paving stones will be dedicated this weekend in Heritage Park.",
+      "url": "https://www.bangordailynews.com/2026/09/22/aroostook/aroostook-culture/frenchville-maine-veterans-monument-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-22",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "hma",
+        "aggregates"
+      ]
+    },
+    {
+      "id": "e8cc16a53987",
+      "title": "Federal grants invigorate efforts to address veteran homelessness in Vermont",
+      "summary": "The Department of Veterans Affairs awarded over $18 million to Vermont and New Hampshire community organizations.\nRead the story on VTDigger here:  Federal grants invigorate efforts to address veteran homelessness in Vermont.",
+      "url": "https://vtdigger.org/2026/09/21/federal-grants-invigorate-efforts-to-address-veteran-homelessness-in-vermont/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-09-21",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "90d27ee71999",
+      "title": "Manchester\u2019s Queen City Bridge Closed",
+      "summary": "On Monday morning the City of Manchester, Department of Public Works, was notified of potential structural deficiencies identified during a routine NH DOT inspection of the Queen City Bridge.\nThe post Manchester\u2019s Queen City Bridge Closed appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/09/21/manchesters-queen-city-bridge-closed/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-09-21",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -846,34 +875,6 @@
       "state": "NH",
       "date": "2026-09-19",
       "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a45b497027eb",
-      "title": "Pre-dawn calf washes and tail fluffing: Scenes from opening day at Tunbridge World\u2019s Fair",
-      "summary": "More than 2,100 students visited the fairgrounds Thursday, where young exhibitors and veteran judges showed them what goes into raising, showing and judging animals.\nRead the story on VTDigger here:  Pre-dawn calf washes and tail fluffing: Scenes from opening day at Tunbridge World\u2019s Fair\u00a0.",
-      "url": "https://vtdigger.org/2026/09/18/pre-dawn-calf-washes-and-tail-fluffing-scenes-from-opening-day-at-tunbridge-worlds-fair/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-18",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b1e25ebd6f9f",
-      "title": "Federal government rejects winning bid for Montpelier\u2019s former post office",
-      "summary": "A local development corporation won the auction for 87 State St. in August, but the treasurer of the organization says the federal government wants more money for it. \nRead the story on VTDigger here:  Federal government rejects winning bid for Montpelier\u2019s former post office.",
-      "url": "https://vtdigger.org/2026/09/18/federal-government-rejects-winning-bid-for-montpeliers-former-post-office/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-18",
-      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
