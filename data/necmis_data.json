@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-24T15:31:22.499450Z",
+  "generated": "2026-09-25T15:35:18.440816Z",
   "summary": {
-    "total_opportunities": 40,
+    "total_opportunities": 39,
     "total_value_low": 2290599620,
     "total_value_high": 2290599620,
     "by_state": {
-      "VT": 4,
+      "VT": 3,
       "NH": 6,
       "ME": 6,
-      "MA": 29,
+      "MA": 30,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 36,
-      "news": 9,
-      "funding": 4
+      "news": 10,
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -55,25 +55,6 @@
       "location": "Huntington",
       "district": 1,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613185",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fdca6d7fbf17",
-      "state": "MA",
-      "project_id": "610544",
-      "description": "Multi-Use Path Construction of Independence Greenway at I-95 and Route 1",
-      "cost_low": 19203859,
-      "cost_high": 19203859,
-      "cost_display": "$19.2M",
-      "ad_date": "2026-08-01",
-      "let_date": null,
-      "project_type": "Bridge - Construction    , Highway - Construction",
-      "location": "Peabody",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610544",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -288,6 +269,25 @@
       "location": "Northborough - Shrewsbury",
       "district": 3,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610825",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fdca6d7fbf17",
+      "state": "MA",
+      "project_id": "610544",
+      "description": "Multi-Use Path Construction of Independence Greenway at I-95 and Route 1",
+      "cost_low": 19203859,
+      "cost_high": 19203859,
+      "cost_display": "$19.2M",
+      "ad_date": "2026-08-01",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Highway - Construction",
+      "location": "Peabody",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610544",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -724,13 +724,27 @@
   ],
   "news": [
     {
-      "id": "05803e8e3899",
-      "title": "Endorsing Tim Nangle for Senate District 26 | Letter",
-      "summary": "State Sen. Tim Nangle, D-Windham, has built a legislative record grounded in the same instinct that defined his 27-year career as a Portland Fire Department paramedic: showing up for people when it matters. As Senate chair of the Transportation Committee, Nangle led passage of a two-year Highway Fun",
-      "url": "https://www.pressherald.com/2026/09/24/endorsing-tim-nangle-for-senate-district-26-letter/",
+      "id": "d107489117b3",
+      "title": "Thoughtful planning, craftsmanship and design set this new construction home apart",
+      "summary": "$1.545 million | Lot #2, Blackstrap Road, Falmouth",
+      "url": "https://www.pressherald.com/2026/09/25/thoughtful-planning-craftsmanship-and-design-set-this-new-construction-home-apart/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a472a07a4b23",
+      "title": "Augusta woman arrested for Waterville crash that killed DOT workers",
+      "summary": "Police arrested Samantha Tupper, 34, Friday morning, after a grand jury returned an indictment on several charges stemming from the January crash.",
+      "url": "https://www.pressherald.com/2026/09/25/augusta-woman-arrested-for-waterville-crash-that-killed-dot-workers/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-09-25",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -738,13 +752,13 @@
       ]
     },
     {
-      "id": "ab288095b451",
-      "title": "Judge blocks Trump\u2019s ban and says CNN, MS NOW and Politico must have White House access restored",
-      "summary": "NEW YORK (AP) \u2014 A federal judge early Thursday temporarily blocked President Donald Trump\u2019s move to ban three news outlets from the White House grounds and said CNN, MS NOW and Politico must have their access restored. It\u2019s the latest development in an escalating showdown between Trump and media out",
-      "url": "https://www.bangordailynews.com/2026/09/24/nation/judge-blocks-trumps-ban-and-says-cnn-ms-now-and-politico-must-have-white-house-access-restored/",
-      "source": "Bangor Daily News",
+      "id": "a78a4327f023",
+      "title": "State denies 2 home care providers\u2019 licenses, ends MaineCare funding over allegations of neglect",
+      "summary": "The Portland- and South Portland-based providers specializing in services for adults with developmental disabilities failed to protect patients from mistreatment, DHHS claims.",
+      "url": "https://www.pressherald.com/2026/09/25/2-home-care-providers-licenses-denied-mainecare-funding-terminated-over-allegations-of-neglect/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "category": "funding",
       "priority": "medium",
       "business_lines": [
@@ -752,40 +766,68 @@
       ]
     },
     {
-      "id": "9998b124d53b",
-      "title": "Letter: Susan Collins helped ease harm of tariffs in Maine",
-      "summary": "\u201cHad the tariff gone into effect it would have cost our small concrete business about $150,000 every month.\u201d",
-      "url": "https://www.bangordailynews.com/2026/09/24/opinion/letters/letter-susan-collins-helped-ease-harm-of-tariffs-in-maine-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "1f4e945d5383",
+      "title": "How a 1-in-100-million lobster is helping UNE students study genes",
+      "summary": "Casper, a 'ghost' lobster, will be studied for personality traits and what makes him white. He joins a growing rainbow of rare lobsters being studied at the Biddeford university.",
+      "url": "https://www.pressherald.com/2026/09/25/how-a-1-in-100-million-lobster-is-helping-une-students-study-genes/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "category": "funding",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
-        "ready_mix"
+        "highway"
       ]
     },
     {
-      "id": "962beca6f5c1",
-      "title": "Letter: Susan Collins\u2019 vote for RFK Jr. puts children at risk",
-      "summary": "\u201cHad the tariff gone into effect it would have cost our small concrete business about $150,000 every month.\u201d",
-      "url": "https://www.bangordailynews.com/2026/09/24/opinion/letters/letter-susan-collins-vote-for-rfk-jr-puts-children-at-risk-joam40zk0w/",
+      "id": "cdab001f1c34",
+      "title": "Woman arrested in Maine crash that left 2 state road workers dead",
+      "summary": "Samantha Tupper, 34, faces charges of manslaughter, aggravated driving to endanger, endangering the welfare of a child and aggravated assault",
+      "url": "https://www.bangordailynews.com/2026/09/25/central-maine/central-maine-police-courts/augusta-maine-interstate-95-construction-worker-deaths-manslaughter-samantha-tupper/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-09-24",
-      "category": "funding",
+      "date": "2026-09-25",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
-        "ready_mix"
+        "highway"
       ]
     },
     {
-      "id": "a46cd6244a57",
-      "title": "Rural Maine road to a popular hiking trail finally being\u00a0paved after a year-long battle",
-      "summary": "The road is used by residents and hikers to gain access to the 1,100-foot peak of Chick Hill.",
-      "url": "https://www.bangordailynews.com/2026/09/24/penobscot/penobscot-government/clifton-maine-to-pave-chick-hill-road-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "a45fcf1e997c",
+      "title": "Don\u2019t give up on politically challenging conversations | Judy Feinstein",
+      "summary": "So how do we bridge the gap and depoliticize our day-to-day living? How can we talk to and work with each other to ensure that everyone\u2019s basic needs are met?",
+      "url": "https://www.masslive.com/opinion/2026/09/dont-give-up-on-politically-challenging-conversations-judy-feinstein.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-09-25",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b972ac81289b",
+      "title": "Its selectboard mired in controversy, Weston to hold special election",
+      "summary": "Weston selectboard resignations and complaints from residents may point to a broader trend in Vermont.\nRead the story on VTDigger here:  Its selectboard mired in controversy, Weston to hold special election.",
+      "url": "https://vtdigger.org/2026/09/24/its-selectboard-mired-in-controversy-weston-to-hold-special-election/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-09-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d67fa95ae494",
+      "title": "State sues construction companies over illegal dredging operations on Lake Winnipesaukee",
+      "summary": "State officials have filed a lawsuit against construction companies accused of conducting illegal dredging and filling along the shoreline and lakebed of Lake Winnipesaukee, the Attorney General\u2019s Office announced Thursday.",
+      "url": "https://www.unionleader.com/news/business/state-sues-construction-companies-over-illegal-dredging-operations-on-lake-winnipesaukee/article_80cbdf03-d4cd-46c4-8911-e6d890beba6c.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-09-24",
       "category": "news",
       "priority": "medium",
@@ -815,48 +857,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-09-23",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "813e544a4ce1",
-      "title": "Dorothy (Dot) Naylor",
-      "summary": "She was a lifelong learner, an innovator before innovation was cool, and generally a feisty woman who regarded obstacles as challenges to be overcome her whole life.\nRead the story on VTDigger here:  Dorothy (Dot) Naylor.",
-      "url": "https://vtdigger.org/2026/09/22/dorothy-dot-naylor/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-22",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e8cc16a53987",
-      "title": "Federal grants invigorate efforts to address veteran homelessness in Vermont",
-      "summary": "The Department of Veterans Affairs awarded over $18 million to Vermont and New Hampshire community organizations.\nRead the story on VTDigger here:  Federal grants invigorate efforts to address veteran homelessness in Vermont.",
-      "url": "https://vtdigger.org/2026/09/21/federal-grants-invigorate-efforts-to-address-veteran-homelessness-in-vermont/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-21",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "90d27ee71999",
-      "title": "Manchester\u2019s Queen City Bridge Closed",
-      "summary": "On Monday morning the City of Manchester, Department of Public Works, was notified of potential structural deficiencies identified during a routine NH DOT inspection of the Queen City Bridge.\nThe post Manchester\u2019s Queen City Bridge Closed appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/09/21/manchesters-queen-city-bridge-closed/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-09-21",
       "category": "news",
       "priority": "high",
       "business_lines": [
