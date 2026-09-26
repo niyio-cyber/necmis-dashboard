@@ -1,23 +1,23 @@
 {
-  "generated": "2026-09-25T15:35:18.440816Z",
+  "generated": "2026-09-26T14:46:34.309054Z",
   "summary": {
-    "total_opportunities": 39,
-    "total_value_low": 2290599620,
-    "total_value_high": 2290599620,
+    "total_opportunities": 38,
+    "total_value_low": 2313541836,
+    "total_value_high": 2313541836,
     "by_state": {
       "VT": 3,
-      "NH": 6,
-      "ME": 6,
-      "MA": 30,
+      "NH": 7,
+      "ME": 4,
+      "MA": 32,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 36,
-      "news": 10,
-      "funding": 3
+      "dot_letting": 38,
+      "news": 12,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -39,25 +39,6 @@
       "business_lines": [
         "highway",
         "hma"
-      ]
-    },
-    {
-      "id": "a4718246bd5c",
-      "state": "MA",
-      "project_id": "613185",
-      "description": "Bridge Preservation, H-27-006 (0DH), State Route 112/East Main Street over CSXT and Westfield River",
-      "cost_low": 19433277,
-      "cost_high": 19433277,
-      "cost_display": "$19.4M",
-      "ad_date": "2026-08-15",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Huntington",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613185",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
       ]
     },
     {
@@ -413,6 +394,25 @@
       ]
     },
     {
+      "id": "8019e7b14f0f",
+      "state": "MA",
+      "project_id": "614064",
+      "description": "Maintenance of MHS Communications Systems at Various Locations",
+      "cost_low": 3414900,
+      "cost_high": 3414900,
+      "cost_display": "$3.4M",
+      "ad_date": "2026-09-26",
+      "let_date": null,
+      "project_type": "Intelligent Transportation Systems",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614064",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "2d36113de09e",
       "state": "MA",
       "project_id": "616276",
@@ -542,6 +542,44 @@
       "location": "Cambridge",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613689",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cf49e04359fb",
+      "state": "MA",
+      "project_id": "616308",
+      "description": "Installation of Noise Barriers along I-90 between Market and Franklin Streets (Allston Multimodal Transportation Project Early Action)",
+      "cost_low": 19527316,
+      "cost_high": 19527316,
+      "cost_display": "$19.5M",
+      "ad_date": "2026-09-26",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616308",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a4718246bd5c",
+      "state": "MA",
+      "project_id": "613185",
+      "description": "Bridge Preservation, H-27-006 (0DH), State Route 112/East Main Street over CSXT and Westfield River",
+      "cost_low": 19433277,
+      "cost_high": 19433277,
+      "cost_display": "$19.4M",
+      "ad_date": "2026-08-15",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Huntington",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613185",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -724,27 +762,13 @@
   ],
   "news": [
     {
-      "id": "d107489117b3",
-      "title": "Thoughtful planning, craftsmanship and design set this new construction home apart",
-      "summary": "$1.545 million | Lot #2, Blackstrap Road, Falmouth",
-      "url": "https://www.pressherald.com/2026/09/25/thoughtful-planning-craftsmanship-and-design-set-this-new-construction-home-apart/",
+      "id": "740b7c716fdf",
+      "title": "Friday\u2019s high school football: Falmouth sends Biddeford to first defeat",
+      "summary": "The Navigators pick up their second straight win, led by three touchdowns from Owen Ross.",
+      "url": "https://www.pressherald.com/2026/09/25/fridays-high-school-football-falmouth-sends-biddeford-to-first-defeat/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-25",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a472a07a4b23",
-      "title": "Augusta woman arrested for Waterville crash that killed DOT workers",
-      "summary": "Police arrested Samantha Tupper, 34, Friday morning, after a grand jury returned an indictment on several charges stemming from the January crash.",
-      "url": "https://www.pressherald.com/2026/09/25/augusta-woman-arrested-for-waterville-crash-that-killed-dot-workers/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -752,40 +776,54 @@
       ]
     },
     {
-      "id": "a78a4327f023",
-      "title": "State denies 2 home care providers\u2019 licenses, ends MaineCare funding over allegations of neglect",
-      "summary": "The Portland- and South Portland-based providers specializing in services for adults with developmental disabilities failed to protect patients from mistreatment, DHHS claims.",
-      "url": "https://www.pressherald.com/2026/09/25/2-home-care-providers-licenses-denied-mainecare-funding-terminated-over-allegations-of-neglect/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-09-25",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1f4e945d5383",
-      "title": "How a 1-in-100-million lobster is helping UNE students study genes",
-      "summary": "Casper, a 'ghost' lobster, will be studied for personality traits and what makes him white. He joins a growing rainbow of rare lobsters being studied at the Biddeford university.",
-      "url": "https://www.pressherald.com/2026/09/25/how-a-1-in-100-million-lobster-is-helping-une-students-study-genes/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-09-25",
-      "category": "funding",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cdab001f1c34",
-      "title": "Woman arrested in Maine crash that left 2 state road workers dead",
-      "summary": "Samantha Tupper, 34, faces charges of manslaughter, aggravated driving to endanger, endangering the welfare of a child and aggravated assault",
-      "url": "https://www.bangordailynews.com/2026/09/25/central-maine/central-maine-police-courts/augusta-maine-interstate-95-construction-worker-deaths-manslaughter-samantha-tupper/",
+      "id": "e675e828dde4",
+      "title": "Southern Democrats see hope for first time in years, seek to build on discontent of midterm voters",
+      "summary": "DOTHAN, Ala. (AP) \u2014 People crowded shoulder to shoulder upstairs in a south Alabama coffee shop, in a region sometimes called the reddest in the heavily conservative state. They were there to hear Doug Jones, the Democratic nominee for governor and the last Democrat to hold statewide office in Alaba",
+      "url": "https://www.bangordailynews.com/2026/09/26/nation/southern-democrats-see-hope-for-first-time-in-years-seek-to-build-on-discontent-of-midterm-voters/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-09-26",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a3b6af7e409a",
+      "title": "Roads flood in New Jersey, inundate some homes, as major signs of nor\u2019easter take shape",
+      "summary": "PROVIDENCE, R.I. (AP) \u2014 More than 70,000 customers were without electricity in the U.S. Northeast on Saturday, the effect of a powerful nor\u2019easter expected to create dangerous conditions through the weekend. Forecasters warned of gale winds that could down trees and heavy rain that could put roads u",
+      "url": "https://www.bangordailynews.com/2026/09/26/nation/roads-flood-in-new-jersey-inundate-some-homes-as-major-signs-of-noreaster-take-shape-2/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f7af61de6ef3",
+      "title": "Data projections forecast tight score: What DraftKings bettors expect for Patriots vs. Jaguars",
+      "summary": "Can Drake Maye lead the Patriots to a road cover (+2.5) in Jacksonville? We break down final 24-21 score projections and DraftKings prop values.",
+      "url": "https://www.masslive.com/betting/2026/09/patriots-jaguars-draftkings-odds-model-projections-preview.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-09-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3cd2368de4ad",
+      "title": "Tilton's development boom may be too much, too fast for some residents",
+      "summary": "The transformation of Tilton from a pocket-size mill town to a rapidly expanding hub for retail and housing has town officials sprinting.",
+      "url": "https://www.unionleader.com/news/business/tiltons-development-boom-may-be-too-much-too-fast-for-some-residents/article_b7b21509-19e5-4096-a346-77b5635c873c.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-09-25",
       "category": "news",
       "priority": "medium",
@@ -794,15 +832,15 @@
       ]
     },
     {
-      "id": "a45fcf1e997c",
-      "title": "Don\u2019t give up on politically challenging conversations | Judy Feinstein",
-      "summary": "So how do we bridge the gap and depoliticize our day-to-day living? How can we talk to and work with each other to ensure that everyone\u2019s basic needs are met?",
-      "url": "https://www.masslive.com/opinion/2026/09/dont-give-up-on-politically-challenging-conversations-judy-feinstein.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "52271a60999c",
+      "title": "Tilton volunteer shortage strains boards as growth accelerates",
+      "summary": "Tilton is a bustling Lakes Region town at the crossroads of Interstate 93 and Route 3. Its development has accelerated to a dizzying pace.",
+      "url": "https://www.unionleader.com/news/business/tilton-volunteer-shortage-strains-boards-as-growth-accelerates/article_58b42271-01ec-4d8a-807c-3a04d373f887.html",
+      "source": "Union Leader",
+      "state": "NH",
       "date": "2026-09-25",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -887,20 +925,6 @@
       "date": "2026-09-19",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f7670920ff07",
-      "title": "Bill to require AM radio in automobiles passes House",
-      "summary": "Members of the House of Representatives passed legislation to require AM broadcast radio devices in all automobiles on Tuesday, a move to ensure than Americans have access to information during emergencies.",
-      "url": "https://www.unionleader.com/news/business/bill-to-require-am-radio-in-automobiles-passes-house/article_2fd518cd-a8e8-5bd3-82f5-8a863063761b.html",
-      "source": "Union Leader",
-      "state": "NH",
-      "date": "2026-09-16",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
