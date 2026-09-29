@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-28T18:16:51.132998Z",
+  "generated": "2026-09-29T16:39:27.884713Z",
   "summary": {
     "total_opportunities": 38,
     "total_value_low": 2313541836,
     "total_value_high": 2313541836,
     "by_state": {
-      "VT": 2,
+      "VT": 1,
       "NH": 1,
       "ME": 2,
       "MA": 31,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 38,
-      "news": 2,
+      "news": 1,
       "funding": 0
     }
   },
@@ -762,29 +762,15 @@
   ],
   "news": [
     {
-      "id": "c5af75be5e34",
-      "title": "Propane explosion left Maine man with serious burns",
-      "summary": "His son, who lives across the road, heard the explosion and rushed over to help his father to safety before using a fire extinguisher to put out the flames.",
-      "url": "https://www.bangordailynews.com/2026/09/28/york/york-police-courts/limington-maine-east-sand-pond-house-fire-propane-explosion/",
-      "source": "Bangor Daily News",
+      "id": "7b410083118f",
+      "title": "What to know about Biddeford\u2019s newly opened elementary school expansion",
+      "summary": "Students from grades pre-K through second now learn under a single roof at the expanded Biddeford Primary School.",
+      "url": "https://www.pressherald.com/2026/09/29/what-to-know-about-biddefords-newly-opened-elementary-school-expansion/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b972ac81289b",
-      "title": "Its selectboard mired in controversy, Weston to hold special election",
-      "summary": "Weston selectboard resignations and complaints from residents may point to a broader trend in Vermont.\nRead the story on VTDigger here:  Its selectboard mired in controversy, Weston to hold special election.",
-      "url": "https://vtdigger.org/2026/09/24/its-selectboard-mired-in-controversy-weston-to-hold-special-election/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-24",
-      "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
