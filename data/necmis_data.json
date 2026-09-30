@@ -1,66 +1,26 @@
 {
-  "generated": "2026-09-29T16:39:27.884713Z",
+  "generated": "2026-09-30T16:31:43.806371Z",
   "summary": {
-    "total_opportunities": 38,
-    "total_value_low": 2313541836,
-    "total_value_high": 2313541836,
+    "total_opportunities": 36,
+    "total_value_low": 2285124040,
+    "total_value_high": 2285124040,
     "by_state": {
-      "VT": 1,
-      "NH": 1,
-      "ME": 2,
-      "MA": 31,
+      "VT": 2,
+      "NH": 2,
+      "ME": 3,
+      "MA": 29,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 38,
-      "news": 1,
+      "dot_letting": 36,
+      "news": 4,
       "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "43df0f10ba63",
-      "state": "MA",
-      "project_id": "613314",
-      "description": "Interstate Pavement Preservation and Related Work on I-91",
-      "cost_low": 11261903,
-      "cost_high": 11261903,
-      "cost_display": "$11.3M",
-      "ad_date": "2026-08-22",
-      "let_date": null,
-      "project_type": "Bridge - Construction    , Pavement - Surfacing",
-      "location": "Holyoke - West Springfield",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613314",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "0aae96dae523",
-      "state": "MA",
-      "project_id": "612184",
-      "description": "Bridge Replacement, R-05-015, Revere Beach Parkway over Broadway",
-      "cost_low": 17155893,
-      "cost_high": 17155893,
-      "cost_display": "$17.2M",
-      "ad_date": "2026-08-15",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Revere",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612184",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
     {
       "id": "994b52087894",
       "state": "MA",
@@ -762,13 +722,55 @@
   ],
   "news": [
     {
-      "id": "7b410083118f",
-      "title": "What to know about Biddeford\u2019s newly opened elementary school expansion",
-      "summary": "Students from grades pre-K through second now learn under a single roof at the expanded Biddeford Primary School.",
-      "url": "https://www.pressherald.com/2026/09/29/what-to-know-about-biddefords-newly-opened-elementary-school-expansion/",
+      "id": "87c9bffc7ffe",
+      "title": "Nettie Morse focuses on a future in pediatric occupational therapy",
+      "summary": "A founding member of VSAC GEAR UP Leads and a QuestBridge Junior College Prep Scholar, Nettie has been recognized for building opportunity for her peers. Now she's preparing her own college applications, with the goal of working with children.\nRead the story on VTDigger here:  Nettie Morse focuses",
+      "url": "https://vtdigger.org/2026/09/30/nettie-morse-focuses-on-a-future-in-pediatric-occupational-therapy/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-09-30",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b4360ed1ad65",
+      "title": "Author George Jreije wants to broaden horizons at Portland\u2019s Mechanics\u2019 Hall",
+      "summary": "The author, who started Tuesday as Mechanics' Hall's next writer-in-residence, wants to foster literacy, community and interest in genre fiction.",
+      "url": "https://www.pressherald.com/2026/09/30/author-george-jreije-wants-to-broaden-horizons-at-portlands-mechanics-hall/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a7a12e014c70",
+      "title": "Couple sued by lobster co-op over fraud scheme sells marina to pay off penalty",
+      "summary": "The sale closes a yearslong legal saga between the owners of the Trenton Bridge Lobster Pound\u00a0and Maine Lobstering Union Local 207.",
+      "url": "https://www.bangordailynews.com/2026/09/30/hancock/hancock-police-courts/pettegrow-lobster-207-lawsuit-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-09-30",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a0e400e636ce",
+      "title": "Committee Approves Hampton I-95 Liquor Store Project; Lawsuit By Losing Bidder Ongoing",
+      "summary": "Questions still linger regarding the future of a pending lawsuit over a bid to redevelop liquor stores in Hampton after the Long Range Capital Planning and Utilization Committee unanimously approved Dick Anagnost and Global Partners for the project on Monday at a special meeting.\nThe post Committee",
+      "url": "https://indepthnh.org/2026/09/29/committee-approves-hampton-i-95-liquor-store-project-lawsuit-by-losing-bidder-ongoing/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-09-30",
       "category": "news",
       "priority": "high",
       "business_lines": [
