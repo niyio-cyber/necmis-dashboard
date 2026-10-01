@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-30T16:31:43.806371Z",
+  "generated": "2026-10-01T17:09:30.805611Z",
   "summary": {
     "total_opportunities": 36,
     "total_value_low": 2285124040,
     "total_value_high": 2285124040,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 2,
-      "ME": 3,
-      "MA": 29,
+      "ME": 2,
+      "MA": 30,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 36,
-      "news": 4,
+      "news": 5,
       "funding": 0
     }
   },
@@ -722,13 +722,28 @@
   ],
   "news": [
     {
-      "id": "87c9bffc7ffe",
-      "title": "Nettie Morse focuses on a future in pediatric occupational therapy",
-      "summary": "A founding member of VSAC GEAR UP Leads and a QuestBridge Junior College Prep Scholar, Nettie has been recognized for building opportunity for her peers. Now she's preparing her own college applications, with the goal of working with children.\nRead the story on VTDigger here:  Nettie Morse focuses",
-      "url": "https://vtdigger.org/2026/09/30/nettie-morse-focuses-on-a-future-in-pediatric-occupational-therapy/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-09-30",
+      "id": "1bc1942ac194",
+      "title": "Decades-old fight over Down East gravel road is heading back to court",
+      "summary": "Judge considers a new trial after plaintiffs claim the original judge had an undisclosed tie to a key witness.",
+      "url": "https://www.bangordailynews.com/2026/10/01/down-east/downeast-police-courts/machiasport-maine-gravel-road-dispute-new-trial-motion/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-01",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "aggregates"
+      ]
+    },
+    {
+      "id": "0dab4cb9b19a",
+      "title": "More Americans blame Trump for high prices than blamed Biden, new poll shows",
+      "summary": "Sixty-five percent of Americans said high prices are a result of Trump\u2019s policies, according to the latest AP-NORC Center for Public Affairs Research poll.",
+      "url": "https://www.masslive.com/politics/2026/10/more-americans-blame-trump-for-high-prices-than-blamed-biden-new-poll-shows.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-01",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -736,12 +751,12 @@
       ]
     },
     {
-      "id": "b4360ed1ad65",
-      "title": "Author George Jreije wants to broaden horizons at Portland\u2019s Mechanics\u2019 Hall",
-      "summary": "The author, who started Tuesday as Mechanics' Hall's next writer-in-residence, wants to foster literacy, community and interest in genre fiction.",
-      "url": "https://www.pressherald.com/2026/09/30/author-george-jreije-wants-to-broaden-horizons-at-portlands-mechanics-hall/",
-      "source": "Portland Press Herald",
-      "state": "ME",
+      "id": "ade7c3a819ac",
+      "title": "Putney affordable housing project opens after clearing court battles",
+      "summary": "The price tag for the apartment complex ballooned by nearly 50% over the course of its development, including two years of legal disputes involving neighbors.\nRead the story on VTDigger here:  Putney affordable housing project opens after clearing court battles.",
+      "url": "https://vtdigger.org/2026/09/30/putney-affordable-housing-project-opens-after-clearing-court-battles/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-09-30",
       "category": "news",
       "priority": "medium",
@@ -750,12 +765,12 @@
       ]
     },
     {
-      "id": "a7a12e014c70",
-      "title": "Couple sued by lobster co-op over fraud scheme sells marina to pay off penalty",
-      "summary": "The sale closes a yearslong legal saga between the owners of the Trenton Bridge Lobster Pound\u00a0and Maine Lobstering Union Local 207.",
-      "url": "https://www.bangordailynews.com/2026/09/30/hancock/hancock-police-courts/pettegrow-lobster-207-lawsuit-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "87c9bffc7ffe",
+      "title": "Nettie Morse focuses on a future in pediatric occupational therapy",
+      "summary": "A founding member of VSAC GEAR UP Leads and a QuestBridge Junior College Prep Scholar, Nettie has been recognized for building opportunity for her peers. Now she's preparing her own college applications, with the goal of working with children.\nRead the story on VTDigger here:  Nettie Morse focuses",
+      "url": "https://vtdigger.org/2026/09/30/nettie-morse-focuses-on-a-future-in-pediatric-occupational-therapy/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-09-30",
       "category": "news",
       "priority": "high",
