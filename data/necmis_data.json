@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-01T17:09:30.805611Z",
+  "generated": "2026-10-02T16:23:15.804183Z",
   "summary": {
-    "total_opportunities": 36,
+    "total_opportunities": 37,
     "total_value_low": 2285124040,
     "total_value_high": 2285124040,
     "by_state": {
       "VT": 3,
       "NH": 2,
-      "ME": 2,
-      "MA": 30,
+      "ME": 6,
+      "MA": 29,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 36,
-      "news": 5,
-      "funding": 0
+      "news": 7,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -722,30 +722,71 @@
   ],
   "news": [
     {
-      "id": "1bc1942ac194",
-      "title": "Decades-old fight over Down East gravel road is heading back to court",
-      "summary": "Judge considers a new trial after plaintiffs claim the original judge had an undisclosed tie to a key witness.",
-      "url": "https://www.bangordailynews.com/2026/10/01/down-east/downeast-police-courts/machiasport-maine-gravel-road-dispute-new-trial-motion/",
-      "source": "Bangor Daily News",
+      "id": "80e4e0a1a47e",
+      "title": "Susan Collins votes conscientiously and gets results | Letter",
+      "summary": "Sen. Susan Collins has taken years of criticism for her vote to confirm Justice Brett Kavanaugh. What her critics rarely mention is that she also voted to confirm Justices Sonia Sotomayor and Elena Kagan, nominated by President Obama, and Justice Ketanji Brown Jackson, nominated by President Biden.",
+      "url": "https://www.pressherald.com/2026/10/02/susan-collins-votes-conscientiously-and-gets-results-letter/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
-        "highway",
-        "aggregates"
+        "highway"
       ]
     },
     {
-      "id": "0dab4cb9b19a",
-      "title": "More Americans blame Trump for high prices than blamed Biden, new poll shows",
-      "summary": "Sixty-five percent of Americans said high prices are a result of Trump\u2019s policies, according to the latest AP-NORC Center for Public Affairs Research poll.",
-      "url": "https://www.masslive.com/politics/2026/10/more-americans-blame-trump-for-high-prices-than-blamed-biden-new-poll-shows.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-01",
+      "id": "e841a383bff4",
+      "title": "New ICE guidance bans high-speed car chases and sets tighter rules for traffic stops, a memo shows",
+      "summary": "The directive was issued after several drivers were shot by immigration agents, including a fatal encounter in Biddeford in July.",
+      "url": "https://www.pressherald.com/2026/10/02/new-ice-guidance-bans-high-speed-car-chases-and-sets-tighter-rules-for-traffic-stops-a-memo-shows/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-02",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "31d3941899c8",
+      "title": "I-95 bridge construction will close Broadway lane next week",
+      "summary": "The lane closure will allow crews to complete necessary work under the new Interstate 95 bridge.",
+      "url": "https://www.bangordailynews.com/2026/10/02/bangor/bangor-government/bangor-maine-broadway-lane-closure-interstate-95-bridge-construction-october-6-9/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-02",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c2053f4d6718",
+      "title": "Former Maine Capitol Police chief given chance to avoid most serious charges after bar fight",
+      "summary": "If he abides by the terms of the deal, which includes neither consuming nor possessing alcohol, and seeking substance use treatment and counseling, Matthew Clancy will avoid charges of assault and resisting arrest.",
+      "url": "https://www.bangordailynews.com/2026/10/02/central-maine/central-maine-police-courts/maine-capitol-police-chief-matthew-clancy-bar-fight-assault-deferred-disposition/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-02",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1a4a3a04cd2a",
+      "title": "Maine Coastal Program announces $299,057 in Habitat Restoration Planning Grants to communities",
+      "summary": "AUGUSTA \u2013 The Maine Office of Community Affairs\u2019 Maine Coastal Program awarded $299,057 to four municipalities and service providers for projects to develop habitat restoration plans in support of community resilience. Communities depend on healthy coastal habitats to buffer storm surge, maintain cl",
+      "url": "https://www.bangordailynews.com/2026/10/02/bdn-maine/maine-coastal-program-announces-299057-in-habitat-restoration-planning-grants-to-communities/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-02",
+      "category": "funding",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
