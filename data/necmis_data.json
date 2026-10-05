@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T15:31:10.963690Z",
+  "generated": "2026-10-05T19:24:23.405121Z",
   "summary": {
     "total_opportunities": 40,
     "total_value_low": 2289593345,
@@ -7,7 +7,7 @@
     "by_state": {
       "VT": 2,
       "NH": 1,
-      "ME": 3,
+      "ME": 5,
       "MA": 33,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 40,
-      "news": 3,
+      "news": 5,
       "funding": 0
     }
   },
@@ -798,27 +798,13 @@
   ],
   "news": [
     {
-      "id": "1e6eb0696bd1",
-      "title": "An Essex County officials\u2019 parking fight puts taxpayers in a tight spot",
-      "summary": "Essex County\u2019s sheriff and assistant judges are negotiating over justice center construction that could cost taxpayers more \u2014 whether work stops or continues.\nRead the story on VTDigger here:  An Essex County officials\u2019 parking fight puts taxpayers in a tight spot.",
-      "url": "https://vtdigger.org/2026/10/04/an-essex-county-officials-parking-fight-puts-taxpayers-in-a-tight-spot/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9642cdd935e6",
-      "title": "A Black community in Louisiana faces a future without a champion in Congress after redistricting",
-      "summary": "SCOTLANDVILLE, La. (AP) \u2014 If you cross the Mississippi River on the Huey P. Long-O.K. Allen Bridge, pass the Exxon Refinery, then head north for a few minutes, you\u2019ll find a pocket of Louisiana that\u2019s unlike any other place in America\u2019s never-ending battle over what it means to have equal representa",
-      "url": "https://www.bangordailynews.com/2026/10/04/nation/a-black-community-in-louisiana-faces-a-future-without-a-champion-in-congress-after-redistricting/",
-      "source": "Bangor Daily News",
+      "id": "2b92e1a4fbb5",
+      "title": "Matt Dunlap is the man for Congress | Letter",
+      "summary": "This is a letter supporting Matt Dunlap for Congress in Maine\u2019s 2nd Congressional District. As governor, Paul LePage vetoed more than 600 bills, including Medicaid expansion and a number of housing and infrastructure bills. Back then, he did not have concern for the citizens of this state and there",
+      "url": "https://www.pressherald.com/2026/10/05/matt-dunlap-is-the-man-for-congress-letter/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -826,12 +812,54 @@
       ]
     },
     {
-      "id": "0ccdb72f0128",
-      "title": "Caribou City Council candidate wants to lower taxes and support those who struggle",
-      "summary": "New to municipal government, Jeff Whitney wants to lower taxes, keep skilled people local and be a voice for the overlooked.",
-      "url": "https://www.bangordailynews.com/2026/10/04/aroostook/aroostook-government/caribou-city-council-candidate-jeff-whitney-joam40zk0w/",
+      "id": "4e80403db84e",
+      "title": "Recovery changed Biddeford-area resident\u2019s life, now she helps others | County Report",
+      "summary": "York County Recover Center expected to open in early 2027.",
+      "url": "https://www.pressherald.com/2026/10/05/recovery-changed-biddeford-area-residents-life-now-she-helps-others-county-report/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6274ffcb8fb1",
+      "title": "Portland band Small Pond creates a lush indie sound",
+      "summary": "See them live this week in Portland and at the All Roads Music Festival in Belfast on Oct. 17.",
+      "url": "https://www.pressherald.com/2026/10/05/portland-band-small-pond-creates-a-lush-indie-sound/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-05",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f14ab4a7c676",
+      "title": "Former housemate of Biddeford ICE shooting victim tries to rebuild while struggling with loss",
+      "summary": "Like his friend Johan Sebastian Duran Guerrero, Jhonathan Ramirez came to Maine because he heard it was quiet and safe.",
+      "url": "https://www.bangordailynews.com/2026/10/05/york/york-police-courts/biddeford-maine-ice-shooting-duran-guerrero-housemate/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-10-05",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1e6eb0696bd1",
+      "title": "An Essex County officials\u2019 parking fight puts taxpayers in a tight spot",
+      "summary": "Essex County\u2019s sheriff and assistant judges are negotiating over justice center construction that could cost taxpayers more \u2014 whether work stops or continues.\nRead the story on VTDigger here:  An Essex County officials\u2019 parking fight puts taxpayers in a tight spot.",
+      "url": "https://vtdigger.org/2026/10/04/an-essex-county-officials-parking-fight-puts-taxpayers-in-a-tight-spot/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-10-04",
       "category": "news",
       "priority": "medium",
