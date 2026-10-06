@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-05T19:24:23.405121Z",
+  "generated": "2026-10-06T16:57:47.425682Z",
   "summary": {
-    "total_opportunities": 40,
+    "total_opportunities": 43,
     "total_value_low": 2289593345,
     "total_value_high": 2289593345,
     "by_state": {
       "VT": 2,
       "NH": 1,
-      "ME": 5,
-      "MA": 33,
+      "ME": 6,
+      "MA": 35,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 40,
       "news": 5,
-      "funding": 0
+      "funding": 3
     }
   },
   "dot_lettings": [
@@ -401,7 +401,7 @@
       "cost_display": "$838K",
       "ad_date": "2026-10-03",
       "let_date": null,
-      "project_type": "Highway - Construction",
+      "project_type": "DCAMM-Mechanical Systems",
       "location": "District 6",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616507",
@@ -798,41 +798,41 @@
   ],
   "news": [
     {
-      "id": "2b92e1a4fbb5",
-      "title": "Matt Dunlap is the man for Congress | Letter",
-      "summary": "This is a letter supporting Matt Dunlap for Congress in Maine\u2019s 2nd Congressional District. As governor, Paul LePage vetoed more than 600 bills, including Medicaid expansion and a number of housing and infrastructure bills. Back then, he did not have concern for the citizens of this state and there",
-      "url": "https://www.pressherald.com/2026/10/05/matt-dunlap-is-the-man-for-congress-letter/",
+      "id": "029d0944f38e",
+      "title": "Maine regulators deny CMP\u2019s $7 rate hike as utility weighs potential layoffs",
+      "summary": "With its revenue stagnating, Maine's largest utility is weighing major deferrals on infrastructure and has paused hiring for more than 70 positions.",
+      "url": "https://www.pressherald.com/2026/10/06/maine-regulators-deny-cmps-7-rate-hike-as-utility-weighs-potential-layoffs/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-05",
-      "category": "news",
+      "date": "2026-10-06",
+      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "4e80403db84e",
-      "title": "Recovery changed Biddeford-area resident\u2019s life, now she helps others | County Report",
-      "summary": "York County Recover Center expected to open in early 2027.",
-      "url": "https://www.pressherald.com/2026/10/05/recovery-changed-biddeford-area-residents-life-now-she-helps-others-county-report/",
+      "id": "321fba0508ce",
+      "title": "Fryeburg Solar fined $204K for damaging environment",
+      "summary": "State regulators say the company started construction early and allowed soil runoff to choke streams and protected wetlands.",
+      "url": "https://www.pressherald.com/2026/10/06/fryeburg-solar-fined-204k-for-damaging-environment/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-05",
-      "category": "news",
-      "priority": "high",
+      "date": "2026-10-06",
+      "category": "funding",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "6274ffcb8fb1",
-      "title": "Portland band Small Pond creates a lush indie sound",
-      "summary": "See them live this week in Portland and at the All Roads Music Festival in Belfast on Oct. 17.",
-      "url": "https://www.pressherald.com/2026/10/05/portland-band-small-pond-creates-a-lush-indie-sound/",
+      "id": "ce517c79a6e0",
+      "title": "Windham business leaders sound off on townwide issues",
+      "summary": "The event, hosted by the Windham Economic Development Corp., featured wide-ranging discussion.",
+      "url": "https://www.pressherald.com/2026/10/06/windham-business-leaders-sound-off-on-townwide-issues/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -840,15 +840,57 @@
       ]
     },
     {
-      "id": "f14ab4a7c676",
-      "title": "Former housemate of Biddeford ICE shooting victim tries to rebuild while struggling with loss",
-      "summary": "Like his friend Johan Sebastian Duran Guerrero, Jhonathan Ramirez came to Maine because he heard it was quiet and safe.",
-      "url": "https://www.bangordailynews.com/2026/10/05/york/york-police-courts/biddeford-maine-ice-shooting-duran-guerrero-housemate/",
+      "id": "f902f7f2f972",
+      "title": "Bill Green, who helped\u00a0Susan Collins win in 2020, is back on TV for her",
+      "summary": "The retired sportscaster's 2020 ad boosting for Collins was a top concern for Democrats during that year's failed bid to unseat her.",
+      "url": "https://www.bangordailynews.com/2026/10/06/politics/elections/maine-election-senate-2026-bill-green-ad-susan-collins/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0418e4702241",
+      "title": "\u2018Financial pressure\u2019 may force CMP to delay construction",
+      "summary": "That warning comes as the Maine Public Utilities Commission considers whether to grant CMP's request for a temporary $70 million rate increase.",
+      "url": "https://www.bangordailynews.com/2026/10/06/business/business-energy/central-maine-power-rate-increase-financial-pressure-construction-delays/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-06",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "82ace3e81297",
+      "title": "Cambridge gym sexual assault suspect targeted woman he knew, gym employee",
+      "summary": "Laquan Holland, 40, faces multiple charges after assaulting two women at a Cambridge gym, including an employee who intervened during the first assault.",
+      "url": "https://www.masslive.com/boston/2026/10/cambridge-gym-sexual-assaults-employee-was-assaulted-while-trying-to-help-victim.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1b25a0354ea7",
+      "title": "Nationwide recall issued for e-bikes over dangerous fall risks: Return ASAP",
+      "summary": "A popular electric cargo bike is being recalled nationwide after reports that a seat component could fail while riders are on the road. Find out if your model is affected.",
+      "url": "https://www.masslive.com/news/2026/10/nationwide-recall-issued-for-e-bikes-over-dangerous-fall-risks-return-asap.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-06",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
