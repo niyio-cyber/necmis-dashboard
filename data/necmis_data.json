@@ -1,104 +1,26 @@
 {
-  "generated": "2026-10-06T16:57:47.425682Z",
+  "generated": "2026-10-07T17:33:46.103680Z",
   "summary": {
-    "total_opportunities": 43,
-    "total_value_low": 2289593345,
-    "total_value_high": 2289593345,
+    "total_opportunities": 38,
+    "total_value_low": 2227490682,
+    "total_value_high": 2227490682,
     "by_state": {
       "VT": 2,
       "NH": 1,
-      "ME": 6,
-      "MA": 35,
+      "ME": 3,
+      "MA": 30,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 40,
-      "news": 5,
-      "funding": 3
+      "dot_letting": 36,
+      "news": 2,
+      "funding": 2
     }
   },
   "dot_lettings": [
-    {
-      "id": "994b52087894",
-      "state": "MA",
-      "project_id": "612159",
-      "description": "Bridge Replacement, B-10-001, Route 10 over Fall River and Deck Replacement, B-10-018, Route 10 over I-91",
-      "cost_low": 33314870,
-      "cost_high": 33314870,
-      "cost_display": "$33.3M",
-      "ad_date": "2026-08-22",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Bernardston",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612159",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "975d9e5682b1",
-      "state": "MA",
-      "project_id": "613727",
-      "description": "Reconstruction of Allen Street (MA285)",
-      "cost_low": 7704480,
-      "cost_high": 7704480,
-      "cost_display": "$7.7M",
-      "ad_date": "2026-09-05",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Braintree",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613727",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7ddab157aa68",
-      "state": "MA",
-      "project_id": "609052",
-      "description": "Intersection Improvements at Centre Street (Route 123) and Plymouth Street",
-      "cost_low": 3229621,
-      "cost_high": 3229621,
-      "cost_display": "$3.2M",
-      "ad_date": "2026-09-05",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Brockton",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609052",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "eb655c168e4d",
-      "state": "MA",
-      "project_id": "612061",
-      "description": "Resurfacing and Related Work on I-195",
-      "cost_low": 17853692,
-      "cost_high": 17853692,
-      "cost_display": "$17.9M",
-      "ad_date": "2026-08-15",
-      "let_date": null,
-      "project_type": "Pavement - Surfacing",
-      "location": "Marion - Mattapoisett - Wareham",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612061",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
     {
       "id": "8f7a0f9d7277",
       "state": "MA",
@@ -798,13 +720,13 @@
   ],
   "news": [
     {
-      "id": "029d0944f38e",
-      "title": "Maine regulators deny CMP\u2019s $7 rate hike as utility weighs potential layoffs",
-      "summary": "With its revenue stagnating, Maine's largest utility is weighing major deferrals on infrastructure and has paused hiring for more than 70 positions.",
-      "url": "https://www.pressherald.com/2026/10/06/maine-regulators-deny-cmps-7-rate-hike-as-utility-weighs-potential-layoffs/",
+      "id": "a48316e3fa40",
+      "title": "Who benefits from Susan Collins\u2019 funding? | Letter",
+      "summary": "Republican Sen. Susan Collins boasts about $1.5 billion in federal grant money she\u2019s brought home this term. She shouldn\u2019t be boasting. Those grants are peanuts compared to the billions we\u2019re losing through cuts that her Trump-controlled party enacted to federal programs, including healthcare and ho",
+      "url": "https://www.pressherald.com/2026/10/07/who-benefits-from-susan-collins-funding-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "category": "funding",
       "priority": "high",
       "business_lines": [
@@ -812,41 +734,13 @@
       ]
     },
     {
-      "id": "321fba0508ce",
-      "title": "Fryeburg Solar fined $204K for damaging environment",
-      "summary": "State regulators say the company started construction early and allowed soil runoff to choke streams and protected wetlands.",
-      "url": "https://www.pressherald.com/2026/10/06/fryeburg-solar-fined-204k-for-damaging-environment/",
+      "id": "f9563b2e5415",
+      "title": "Biddeford graffiti demands strong condemnation | Letter",
+      "summary": "The vandalism of Sen. Susan Collins\u2019 Biddeford office should be a moment of clarity in this U.S. Senate race. Somebody spray-painted the door with a degrading, sexist slur, and a disturbing number of people online have applauded it.\u00a0 That kind of politics doesn\u2019t care about fixing Maine\u2019s problems;",
+      "url": "https://www.pressherald.com/2026/10/07/biddeford-graffiti-demands-strong-condemnation-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-06",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ce517c79a6e0",
-      "title": "Windham business leaders sound off on townwide issues",
-      "summary": "The event, hosted by the Windham Economic Development Corp., featured wide-ranging discussion.",
-      "url": "https://www.pressherald.com/2026/10/06/windham-business-leaders-sound-off-on-townwide-issues/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-10-06",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f902f7f2f972",
-      "title": "Bill Green, who helped\u00a0Susan Collins win in 2020, is back on TV for her",
-      "summary": "The retired sportscaster's 2020 ad boosting for Collins was a top concern for Democrats during that year's failed bid to unseat her.",
-      "url": "https://www.bangordailynews.com/2026/10/06/politics/elections/maine-election-senate-2026-bill-green-ad-susan-collins/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -854,41 +748,13 @@
       ]
     },
     {
-      "id": "0418e4702241",
-      "title": "\u2018Financial pressure\u2019 may force CMP to delay construction",
-      "summary": "That warning comes as the Maine Public Utilities Commission considers whether to grant CMP's request for a temporary $70 million rate increase.",
-      "url": "https://www.bangordailynews.com/2026/10/06/business/business-energy/central-maine-power-rate-increase-financial-pressure-construction-delays/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-06",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "82ace3e81297",
-      "title": "Cambridge gym sexual assault suspect targeted woman he knew, gym employee",
-      "summary": "Laquan Holland, 40, faces multiple charges after assaulting two women at a Cambridge gym, including an employee who intervened during the first assault.",
-      "url": "https://www.masslive.com/boston/2026/10/cambridge-gym-sexual-assaults-employee-was-assaulted-while-trying-to-help-victim.html",
+      "id": "6eb29d033415",
+      "title": "Logan Airport leads nation in flight delays this week amid safety system construction",
+      "summary": "Logan Airport has logged hundreds of flight delays in recent days as crews install a safety system designed to stop planes that overshoot the runway.",
+      "url": "https://www.masslive.com/boston/2026/10/runway-safety-construction-to-blame-for-flight-delays-at-boston-logan.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-10-06",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1b25a0354ea7",
-      "title": "Nationwide recall issued for e-bikes over dangerous fall risks: Return ASAP",
-      "summary": "A popular electric cargo bike is being recalled nationwide after reports that a seat component could fail while riders are on the road. Find out if your model is affected.",
-      "url": "https://www.masslive.com/news/2026/10/nationwide-recall-issued-for-e-bikes-over-dangerous-fall-risks-return-asap.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -896,14 +762,14 @@
       ]
     },
     {
-      "id": "1e6eb0696bd1",
-      "title": "An Essex County officials\u2019 parking fight puts taxpayers in a tight spot",
-      "summary": "Essex County\u2019s sheriff and assistant judges are negotiating over justice center construction that could cost taxpayers more \u2014 whether work stops or continues.\nRead the story on VTDigger here:  An Essex County officials\u2019 parking fight puts taxpayers in a tight spot.",
-      "url": "https://vtdigger.org/2026/10/04/an-essex-county-officials-parking-fight-puts-taxpayers-in-a-tight-spot/",
+      "id": "9a6bda7ad691",
+      "title": "Federal boost advances West Brattleboro Terrace redevelopment",
+      "summary": "A $1.75 million federal award moves forward a $19 million plan for 30 energy-efficient homes for older residents.\nRead the story on VTDigger here:  Federal boost advances West Brattleboro Terrace redevelopment.",
+      "url": "https://vtdigger.org/2026/10/06/federal-boost-advances-west-brattleboro-terrace-redevelopment/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-10-04",
-      "category": "news",
+      "date": "2026-10-06",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
