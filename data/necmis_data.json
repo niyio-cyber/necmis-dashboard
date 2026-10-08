@@ -1,46 +1,26 @@
 {
-  "generated": "2026-10-07T17:33:46.103680Z",
+  "generated": "2026-10-08T17:37:17.813022Z",
   "summary": {
-    "total_opportunities": 38,
-    "total_value_low": 2227490682,
-    "total_value_high": 2227490682,
+    "total_opportunities": 36,
+    "total_value_low": 2081730682,
+    "total_value_high": 2081730682,
     "by_state": {
-      "VT": 2,
+      "VT": 3,
       "NH": 1,
-      "ME": 3,
-      "MA": 30,
+      "ME": 8,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 36,
-      "news": 2,
-      "funding": 2
+      "dot_letting": 35,
+      "news": 8,
+      "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "8f7a0f9d7277",
-      "state": "MA",
-      "project_id": "612187",
-      "description": "Bridge Replacement, C-13-038, I-391 over (ST 116) Chicopee Street Design-Build",
-      "cost_low": 145760000,
-      "cost_high": 145760000,
-      "cost_display": "$145.8M",
-      "ad_date": "2026-05-02",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Chicopee",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612187",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
     {
       "id": "b5fedd726f72",
       "state": "MA",
@@ -720,27 +700,27 @@
   ],
   "news": [
     {
-      "id": "a48316e3fa40",
-      "title": "Who benefits from Susan Collins\u2019 funding? | Letter",
-      "summary": "Republican Sen. Susan Collins boasts about $1.5 billion in federal grant money she\u2019s brought home this term. She shouldn\u2019t be boasting. Those grants are peanuts compared to the billions we\u2019re losing through cuts that her Trump-controlled party enacted to federal programs, including healthcare and ho",
-      "url": "https://www.pressherald.com/2026/10/07/who-benefits-from-susan-collins-funding-letter/",
+      "id": "036e737136c8",
+      "title": "People in addiction often fear law enforcement. In Biddeford, they met on a softball field.",
+      "summary": "The game, which has become an annual tradition, is meant to break down stigma on both sides.",
+      "url": "https://www.pressherald.com/2026/10/08/people-in-addiction-often-fear-law-enforcement-in-biddeford-they-met-on-a-softball-field/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-07",
-      "category": "funding",
+      "date": "2026-10-08",
+      "category": "news",
       "priority": "high",
       "business_lines": [
-        "highway"
+        "ready_mix"
       ]
     },
     {
-      "id": "f9563b2e5415",
-      "title": "Biddeford graffiti demands strong condemnation | Letter",
-      "summary": "The vandalism of Sen. Susan Collins\u2019 Biddeford office should be a moment of clarity in this U.S. Senate race. Somebody spray-painted the door with a degrading, sexist slur, and a disturbing number of people online have applauded it.\u00a0 That kind of politics doesn\u2019t care about fixing Maine\u2019s problems;",
-      "url": "https://www.pressherald.com/2026/10/07/biddeford-graffiti-demands-strong-condemnation-letter/",
+      "id": "a8b3656067a9",
+      "title": "Remembering a beloved family farm dog",
+      "summary": "Bonnie protected her family against a rabid fox, a 490-boar and a raging river.",
+      "url": "https://www.pressherald.com/2026/10/08/remembering-a-beloved-family-farm-dog/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -748,12 +728,82 @@
       ]
     },
     {
-      "id": "6eb29d033415",
-      "title": "Logan Airport leads nation in flight delays this week amid safety system construction",
-      "summary": "Logan Airport has logged hundreds of flight delays in recent days as crews install a safety system designed to stop planes that overshoot the runway.",
-      "url": "https://www.masslive.com/boston/2026/10/runway-safety-construction-to-blame-for-flight-delays-at-boston-logan.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "a4328c5b81b7",
+      "title": "UNE gets green light from Biddeford for pier project, Decary Hall renovations",
+      "summary": "The city has lifted a moratorium to allow the 2 projects to proceed and extended the university's permit to construct the pier along the Saco River.",
+      "url": "https://www.pressherald.com/2026/10/08/une-gets-green-light-from-biddeford-for-pier-project-decary-hall-renovations/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-08",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1873e9f86e62",
+      "title": "Musical weekend lined up at Cadenza in Freeport",
+      "summary": "Organist Jordan Gravel, and bands Onward and the Potboilers are performing Friday, Saturday and Sunday, Oct. 9-11.",
+      "url": "https://www.pressherald.com/2026/10/08/musical-weekend-lined-up-at-cadenza-in-freeport/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "8cea4fc2e4b1",
+      "title": "MDI summer residents complain about construction noise",
+      "summary": "Most of those complaints focused around Seal Harbor, where there were multiple projects.",
+      "url": "https://www.bangordailynews.com/2026/10/08/hancock/hancock-government/seal-harbor-maine-mdi-summer-resident-construction-noise-complaints/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ac1759ec62e3",
+      "title": "National report underscores how UMaine Cooperative Extension is tackling the state\u2019s workforce challenges",
+      "summary": "Maine faces an urgent challenge: growing its skilled workforce by tens of thousands of people over the next several years. According to the state\u2019s 10-year Economic Development Strategy, this will require flexible ways for adults to build on what they already know, develop new skills and continue le",
+      "url": "https://www.bangordailynews.com/2026/10/08/bdn-maine/national-report-underscores-how-umaine-cooperative-extension-is-tackling-the-states-workforce-challenges/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-08",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "520f3989f1f4",
+      "title": "Man pleads not guilty in attack that left woman dying along Maine highway",
+      "summary": "Glen Rodney, 58, faces a murder charge\u00a0in the death of 21-year-old Julian Nadeau of Portland.",
+      "url": "https://www.bangordailynews.com/2026/10/08/portland/portland-police-courts/portland-maine-tukeys-bridge-stabbing-glen-rodney-not-guilty-plea/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-08",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6d6a1864e519",
+      "title": "Vermont governor\u2019s race will test voters\u2019 appetite for raising new taxes \u2014 or cutting them",
+      "summary": "There\u2019s broad consensus that affordability is a problem, one political observer said. But Amanda Janoo and Phil Scott hardly see eye-to-eye on how to solve it.\nRead the story on VTDigger here:  Vermont governor\u2019s race will test voters\u2019 appetite for raising new taxes \u2014 or cutting them.",
+      "url": "https://vtdigger.org/2026/10/07/vermont-governors-race-will-test-voters-appetite-for-raising-new-taxes-or-cutting-them/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-10-07",
       "category": "news",
       "priority": "medium",
