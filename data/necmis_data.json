@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T17:37:17.813022Z",
+  "generated": "2026-10-09T17:13:16.408013Z",
   "summary": {
     "total_opportunities": 36,
     "total_value_low": 2081730682,
@@ -7,7 +7,7 @@
     "by_state": {
       "VT": 3,
       "NH": 1,
-      "ME": 8,
+      "ME": 3,
       "MA": 28,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 35,
-      "news": 8,
+      "news": 3,
       "funding": 1
     }
   },
@@ -700,27 +700,13 @@
   ],
   "news": [
     {
-      "id": "036e737136c8",
-      "title": "People in addiction often fear law enforcement. In Biddeford, they met on a softball field.",
-      "summary": "The game, which has become an annual tradition, is meant to break down stigma on both sides.",
-      "url": "https://www.pressherald.com/2026/10/08/people-in-addiction-often-fear-law-enforcement-in-biddeford-they-met-on-a-softball-field/",
+      "id": "0ce3ec4acd33",
+      "title": "Biddeford looks to mitigate rising complaints of needle waste, public encampments",
+      "summary": "City and nonprofit leaders hope a collaborative pilot program could make a positive impact for residents and homeless people.",
+      "url": "https://www.pressherald.com/2026/10/09/biddeford-looks-to-mitigate-rising-complaints-of-needle-waste-public-encampments/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-08",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "a8b3656067a9",
-      "title": "Remembering a beloved family farm dog",
-      "summary": "Bonnie protected her family against a rabid fox, a 490-boar and a raging river.",
-      "url": "https://www.pressherald.com/2026/10/08/remembering-a-beloved-family-farm-dog/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -728,71 +714,15 @@
       ]
     },
     {
-      "id": "a4328c5b81b7",
-      "title": "UNE gets green light from Biddeford for pier project, Decary Hall renovations",
-      "summary": "The city has lifted a moratorium to allow the 2 projects to proceed and extended the university's permit to construct the pier along the Saco River.",
-      "url": "https://www.pressherald.com/2026/10/08/une-gets-green-light-from-biddeford-for-pier-project-decary-hall-renovations/",
+      "id": "834b42727ec0",
+      "title": "Yarmouth breaks ground on 18 affordable housing units behind town hall",
+      "summary": "The development on Cleaves Street is the first affordable housing project built since the town set a goal of 431 new affordable units in 2024.",
+      "url": "https://www.pressherald.com/2026/10/09/yarmouth-breaks-ground-on-18-affordable-housing-units-behind-town-hall/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-08",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1873e9f86e62",
-      "title": "Musical weekend lined up at Cadenza in Freeport",
-      "summary": "Organist Jordan Gravel, and bands Onward and the Potboilers are performing Friday, Saturday and Sunday, Oct. 9-11.",
-      "url": "https://www.pressherald.com/2026/10/08/musical-weekend-lined-up-at-cadenza-in-freeport/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "aggregates"
-      ]
-    },
-    {
-      "id": "8cea4fc2e4b1",
-      "title": "MDI summer residents complain about construction noise",
-      "summary": "Most of those complaints focused around Seal Harbor, where there were multiple projects.",
-      "url": "https://www.bangordailynews.com/2026/10/08/hancock/hancock-government/seal-harbor-maine-mdi-summer-resident-construction-noise-complaints/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ac1759ec62e3",
-      "title": "National report underscores how UMaine Cooperative Extension is tackling the state\u2019s workforce challenges",
-      "summary": "Maine faces an urgent challenge: growing its skilled workforce by tens of thousands of people over the next several years. According to the state\u2019s 10-year Economic Development Strategy, this will require flexible ways for adults to build on what they already know, develop new skills and continue le",
-      "url": "https://www.bangordailynews.com/2026/10/08/bdn-maine/national-report-underscores-how-umaine-cooperative-extension-is-tackling-the-states-workforce-challenges/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "aggregates"
-      ]
-    },
-    {
-      "id": "520f3989f1f4",
-      "title": "Man pleads not guilty in attack that left woman dying along Maine highway",
-      "summary": "Glen Rodney, 58, faces a murder charge\u00a0in the death of 21-year-old Julian Nadeau of Portland.",
-      "url": "https://www.bangordailynews.com/2026/10/08/portland/portland-police-courts/portland-maine-tukeys-bridge-stabbing-glen-rodney-not-guilty-plea/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-08",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
