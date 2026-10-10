@@ -1,23 +1,23 @@
 {
-  "generated": "2026-10-09T17:13:16.408013Z",
+  "generated": "2026-10-10T15:58:03.913241Z",
   "summary": {
-    "total_opportunities": 36,
-    "total_value_low": 2081730682,
-    "total_value_high": 2081730682,
+    "total_opportunities": 41,
+    "total_value_low": 2086740126,
+    "total_value_high": 2086740126,
     "by_state": {
-      "VT": 3,
-      "NH": 1,
+      "VT": 2,
+      "NH": 2,
       "ME": 3,
-      "MA": 28,
+      "MA": 32,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 35,
-      "news": 3,
-      "funding": 1
+      "dot_letting": 39,
+      "news": 2,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -26,8 +26,8 @@
       "state": "MA",
       "project_id": "609506",
       "description": "Ledge Removal along Route 8, between MM 28.002 and MM 27.998",
-      "cost_low": 4387449,
-      "cost_high": 4387449,
+      "cost_low": 4379049,
+      "cost_high": 4379049,
       "cost_display": "$4.4M",
       "ad_date": "2026-09-05",
       "let_date": null,
@@ -60,44 +60,6 @@
       ]
     },
     {
-      "id": "b65c4af8f1a9",
-      "state": "MA",
-      "project_id": "611974",
-      "description": "Intersection Improvements at Main Street/South Street, Main Street/Mystic Valley Parkway Ramps and Main Street/Mystic Avenue",
-      "cost_low": 6798996,
-      "cost_high": 6798996,
-      "cost_display": "$6.8M",
-      "ad_date": "2026-09-12",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Medford",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611974",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0268ee45531f",
-      "state": "MA",
-      "project_id": "610825",
-      "description": "Rehabilitation & Box Widening on Route 20, from Route 9 to South Street",
-      "cost_low": 38747180,
-      "cost_high": 38747180,
-      "cost_display": "$38.7M",
-      "ad_date": "2026-08-29",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Northborough - Shrewsbury",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610825",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "fdca6d7fbf17",
       "state": "MA",
       "project_id": "610544",
@@ -114,26 +76,6 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "0c199c450d44",
-      "state": "MA",
-      "project_id": "606352",
-      "description": "Culvert and Dam Replacement on Cranberry Highway at Route 28 and Route 6, Mill Pond Dam over Agawam River",
-      "cost_low": 26306519,
-      "cost_high": 26306519,
-      "cost_display": "$26.3M",
-      "ad_date": "2026-08-08",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Wareham",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606352",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
       ]
     },
     {
@@ -256,6 +198,26 @@
       ]
     },
     {
+      "id": "0c199c450d44",
+      "state": "MA",
+      "project_id": "606352",
+      "description": "Culvert and Dam Replacement on Cranberry Highway at Route 28 and Route 6, Mill Pond Dam over Agawam River",
+      "cost_low": 26306519,
+      "cost_high": 26306519,
+      "cost_display": "$26.3M",
+      "ad_date": "2026-08-08",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Wareham",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606352",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
       "id": "a859e41ae84b",
       "state": "MA",
       "project_id": "616408",
@@ -352,6 +314,25 @@
       ]
     },
     {
+      "id": "b65c4af8f1a9",
+      "state": "MA",
+      "project_id": "611974",
+      "description": "Intersection Improvements at Main Street/South Street, Main Street/Mystic Valley Parkway Ramps and Main Street/Mystic Avenue",
+      "cost_low": 6798996,
+      "cost_high": 6798996,
+      "cost_display": "$6.8M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Medford",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611974",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "93958477080b",
       "state": "MA",
       "project_id": "607420",
@@ -369,6 +350,25 @@
       "business_lines": [
         "highway",
         "ready_mix"
+      ]
+    },
+    {
+      "id": "0268ee45531f",
+      "state": "MA",
+      "project_id": "610825",
+      "description": "Rehabilitation & Box Widening on Route 20, from Route 9 to South Street",
+      "cost_low": 38747180,
+      "cost_high": 38747180,
+      "cost_display": "$38.7M",
+      "ad_date": "2026-08-29",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Northborough - Shrewsbury",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610825",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -404,6 +404,44 @@
       "location": "Andover",
       "district": 4,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612193",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c972f2fbc524",
+      "state": "MA",
+      "project_id": "616377",
+      "description": "Scheduled and Emergency Guardrail and Fence Repairs at Various Locations on I-90",
+      "cost_low": 408204,
+      "cost_high": 408204,
+      "cost_display": "$408K",
+      "ad_date": "2026-10-10",
+      "let_date": null,
+      "project_type": "Guard Rail & Fencing",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616377",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "38ed68a296e8",
+      "state": "MA",
+      "project_id": "616470",
+      "description": "Scheduled and Emergency Facility Repairs and Improvements at Various Locations",
+      "cost_low": 941850,
+      "cost_high": 941850,
+      "cost_display": "$942K",
+      "ad_date": "2026-10-10",
+      "let_date": null,
+      "project_type": "DCAMM-General Building Construction",
+      "location": "District 2",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616470",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -499,6 +537,44 @@
       "location": "Boston",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616308",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ca16ed0f6af7",
+      "state": "MA",
+      "project_id": "614099",
+      "description": "Scheduled and Emergency Structural and Substructure and Related Repairs at Various Locations",
+      "cost_low": 2300000,
+      "cost_high": 2300000,
+      "cost_display": "$2.3M",
+      "ad_date": "2026-10-10",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "District 3",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614099",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f8a2d251aac0",
+      "state": "MA",
+      "project_id": "616401",
+      "description": "Scheduled and Emergency Structural Repairs at Various Locations",
+      "cost_low": 1367790,
+      "cost_high": 1367790,
+      "cost_display": "$1.4M",
+      "ad_date": "2026-10-10",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616401",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -700,13 +776,13 @@
   ],
   "news": [
     {
-      "id": "0ce3ec4acd33",
-      "title": "Biddeford looks to mitigate rising complaints of needle waste, public encampments",
-      "summary": "City and nonprofit leaders hope a collaborative pilot program could make a positive impact for residents and homeless people.",
-      "url": "https://www.pressherald.com/2026/10/09/biddeford-looks-to-mitigate-rising-complaints-of-needle-waste-public-encampments/",
+      "id": "40150bb8cdc1",
+      "title": "Let\u2019s deny Maine\u2019s 12% gift to Donald Trump | Opinion",
+      "summary": "Maine Democrats who plan to support Sen. Susan Collins' reelection bid should reconsider.",
+      "url": "https://www.pressherald.com/2026/10/10/lets-deny-maines-12-gift-to-donald-trump-opinion/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -714,17 +790,31 @@
       ]
     },
     {
-      "id": "834b42727ec0",
-      "title": "Yarmouth breaks ground on 18 affordable housing units behind town hall",
-      "summary": "The development on Cleaves Street is the first affordable housing project built since the town set a goal of 431 new affordable units in 2024.",
-      "url": "https://www.pressherald.com/2026/10/09/yarmouth-breaks-ground-on-18-affordable-housing-units-behind-town-hall/",
-      "source": "Portland Press Herald",
+      "id": "0b403dc39cf4",
+      "title": "Trump\u2019s Medicaid cuts strip refugees and other legal immigrants of their health coverage",
+      "summary": "New restrictions have stripped Medicaid coverage from certain legal immigrants, including refugees and victims of human trafficking, as part of broader federal changes to the health insurance program that are expected to force millions off their coverage. The change effective Oct. 1 cut from Medicai",
+      "url": "https://www.bangordailynews.com/2026/10/10/nation/trumps-medicaid-cuts-strip-refugees-and-other-legal-immigrants-of-their-health-coverage/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-10-09",
-      "category": "news",
+      "date": "2026-10-10",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "5e1e921213f0",
+      "title": "Watchdog Tells NRC: Seabrook Communities Deserve Real Assurance on Crumbling Concrete, Not Flawed Testing",
+      "summary": "Local watchdog group C-10 asks federal regulators to step in, warning that concrete degradation at the Seabrook Nuclear Plant is worsening faster than predicted \u2014 with no updated proof that nearby communities remain safe\nThe post Watchdog Tells NRC: Seabrook Communities Deserve Real Assurance on Cru",
+      "url": "https://indepthnh.org/2026/10/09/watchdog-tells-nrc-seabrook-communities-deserve-real-assurance-on-crumbling-concrete-not-flawed-testing/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-10-09",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "ready_mix"
       ]
     },
     {
@@ -736,20 +826,6 @@
       "state": "VT",
       "date": "2026-10-07",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9a6bda7ad691",
-      "title": "Federal boost advances West Brattleboro Terrace redevelopment",
-      "summary": "A $1.75 million federal award moves forward a $19 million plan for 30 energy-efficient homes for older residents.\nRead the story on VTDigger here:  Federal boost advances West Brattleboro Terrace redevelopment.",
-      "url": "https://vtdigger.org/2026/10/06/federal-boost-advances-west-brattleboro-terrace-redevelopment/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-06",
-      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
