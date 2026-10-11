@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-10T15:58:03.913241Z",
+  "generated": "2026-10-11T16:26:08.123936Z",
   "summary": {
-    "total_opportunities": 41,
+    "total_opportunities": 40,
     "total_value_low": 2086740126,
     "total_value_high": 2086740126,
     "by_state": {
-      "VT": 2,
-      "NH": 2,
-      "ME": 3,
+      "VT": 1,
+      "NH": 3,
+      "ME": 2,
       "MA": 32,
       "NY": 1,
       "RI": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 39,
       "news": 2,
-      "funding": 2
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -776,11 +776,11 @@
   ],
   "news": [
     {
-      "id": "40150bb8cdc1",
-      "title": "Let\u2019s deny Maine\u2019s 12% gift to Donald Trump | Opinion",
-      "summary": "Maine Democrats who plan to support Sen. Susan Collins' reelection bid should reconsider.",
-      "url": "https://www.pressherald.com/2026/10/10/lets-deny-maines-12-gift-to-donald-trump-opinion/",
-      "source": "Portland Press Herald",
+      "id": "bee3f87ca59b",
+      "title": "UNE to launch Nor\u2019easter Global Network during second annual Industry Exploration Day",
+      "summary": "The new professional network will connect students with alumni, employers and mentors to support lifelong career development BIDDEFORD \u2014 The University of New England will launch a new University-wide professional network on Wednesday, Oct. 14, connecting students with alumni, employers, faculty, pr",
+      "url": "https://www.bangordailynews.com/2026/10/10/bdn-maine/une-to-launch-noreaster-global-network-during-second-annual-industry-exploration-day/",
+      "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-10-10",
       "category": "news",
@@ -790,14 +790,14 @@
       ]
     },
     {
-      "id": "0b403dc39cf4",
-      "title": "Trump\u2019s Medicaid cuts strip refugees and other legal immigrants of their health coverage",
-      "summary": "New restrictions have stripped Medicaid coverage from certain legal immigrants, including refugees and victims of human trafficking, as part of broader federal changes to the health insurance program that are expected to force millions off their coverage. The change effective Oct. 1 cut from Medicai",
-      "url": "https://www.bangordailynews.com/2026/10/10/nation/trumps-medicaid-cuts-strip-refugees-and-other-legal-immigrants-of-their-health-coverage/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "728d409f63af",
+      "title": "Granite Staters Rally Against Sig Sauer Aiding Israel with Weapons",
+      "summary": "Sixty four people gathered at Market Square in Portsmouth on Saturday then trekked three miles to Sig Sauer\u2019s headquarters on Pease Boulevard, and held a peaceful demonstration down the road to oppose the company supplying weapons to the Israel Defensive Forces.\nThe post Granite Staters Rally Agains",
+      "url": "https://indepthnh.org/2026/10/10/granite-staters-rally-against-sig-sauer-aiding-israel-with-weapons/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-10-10",
-      "category": "funding",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -815,20 +815,6 @@
       "priority": "medium",
       "business_lines": [
         "ready_mix"
-      ]
-    },
-    {
-      "id": "6d6a1864e519",
-      "title": "Vermont governor\u2019s race will test voters\u2019 appetite for raising new taxes \u2014 or cutting them",
-      "summary": "There\u2019s broad consensus that affordability is a problem, one political observer said. But Amanda Janoo and Phil Scott hardly see eye-to-eye on how to solve it.\nRead the story on VTDigger here:  Vermont governor\u2019s race will test voters\u2019 appetite for raising new taxes \u2014 or cutting them.",
-      "url": "https://vtdigger.org/2026/10/07/vermont-governors-race-will-test-voters-appetite-for-raising-new-taxes-or-cutting-them/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-07",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     }
   ],
