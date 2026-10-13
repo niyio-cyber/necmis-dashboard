@@ -1,43 +1,643 @@
 {
-  "generated": "2026-10-12T20:01:11.192541Z",
+  "generated": "2026-10-13T17:49:35.626819Z",
   "summary": {
-    "total_opportunities": 10,
-    "total_value_low": 0,
-    "total_value_high": 0,
+    "total_opportunities": 39,
+    "total_value_low": 2086740126,
+    "total_value_high": 2086740126,
     "by_state": {
       "VT": 1,
       "NH": 3,
-      "ME": 4,
-      "MA": 2,
+      "ME": 8,
+      "MA": 32,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 8,
-      "news": 4,
-      "funding": 2
+      "dot_letting": 39,
+      "news": 9,
+      "funding": 0
     }
   },
   "dot_lettings": [
     {
-      "id": "2462b4920286",
+      "id": "b5fedd726f72",
       "state": "MA",
-      "project_id": null,
-      "description": "MassDOT Bid Schedule - Visit portal for current lettings",
-      "cost_low": null,
-      "cost_high": null,
-      "cost_display": "See Portal",
-      "ad_date": null,
+      "project_id": "609506",
+      "description": "Ledge Removal along Route 8, between MM 28.002 and MM 27.998",
+      "cost_low": 4379049,
+      "cost_high": 4379049,
+      "cost_display": "$4.4M",
+      "ad_date": "2026-09-05",
       "let_date": null,
-      "project_type": null,
-      "location": null,
-      "district": null,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp",
+      "project_type": "Highway - Construction",
+      "location": "Becket",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609506",
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "5291f654c39d",
+      "state": "MA",
+      "project_id": "614073",
+      "description": "Scheduled and Emergency Mechanical and Millwright Services at Various Locations",
+      "cost_low": 1823000,
+      "cost_high": 1823000,
+      "cost_display": "$1.8M",
+      "ad_date": "2026-09-19",
+      "let_date": null,
+      "project_type": "DCAMM-Mechanical Systems",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614073",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fdca6d7fbf17",
+      "state": "MA",
+      "project_id": "610544",
+      "description": "Multi-Use Path Construction of Independence Greenway at I-95 and Route 1",
+      "cost_low": 19203859,
+      "cost_high": 19203859,
+      "cost_display": "$19.2M",
+      "ad_date": "2026-08-01",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Highway - Construction",
+      "location": "Peabody",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610544",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2cc47ef0cc23",
+      "state": "MA",
+      "project_id": "608861",
+      "description": "Bridge Rehabilitation, W-26-002, Stony Brook Road over the Stony Brook",
+      "cost_low": 1871742,
+      "cost_high": 1871742,
+      "cost_display": "$1.9M",
+      "ad_date": "2026-08-29",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Westford",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608861",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cad0ee98b1b6",
+      "state": "MA",
+      "project_id": "616375",
+      "description": "Culvert Replacement, Culvert Repair and Retaining Wall Replacement and Related Work at Three Locations",
+      "cost_low": 4852675,
+      "cost_high": 4852675,
+      "cost_display": "$4.9M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Highway - Construction , Bridge - Culverts",
+      "location": "Leominster",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616375",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "6d3350755c04",
+      "state": "MA",
+      "project_id": "605323",
+      "description": "Bridge Replacement, O-06-030, (ST 56) Leicester Road over the French River",
+      "cost_low": 3707417,
+      "cost_high": 3707417,
+      "cost_display": "$3.7M",
+      "ad_date": "2026-09-19",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Oxford",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=605323",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "feaf8c13ce2e",
+      "state": "MA",
+      "project_id": "609068",
+      "description": "Bridge Replacement, S-10-015, Kelsey Road over Schenob Brook",
+      "cost_low": 3427358,
+      "cost_high": 3427358,
+      "cost_display": "$3.4M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Sheffield",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609068",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "8e83ec2c0a41",
+      "state": "MA",
+      "project_id": "611940",
+      "description": "Bridge Replacement, S-17-016 (3GF), Webster Avenue over MBTA and BMRR",
+      "cost_low": 12015786,
+      "cost_high": 12015786,
+      "cost_display": "$12.0M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Somerville",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611940",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "1b6b21ed8820",
+      "state": "MA",
+      "project_id": "608862",
+      "description": "Bridge Replacement, S-21-009, Mill Street over McKinstry Brook & S-21-003, Mill Street over the Quinebaug River",
+      "cost_low": 9140772,
+      "cost_high": 9140772,
+      "cost_display": "$9.1M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Southbridge",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608862",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "0c199c450d44",
+      "state": "MA",
+      "project_id": "606352",
+      "description": "Culvert and Dam Replacement on Cranberry Highway at Route 28 and Route 6, Mill Pond Dam over Agawam River",
+      "cost_low": 26306519,
+      "cost_high": 26306519,
+      "cost_display": "$26.3M",
+      "ad_date": "2026-08-08",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Wareham",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606352",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "a859e41ae84b",
+      "state": "MA",
+      "project_id": "616408",
+      "description": "Scheduled and Emergency Cleaning of Drainage Structures and Pipes at Various Locations",
+      "cost_low": 1350000,
+      "cost_high": 1350000,
+      "cost_display": "$1.4M",
+      "ad_date": "2026-10-03",
+      "let_date": null,
+      "project_type": "Catch Basin Cleaning",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616408",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8019e7b14f0f",
+      "state": "MA",
+      "project_id": "614064",
+      "description": "Maintenance of MHS Communications Systems at Various Locations",
+      "cost_low": 3414900,
+      "cost_high": 3414900,
+      "cost_display": "$3.4M",
+      "ad_date": "2026-09-26",
+      "let_date": null,
+      "project_type": "Intelligent Transportation Systems",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614064",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e01bb52423d7",
+      "state": "MA",
+      "project_id": "616507",
+      "description": "Generator Maintenance and Testing at Various Locations (3 Yrs)",
+      "cost_low": 838100,
+      "cost_high": 838100,
+      "cost_display": "$838K",
+      "ad_date": "2026-10-03",
+      "let_date": null,
+      "project_type": "DCAMM-Mechanical Systems",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616507",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2d36113de09e",
+      "state": "MA",
+      "project_id": "616276",
+      "description": "Bridge Preservation along I-495, F-06-023, M-18-042, M-18-043, N-23-026, N-23-027 & N-23-034",
+      "cost_low": 9271734,
+      "cost_high": 9271734,
+      "cost_display": "$9.3M",
+      "ad_date": "2026-09-19",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Painting - Structural",
+      "location": "Foxborough",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616276",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4b1fa3262b2e",
+      "state": "MA",
+      "project_id": "610728",
+      "description": "Resurfacing and Related Work on Route 20",
+      "cost_low": 5136381,
+      "cost_high": 5136381,
+      "cost_display": "$5.1M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Lee",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610728",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
+      ]
+    },
+    {
+      "id": "b65c4af8f1a9",
+      "state": "MA",
+      "project_id": "611974",
+      "description": "Intersection Improvements at Main Street/South Street, Main Street/Mystic Valley Parkway Ramps and Main Street/Mystic Avenue",
+      "cost_low": 6798996,
+      "cost_high": 6798996,
+      "cost_display": "$6.8M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Medford",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611974",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "93958477080b",
+      "state": "MA",
+      "project_id": "607420",
+      "description": "Bridge Replacement, N-03-012, Boden Lane over CSX/MBTA",
+      "cost_low": 12897887,
+      "cost_high": 12897887,
+      "cost_display": "$12.9M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Natick",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=607420",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "0268ee45531f",
+      "state": "MA",
+      "project_id": "610825",
+      "description": "Rehabilitation & Box Widening on Route 20, from Route 9 to South Street",
+      "cost_low": 38747180,
+      "cost_high": 38747180,
+      "cost_display": "$38.7M",
+      "ad_date": "2026-08-29",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Northborough - Shrewsbury",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610825",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "85ddbcac9ee7",
+      "state": "MA",
+      "project_id": "612874",
+      "description": "Bridge Preservation, S-14-021=W-44-115, I-290 (EB and WB) over Lake Quinsigamond and Lake Avenue North",
+      "cost_low": 26111640,
+      "cost_high": 26111640,
+      "cost_display": "$26.1M",
+      "ad_date": "2026-08-29",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Shrewsbury - Worcester",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612874",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f66a41c0a6d3",
+      "state": "MA",
+      "project_id": "612193",
+      "description": "Bridge Preservation, A-09-022, I-93 over Merrimack River",
+      "cost_low": 105212926,
+      "cost_high": 105212926,
+      "cost_display": "$105.2M",
+      "ad_date": "2026-08-22",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Andover",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612193",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c972f2fbc524",
+      "state": "MA",
+      "project_id": "616377",
+      "description": "Scheduled and Emergency Guardrail and Fence Repairs at Various Locations on I-90",
+      "cost_low": 408204,
+      "cost_high": 408204,
+      "cost_display": "$408K",
+      "ad_date": "2026-10-10",
+      "let_date": null,
+      "project_type": "Guard Rail & Fencing",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616377",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "38ed68a296e8",
+      "state": "MA",
+      "project_id": "616470",
+      "description": "Scheduled and Emergency Facility Repairs and Improvements at Various Locations",
+      "cost_low": 941850,
+      "cost_high": 941850,
+      "cost_display": "$942K",
+      "ad_date": "2026-10-10",
+      "let_date": null,
+      "project_type": "DCAMM-General Building Construction",
+      "location": "District 2",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616470",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4c0ed07c2ea9",
+      "state": "MA",
+      "project_id": "616410",
+      "description": "Scheduled and Emergency Fabrication and Installation of Overhead and Ground Mounted Guide Signs",
+      "cost_low": 730605,
+      "cost_high": 730605,
+      "cost_display": "$731K",
+      "ad_date": "2026-10-03",
+      "let_date": null,
+      "project_type": "Signing - Structural",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616410",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e3cd609e5613",
+      "state": "MA",
+      "project_id": "616509",
+      "description": "Scheduled & Emergency Tree Trimming & Sight Distance Improvement at Various Locations",
+      "cost_low": 1550600,
+      "cost_high": 1550600,
+      "cost_display": "$1.6M",
+      "ad_date": "2026-10-03",
+      "let_date": null,
+      "project_type": "Tree Trimming, Maintenance and Removal",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616509",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a3ad3c4e92bc",
+      "state": "MA",
+      "project_id": "609204",
+      "description": "Community Path, Belmont Component of the MCRT (Phase I)",
+      "cost_low": 35864137,
+      "cost_high": 35864137,
+      "cost_display": "$35.9M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Highway - Construction , Bridge - Construction",
+      "location": "Belmont",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609204",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "af6b21f67bba",
+      "state": "MA",
+      "project_id": "613689",
+      "description": "Neighborhood Electric Vehicle Charging Infrastructure (MA287)",
+      "cost_low": 1158427,
+      "cost_high": 1158427,
+      "cost_display": "$1.2M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Electrical\u0096All Type\u0096Including Electrical Maintenance",
+      "location": "Cambridge",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613689",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cf49e04359fb",
+      "state": "MA",
+      "project_id": "616308",
+      "description": "Installation of Noise Barriers along I-90 between Market and Franklin Streets (Allston Multimodal Transportation Project Early Action)",
+      "cost_low": 19527316,
+      "cost_high": 19527316,
+      "cost_display": "$19.5M",
+      "ad_date": "2026-09-26",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616308",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ca16ed0f6af7",
+      "state": "MA",
+      "project_id": "614099",
+      "description": "Scheduled and Emergency Structural and Substructure and Related Repairs at Various Locations",
+      "cost_low": 2300000,
+      "cost_high": 2300000,
+      "cost_display": "$2.3M",
+      "ad_date": "2026-10-10",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "District 3",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614099",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f8a2d251aac0",
+      "state": "MA",
+      "project_id": "616401",
+      "description": "Scheduled and Emergency Structural Repairs at Various Locations",
+      "cost_low": 1367790,
+      "cost_high": 1367790,
+      "cost_display": "$1.4M",
+      "ad_date": "2026-10-10",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616401",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a4718246bd5c",
+      "state": "MA",
+      "project_id": "613185",
+      "description": "Bridge Preservation, H-27-006 (0DH), State Route 112/East Main Street over CSXT and Westfield River",
+      "cost_low": 19433277,
+      "cost_high": 19433277,
+      "cost_display": "$19.4M",
+      "ad_date": "2026-08-15",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Huntington",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613185",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0a087907cbf3",
+      "state": "MA",
+      "project_id": "607349",
+      "description": "Bridge Replacement, N-24-004=P-05-008, Route 3 (NB & SB) over North River Design-Build",
+      "cost_low": 103050000,
+      "cost_high": 103050000,
+      "cost_display": "$103.0M",
+      "ad_date": "2026-07-11",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Marshfield - Norwell - Pembroke",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=607349",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "fc755032b9b2",
+      "state": "MA",
+      "project_id": "608020",
+      "description": "BRIDGE REPLACEMENT, B-17-005, (ARF) (SAGAMORE BRIDGE), US 6 OVER THE CAPE COD CANAL, SANDWICH ROAD (ROUTE 6A) AND MCR/MBTA RAILROAD, INCLUDES REPLACEMENT OF B-17-027 ROUTE 3 OVER US 6 (CAPE COD BRIDGE",
+      "cost_low": 1603899999,
+      "cost_high": 1603899999,
+      "cost_display": "$1.6B",
+      "ad_date": "2026-09-19",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Highway - Construction",
+      "location": "Bourne",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608020",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "aggregates",
+        "ready_mix"
       ]
     },
     {
@@ -176,13 +776,13 @@
   ],
   "news": [
     {
-      "id": "e91517c3e864",
-      "title": "How Mainers can navigate wood\u2019s role in sustainable home construction | Column",
-      "summary": "While building with solid wood can make for 'cleaner' construction, not all lumber is made equal.",
-      "url": "https://www.pressherald.com/2026/10/12/how-mainers-can-navigate-woods-role-in-sustainable-home-construction-column/",
+      "id": "a3a476805701",
+      "title": "Hegseth goes lower and lower still | Letter",
+      "summary": "Malvina Reynolds\u2019 folk song \u201cThere\u2019s a Bottom Below\u201d came to mind when\u00a0Defense Secretary Pete Hegseth announced that TV would broadcast an execution by firing squad. When we think President Trump and Hegseth can go no lower,\u00a0they go even lower.\u00a0 Peg CruikshankScarborough",
+      "url": "https://www.pressherald.com/2026/10/13/hegseth-goes-lower-and-lower-still-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -190,13 +790,27 @@
       ]
     },
     {
-      "id": "84284cd025dc",
-      "title": "7 Maine events include \u2018Arcadia\u2019 at Portland Stage and Biddeford Art Walk",
-      "summary": "The Northeast Sports Card Expo is this weekend in Portland.",
-      "url": "https://www.pressherald.com/2026/10/12/7-maine-events-include-arcadia-at-portland-stage-and-biddeford-art-walk/",
+      "id": "60f8f985954b",
+      "title": "Two dead in Penobscot County I-95 crash",
+      "summary": "Authorities say the head-on collision occurred at a construction zone in Medway.",
+      "url": "https://www.pressherald.com/2026/10/13/two-dead-in-penobscot-county-i-95-crash-police-say/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b16d1d784c53",
+      "title": "Here\u2019s what\u2019s on the municipal ballot in Saco and Biddeford",
+      "summary": "Saco residents will vote in 3 City Council races this fall.",
+      "url": "https://www.pressherald.com/2026/10/13/heres-whats-on-the-municipal-ballot-in-saco-and-biddeford/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-13",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -204,13 +818,13 @@
       ]
     },
     {
-      "id": "e7249ff02cfe",
-      "title": "2 Penobscot County men allegedly shot across the road and hit a house",
-      "summary": "Both men are convicted felons who were prohibited from possessing firearms, according to police.",
-      "url": "https://www.bangordailynews.com/2026/10/12/penobscot/penobscot-police-courts/la-grange-maine-men-allegedly-shot-house/",
+      "id": "804b9a3926b5",
+      "title": "Washington County sheriff investigating death near Grand Lake Stream",
+      "summary": "The body was found off Amazon Road late Tuesday morning.",
+      "url": "https://www.bangordailynews.com/2026/10/13/down-east/downeast-police-courts/grand-lake-stream-maine-death-investigation/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -218,14 +832,56 @@
       ]
     },
     {
-      "id": "9440f1f2b845",
-      "title": "City of Boston official to plead guilty to $21K pandemic relief fraud scheme",
-      "summary": "Reuben Taylor, Boston's Municipal Protective Services director, has agreed to plead guilty to fraudulently obtaining a pandemic relief loan by claiming to be a self-employed auto mechanic.",
-      "url": "https://www.masslive.com/boston/2026/10/city-of-boston-official-to-plead-guilty-to-21k-pandemic-relief-fraud-scheme.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-12",
-      "category": "funding",
+      "id": "ad025f3a7693",
+      "title": "Man stopped his truck and walked into road where another driver hit him in Palermo",
+      "summary": "The man He was taken to Eastern Maine Medical Center, where he was being treated for life-threatening injuries.",
+      "url": "https://www.bangordailynews.com/2026/10/13/midcoast/midcoast-police-courts/palermo-maine-route-3-pedestrian-crash/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4471c4fa61c1",
+      "title": "2 killed in wrong-way collision on I-95 in Medway",
+      "summary": "Luis Mendoza, 20, was speeding south through a construction zone on the northbound side of I-95 when he collided with another vehicle, killing himself and the other driver.",
+      "url": "https://www.bangordailynews.com/2026/10/13/penobscot/penobscot-police-courts/medway-maine-interstate-95-wrong-way-collision-fatal-luis-mendoza/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0356472f5515",
+      "title": "Greenville driveway dispute drags neighbors into a years-long legal battle",
+      "summary": "The dispute escalated to one homeowner blocking portions of the driveway with a 6-foot concrete wall to restrict their neighbors\u2019 access.",
+      "url": "https://www.bangordailynews.com/2026/10/13/business/business-housing/greenville-maine-driveway-dispute-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-13",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "09030ad9afea",
+      "title": "Still Time For a Road Trip",
+      "summary": "Track New Hampshire\u2019s fall foliage in real time and discover the best scenic drives and locations for peak autumn colors.\nThe post Still Time For a Road Trip appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/10/12/still-time-for-a-road-trip/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-10-13",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -244,27 +900,13 @@
       "business_lines": [
         "highway"
       ]
-    },
-    {
-      "id": "5e1e921213f0",
-      "title": "Watchdog Tells NRC: Seabrook Communities Deserve Real Assurance on Crumbling Concrete, Not Flawed Testing",
-      "summary": "Local watchdog group C-10 asks federal regulators to step in, warning that concrete degradation at the Seabrook Nuclear Plant is worsening faster than predicted \u2014 with no updated proof that nearby communities remain safe\nThe post Watchdog Tells NRC: Seabrook Communities Deserve Real Assurance on Cru",
-      "url": "https://indepthnh.org/2026/10/09/watchdog-tells-nrc-seabrook-communities-deserve-real-assurance-on-crumbling-concrete-not-flawed-testing/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-09",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "ready_mix"
-      ]
     }
   ],
   "market_health": {
     "dot_pipeline": {
-      "score": 8.2,
+      "score": 9.0,
       "trend": "up",
-      "action": "Expand highway capacity"
+      "action": "Expand highway capacity - strong pipeline"
     },
     "housing_permits": {
       "score": 6.5,
@@ -291,7 +933,7 @@
       "trend": "stable",
       "action": "Selective growth"
     },
-    "overall_score": 7.0,
+    "overall_score": 7.2,
     "overall_status": "stable"
   }
 }
