@@ -1,102 +1,26 @@
 {
-  "generated": "2026-10-14T15:33:48.479561Z",
+  "generated": "2026-10-15T15:21:36.918519Z",
   "summary": {
-    "total_opportunities": 41,
-    "total_value_low": 2086740126,
-    "total_value_high": 2086740126,
+    "total_opportunities": 35,
+    "total_value_low": 2059462476,
+    "total_value_high": 2059462476,
     "by_state": {
       "VT": 3,
       "NH": 3,
-      "ME": 2,
-      "MA": 34,
+      "ME": 3,
+      "MA": 29,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 39,
-      "news": 5,
-      "funding": 2
+      "dot_letting": 35,
+      "news": 7,
+      "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "b5fedd726f72",
-      "state": "MA",
-      "project_id": "609506",
-      "description": "Ledge Removal along Route 8, between MM 28.002 and MM 27.998",
-      "cost_low": 4379049,
-      "cost_high": 4379049,
-      "cost_display": "$4.4M",
-      "ad_date": "2026-09-05",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Becket",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609506",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5291f654c39d",
-      "state": "MA",
-      "project_id": "614073",
-      "description": "Scheduled and Emergency Mechanical and Millwright Services at Various Locations",
-      "cost_low": 1823000,
-      "cost_high": 1823000,
-      "cost_display": "$1.8M",
-      "ad_date": "2026-09-19",
-      "let_date": null,
-      "project_type": "DCAMM-Mechanical Systems",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614073",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fdca6d7fbf17",
-      "state": "MA",
-      "project_id": "610544",
-      "description": "Multi-Use Path Construction of Independence Greenway at I-95 and Route 1",
-      "cost_low": 19203859,
-      "cost_high": 19203859,
-      "cost_display": "$19.2M",
-      "ad_date": "2026-08-01",
-      "let_date": null,
-      "project_type": "Bridge - Construction    , Highway - Construction",
-      "location": "Peabody",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610544",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2cc47ef0cc23",
-      "state": "MA",
-      "project_id": "608861",
-      "description": "Bridge Rehabilitation, W-26-002, Stony Brook Road over the Stony Brook",
-      "cost_low": 1871742,
-      "cost_high": 1871742,
-      "cost_display": "$1.9M",
-      "ad_date": "2026-08-29",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Westford",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608861",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "cad0ee98b1b6",
       "state": "MA",
@@ -776,27 +700,13 @@
   ],
   "news": [
     {
-      "id": "daf5762cb413",
-      "title": "Sheriff King deserves to be reelected in York County | Letter",
-      "summary": "Sheriff Bill King\u2019s depth of experience in municipal, federal and county law enforcement are unparalleled in Maine. His expertise has been demonstrated by the many improvements at the sheriff\u2019s office since his initial election in 2014. The York County Sheriff\u2019s Office was the first sheriff\u2019s office",
-      "url": "https://www.pressherald.com/2026/10/14/sheriff-king-deserves-to-be-reelected-in-york-county-letter/",
-      "source": "Portland Press Herald",
+      "id": "abe112ea9df3",
+      "title": "The Latest: AP-NORC poll: Strong majority of voters believes Trump is failing at home and abroad",
+      "summary": "A strong majority of voters believe that President Donald Trump is falling short at home and abroad, and they want major change in the upcoming midterm elections, according to a new AP-NORC poll that raises serious warning signs for the Republican Party at a critical moment. House Democrats are prep",
+      "url": "https://www.bangordailynews.com/2026/10/15/nation/the-latest-ap-norc-poll-strong-majority-of-voters-believes-trump-is-failing-at-home-and-abroad/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-10-14",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "7db989e82796",
-      "title": "Winter weather advisory issued for 4 states; 12-14 inches of snow possible",
-      "summary": "\u201cEarly season snowfall on roadways may pose a significant risk to under-prepared travelers.\u201d",
-      "url": "https://www.masslive.com/news/2026/10/winter-weather-advisory-issued-for-4-states-12-14-inches-of-snow-possible.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -804,15 +714,43 @@
       ]
     },
     {
-      "id": "1bc7ef213db8",
-      "title": "Holyoke community development administrator to step down after 27 years",
-      "summary": "Alicia Zoeller, who helped oversee millions in federal funding for housing, infrastructure and community projects, plans to leave her post in January.",
-      "url": "https://www.masslive.com/westernmass/2026/10/holyoke-community-development-administrator-to-step-down-after-27-years.html",
+      "id": "f419c885f0d0",
+      "title": "Frustrated with Trump, voters overwhelmingly want change in Washington, an AP-NORC poll finds",
+      "summary": "WASHINGTON (AP) \u2014 A strong majority of voters believe that President Donald Trump is falling short at home and abroad, and they want major change in the upcoming midterm elections, according to a new AP-NORC poll that raises serious warning signs for the Republican Party at a critical moment. The su",
+      "url": "https://www.bangordailynews.com/2026/10/15/nation/frustrated-with-trump-voters-overwhelmingly-want-change-in-washington-an-ap-norc-poll-finds/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "586a99662b38",
+      "title": "U.S. Senate Candidates John Sununu and Rep. Chris Pappas Speak At Forum in Salem",
+      "summary": "InDepthNH.org is partnering with C-SPAN\u2019s Campaign 2026\u00a0initiative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail.\nThe post U.S. Senate Candidates John Sununu and Rep. Chris Pappas Speak At Forum in Salem appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/10/14/u-s-senate-candidates-john-sununu-and-rep-chris-pappas-debate-in-salem/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-10-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ad86499dd7a9",
+      "title": "Troy Aikman just gave a revealing answer about his future at ESPN",
+      "summary": "Troy Aikman says he will become a broadcasting free agent after the NFL season as questions grow about his ESPN future with Joe Buck.",
+      "url": "https://www.masslive.com/sports/2026/10/troy-aikman-just-gave-a-revealing-answer-about-his-future-at-espn.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-10-14",
-      "category": "funding",
-      "priority": "high",
+      "date": "2026-10-15",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -853,20 +791,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-10-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "728d409f63af",
-      "title": "Granite Staters Rally Against Sig Sauer Aiding Israel with Weapons",
-      "summary": "Sixty four people gathered at Market Square in Portsmouth on Saturday then trekked three miles to Sig Sauer\u2019s headquarters on Pease Boulevard, and held a peaceful demonstration down the road to oppose the company supplying weapons to the Israel Defensive Forces.\nThe post Granite Staters Rally Agains",
-      "url": "https://indepthnh.org/2026/10/10/granite-staters-rally-against-sig-sauer-aiding-israel-with-weapons/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-10",
       "category": "news",
       "priority": "medium",
       "business_lines": [
