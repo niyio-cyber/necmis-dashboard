@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-15T15:21:36.918519Z",
+  "generated": "2026-10-16T15:01:58.332039Z",
   "summary": {
     "total_opportunities": 35,
     "total_value_low": 2059462476,
     "total_value_high": 2059462476,
     "by_state": {
-      "VT": 3,
-      "NH": 3,
-      "ME": 3,
-      "MA": 29,
+      "VT": 4,
+      "NH": 4,
+      "ME": 2,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -55,26 +55,6 @@
       "location": "Oxford",
       "district": 3,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=605323",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "feaf8c13ce2e",
-      "state": "MA",
-      "project_id": "609068",
-      "description": "Bridge Replacement, S-10-015, Kelsey Road over Schenob Brook",
-      "cost_low": 3427358,
-      "cost_high": 3427358,
-      "cost_display": "$3.4M",
-      "ad_date": "2026-09-05",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Sheffield",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609068",
       "source": "MassDOT",
       "business_lines": [
         "highway",
@@ -448,6 +428,26 @@
       ]
     },
     {
+      "id": "feaf8c13ce2e",
+      "state": "MA",
+      "project_id": "609068",
+      "description": "Bridge Replacement, S-10-015, Kelsey Road over Schenob Brook",
+      "cost_low": 3427358,
+      "cost_high": 3427358,
+      "cost_display": "$3.4M",
+      "ad_date": "2026-09-05",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Sheffield",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609068",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
       "id": "cf49e04359fb",
       "state": "MA",
       "project_id": "616308",
@@ -700,12 +700,26 @@
   ],
   "news": [
     {
-      "id": "abe112ea9df3",
-      "title": "The Latest: AP-NORC poll: Strong majority of voters believes Trump is failing at home and abroad",
-      "summary": "A strong majority of voters believe that President Donald Trump is falling short at home and abroad, and they want major change in the upcoming midterm elections, according to a new AP-NORC poll that raises serious warning signs for the Republican Party at a critical moment. House Democrats are prep",
-      "url": "https://www.bangordailynews.com/2026/10/15/nation/the-latest-ap-norc-poll-strong-majority-of-voters-believes-trump-is-failing-at-home-and-abroad/",
+      "id": "f263ace78e94",
+      "title": "The shocking amount 10 people paid to hunt moose in Maine",
+      "summary": "Maine auctions 10 permits annually, giving hunters another way to obtain one beyond the state\u2019s public lottery.",
+      "url": "https://www.bangordailynews.com/2026/10/16/outdoors/hunting/shocking-amount-paid-to-hunt-moose-in-maine-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-10-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f61e72f2fccd",
+      "title": "Vermont\u2019s land laws should incentivize people who heal the land",
+      "summary": "Tax and permitting rules built for large-scale operations leave little room for small landholders who do the most to bolster ecosystem services.\nRead the story on VTDigger here:  Vermont\u2019s land laws should incentivize people who heal the land.",
+      "url": "https://vtdigger.org/2026/10/15/opinion-vermonts-land-laws-should-incentivize-people-who-heal-the-land/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-10-15",
       "category": "news",
       "priority": "medium",
@@ -714,24 +728,10 @@
       ]
     },
     {
-      "id": "f419c885f0d0",
-      "title": "Frustrated with Trump, voters overwhelmingly want change in Washington, an AP-NORC poll finds",
-      "summary": "WASHINGTON (AP) \u2014 A strong majority of voters believe that President Donald Trump is falling short at home and abroad, and they want major change in the upcoming midterm elections, according to a new AP-NORC poll that raises serious warning signs for the Republican Party at a critical moment. The su",
-      "url": "https://www.bangordailynews.com/2026/10/15/nation/frustrated-with-trump-voters-overwhelmingly-want-change-in-washington-an-ap-norc-poll-finds/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "586a99662b38",
-      "title": "U.S. Senate Candidates John Sununu and Rep. Chris Pappas Speak At Forum in Salem",
-      "summary": "InDepthNH.org is partnering with C-SPAN\u2019s Campaign 2026\u00a0initiative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail.\nThe post U.S. Senate Candidates John Sununu and Rep. Chris Pappas Speak At Forum in Salem appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/10/14/u-s-senate-candidates-john-sununu-and-rep-chris-pappas-debate-in-salem/",
+      "id": "55b8411cf37b",
+      "title": "YDC Victims Ask Supreme Court To Reverse Legislative Changes To Settlement Process",
+      "summary": "A lawyer for more than 1,900 individuals who consider themselves victims of sexual and physical abuse at the state-run former Youth Development Center argued before the state Supreme Court Wednesday as part of an effort to block settlement changes made by the legislature in 2025.\nThe post YDC Victim",
+      "url": "https://indepthnh.org/2026/10/15/ydc-victims-go-to-nh-supreme-court-to-seek-reversal-of-legislative-changes-to-settlement-process/",
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-10-15",
@@ -742,12 +742,27 @@
       ]
     },
     {
-      "id": "ad86499dd7a9",
-      "title": "Troy Aikman just gave a revealing answer about his future at ESPN",
-      "summary": "Troy Aikman says he will become a broadcasting free agent after the NFL season as questions grow about his ESPN future with Joe Buck.",
-      "url": "https://www.masslive.com/sports/2026/10/troy-aikman-just-gave-a-revealing-answer-about-his-future-at-espn.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "3c21c4fe21d2",
+      "title": "AP-NORC poll: Strong majority of voters believes Trump is failing at home and abroad",
+      "summary": "President Donald Trump said Thursday that the Pentagon will not live-stream the firing squad execution of Fort Hood shooter Nidal Malik Hasan, after the announcement faced bipartisan criticism that such images could fuel radicalization.\nThe post AP-NORC poll: Strong majority of voters believes Trump",
+      "url": "https://indepthnh.org/2026/10/15/ap-norc-poll-strong-majority-of-voters-believes-trump-is-failing-at-home-and-abroad/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-10-15",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "586a99662b38",
+      "title": "U.S. Senate Candidates John Sununu and Rep. Chris Pappas Speak At Forum in Salem",
+      "summary": "InDepthNH.org is partnering with C-SPAN\u2019s Campaign 2026\u00a0initiative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail.\nThe post U.S. Senate Candidates John Sununu and Rep. Chris Pappas Speak At Forum in Salem appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/10/14/u-s-senate-candidates-john-sununu-and-rep-chris-pappas-debate-in-salem/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-10-15",
       "category": "news",
       "priority": "medium",
@@ -776,20 +791,6 @@
       "url": "https://vtdigger.org/2026/10/13/uvm-health-watchdog-turns-its-sights-to-vermonts-broader-healthcare-system/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-10-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "09030ad9afea",
-      "title": "Still Time For a Road Trip",
-      "summary": "Track New Hampshire\u2019s fall foliage in real time and discover the best scenic drives and locations for peak autumn colors.\nThe post Still Time For a Road Trip appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/10/12/still-time-for-a-road-trip/",
-      "source": "InDepthNH",
-      "state": "NH",
       "date": "2026-10-13",
       "category": "news",
       "priority": "medium",
