@@ -1,23 +1,23 @@
 {
-  "generated": "2026-10-16T15:01:58.332039Z",
+  "generated": "2026-10-17T13:58:38.601282Z",
   "summary": {
-    "total_opportunities": 35,
-    "total_value_low": 2059462476,
-    "total_value_high": 2059462476,
+    "total_opportunities": 39,
+    "total_value_low": 2060898641,
+    "total_value_high": 2060898641,
     "by_state": {
-      "VT": 4,
+      "VT": 2,
       "NH": 4,
-      "ME": 2,
-      "MA": 28,
+      "ME": 3,
+      "MA": 31,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 35,
-      "news": 7,
-      "funding": 0
+      "dot_letting": 38,
+      "news": 5,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -195,26 +195,6 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "4b1fa3262b2e",
-      "state": "MA",
-      "project_id": "610728",
-      "description": "Resurfacing and Related Work on Route 20",
-      "cost_low": 5136381,
-      "cost_high": 5136381,
-      "cost_display": "$5.1M",
-      "ad_date": "2026-09-12",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Lee",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610728",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
       ]
     },
     {
@@ -425,6 +405,83 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "a8a2c098b366",
+      "state": "MA",
+      "project_id": "616378",
+      "description": "Scheduled & Emergency Facility and Salt Shed Repairs/ Improvements at Various Locations",
+      "cost_low": 326460,
+      "cost_high": 326460,
+      "cost_display": "$326K",
+      "ad_date": "2026-10-17",
+      "let_date": null,
+      "project_type": "DCAMM-General Building Construction",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616378",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1fc298d3dbe8",
+      "state": "MA",
+      "project_id": "616471",
+      "description": "Scheduled and Emergency Salt Shed Repairs at Various Locations",
+      "cost_low": 339990,
+      "cost_high": 339990,
+      "cost_display": "$340K",
+      "ad_date": "2026-10-17",
+      "let_date": null,
+      "project_type": "DCAMM-General Building Construction",
+      "location": "District 2",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616471",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "88852f6d831e",
+      "state": "MA",
+      "project_id": "616513",
+      "description": "Scheduled & Emergency Traffic Control and Setups at Various Locations",
+      "cost_low": 769715,
+      "cost_high": 769715,
+      "cost_display": "$770K",
+      "ad_date": "2026-10-17",
+      "let_date": null,
+      "project_type": "Traffic Signals",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616513",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4b1fa3262b2e",
+      "state": "MA",
+      "project_id": "610728",
+      "description": "Resurfacing and Related Work on Route 20",
+      "cost_low": 5136381,
+      "cost_high": 5136381,
+      "cost_display": "$5.1M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Lee",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610728",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
       ]
     },
     {
@@ -700,14 +757,28 @@
   ],
   "news": [
     {
-      "id": "f263ace78e94",
-      "title": "The shocking amount 10 people paid to hunt moose in Maine",
-      "summary": "Maine auctions 10 permits annually, giving hunters another way to obtain one beyond the state\u2019s public lottery.",
-      "url": "https://www.bangordailynews.com/2026/10/16/outdoors/hunting/shocking-amount-paid-to-hunt-moose-in-maine-joam40zk0w/",
+      "id": "1af475dc5db1",
+      "title": "How a driver, a dad and a teacher tried to stop the Oregon school shooter",
+      "summary": "BEND, Ore. (AP) \u2014 In the middle of an October day, a 16-year-old boy tossed a shotgun over a low chain-link fence. Then he climbed over it himself. There was a playground and a broad grass field leading to an elementary school he once attended. Inside were hundreds of children, including a handful a",
+      "url": "https://www.bangordailynews.com/2026/10/17/nation/how-a-driver-a-dad-and-a-teacher-tried-to-stop-the-oregon-school-shooter/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-17",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1c0e5024a3fc",
+      "title": "Public comment period on federal permit for proposed Eastport data center ends Monday",
+      "summary": "As the federal deadline arrives, opponents gather signatures for a revised petition giving residents final vote on large industrial projects.",
+      "url": "https://www.bangordailynews.com/2026/10/16/down-east/downeast-government/public-comment-period-eastport-data-center/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-10-16",
-      "category": "news",
+      "category": "funding",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -764,34 +835,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-10-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "aab4a764f312",
-      "title": "Essex County parking saga comes to a close",
-      "summary": "Judge dismisses the Essex County sheriff\u2019s appeal against an ongoing parking lot construction project.\nRead the story on VTDigger here:  Essex County parking saga comes to a close.",
-      "url": "https://vtdigger.org/2026/10/13/essex-parking-saga-comes-to-a-close/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-13",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f46bb9ad7126",
-      "title": "UVM Health watchdog turns its sights to Vermont\u2019s broader healthcare system",
-      "summary": "Regulators can put pressure on a narrow slice of Vermont\u2019s healthcare costs, but in their last report, independent liaisons open a conversation of how Vermont can reduce costs more evenly across the healthcare sector.\nRead the story on VTDigger here:  UVM Health watchdog turns its sights to Vermont",
-      "url": "https://vtdigger.org/2026/10/13/uvm-health-watchdog-turns-its-sights-to-vermonts-broader-healthcare-system/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-13",
       "category": "news",
       "priority": "medium",
       "business_lines": [
