@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T13:58:38.601282Z",
+  "generated": "2026-10-18T14:10:50.295381Z",
   "summary": {
-    "total_opportunities": 39,
+    "total_opportunities": 38,
     "total_value_low": 2060898641,
     "total_value_high": 2060898641,
     "by_state": {
       "VT": 2,
-      "NH": 4,
-      "ME": 3,
+      "NH": 5,
+      "ME": 4,
       "MA": 31,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 38,
-      "news": 5,
-      "funding": 1
+      "news": 8,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -757,13 +757,27 @@
   ],
   "news": [
     {
-      "id": "1af475dc5db1",
-      "title": "How a driver, a dad and a teacher tried to stop the Oregon school shooter",
-      "summary": "BEND, Ore. (AP) \u2014 In the middle of an October day, a 16-year-old boy tossed a shotgun over a low chain-link fence. Then he climbed over it himself. There was a playground and a broad grass field leading to an elementary school he once attended. Inside were hundreds of children, including a handful a",
-      "url": "https://www.bangordailynews.com/2026/10/17/nation/how-a-driver-a-dad-and-a-teacher-tried-to-stop-the-oregon-school-shooter/",
+      "id": "aeed8f3e0287",
+      "title": "Driver seriously injured in Maine Turnpike crash near Falmouth",
+      "summary": "The driver of a Hyundai Elantra reportedly lost control of the vehicle, striking multiple guardrails before becoming disabled in the middle of the highway.",
+      "url": "https://www.bangordailynews.com/2026/10/18/portland/portland-police-courts/devon-thomas-seriously-injured-turnpike-crash-falmouth/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7951b1d193fd",
+      "title": "Racist, Antisemitic Vandalism Hits Manchester, Again",
+      "summary": "So far, police have identified 15 incidents in three areas: Candia Road, Gabrielle Street, and South Beech Street, according to a Manchester police news release.\nThe post Racist, Antisemitic Vandalism Hits Manchester, Again appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/10/17/racist-antisemitic-vandalism-hits-manchester-again/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-10-18",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -771,14 +785,28 @@
       ]
     },
     {
-      "id": "1c0e5024a3fc",
-      "title": "Public comment period on federal permit for proposed Eastport data center ends Monday",
-      "summary": "As the federal deadline arrives, opponents gather signatures for a revised petition giving residents final vote on large industrial projects.",
-      "url": "https://www.bangordailynews.com/2026/10/16/down-east/downeast-government/public-comment-period-eastport-data-center/",
+      "id": "e4044f413bfb",
+      "title": "Husson, UNE pick up football victories",
+      "summary": "Husson University of Bangor and Biddeford\u2019s University of New England picked up small college football wins on Saturday. Husson beat New England College 42-0 for its second straight win and UNE dealt Castine\u2019s Maine Maritime Academy its 38th straight loss, 62-14. The state\u2019s other three NCAA Divisio",
+      "url": "https://www.bangordailynews.com/2026/10/17/sports/college-football/husson-une-pick-up-football-victories/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-10-16",
-      "category": "funding",
+      "date": "2026-10-17",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e5d1075a81c3",
+      "title": "Man shot, killed on subway platform in midtown Manhattan",
+      "summary": "NEW YORK (AP) \u2014 An argument on a subway platform in midtown Manhattan turned deadly Saturday, leaving one man fatally shot and train service disrupted. The shooting happened around 12:20 p.m. at the station at 7th Avenue and 53rd Street, a short walk from several Broadway theaters and Carnegie Hall.",
+      "url": "https://www.bangordailynews.com/2026/10/17/nation/man-shot-killed-on-subway-platform-in-midtown-manhattan/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-17",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
