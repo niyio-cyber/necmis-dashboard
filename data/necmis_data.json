@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-18T14:10:50.295381Z",
+  "generated": "2026-10-19T17:13:03.533501Z",
   "summary": {
-    "total_opportunities": 38,
+    "total_opportunities": 39,
     "total_value_low": 2060898641,
     "total_value_high": 2060898641,
     "by_state": {
       "VT": 2,
       "NH": 5,
-      "ME": 4,
-      "MA": 31,
+      "ME": 1,
+      "MA": 32,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 38,
-      "news": 8,
-      "funding": 0
+      "news": 5,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -757,15 +757,15 @@
   ],
   "news": [
     {
-      "id": "aeed8f3e0287",
-      "title": "Driver seriously injured in Maine Turnpike crash near Falmouth",
-      "summary": "The driver of a Hyundai Elantra reportedly lost control of the vehicle, striking multiple guardrails before becoming disabled in the middle of the highway.",
-      "url": "https://www.bangordailynews.com/2026/10/18/portland/portland-police-courts/devon-thomas-seriously-injured-turnpike-crash-falmouth/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-18",
-      "category": "news",
-      "priority": "high",
+      "id": "7cd077bf46c4",
+      "title": "New bill backed by New England lawmaker would ban military execution livestreams",
+      "summary": "The measure comes after President Donald Trump halted a plan to broadcast the execution of Fort Hood shooter Nidal Hasan, sparking a push for a permanent federal ban.",
+      "url": "https://www.masslive.com/politics/2026/10/nh-lawmaker-backs-ban-on-live-streaming-military-executions.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-19",
+      "category": "funding",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -778,34 +778,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-10-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e4044f413bfb",
-      "title": "Husson, UNE pick up football victories",
-      "summary": "Husson University of Bangor and Biddeford\u2019s University of New England picked up small college football wins on Saturday. Husson beat New England College 42-0 for its second straight win and UNE dealt Castine\u2019s Maine Maritime Academy its 38th straight loss, 62-14. The state\u2019s other three NCAA Divisio",
-      "url": "https://www.bangordailynews.com/2026/10/17/sports/college-football/husson-une-pick-up-football-victories/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e5d1075a81c3",
-      "title": "Man shot, killed on subway platform in midtown Manhattan",
-      "summary": "NEW YORK (AP) \u2014 An argument on a subway platform in midtown Manhattan turned deadly Saturday, leaving one man fatally shot and train service disrupted. The shooting happened around 12:20 p.m. at the station at 7th Avenue and 53rd Street, a short walk from several Broadway theaters and Carnegie Hall.",
-      "url": "https://www.bangordailynews.com/2026/10/17/nation/man-shot-killed-on-subway-platform-in-midtown-manhattan/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-17",
       "category": "news",
       "priority": "medium",
       "business_lines": [
