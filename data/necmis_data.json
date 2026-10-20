@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-19T17:13:03.533501Z",
+  "generated": "2026-10-20T15:24:28.640262Z",
   "summary": {
-    "total_opportunities": 39,
+    "total_opportunities": 38,
     "total_value_low": 2060898641,
     "total_value_high": 2060898641,
     "by_state": {
       "VT": 2,
-      "NH": 5,
-      "ME": 1,
-      "MA": 32,
+      "NH": 4,
+      "ME": 4,
+      "MA": 31,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 38,
-      "news": 5,
-      "funding": 1
+      "news": 7,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -757,15 +757,57 @@
   ],
   "news": [
     {
-      "id": "7cd077bf46c4",
-      "title": "New bill backed by New England lawmaker would ban military execution livestreams",
-      "summary": "The measure comes after President Donald Trump halted a plan to broadcast the execution of Fort Hood shooter Nidal Hasan, sparking a push for a permanent federal ban.",
-      "url": "https://www.masslive.com/politics/2026/10/nh-lawmaker-backs-ban-on-live-streaming-military-executions.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-19",
-      "category": "funding",
+      "id": "3b8cfa3f64a9",
+      "title": "Freedom voters will decide next steps in road dispute",
+      "summary": "Voters also will decide whether to approve a data center ban and a more stringent rules for recalling Select Board members.",
+      "url": "https://www.bangordailynews.com/2026/10/20/midcoast/midcoast-government/freedom-maine-election-beaver-ridge-road-dispute-ballot-question/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-20",
+      "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "503264df16f5",
+      "title": "The ad war between Susan\u00a0Collins and Troy Jackson is more negative than ever",
+      "summary": "Negative spots made up 88% of broadcast spending in the seven days ending Sunday, according to a Bangor Daily News analysis.",
+      "url": "https://www.bangordailynews.com/2026/10/20/politics/elections/negative-ads-susan-collins-troy-jackson-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "34a9b0edcd34",
+      "title": "Letter: It\u2019s time to replace Democrats in Augusta",
+      "summary": "\u201cMaine is ranked 48th in economic development, we have the fifth highest residential electric rates, and fifth highest tax burden.\u201d",
+      "url": "https://www.bangordailynews.com/2026/10/20/opinion/letters/letter-its-time-to-replace-democrats-in-augusta-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "63748dcae5c4",
+      "title": "Portion of I-91 in northern Vermont named for border agent killed in line of duty",
+      "summary": "The Vermont Transportation Board approved the request to designate about 11 miles of roadway as the David Chris Maland Memorial Highway.\nRead the story on VTDigger here:  Portion of I-91 in northern Vermont named for border agent killed in line of duty.",
+      "url": "https://vtdigger.org/2026/10/19/portion-of-i-91-in-northern-vermont-named-for-border-agent-killed-in-line-of-duty/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-10-19",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -778,20 +820,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-10-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f61e72f2fccd",
-      "title": "Vermont\u2019s land laws should incentivize people who heal the land",
-      "summary": "Tax and permitting rules built for large-scale operations leave little room for small landholders who do the most to bolster ecosystem services.\nRead the story on VTDigger here:  Vermont\u2019s land laws should incentivize people who heal the land.",
-      "url": "https://vtdigger.org/2026/10/15/opinion-vermonts-land-laws-should-incentivize-people-who-heal-the-land/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-15",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -825,20 +853,6 @@
       "business_lines": [
         "highway",
         "ready_mix"
-      ]
-    },
-    {
-      "id": "586a99662b38",
-      "title": "U.S. Senate Candidates John Sununu and Rep. Chris Pappas Speak At Forum in Salem",
-      "summary": "InDepthNH.org is partnering with C-SPAN\u2019s Campaign 2026\u00a0initiative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail.\nThe post U.S. Senate Candidates John Sununu and Rep. Chris Pappas Speak At Forum in Salem appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/10/14/u-s-senate-candidates-john-sununu-and-rep-chris-pappas-debate-in-salem/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
       ]
     }
   ],
