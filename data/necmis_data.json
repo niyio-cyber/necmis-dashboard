@@ -1,126 +1,26 @@
 {
-  "generated": "2026-10-20T15:24:28.640262Z",
+  "generated": "2026-10-21T15:40:31.115136Z",
   "summary": {
-    "total_opportunities": 38,
-    "total_value_low": 2060898641,
-    "total_value_high": 2060898641,
+    "total_opportunities": 33,
+    "total_value_low": 2004875472,
+    "total_value_high": 2004875472,
     "by_state": {
-      "VT": 2,
-      "NH": 4,
-      "ME": 4,
-      "MA": 31,
+      "VT": 3,
+      "NH": 5,
+      "ME": 1,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 38,
-      "news": 7,
+      "dot_letting": 33,
+      "news": 6,
       "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "cad0ee98b1b6",
-      "state": "MA",
-      "project_id": "616375",
-      "description": "Culvert Replacement, Culvert Repair and Retaining Wall Replacement and Related Work at Three Locations",
-      "cost_low": 4852675,
-      "cost_high": 4852675,
-      "cost_display": "$4.9M",
-      "ad_date": "2026-09-05",
-      "let_date": null,
-      "project_type": "Highway - Construction , Bridge - Culverts",
-      "location": "Leominster",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616375",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "6d3350755c04",
-      "state": "MA",
-      "project_id": "605323",
-      "description": "Bridge Replacement, O-06-030, (ST 56) Leicester Road over the French River",
-      "cost_low": 3707417,
-      "cost_high": 3707417,
-      "cost_display": "$3.7M",
-      "ad_date": "2026-09-19",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Oxford",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=605323",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "8e83ec2c0a41",
-      "state": "MA",
-      "project_id": "611940",
-      "description": "Bridge Replacement, S-17-016 (3GF), Webster Avenue over MBTA and BMRR",
-      "cost_low": 12015786,
-      "cost_high": 12015786,
-      "cost_display": "$12.0M",
-      "ad_date": "2026-09-05",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Somerville",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611940",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "1b6b21ed8820",
-      "state": "MA",
-      "project_id": "608862",
-      "description": "Bridge Replacement, S-21-009, Mill Street over McKinstry Brook & S-21-003, Mill Street over the Quinebaug River",
-      "cost_low": 9140772,
-      "cost_high": 9140772,
-      "cost_display": "$9.1M",
-      "ad_date": "2026-09-05",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Southbridge",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=608862",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "0c199c450d44",
-      "state": "MA",
-      "project_id": "606352",
-      "description": "Culvert and Dam Replacement on Cranberry Highway at Route 28 and Route 6, Mill Pond Dam over Agawam River",
-      "cost_low": 26306519,
-      "cost_high": 26306519,
-      "cost_display": "$26.3M",
-      "ad_date": "2026-08-08",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Wareham",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=606352",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
     {
       "id": "a859e41ae84b",
       "state": "MA",
@@ -173,25 +73,6 @@
       "location": "District 6",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616507",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2d36113de09e",
-      "state": "MA",
-      "project_id": "616276",
-      "description": "Bridge Preservation along I-495, F-06-023, M-18-042, M-18-043, N-23-026, N-23-027 & N-23-034",
-      "cost_low": 9271734,
-      "cost_high": 9271734,
-      "cost_display": "$9.3M",
-      "ad_date": "2026-09-19",
-      "let_date": null,
-      "project_type": "Bridge - Construction    , Painting - Structural",
-      "location": "Foxborough",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616276",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -364,6 +245,25 @@
       "location": "District 6",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616509",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2d36113de09e",
+      "state": "MA",
+      "project_id": "616276",
+      "description": "Bridge Preservation along I-495, F-06-023, M-18-042, M-18-043, N-23-026, N-23-027 & N-23-034",
+      "cost_low": 9271734,
+      "cost_high": 9271734,
+      "cost_display": "$9.3M",
+      "ad_date": "2026-09-19",
+      "let_date": null,
+      "project_type": "Bridge - Construction    , Painting - Structural",
+      "location": "Foxborough",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616276",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -757,40 +657,54 @@
   ],
   "news": [
     {
-      "id": "3b8cfa3f64a9",
-      "title": "Freedom voters will decide next steps in road dispute",
-      "summary": "Voters also will decide whether to approve a data center ban and a more stringent rules for recalling Select Board members.",
-      "url": "https://www.bangordailynews.com/2026/10/20/midcoast/midcoast-government/freedom-maine-election-beaver-ridge-road-dispute-ballot-question/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "c3635a48c970",
+      "title": "Attorneys seek spring trial for man facing murder charge in Rutland deadly police chase",
+      "summary": "The lawyer for Tate Rheaume said he was dropping his bid to move the case out of Rutland County, and instead is working on a questionnaire to screen potential jurors.\nRead the story on VTDigger here:  Attorneys seek spring trial for man facing murder charge in Rutland deadly police chase.",
+      "url": "https://vtdigger.org/2026/10/20/attorneys-seek-spring-trial-for-man-facing-murder-charge-in-rutland-deadly-police-chase/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-10-20",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "503264df16f5",
-      "title": "The ad war between Susan\u00a0Collins and Troy Jackson is more negative than ever",
-      "summary": "Negative spots made up 88% of broadcast spending in the seven days ending Sunday, according to a Bangor Daily News analysis.",
-      "url": "https://www.bangordailynews.com/2026/10/20/politics/elections/negative-ads-susan-collins-troy-jackson-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "2f24ccd2c401",
+      "title": "Statewide Petition Seeks to End Local Police Departments\u2019 Role in Immigration Efforts",
+      "summary": "A coalition of advocacy groups has gained support from people from 80% of the municipalities in New Hampshire for a petition to have 29 police agencies in the state exit a program run by Immigrations and Customs Enforcement (ICE), where they perform immigration officer functions under the direction",
+      "url": "https://indepthnh.org/2026/10/20/statewide-petition-seeks-to-end-local-police-departments-role-in-immigration-efforts/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-10-20",
       "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "75bbf2a36c00",
+      "title": "Proclamations and Bridge Illumination for 70th Anniversary of 1956 Hungarian Revolution",
+      "summary": "New Hampshire Governor Ayotte and Portsmouth Mayor McEachern have both issued proclamations that declare Oct. 23, \u201cHungarian Freedom and Democracy Day\u201d.\nThe post Proclamations and Bridge Illumination for 70th Anniversary of 1956 Hungarian Revolution appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/10/20/proclamations-and-bridge-illumination-for-70th-anniversary-of-1956-hungarian-revolution/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-10-20",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "34a9b0edcd34",
-      "title": "Letter: It\u2019s time to replace Democrats in Augusta",
-      "summary": "\u201cMaine is ranked 48th in economic development, we have the fifth highest residential electric rates, and fifth highest tax burden.\u201d",
-      "url": "https://www.bangordailynews.com/2026/10/20/opinion/letters/letter-its-time-to-replace-democrats-in-augusta-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "0ca329ec0231",
+      "title": "Department of Justice Secures Jury Verdict in Support of Construction of Exit 4a on I-9",
+      "summary": "Attorney General John M. Formella announces that the Department of Justice obtained a jury verdict affirming that the New Hampshire Department of Transportation\u2019s acquisition of land and construction of Exit 4a off I-93 was for the public\u2019s use, that it was necessary and reasonable, and that there w",
+      "url": "https://indepthnh.org/2026/10/20/department-of-justice-secures-jury-verdict-in-support-of-construction-of-exit-4a-on-i-9/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-10-20",
       "category": "news",
       "priority": "medium",
@@ -824,35 +738,6 @@
       "priority": "medium",
       "business_lines": [
         "highway"
-      ]
-    },
-    {
-      "id": "55b8411cf37b",
-      "title": "YDC Victims Ask Supreme Court To Reverse Legislative Changes To Settlement Process",
-      "summary": "A lawyer for more than 1,900 individuals who consider themselves victims of sexual and physical abuse at the state-run former Youth Development Center argued before the state Supreme Court Wednesday as part of an effort to block settlement changes made by the legislature in 2025.\nThe post YDC Victim",
-      "url": "https://indepthnh.org/2026/10/15/ydc-victims-go-to-nh-supreme-court-to-seek-reversal-of-legislative-changes-to-settlement-process/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3c21c4fe21d2",
-      "title": "AP-NORC poll: Strong majority of voters believes Trump is failing at home and abroad",
-      "summary": "President Donald Trump said Thursday that the Pentagon will not live-stream the firing squad execution of Fort Hood shooter Nidal Malik Hasan, after the announcement faced bipartisan criticism that such images could fuel radicalization.\nThe post AP-NORC poll: Strong majority of voters believes Trump",
-      "url": "https://indepthnh.org/2026/10/15/ap-norc-poll-strong-majority-of-voters-believes-trump-is-failing-at-home-and-abroad/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-15",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway",
-        "ready_mix"
       ]
     }
   ],
