@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-21T15:40:31.115136Z",
+  "generated": "2026-10-22T15:42:00.668674Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 35,
     "total_value_low": 2004875472,
     "total_value_high": 2004875472,
     "by_state": {
-      "VT": 3,
+      "VT": 2,
       "NH": 5,
-      "ME": 1,
-      "MA": 26,
+      "ME": 4,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 33,
-      "news": 6,
-      "funding": 0
+      "news": 7,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -657,6 +657,76 @@
   ],
   "news": [
     {
+      "id": "728be84469ff",
+      "title": "The good, the bad, and the glitched when Mainers take tech abroad | Column",
+      "summary": "Bringing spare gear and practicing patience helps trips abroad go smoothly.",
+      "url": "https://www.pressherald.com/2026/10/22/the-good-the-bad-and-the-glitched-when-mainers-take-tech-abroad-column/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d2832b14d0a2",
+      "title": "Watch: Biddeford football is the Varsity Maine boys team of the week",
+      "summary": "The Tigers' win over previously unbeaten Marshwood epitomizes their momentus turnaround in 2026.",
+      "url": "https://www.pressherald.com/2026/10/22/watch-biddeford-football-is-the-varsity-maine-boys-team-of-the-week/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-22",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4d1284765aaa",
+      "title": "EMDC Comprehensive Economic Development Strategy approved",
+      "summary": "The U.S. Economic Development Administration approved Eastern Maine Development Corporation \u2018s Comprehensive Economic Development Strategy, confirming its EDA funding eligibility and reinforcing its designation as an Economic Development District through March 31, 2031. Through a series of meetings",
+      "url": "https://www.bangordailynews.com/2026/10/22/bdn-maine/emdc-comprehensive-economic-development-strategy-approved/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-22",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e048ae31df56",
+      "title": "Former NY cop charged with murder in road rage shooting, police say",
+      "summary": "The incident shut down a bridge for hours.",
+      "url": "https://www.masslive.com/news/2026/10/former-ny-cop-charged-with-murder-in-road-rage-shooting-police-say.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-22",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "7821f3317714",
+      "title": "YDC Claims Receives $35M, Administrator Praised For Asking Lawyers To Take Less",
+      "summary": "The state's Youth Development Center claims administrator received approval for an additional $35 million to pay abuse victims Wednesday from the state's Executive Council and received praise for asking lawyers to take 25 percent rather than 33 percent of the claims from their clients.\nThe post YDC",
+      "url": "https://indepthnh.org/2026/10/21/ydc-claims-administrator-receives-35m-praised-for-asking-lawyers-to-take-less-in-fee/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-10-21",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "c3635a48c970",
       "title": "Attorneys seek spring trial for man facing murder charge in Rutland deadly police chase",
       "summary": "The lawyer for Tate Rheaume said he was dropping his bid to move the case out of Rutland County, and instead is working on a questionnaire to screen potential jurors.\nRead the story on VTDigger here:  Attorneys seek spring trial for man facing murder charge in Rutland deadly police chase.",
@@ -706,34 +776,6 @@
       "source": "InDepthNH",
       "state": "NH",
       "date": "2026-10-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "63748dcae5c4",
-      "title": "Portion of I-91 in northern Vermont named for border agent killed in line of duty",
-      "summary": "The Vermont Transportation Board approved the request to designate about 11 miles of roadway as the David Chris Maland Memorial Highway.\nRead the story on VTDigger here:  Portion of I-91 in northern Vermont named for border agent killed in line of duty.",
-      "url": "https://vtdigger.org/2026/10/19/portion-of-i-91-in-northern-vermont-named-for-border-agent-killed-in-line-of-duty/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-19",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7951b1d193fd",
-      "title": "Racist, Antisemitic Vandalism Hits Manchester, Again",
-      "summary": "So far, police have identified 15 incidents in three areas: Candia Road, Gabrielle Street, and South Beech Street, according to a Manchester police news release.\nThe post Racist, Antisemitic Vandalism Hits Manchester, Again appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/10/17/racist-antisemitic-vandalism-hits-manchester-again/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-18",
       "category": "news",
       "priority": "medium",
       "business_lines": [
