@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-22T15:42:00.668674Z",
+  "generated": "2026-10-23T15:29:30.514973Z",
   "summary": {
-    "total_opportunities": 35,
+    "total_opportunities": 34,
     "total_value_low": 2004875472,
     "total_value_high": 2004875472,
     "by_state": {
-      "VT": 2,
+      "VT": 1,
       "NH": 5,
-      "ME": 4,
-      "MA": 27,
+      "ME": 3,
+      "MA": 28,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -17,7 +17,7 @@
     "by_category": {
       "dot_letting": 33,
       "news": 7,
-      "funding": 2
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -657,13 +657,13 @@
   ],
   "news": [
     {
-      "id": "728be84469ff",
-      "title": "The good, the bad, and the glitched when Mainers take tech abroad | Column",
-      "summary": "Bringing spare gear and practicing patience helps trips abroad go smoothly.",
-      "url": "https://www.pressherald.com/2026/10/22/the-good-the-bad-and-the-glitched-when-mainers-take-tech-abroad-column/",
+      "id": "541d2c03d43b",
+      "title": "At Acadia, a missing Wabanaki marker and the fight over what national parks should tell",
+      "summary": "The removal of signs on Maine's Cadillac Mountain is part of a broader legal battle with Trump administration.",
+      "url": "https://www.pressherald.com/2026/10/23/at-acadia-a-missing-wabanaki-marker-and-the-fight-over-what-national-parks-should-tell/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -671,43 +671,43 @@
       ]
     },
     {
-      "id": "d2832b14d0a2",
-      "title": "Watch: Biddeford football is the Varsity Maine boys team of the week",
-      "summary": "The Tigers' win over previously unbeaten Marshwood epitomizes their momentus turnaround in 2026.",
-      "url": "https://www.pressherald.com/2026/10/22/watch-biddeford-football-is-the-varsity-maine-boys-team-of-the-week/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-10-22",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4d1284765aaa",
-      "title": "EMDC Comprehensive Economic Development Strategy approved",
-      "summary": "The U.S. Economic Development Administration approved Eastern Maine Development Corporation \u2018s Comprehensive Economic Development Strategy, confirming its EDA funding eligibility and reinforcing its designation as an Economic Development District through March 31, 2031. Through a series of meetings",
-      "url": "https://www.bangordailynews.com/2026/10/22/bdn-maine/emdc-comprehensive-economic-development-strategy-approved/",
+      "id": "2fe6edfafda7",
+      "title": "Presque Isle council candidate for economic development and transparency",
+      "summary": "Eugene Cronin is one of three candidates for two open seats. The other two candidates declined interviews with the BDN.",
+      "url": "https://www.bangordailynews.com/2026/10/23/aroostook/aroostook-government/eugene-cronin-presque-isle-council-candidate-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-10-22",
-      "category": "funding",
+      "date": "2026-10-23",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "e048ae31df56",
-      "title": "Former NY cop charged with murder in road rage shooting, police say",
-      "summary": "The incident shut down a bridge for hours.",
-      "url": "https://www.masslive.com/news/2026/10/former-ny-cop-charged-with-murder-in-road-rage-shooting-police-say.html",
+      "id": "860d7bcfed0e",
+      "title": "Ex-NY cop\u2019s murder charge downgraded to manslaughter in road rage shooting; victim\u2019s family upset",
+      "summary": "He pleaded not guilty in court, where the family learned of the lesser charge.",
+      "url": "https://www.masslive.com/news/2026/10/ex-cops-murder-charge-downgraded-to-manslaughter-in-road-rage-shooting-victims-family-upset.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a612f3d80656",
+      "title": "Fans noticed something strange during LeBron James\u2019 76ers home debut",
+      "summary": "LeBron James\u2019 Philadelphia 76ers home debut against the Cleveland Cavaliers had ESPN viewers complaining about a strange blue tint during the broadcast.",
+      "url": "https://www.masslive.com/sports/2026/10/fans-thought-something-was-wrong-with-their-tvs-during-lebron-james-home-debut.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-23",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -722,20 +722,6 @@
       "date": "2026-10-21",
       "category": "funding",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c3635a48c970",
-      "title": "Attorneys seek spring trial for man facing murder charge in Rutland deadly police chase",
-      "summary": "The lawyer for Tate Rheaume said he was dropping his bid to move the case out of Rutland County, and instead is working on a questionnaire to screen potential jurors.\nRead the story on VTDigger here:  Attorneys seek spring trial for man facing murder charge in Rutland deadly police chase.",
-      "url": "https://vtdigger.org/2026/10/20/attorneys-seek-spring-trial-for-man-facing-murder-charge-in-rutland-deadly-police-chase/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-20",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
