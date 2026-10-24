@@ -1,22 +1,22 @@
 {
-  "generated": "2026-10-23T15:29:30.514973Z",
+  "generated": "2026-10-24T14:08:39.929126Z",
   "summary": {
-    "total_opportunities": 34,
-    "total_value_low": 2004875472,
-    "total_value_high": 2004875472,
+    "total_opportunities": 38,
+    "total_value_low": 2016898387,
+    "total_value_high": 2016898387,
     "by_state": {
       "VT": 1,
-      "NH": 5,
-      "ME": 3,
-      "MA": 28,
+      "NH": 2,
+      "ME": 4,
+      "MA": 31,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 33,
-      "news": 7,
+      "dot_letting": 37,
+      "news": 4,
       "funding": 1
     }
   },
@@ -79,25 +79,6 @@
       ]
     },
     {
-      "id": "b65c4af8f1a9",
-      "state": "MA",
-      "project_id": "611974",
-      "description": "Intersection Improvements at Main Street/South Street, Main Street/Mystic Valley Parkway Ramps and Main Street/Mystic Avenue",
-      "cost_low": 6798996,
-      "cost_high": 6798996,
-      "cost_display": "$6.8M",
-      "ad_date": "2026-09-12",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Medford",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611974",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "93958477080b",
       "state": "MA",
       "project_id": "607420",
@@ -150,25 +131,6 @@
       "location": "Shrewsbury - Worcester",
       "district": 3,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612874",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f66a41c0a6d3",
-      "state": "MA",
-      "project_id": "612193",
-      "description": "Bridge Preservation, A-09-022, I-93 over Merrimack River",
-      "cost_low": 105212926,
-      "cost_high": 105212926,
-      "cost_display": "$105.2M",
-      "ad_date": "2026-08-22",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Andover",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612193",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -385,6 +347,25 @@
       ]
     },
     {
+      "id": "b65c4af8f1a9",
+      "state": "MA",
+      "project_id": "611974",
+      "description": "Intersection Improvements at Main Street/South Street, Main Street/Mystic Valley Parkway Ramps and Main Street/Mystic Avenue",
+      "cost_low": 6798996,
+      "cost_high": 6798996,
+      "cost_display": "$6.8M",
+      "ad_date": "2026-09-12",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Medford",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611974",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "feaf8c13ce2e",
       "state": "MA",
       "project_id": "609068",
@@ -424,6 +405,44 @@
       ]
     },
     {
+      "id": "2c6a8be085f4",
+      "state": "MA",
+      "project_id": "616396",
+      "description": "Scheduled and Emergency Drainage, Slope, and Roadway Repairs/Improvements at Various Locations on I-90",
+      "cost_low": 1730205,
+      "cost_high": 1730205,
+      "cost_display": "$1.7M",
+      "ad_date": "2026-10-24",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616396",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8c8ccfb863f5",
+      "state": "MA",
+      "project_id": "616472",
+      "description": "Deployment of Temporary Traffic Control Devices at Various Locations",
+      "cost_low": 2094454,
+      "cost_high": 2094454,
+      "cost_display": "$2.1M",
+      "ad_date": "2026-10-24",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "District 2",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616472",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "ca16ed0f6af7",
       "state": "MA",
       "project_id": "614099",
@@ -437,6 +456,25 @@
       "location": "District 3",
       "district": 3,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614099",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b85572249df2",
+      "state": "MA",
+      "project_id": "616482",
+      "description": "Deployment of Temporary Traffic Control at Various Locations",
+      "cost_low": 1714210,
+      "cost_high": 1714210,
+      "cost_display": "$1.7M",
+      "ad_date": "2026-10-24",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616482",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -475,6 +513,44 @@
       "location": "Huntington",
       "district": 1,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613185",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f66a41c0a6d3",
+      "state": "MA",
+      "project_id": "612193",
+      "description": "Bridge Preservation, A-09-022, I-93 over Merrimack River",
+      "cost_low": 105212926,
+      "cost_high": 105212926,
+      "cost_display": "$105.2M",
+      "ad_date": "2026-08-22",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Andover",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612193",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "360aad670ef7",
+      "state": "MA",
+      "project_id": "614107",
+      "description": "Scheduled and Emergency Drawbridge Operation, Repairs and Related Work at Various Locations",
+      "cost_low": 6484046,
+      "cost_high": 6484046,
+      "cost_display": "$6.5M",
+      "ad_date": "2026-10-24",
+      "let_date": null,
+      "project_type": "Drawbridge Maintenance",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614107",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -657,13 +733,27 @@
   ],
   "news": [
     {
-      "id": "541d2c03d43b",
-      "title": "At Acadia, a missing Wabanaki marker and the fight over what national parks should tell",
-      "summary": "The removal of signs on Maine's Cadillac Mountain is part of a broader legal battle with Trump administration.",
-      "url": "https://www.pressherald.com/2026/10/23/at-acadia-a-missing-wabanaki-marker-and-the-fight-over-what-national-parks-should-tell/",
+      "id": "d3ffe4ed23d9",
+      "title": "Henry Ingwersen deserves a third term | Letter",
+      "summary": "Why should people vote for Henry Ingwersen to serve a third term in the Maine Senate, representing Arundel, Biddeford, Dayton, Hollis and Lyman? There are many reasons, but I\u2019ll focus on one: childcare. I\u2019ve known Henry for over 30 years, since he taught my son at an alternative elementary school in",
+      "url": "https://www.pressherald.com/2026/10/24/henry-ingwersen-deserves-a-third-term-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6e56f3708a19",
+      "title": "Solar farm development will be good for Jay | Letter",
+      "summary": "Steady jobs and other benefits lie in wait for the town.",
+      "url": "https://www.pressherald.com/2026/10/24/solar-farm-development-will-be-good-for-jay-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-24",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -671,43 +761,29 @@
       ]
     },
     {
-      "id": "2fe6edfafda7",
-      "title": "Presque Isle council candidate for economic development and transparency",
-      "summary": "Eugene Cronin is one of three candidates for two open seats. The other two candidates declined interviews with the BDN.",
-      "url": "https://www.bangordailynews.com/2026/10/23/aroostook/aroostook-government/eugene-cronin-presque-isle-council-candidate-joam40zk0w/",
+      "id": "77025a567286",
+      "title": "GameDay crowd wants Saban shirtless after McAfee sheds clothes",
+      "summary": "Crowd cheers for Saban to lose shirt just minutes into broadcast.",
+      "url": "https://www.masslive.com/sports/2026/10/gameday-crowd-wants-nick-saban-shirtless-after-pat-mcafee-sheds-clothes-hugs-coach-bare-chested.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "05cc29bfb718",
+      "title": "Donald Trump to lift some Canadian tariffs",
+      "summary": "The Wall Street Journal first reported the plan, describing it as a bid to help Sen. Susan Collins' reelection campaign.",
+      "url": "https://www.bangordailynews.com/2026/10/23/politics/elections/wsj-trump-expected-to-lift-canada-tariffs-help-susan-collins/",
       "source": "Bangor Daily News",
       "state": "ME",
       "date": "2026-10-23",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "860d7bcfed0e",
-      "title": "Ex-NY cop\u2019s murder charge downgraded to manslaughter in road rage shooting; victim\u2019s family upset",
-      "summary": "He pleaded not guilty in court, where the family learned of the lesser charge.",
-      "url": "https://www.masslive.com/news/2026/10/ex-cops-murder-charge-downgraded-to-manslaughter-in-road-rage-shooting-victims-family-upset.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a612f3d80656",
-      "title": "Fans noticed something strange during LeBron James\u2019 76ers home debut",
-      "summary": "LeBron James\u2019 Philadelphia 76ers home debut against the Cleveland Cavaliers had ESPN viewers complaining about a strange blue tint during the broadcast.",
-      "url": "https://www.masslive.com/sports/2026/10/fans-thought-something-was-wrong-with-their-tvs-during-lebron-james-home-debut.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-23",
-      "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -721,48 +797,6 @@
       "state": "NH",
       "date": "2026-10-21",
       "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2f24ccd2c401",
-      "title": "Statewide Petition Seeks to End Local Police Departments\u2019 Role in Immigration Efforts",
-      "summary": "A coalition of advocacy groups has gained support from people from 80% of the municipalities in New Hampshire for a petition to have 29 police agencies in the state exit a program run by Immigrations and Customs Enforcement (ICE), where they perform immigration officer functions under the direction",
-      "url": "https://indepthnh.org/2026/10/20/statewide-petition-seeks-to-end-local-police-departments-role-in-immigration-efforts/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "75bbf2a36c00",
-      "title": "Proclamations and Bridge Illumination for 70th Anniversary of 1956 Hungarian Revolution",
-      "summary": "New Hampshire Governor Ayotte and Portsmouth Mayor McEachern have both issued proclamations that declare Oct. 23, \u201cHungarian Freedom and Democracy Day\u201d.\nThe post Proclamations and Bridge Illumination for 70th Anniversary of 1956 Hungarian Revolution appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/10/20/proclamations-and-bridge-illumination-for-70th-anniversary-of-1956-hungarian-revolution/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-20",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0ca329ec0231",
-      "title": "Department of Justice Secures Jury Verdict in Support of Construction of Exit 4a on I-9",
-      "summary": "Attorney General John M. Formella announces that the Department of Justice obtained a jury verdict affirming that the New Hampshire Department of Transportation\u2019s acquisition of land and construction of Exit 4a off I-93 was for the public\u2019s use, that it was necessary and reasonable, and that there w",
-      "url": "https://indepthnh.org/2026/10/20/department-of-justice-secures-jury-verdict-in-support-of-construction-of-exit-4a-on-i-9/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-20",
-      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
