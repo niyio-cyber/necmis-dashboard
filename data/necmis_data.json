@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-24T14:08:39.929126Z",
+  "generated": "2026-10-25T14:36:33.697353Z",
   "summary": {
     "total_opportunities": 38,
     "total_value_low": 2016898387,
     "total_value_high": 2016898387,
     "by_state": {
-      "VT": 1,
-      "NH": 2,
-      "ME": 4,
-      "MA": 31,
+      "VT": 2,
+      "NH": 1,
+      "ME": 2,
+      "MA": 32,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 37,
-      "news": 4,
+      "news": 3,
       "funding": 1
     }
   },
@@ -733,27 +733,13 @@
   ],
   "news": [
     {
-      "id": "d3ffe4ed23d9",
-      "title": "Henry Ingwersen deserves a third term | Letter",
-      "summary": "Why should people vote for Henry Ingwersen to serve a third term in the Maine Senate, representing Arundel, Biddeford, Dayton, Hollis and Lyman? There are many reasons, but I\u2019ll focus on one: childcare. I\u2019ve known Henry for over 30 years, since he taught my son at an alternative elementary school in",
-      "url": "https://www.pressherald.com/2026/10/24/henry-ingwersen-deserves-a-third-term-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-10-24",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6e56f3708a19",
-      "title": "Solar farm development will be good for Jay | Letter",
-      "summary": "Steady jobs and other benefits lie in wait for the town.",
-      "url": "https://www.pressherald.com/2026/10/24/solar-farm-development-will-be-good-for-jay-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-10-24",
+      "id": "255bf860b6a5",
+      "title": "\u2018Anti-homelessness landscaping\u2019 in Middlebury raises questions over approaches to rural encampments",
+      "summary": "As winter approaches and debates rage in Montpelier over Vermont\u2019s approach to homelessness, the small municipality faces a difficult balance between the competing needs of its constituents.\nRead the story on VTDigger here:  \u2018Anti-homelessness landscaping\u2019 in Middlebury raises questions over approa",
+      "url": "https://vtdigger.org/2026/10/25/anti-homelessness-landscaping-in-middlebury-raises-questions-over-approaches-to-rural-encampments/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-10-25",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -761,43 +747,43 @@
       ]
     },
     {
-      "id": "77025a567286",
-      "title": "GameDay crowd wants Saban shirtless after McAfee sheds clothes",
-      "summary": "Crowd cheers for Saban to lose shirt just minutes into broadcast.",
-      "url": "https://www.masslive.com/sports/2026/10/gameday-crowd-wants-nick-saban-shirtless-after-pat-mcafee-sheds-clothes-hugs-coach-bare-chested.html",
+      "id": "f5eadd61cdb1",
+      "title": "Let\u2019s do political campaigning the Irish way | Letter",
+      "summary": "Regarding the Oct. 18 report \u201cIt\u2019s not your imagination \u2014 you\u2019re being bombarded with political ads this election,\u201d I have an idea for Maine elections gleaned from my years of teaching in Ireland. Paid political advertising is generally not permitted on broadcast media in Ireland. Thirty days before",
+      "url": "https://www.pressherald.com/2026/10/25/lets-do-political-campaigning-the-irish-way-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-25",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5740aa59eec8",
+      "title": "A wildfire, a construction nightmare and $80K monthly rent pushed Marmalade Cafe into bankruptcy",
+      "summary": "The brunch chain joins FAT Brands and a major Carl's Jr. franchisee in a growing wave of California restaurant bankruptcies in 2026.",
+      "url": "https://www.masslive.com/food/2026/10/a-landlords-refusal-to-offer-rent-relief-helped-drive-this-iconic-california-cafe-chain-into-bankruptcy.html",
       "source": "MassLive",
       "state": "MA",
-      "date": "2026-10-24",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "05cc29bfb718",
-      "title": "Donald Trump to lift some Canadian tariffs",
-      "summary": "The Wall Street Journal first reported the plan, describing it as a bid to help Sen. Susan Collins' reelection campaign.",
-      "url": "https://www.bangordailynews.com/2026/10/23/politics/elections/wsj-trump-expected-to-lift-canada-tariffs-help-susan-collins/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-23",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7821f3317714",
-      "title": "YDC Claims Receives $35M, Administrator Praised For Asking Lawyers To Take Less",
-      "summary": "The state's Youth Development Center claims administrator received approval for an additional $35 million to pay abuse victims Wednesday from the state's Executive Council and received praise for asking lawyers to take 25 percent rather than 33 percent of the claims from their clients.\nThe post YDC",
-      "url": "https://indepthnh.org/2026/10/21/ydc-claims-administrator-receives-35m-praised-for-asking-lawyers-to-take-less-in-fee/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-21",
+      "date": "2026-10-25",
       "category": "funding",
       "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "21ac40c35c6a",
+      "title": "Hunter Biden vs. Donald Trump Jr. in 2028? New poll shows surprising results.",
+      "summary": "Likely voters were split on who they would support in a hypothetical match-up between Hunter Biden and Donald Trump Jr.",
+      "url": "https://www.masslive.com/politics/2026/10/hunter-biden-vs-donald-trump-jr-in-2028-new-poll-shows-surprising-results.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-25",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
