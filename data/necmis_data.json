@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T14:36:33.697353Z",
+  "generated": "2026-10-26T17:01:40.245688Z",
   "summary": {
     "total_opportunities": 38,
     "total_value_low": 2016898387,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 2,
       "NH": 1,
-      "ME": 2,
-      "MA": 32,
+      "ME": 4,
+      "MA": 33,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 37,
-      "news": 3,
+      "news": 6,
       "funding": 1
     }
   },
@@ -733,6 +733,90 @@
   ],
   "news": [
     {
+      "id": "0f2771995945",
+      "title": "Former Lisbon lettuce grower Springworks Farm sold for $1.1 million at auction",
+      "summary": "A Lisbon private investor had the winning bid for the farm, which at one time was a major supplier of greens to Hannaford and other grocery chains.",
+      "url": "https://www.pressherald.com/2026/10/26/former-lisbon-lettuce-grower-springworks-farm-sold-for-1-1-million-at-auction/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-26",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "13234550ca17",
+      "title": "Sophie Warren for Maine State Senate | Letter",
+      "summary": "I am writing to endorse Sophie Warren for the Maine State Senate. While I am often overwhelmed by the way we can treat each other in this country, I must remind myself: community is the antidote to anxiety, and there are people fighting for a kinder America \u2014 an America that protects those historica",
+      "url": "https://www.pressherald.com/2026/10/26/sophie-warren-for-maine-state-senate-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-26",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8b14472b9476",
+      "title": "2nd Annual Somerset Job and Resource Fair Wednesday",
+      "summary": "BINGHAM \u2014 The Somerset Economic Development Corp. is hosting the 2nd Annual Somerset Job and Resource Fair on Wednesday, Oct. 28 \u2014 free to all attendees \u2014 at 263 Main St. (the former Quimby School). The goal is for Mainers to find their next great job and/or the help they need in fine-tuning their j",
+      "url": "https://www.bangordailynews.com/2026/10/26/bdn-maine/2nd-annual-somerset-job-and-resource-fair-wednesday/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "60c58c6980eb",
+      "title": "The Boston area is getting a new bakery from the team behind Cambridge ice cream shop",
+      "summary": "Inspired by \"the same small-batch, from-scratch sensibilities\" as the ice cream shop, the bakery will feature tons of sweet and savory treats.",
+      "url": "https://www.masslive.com/boston/2026/10/beloved-boston-area-ice-cream-shop-to-open-bakery-next-to-parlor.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-26",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "27c9d4d5609c",
+      "title": "Northampton motorcycle crash kills 21-year-old man",
+      "summary": "A 21-year-old motorcyclist was fatally injured Sunday evening after his motorcycle struck a cluster of trees along a Northampton roadside.",
+      "url": "https://www.masslive.com/westernmass/2026/10/motorcyclist-dies-after-crashing-into-trees-along-northampton-roadside.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1b020bf63c57",
+      "title": "This sport rising in popularity in US and abroad",
+      "summary": "\u201cIt's a safe, effective ... for children, women and people of smaller body size.\u201d",
+      "url": "https://www.masslive.com/sports/2026/10/this-sport-rising-in-popularity-in-us-and-abroad.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-26",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "255bf860b6a5",
       "title": "\u2018Anti-homelessness landscaping\u2019 in Middlebury raises questions over approaches to rural encampments",
       "summary": "As winter approaches and debates rage in Montpelier over Vermont\u2019s approach to homelessness, the small municipality faces a difficult balance between the competing needs of its constituents.\nRead the story on VTDigger here:  \u2018Anti-homelessness landscaping\u2019 in Middlebury raises questions over approa",
@@ -742,48 +826,6 @@
       "date": "2026-10-25",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f5eadd61cdb1",
-      "title": "Let\u2019s do political campaigning the Irish way | Letter",
-      "summary": "Regarding the Oct. 18 report \u201cIt\u2019s not your imagination \u2014 you\u2019re being bombarded with political ads this election,\u201d I have an idea for Maine elections gleaned from my years of teaching in Ireland. Paid political advertising is generally not permitted on broadcast media in Ireland. Thirty days before",
-      "url": "https://www.pressherald.com/2026/10/25/lets-do-political-campaigning-the-irish-way-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-10-25",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5740aa59eec8",
-      "title": "A wildfire, a construction nightmare and $80K monthly rent pushed Marmalade Cafe into bankruptcy",
-      "summary": "The brunch chain joins FAT Brands and a major Carl's Jr. franchisee in a growing wave of California restaurant bankruptcies in 2026.",
-      "url": "https://www.masslive.com/food/2026/10/a-landlords-refusal-to-offer-rent-relief-helped-drive-this-iconic-california-cafe-chain-into-bankruptcy.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-25",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "21ac40c35c6a",
-      "title": "Hunter Biden vs. Donald Trump Jr. in 2028? New poll shows surprising results.",
-      "summary": "Likely voters were split on who they would support in a hypothetical match-up between Hunter Biden and Donald Trump Jr.",
-      "url": "https://www.masslive.com/politics/2026/10/hunter-biden-vs-donald-trump-jr-in-2028-new-poll-shows-surprising-results.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-25",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
