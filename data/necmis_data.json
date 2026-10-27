@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-26T17:01:40.245688Z",
+  "generated": "2026-10-27T16:04:38.371170Z",
   "summary": {
     "total_opportunities": 38,
     "total_value_low": 2016898387,
     "total_value_high": 2016898387,
     "by_state": {
-      "VT": 2,
+      "VT": 4,
       "NH": 1,
-      "ME": 4,
-      "MA": 33,
+      "ME": 2,
+      "MA": 30,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 37,
-      "news": 6,
+      "news": 3,
       "funding": 1
     }
   },
@@ -733,85 +733,43 @@
   ],
   "news": [
     {
-      "id": "0f2771995945",
-      "title": "Former Lisbon lettuce grower Springworks Farm sold for $1.1 million at auction",
-      "summary": "A Lisbon private investor had the winning bid for the farm, which at one time was a major supplier of greens to Hannaford and other grocery chains.",
-      "url": "https://www.pressherald.com/2026/10/26/former-lisbon-lettuce-grower-springworks-farm-sold-for-1-1-million-at-auction/",
+      "id": "b51625a304c3",
+      "title": "Does Biddeford prohibit camping in city parks? | Fact brief",
+      "summary": "In 2024, officials adopted a plan prohibiting camping on all city-owned land.",
+      "url": "https://www.pressherald.com/2026/10/27/does-biddeford-prohibit-camping-in-city-parks-fact-brief/",
       "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-10-27",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3642ac934aa6",
+      "title": "Voter voices from the Upper Valley",
+      "summary": "A Saturday snapshot from the Norwich Farmers\u2019 Market just over two weeks ahead of Election Day shows some former Scott voters growing skeptical about the governor\u2019s bid for reelection.\nRead the story on VTDigger here:  Voter voices from the Upper Valley.",
+      "url": "https://vtdigger.org/2026/10/26/voter-voices-from-the-upper-valley/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-10-26",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fb1bd41a969d",
+      "title": "Supporters raise offer for Rice Memorial High in hopes of spurring court approval of sale",
+      "summary": "A nonprofit aiming to save the South Burlington parochial school campus from potential Chapter 11 liquidation has increased its bid to $5.9 million.\nRead the story on VTDigger here:  Supporters raise offer for Rice Memorial High in hopes of spurring court approval of sale.",
+      "url": "https://vtdigger.org/2026/10/26/supporters-raise-offer-for-rice-memorial-high-in-hopes-of-spurring-court-approval-of-sale/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-10-26",
       "category": "funding",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "13234550ca17",
-      "title": "Sophie Warren for Maine State Senate | Letter",
-      "summary": "I am writing to endorse Sophie Warren for the Maine State Senate. While I am often overwhelmed by the way we can treat each other in this country, I must remind myself: community is the antidote to anxiety, and there are people fighting for a kinder America \u2014 an America that protects those historica",
-      "url": "https://www.pressherald.com/2026/10/26/sophie-warren-for-maine-state-senate-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-10-26",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8b14472b9476",
-      "title": "2nd Annual Somerset Job and Resource Fair Wednesday",
-      "summary": "BINGHAM \u2014 The Somerset Economic Development Corp. is hosting the 2nd Annual Somerset Job and Resource Fair on Wednesday, Oct. 28 \u2014 free to all attendees \u2014 at 263 Main St. (the former Quimby School). The goal is for Mainers to find their next great job and/or the help they need in fine-tuning their j",
-      "url": "https://www.bangordailynews.com/2026/10/26/bdn-maine/2nd-annual-somerset-job-and-resource-fair-wednesday/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "60c58c6980eb",
-      "title": "The Boston area is getting a new bakery from the team behind Cambridge ice cream shop",
-      "summary": "Inspired by \"the same small-batch, from-scratch sensibilities\" as the ice cream shop, the bakery will feature tons of sweet and savory treats.",
-      "url": "https://www.masslive.com/boston/2026/10/beloved-boston-area-ice-cream-shop-to-open-bakery-next-to-parlor.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-26",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "27c9d4d5609c",
-      "title": "Northampton motorcycle crash kills 21-year-old man",
-      "summary": "A 21-year-old motorcyclist was fatally injured Sunday evening after his motorcycle struck a cluster of trees along a Northampton roadside.",
-      "url": "https://www.masslive.com/westernmass/2026/10/motorcyclist-dies-after-crashing-into-trees-along-northampton-roadside.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-26",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1b020bf63c57",
-      "title": "This sport rising in popularity in US and abroad",
-      "summary": "\u201cIt's a safe, effective ... for children, women and people of smaller body size.\u201d",
-      "url": "https://www.masslive.com/sports/2026/10/this-sport-rising-in-popularity-in-us-and-abroad.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-26",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
