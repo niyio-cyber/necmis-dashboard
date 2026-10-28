@@ -1,141 +1,26 @@
 {
-  "generated": "2026-10-27T16:04:38.371170Z",
+  "generated": "2026-10-28T16:51:17.041501Z",
   "summary": {
-    "total_opportunities": 38,
-    "total_value_low": 2016898387,
-    "total_value_high": 2016898387,
+    "total_opportunities": 32,
+    "total_value_low": 1933538680,
+    "total_value_high": 1933538680,
     "by_state": {
       "VT": 4,
-      "NH": 1,
+      "NH": 2,
       "ME": 2,
-      "MA": 30,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 37,
-      "news": 3,
+      "dot_letting": 31,
+      "news": 5,
       "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "a859e41ae84b",
-      "state": "MA",
-      "project_id": "616408",
-      "description": "Scheduled and Emergency Cleaning of Drainage Structures and Pipes at Various Locations",
-      "cost_low": 1350000,
-      "cost_high": 1350000,
-      "cost_display": "$1.4M",
-      "ad_date": "2026-10-03",
-      "let_date": null,
-      "project_type": "Catch Basin Cleaning",
-      "location": "District 5",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616408",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8019e7b14f0f",
-      "state": "MA",
-      "project_id": "614064",
-      "description": "Maintenance of MHS Communications Systems at Various Locations",
-      "cost_low": 3414900,
-      "cost_high": 3414900,
-      "cost_display": "$3.4M",
-      "ad_date": "2026-09-26",
-      "let_date": null,
-      "project_type": "Intelligent Transportation Systems",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614064",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e01bb52423d7",
-      "state": "MA",
-      "project_id": "616507",
-      "description": "Generator Maintenance and Testing at Various Locations (3 Yrs)",
-      "cost_low": 838100,
-      "cost_high": 838100,
-      "cost_display": "$838K",
-      "ad_date": "2026-10-03",
-      "let_date": null,
-      "project_type": "DCAMM-Mechanical Systems",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616507",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "93958477080b",
-      "state": "MA",
-      "project_id": "607420",
-      "description": "Bridge Replacement, N-03-012, Boden Lane over CSX/MBTA",
-      "cost_low": 12897887,
-      "cost_high": 12897887,
-      "cost_display": "$12.9M",
-      "ad_date": "2026-09-05",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Natick",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=607420",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "0268ee45531f",
-      "state": "MA",
-      "project_id": "610825",
-      "description": "Rehabilitation & Box Widening on Route 20, from Route 9 to South Street",
-      "cost_low": 38747180,
-      "cost_high": 38747180,
-      "cost_display": "$38.7M",
-      "ad_date": "2026-08-29",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Northborough - Shrewsbury",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610825",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "85ddbcac9ee7",
-      "state": "MA",
-      "project_id": "612874",
-      "description": "Bridge Preservation, S-14-021=W-44-115, I-290 (EB and WB) over Lake Quinsigamond and Lake Avenue North",
-      "cost_low": 26111640,
-      "cost_high": 26111640,
-      "cost_display": "$26.1M",
-      "ad_date": "2026-08-29",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Shrewsbury - Worcester",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612874",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "c972f2fbc524",
       "state": "MA",
@@ -733,15 +618,57 @@
   ],
   "news": [
     {
-      "id": "b51625a304c3",
-      "title": "Does Biddeford prohibit camping in city parks? | Fact brief",
-      "summary": "In 2024, officials adopted a plan prohibiting camping on all city-owned land.",
-      "url": "https://www.pressherald.com/2026/10/27/does-biddeford-prohibit-camping-in-city-parks-fact-brief/",
+      "id": "5176cabfc7ee",
+      "title": "This Maine man dresses \u2018The Masked Singer\u2019",
+      "summary": "Luke D'Alessandro, who grew up in Biddeford, won an Emmy for his work as a costume designer on the Fox show. He's also worked in film and theater.",
+      "url": "https://www.pressherald.com/2026/10/28/this-maine-man-dresses-the-masked-singer/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "7e12e1cc0dad",
+      "title": "Governor calls deadly tornado in Turkey a very unusual natural phenomenon",
+      "summary": "A rare tornado struck a construction site in Antalya, Turkey, killing four workers staying in shipping containers. The governor called it \u201ca very unusual natural phenomenon\u201d ahead of the city\u2019s COP31 climate summit.",
+      "url": "https://www.masslive.com/news/2026/10/what-we-know-about-the-rare-tornado-that-killed-4-workers-in-turkey.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-28",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3d4e8b4d2ea3",
+      "title": "Pownal will consider a 5-year permitting pause on data center facilities",
+      "summary": "The selectboard is considering a moratorium amid concerns the former Green Mountain Race Track site could be targeted for a large facility.\nRead the story on VTDigger here:  Pownal will consider a 5-year permitting pause on data center facilities.",
+      "url": "https://vtdigger.org/2026/10/27/pownal-will-consider-a-5-year-permitting-pause-on-data-center-facilities/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-10-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "bea497513731",
+      "title": "Meredith Selectmen Pressed To Take Action To Save Camp Menotomy From Development",
+      "summary": "While a Massachusetts judge has paved the way for a summer girls camp on Lake Winnipesaukee to be sold to a developer, town officials were asked Monday by more than 50 residents to get the state to intervene in an appeal to keep Camp Menotomy the 94 acres of undeveloped shorefront property.\nThe post",
+      "url": "https://indepthnh.org/2026/10/27/meredith-selectmen-pressed-to-take-action-to-save-camp-menotomy-from-development/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-10-27",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -770,20 +697,6 @@
       "date": "2026-10-26",
       "category": "funding",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "255bf860b6a5",
-      "title": "\u2018Anti-homelessness landscaping\u2019 in Middlebury raises questions over approaches to rural encampments",
-      "summary": "As winter approaches and debates rage in Montpelier over Vermont\u2019s approach to homelessness, the small municipality faces a difficult balance between the competing needs of its constituents.\nRead the story on VTDigger here:  \u2018Anti-homelessness landscaping\u2019 in Middlebury raises questions over approa",
-      "url": "https://vtdigger.org/2026/10/25/anti-homelessness-landscaping-in-middlebury-raises-questions-over-approaches-to-rural-encampments/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-25",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
