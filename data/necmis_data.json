@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T16:51:17.041501Z",
+  "generated": "2026-10-29T17:06:31.223796Z",
   "summary": {
     "total_opportunities": 32,
     "total_value_low": 1933538680,
@@ -202,7 +202,7 @@
       "cost_display": "$770K",
       "ad_date": "2026-10-17",
       "let_date": null,
-      "project_type": "Traffic Signals",
+      "project_type": "Highway - Construction",
       "location": "District 6",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616513",
@@ -618,26 +618,54 @@
   ],
   "news": [
     {
-      "id": "5176cabfc7ee",
-      "title": "This Maine man dresses \u2018The Masked Singer\u2019",
-      "summary": "Luke D'Alessandro, who grew up in Biddeford, won an Emmy for his work as a costume designer on the Fox show. He's also worked in film and theater.",
-      "url": "https://www.pressherald.com/2026/10/28/this-maine-man-dresses-the-masked-singer/",
+      "id": "6119ef95d2d0",
+      "title": "Lewiston-Auburn Boys & Girls Club chapter hit by more cuts in grant funding",
+      "summary": "The Boys & Girls Club of Southern Maine lost 50% of a federal grant it relies on to fund its after-school programming.",
+      "url": "https://www.pressherald.com/2026/10/29/lewiston-auburn-boys-girls-club-chapter-hit-by-more-cuts-in-grant-funding/",
       "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-10-29",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "001b3aef5cf4",
+      "title": "Authorities ID motorcyclist who died after crash along Northampton roadside",
+      "summary": "A 21-year-old Florence man died Sunday after his motorcycle struck a cluster of trees on the side of the road.",
+      "url": "https://www.masslive.com/westernmass/2026/10/authorities-identify-motorcyclist-who-died-after-crashing-into-trees-along-northampton-roadside.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-29",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "94baf17d6753",
+      "title": "Voter voices: At the Cambridge dump, unease about Vermont\u2019s future",
+      "summary": "Benton Donlevy wants to buy a house, but \u201cthere\u2019s a lot of factors making that pretty difficult right now,\u201d the 25-year-old from Jeffersonville said.\nRead the story on VTDigger here:  Voter voices: At the Cambridge dump, unease about Vermont\u2019s future.",
+      "url": "https://vtdigger.org/2026/10/28/voter-voices-at-the-cambridge-dump-unease-about-vermonts-future/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-10-28",
       "category": "news",
       "priority": "high",
       "business_lines": [
-        "aggregates"
+        "highway"
       ]
     },
     {
-      "id": "7e12e1cc0dad",
-      "title": "Governor calls deadly tornado in Turkey a very unusual natural phenomenon",
-      "summary": "A rare tornado struck a construction site in Antalya, Turkey, killing four workers staying in shipping containers. The governor called it \u201ca very unusual natural phenomenon\u201d ahead of the city\u2019s COP31 climate summit.",
-      "url": "https://www.masslive.com/news/2026/10/what-we-know-about-the-rare-tornado-that-killed-4-workers-in-turkey.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "b29f425b35c1",
+      "title": "Vermont Conversation: Bill McKibben sees a nation at a crossroads as he barnstorms battleground states",
+      "summary": "\"We tell ourselves that this is the richest country on Earth,\" said the author and environmental activist. \"But man, for the most part in this country, there are a lot of people just barely getting by.\"\nRead the story on VTDigger here:  Vermont Conversation: Bill McKibben sees a nation at a crossro",
+      "url": "https://vtdigger.org/2026/10/28/vermont-conversation-bill-mckibben-sees-a-nation-at-a-crossroads-as-he-barnstorms-battleground-states/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-10-28",
       "category": "news",
       "priority": "medium",
@@ -669,34 +697,6 @@
       "date": "2026-10-27",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3642ac934aa6",
-      "title": "Voter voices from the Upper Valley",
-      "summary": "A Saturday snapshot from the Norwich Farmers\u2019 Market just over two weeks ahead of Election Day shows some former Scott voters growing skeptical about the governor\u2019s bid for reelection.\nRead the story on VTDigger here:  Voter voices from the Upper Valley.",
-      "url": "https://vtdigger.org/2026/10/26/voter-voices-from-the-upper-valley/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-26",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "fb1bd41a969d",
-      "title": "Supporters raise offer for Rice Memorial High in hopes of spurring court approval of sale",
-      "summary": "A nonprofit aiming to save the South Burlington parochial school campus from potential Chapter 11 liquidation has increased its bid to $5.9 million.\nRead the story on VTDigger here:  Supporters raise offer for Rice Memorial High in hopes of spurring court approval of sale.",
-      "url": "https://vtdigger.org/2026/10/26/supporters-raise-offer-for-rice-memorial-high-in-hopes-of-spurring-court-approval-of-sale/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-26",
-      "category": "funding",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
