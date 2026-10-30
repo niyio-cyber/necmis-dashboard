@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T17:06:31.223796Z",
+  "generated": "2026-10-30T16:50:22.211443Z",
   "summary": {
     "total_opportunities": 32,
     "total_value_low": 1933538680,
@@ -7,8 +7,8 @@
     "by_state": {
       "VT": 4,
       "NH": 2,
-      "ME": 2,
-      "MA": 25,
+      "ME": 4,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 31,
-      "news": 5,
+      "news": 6,
       "funding": 1
     }
   },
@@ -618,29 +618,43 @@
   ],
   "news": [
     {
-      "id": "6119ef95d2d0",
-      "title": "Lewiston-Auburn Boys & Girls Club chapter hit by more cuts in grant funding",
-      "summary": "The Boys & Girls Club of Southern Maine lost 50% of a federal grant it relies on to fund its after-school programming.",
-      "url": "https://www.pressherald.com/2026/10/29/lewiston-auburn-boys-girls-club-chapter-hit-by-more-cuts-in-grant-funding/",
-      "source": "Portland Press Herald",
+      "id": "45ebe254a027",
+      "title": "An ICE officer has been charged after striking a man with a car in Houston",
+      "summary": "HOUSTON (AP) \u2014 A U.S. Immigration and Customs Enforcement officer accused of intentionally ramming his car into a Mexican construction worker in Houston was charged Friday with aggravated assault with a deadly weapon, prosecutors said. The Harris County District Attorney\u2019s office says Mario Alberto",
+      "url": "https://www.bangordailynews.com/2026/10/30/nation/an-ice-officer-has-been-charged-after-striking-a-man-with-a-car-in-houston/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-10-29",
-      "category": "funding",
+      "date": "2026-10-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "a9f59b979346",
+      "title": "Driver allegedly fell asleep before crashing into MaineDOT truck",
+      "summary": "The crash caused the truck to hit one of the workers standing nearby.",
+      "url": "https://www.bangordailynews.com/2026/10/30/portland/portland-police-courts/standish-maine-chadbourne-road-mainedot-truck-crash/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-30",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "001b3aef5cf4",
-      "title": "Authorities ID motorcyclist who died after crash along Northampton roadside",
-      "summary": "A 21-year-old Florence man died Sunday after his motorcycle struck a cluster of trees on the side of the road.",
-      "url": "https://www.masslive.com/westernmass/2026/10/authorities-identify-motorcyclist-who-died-after-crashing-into-trees-along-northampton-roadside.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-29",
-      "category": "news",
-      "priority": "medium",
+      "id": "dca8b446b8ad",
+      "title": "Letters: Susan Collins could have done more as chair of Appropriations",
+      "summary": "\u201cAlthough her heavily publicized ads showcase projects she has obtained funding for in Maine, our state ranks only 22nd in the nation for federal grants.\u201d",
+      "url": "https://www.bangordailynews.com/2026/10/30/opinion/letters/letters-susan-collins-could-have-done-more-as-chair-of-appropriations-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-30",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
