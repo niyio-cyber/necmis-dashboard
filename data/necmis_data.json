@@ -1,22 +1,22 @@
 {
-  "generated": "2026-10-30T16:50:22.211443Z",
+  "generated": "2026-10-31T15:53:58.576247Z",
   "summary": {
-    "total_opportunities": 32,
-    "total_value_low": 1933538680,
-    "total_value_high": 1933538680,
+    "total_opportunities": 38,
+    "total_value_low": 1951422552,
+    "total_value_high": 1951422552,
     "by_state": {
       "VT": 4,
-      "NH": 2,
-      "ME": 4,
-      "MA": 24,
+      "NH": 3,
+      "ME": 5,
+      "MA": 31,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 31,
-      "news": 6,
+      "dot_letting": 37,
+      "news": 9,
       "funding": 1
     }
   },
@@ -404,6 +404,63 @@
       ]
     },
     {
+      "id": "917bc0758716",
+      "state": "MA",
+      "project_id": "616382",
+      "description": "Scheduled & Emergency Fabrication & Installation of Overhead and Ground Mounted Guide Signs at Various Locations",
+      "cost_low": 282000,
+      "cost_high": 282000,
+      "cost_display": "$282K",
+      "ad_date": "2026-10-31",
+      "let_date": null,
+      "project_type": "Signing - Structural",
+      "location": "District 1",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616382",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "921b568df514",
+      "state": "MA",
+      "project_id": "616457",
+      "description": "Scheduled and Emergency Facility and Salt Shed Repairs and Improvements at Various Locations",
+      "cost_low": 2839900,
+      "cost_high": 2839900,
+      "cost_display": "$2.8M",
+      "ad_date": "2026-10-31",
+      "let_date": null,
+      "project_type": "DCAMM-General Building Construction",
+      "location": "District 3",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616457",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8bc7447106a3",
+      "state": "MA",
+      "project_id": "616402",
+      "description": "Scheduled and Emergency Traffic Management at Various Locations (Excluding the Islands)",
+      "cost_low": 964950,
+      "cost_high": 964950,
+      "cost_display": "$965K",
+      "ad_date": "2026-10-31",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616402",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "f66a41c0a6d3",
       "state": "MA",
       "project_id": "612193",
@@ -439,6 +496,64 @@
       "source": "MassDOT",
       "business_lines": [
         "highway"
+      ]
+    },
+    {
+      "id": "4052c85ffb35",
+      "state": "MA",
+      "project_id": "616504",
+      "description": "Roadside Maintenance on Route 16",
+      "cost_low": 700000,
+      "cost_high": 700000,
+      "cost_display": "$700K",
+      "ad_date": "2026-10-31",
+      "let_date": null,
+      "project_type": "Mowing and Spraying",
+      "location": "Chelsea - Everett - Medford - Revere",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616504",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "210aa4ab6411",
+      "state": "MA",
+      "project_id": "616511",
+      "description": "Scheduled & Emergency Structural & Substructure Repairs at Various Locations",
+      "cost_low": 8490935,
+      "cost_high": 8490935,
+      "cost_display": "$8.5M",
+      "ad_date": "2026-10-31",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616511",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ae60ab0ed3d0",
+      "state": "MA",
+      "project_id": "612089",
+      "description": "Resurfacing and Related Work on Route 131",
+      "cost_low": 4606087,
+      "cost_high": 4606087,
+      "cost_display": "$4.6M",
+      "ad_date": "2026-10-31",
+      "let_date": null,
+      "project_type": "Pavement - Surfacing",
+      "location": "Southbridge",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612089",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "hma"
       ]
     },
     {
@@ -618,27 +733,13 @@
   ],
   "news": [
     {
-      "id": "45ebe254a027",
-      "title": "An ICE officer has been charged after striking a man with a car in Houston",
-      "summary": "HOUSTON (AP) \u2014 A U.S. Immigration and Customs Enforcement officer accused of intentionally ramming his car into a Mexican construction worker in Houston was charged Friday with aggravated assault with a deadly weapon, prosecutors said. The Harris County District Attorney\u2019s office says Mario Alberto",
-      "url": "https://www.bangordailynews.com/2026/10/30/nation/an-ice-officer-has-been-charged-after-striking-a-man-with-a-car-in-houston/",
-      "source": "Bangor Daily News",
+      "id": "2ec1cb2ffae3",
+      "title": "Capturing a piece of Biddeford history, one item at a time: Cultural group plans time capsule",
+      "summary": "The capsule representing the Biddeford of today will be displayed at City Hall until it is opened in 2076.",
+      "url": "https://www.pressherald.com/2026/10/31/capturing-a-piece-of-biddeford-history-one-item-at-a-time-cultural-group-plans-time-capsule/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-30",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "a9f59b979346",
-      "title": "Driver allegedly fell asleep before crashing into MaineDOT truck",
-      "summary": "The crash caused the truck to hit one of the workers standing nearby.",
-      "url": "https://www.bangordailynews.com/2026/10/30/portland/portland-police-courts/standish-maine-chadbourne-road-mainedot-truck-crash/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -646,12 +747,96 @@
       ]
     },
     {
-      "id": "dca8b446b8ad",
-      "title": "Letters: Susan Collins could have done more as chair of Appropriations",
-      "summary": "\u201cAlthough her heavily publicized ads showcase projects she has obtained funding for in Maine, our state ranks only 22nd in the nation for federal grants.\u201d",
-      "url": "https://www.bangordailynews.com/2026/10/30/opinion/letters/letters-susan-collins-could-have-done-more-as-chair-of-appropriations-joam40zk0w/",
+      "id": "108892f3e91a",
+      "title": "Portland football uses big plays to win Battle of the Bridge",
+      "summary": "Despite its setback, South Portland may have gotten into the Class A South playoffs.",
+      "url": "https://www.pressherald.com/2026/10/30/portland-uses-big-plays-to-win-battle-of-the-bridge/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-10-31",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e620d4b657c1",
+      "title": "Maine is better when we work together",
+      "summary": "\u201cAs we confront challenges such as affordable housing, food insecurity, workforce development, and keeping more wealth in Maine communities, cooperation can be part of the solution.\u201d",
+      "url": "https://www.bangordailynews.com/2026/10/31/opinion/opinion-contributor/maine-is-better-when-we-work-together-joam40zk0w/",
       "source": "Bangor Daily News",
       "state": "ME",
+      "date": "2026-10-31",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "04496fa771b0",
+      "title": "Few know about this trail in Acadia National Park",
+      "summary": "Acorns rolled and crunched beneath my boots as I followed Breakneck Road deeper into the wilderness of Acadia National Park.",
+      "url": "https://www.bangordailynews.com/2026/10/31/outdoors/act-out/hidden-trail-in-acadia-national-park-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-10-31",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f549684852e8",
+      "title": "Cambridge's Lizard Lounge to close after nearly 30 years",
+      "summary": "One of Massachusetts\u2019 most iconic venues is closing after nearly three decades of late nights and live music.",
+      "url": "https://www.masslive.com/news/2026/10/landmark-mass-music-venue-set-to-close-after-30-years.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-10-31",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "18a41917b479",
+      "title": "Community nurse programs are getting a lot of airtime this election. Here\u2019s how they work.",
+      "summary": "The nurses can\u2019t provide hands-on care or bill an insurer but instead offer a broader, holistic suite of support.\nRead the story on VTDigger here:  Community nurse programs are getting a lot of airtime this election. Here\u2019s how they work..",
+      "url": "https://vtdigger.org/2026/10/30/community-nurse-programs-are-getting-a-lot-of-airtime-this-election-heres-how-they-work/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-10-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "72f2b27f0a58",
+      "title": "U.S. Senate Candidate Pappas Holds Press Conference with Planned Parenthood President",
+      "summary": "U.S. Senate candidate Rep. Chris Pappas (D-NH) holds a press conference with Planned Parenthood Pres. Alexis McGill Johnson on Friday. InDepthNH.org is partnering with C-SPAN\u2019s Campaign 2026\u00a0initiative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail.\u00a0\nThe post U.S. Senate Candidate",
+      "url": "https://indepthnh.org/2026/10/30/u-s-senate-candidate-pappas-holds-press-conference-with-planned-parenthood-president/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-10-30",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "6218456051ce",
+      "title": "Five Lakes Region towns begin diverting waste with federal composting pilot program",
+      "summary": "A small group of Ashland area residents working on re-starting a community garden are among many of the beneficiaries of a federal grant given to the Lakes Region that aims to reduce waste through composting.\nThe post Five Lakes Region towns begin diverting waste with federal composting pilot progr",
+      "url": "https://indepthnh.org/2026/10/30/five-lakes-region-towns-begin-diverting-waste-with-federal-composting-pilot-program/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-10-30",
       "category": "funding",
       "priority": "high",
@@ -681,34 +866,6 @@
       "source": "VTDigger",
       "state": "VT",
       "date": "2026-10-28",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3d4e8b4d2ea3",
-      "title": "Pownal will consider a 5-year permitting pause on data center facilities",
-      "summary": "The selectboard is considering a moratorium amid concerns the former Green Mountain Race Track site could be targeted for a large facility.\nRead the story on VTDigger here:  Pownal will consider a 5-year permitting pause on data center facilities.",
-      "url": "https://vtdigger.org/2026/10/27/pownal-will-consider-a-5-year-permitting-pause-on-data-center-facilities/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-27",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bea497513731",
-      "title": "Meredith Selectmen Pressed To Take Action To Save Camp Menotomy From Development",
-      "summary": "While a Massachusetts judge has paved the way for a summer girls camp on Lake Winnipesaukee to be sold to a developer, town officials were asked Monday by more than 50 residents to get the state to intervene in an appeal to keep Camp Menotomy the 94 acres of undeveloped shorefront property.\nThe post",
-      "url": "https://indepthnh.org/2026/10/27/meredith-selectmen-pressed-to-take-action-to-save-camp-menotomy-from-development/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-27",
       "category": "news",
       "priority": "medium",
       "business_lines": [
