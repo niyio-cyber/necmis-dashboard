@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-31T15:53:58.576247Z",
+  "generated": "2026-11-01T16:55:55.381227Z",
   "summary": {
     "total_opportunities": 38,
     "total_value_low": 1951422552,
     "total_value_high": 1951422552,
     "by_state": {
-      "VT": 4,
+      "VT": 3,
       "NH": 3,
-      "ME": 5,
-      "MA": 31,
+      "ME": 2,
+      "MA": 30,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 37,
-      "news": 9,
+      "news": 4,
       "funding": 1
     }
   },
@@ -733,41 +733,13 @@
   ],
   "news": [
     {
-      "id": "2ec1cb2ffae3",
-      "title": "Capturing a piece of Biddeford history, one item at a time: Cultural group plans time capsule",
-      "summary": "The capsule representing the Biddeford of today will be displayed at City Hall until it is opened in 2076.",
-      "url": "https://www.pressherald.com/2026/10/31/capturing-a-piece-of-biddeford-history-one-item-at-a-time-cultural-group-plans-time-capsule/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-10-31",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "108892f3e91a",
-      "title": "Portland football uses big plays to win Battle of the Bridge",
-      "summary": "Despite its setback, South Portland may have gotten into the Class A South playoffs.",
-      "url": "https://www.pressherald.com/2026/10/30/portland-uses-big-plays-to-win-battle-of-the-bridge/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-10-31",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e620d4b657c1",
-      "title": "Maine is better when we work together",
-      "summary": "\u201cAs we confront challenges such as affordable housing, food insecurity, workforce development, and keeping more wealth in Maine communities, cooperation can be part of the solution.\u201d",
-      "url": "https://www.bangordailynews.com/2026/10/31/opinion/opinion-contributor/maine-is-better-when-we-work-together-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-10-31",
+      "id": "de21e51d4ee9",
+      "title": "Data centers need guardrails now",
+      "summary": "Without firm rules, data centers could drive new fossil-fuel development and pass the costs to Vermont families.\nRead the story on VTDigger here:  Data centers need guardrails now.",
+      "url": "https://vtdigger.org/2026/11/01/opinion-data-centers-need-guardrails-now/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-11-01",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -775,29 +747,15 @@
       ]
     },
     {
-      "id": "04496fa771b0",
-      "title": "Few know about this trail in Acadia National Park",
-      "summary": "Acorns rolled and crunched beneath my boots as I followed Breakneck Road deeper into the wilderness of Acadia National Park.",
-      "url": "https://www.bangordailynews.com/2026/10/31/outdoors/act-out/hidden-trail-in-acadia-national-park-joam40zk0w/",
-      "source": "Bangor Daily News",
+      "id": "ad978958c2fa",
+      "title": "Proposed solar project an economic opportunity for Jay | Letter",
+      "summary": "As the business development manager for Reed & Reed, a Maine-based construction company, I spend a lot of my time working on projects that create jobs, support local businesses and contribute to Maine\u2019s economy.\u00a0From that perspective, I believe the proposed Alden Mill Solar project in Jay represents",
+      "url": "https://www.pressherald.com/2026/11/01/proposed-solar-project-an-economic-opportunity-for-jay-letter/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f549684852e8",
-      "title": "Cambridge's Lizard Lounge to close after nearly 30 years",
-      "summary": "One of Massachusetts\u2019 most iconic venues is closing after nearly three decades of late nights and live music.",
-      "url": "https://www.masslive.com/news/2026/10/landmark-mass-music-venue-set-to-close-after-30-years.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-10-31",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -840,34 +798,6 @@
       "date": "2026-10-30",
       "category": "funding",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "94baf17d6753",
-      "title": "Voter voices: At the Cambridge dump, unease about Vermont\u2019s future",
-      "summary": "Benton Donlevy wants to buy a house, but \u201cthere\u2019s a lot of factors making that pretty difficult right now,\u201d the 25-year-old from Jeffersonville said.\nRead the story on VTDigger here:  Voter voices: At the Cambridge dump, unease about Vermont\u2019s future.",
-      "url": "https://vtdigger.org/2026/10/28/voter-voices-at-the-cambridge-dump-unease-about-vermonts-future/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-28",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b29f425b35c1",
-      "title": "Vermont Conversation: Bill McKibben sees a nation at a crossroads as he barnstorms battleground states",
-      "summary": "\"We tell ourselves that this is the richest country on Earth,\" said the author and environmental activist. \"But man, for the most part in this country, there are a lot of people just barely getting by.\"\nRead the story on VTDigger here:  Vermont Conversation: Bill McKibben sees a nation at a crossro",
-      "url": "https://vtdigger.org/2026/10/28/vermont-conversation-bill-mckibben-sees-a-nation-at-a-crossroads-as-he-barnstorms-battleground-states/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-28",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
