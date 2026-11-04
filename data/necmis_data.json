@@ -1,121 +1,26 @@
 {
-  "generated": "2026-11-03T18:06:02.518350Z",
+  "generated": "2026-11-04T18:15:17.914905Z",
   "summary": {
-    "total_opportunities": 39,
-    "total_value_low": 1951422552,
-    "total_value_high": 1951422552,
+    "total_opportunities": 33,
+    "total_value_low": 1938519559,
+    "total_value_high": 1938519559,
     "by_state": {
-      "VT": 5,
-      "NH": 3,
-      "ME": 6,
-      "MA": 30,
+      "VT": 4,
+      "NH": 1,
+      "ME": 4,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 37,
-      "news": 9,
-      "funding": 2
+      "dot_letting": 32,
+      "news": 6,
+      "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "c972f2fbc524",
-      "state": "MA",
-      "project_id": "616377",
-      "description": "Scheduled and Emergency Guardrail and Fence Repairs at Various Locations on I-90",
-      "cost_low": 408204,
-      "cost_high": 408204,
-      "cost_display": "$408K",
-      "ad_date": "2026-10-10",
-      "let_date": null,
-      "project_type": "Guard Rail & Fencing",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616377",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "38ed68a296e8",
-      "state": "MA",
-      "project_id": "616470",
-      "description": "Scheduled and Emergency Facility Repairs and Improvements at Various Locations",
-      "cost_low": 941850,
-      "cost_high": 941850,
-      "cost_display": "$942K",
-      "ad_date": "2026-10-10",
-      "let_date": null,
-      "project_type": "DCAMM-General Building Construction",
-      "location": "District 2",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616470",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4c0ed07c2ea9",
-      "state": "MA",
-      "project_id": "616410",
-      "description": "Scheduled and Emergency Fabrication and Installation of Overhead and Ground Mounted Guide Signs",
-      "cost_low": 730605,
-      "cost_high": 730605,
-      "cost_display": "$731K",
-      "ad_date": "2026-10-03",
-      "let_date": null,
-      "project_type": "Signing - Structural",
-      "location": "District 5",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616410",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e3cd609e5613",
-      "state": "MA",
-      "project_id": "616509",
-      "description": "Scheduled & Emergency Tree Trimming & Sight Distance Improvement at Various Locations",
-      "cost_low": 1550600,
-      "cost_high": 1550600,
-      "cost_display": "$1.6M",
-      "ad_date": "2026-10-03",
-      "let_date": null,
-      "project_type": "Tree Trimming, Maintenance and Removal",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616509",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2d36113de09e",
-      "state": "MA",
-      "project_id": "616276",
-      "description": "Bridge Preservation along I-495, F-06-023, M-18-042, M-18-043, N-23-026, N-23-027 & N-23-034",
-      "cost_low": 9271734,
-      "cost_high": 9271734,
-      "cost_display": "$9.3M",
-      "ad_date": "2026-09-19",
-      "let_date": null,
-      "project_type": "Bridge - Construction    , Painting - Structural",
-      "location": "Foxborough",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616276",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "a3ad3c4e92bc",
       "state": "MA",
@@ -733,13 +638,13 @@
   ],
   "news": [
     {
-      "id": "6f2789a66d31",
-      "title": "For lease: Build-to-suit commercial space in Saco\u2019s growing Cascade Falls community",
-      "summary": "Rate available upon request | 991 Portland Road, Saco",
-      "url": "https://www.pressherald.com/2026/11/03/for-lease-build-to-suit-commercial-space-in-sacos-growing-cascade-falls-community/",
+      "id": "74e22d64173e",
+      "title": "Here\u2019s who won in Saco municipal elections",
+      "summary": "Residents voted in 3 City Council and 3 school board elections. The mayor was also reelected in an uncontested race.",
+      "url": "https://www.pressherald.com/2026/11/04/heres-who-won-in-saco-municipal-elections/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -747,27 +652,13 @@
       ]
     },
     {
-      "id": "0ed6a8dc5883",
-      "title": "Could Biddeford\u2019s harbormaster halt UNE\u2019s pier project? Here\u2019s what you should know.",
-      "summary": "Harbormaster Paul Lariviere has said he will not approve the project, but the city's attorney says his approval has effectively already been given.",
-      "url": "https://www.pressherald.com/2026/11/03/could-biddefords-harbormaster-halt-unes-pier-project-heres-what-you-should-know/",
+      "id": "7c9fe7c13971",
+      "title": "Wells voters approve mobile home lot rent stabilization, data center moratorium",
+      "summary": "The stabilization ordinance will restrict the amount of rent increases allowed per year and by how much, while the moratorium would put a retroactive 180-day pause on data center development in town.",
+      "url": "https://www.pressherald.com/2026/11/04/wells-voters-approve-mobile-home-lot-rent-stabilization-data-center-moratorium/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-03",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "41d4ad9b7351",
-      "title": "Buying American has drawbacks for builders | Letter",
-      "summary": "Portland is part of the broader U.S. housing crisis, and Sen. Angus King recently introduced the Build American Efficiency Act in the U.S. Senate to cut the red tape developers must navigate. While this act could streamline development, it also has drawbacks that would harm the communities that need",
-      "url": "https://www.pressherald.com/2026/11/03/buying-american-has-drawbacks-for-builders-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -775,29 +666,29 @@
       ]
     },
     {
-      "id": "207d81ef5f2b",
-      "title": "Senior volunteer programs are an antidote to isolation | Letter",
-      "summary": "These opportunities for friendship, routine and civic action support participants' emotional and physical well-being.",
-      "url": "https://www.pressherald.com/2026/11/03/senior-volunteer-programs-are-an-antidote-to-isolation-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-03",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "356d1007a904",
-      "title": "Sidewalk outside Collins\u2019 Biddeford office\u00a0vandalized",
-      "summary": "Staffers found the sidewalk in front of Collins' Biddeford office covered in red paint, with the words \"blood on her hands\" painted nearby.",
-      "url": "https://www.bangordailynews.com/2026/11/03/politics/sidewalk-outside-collins-biddeford-office-vandalized/",
+      "id": "b314e51162e6",
+      "title": "Democrats reversed Donald Trump\u2019s inroads with Hispanic, Black and young voters",
+      "summary": "Here is how five key demographic groups moved in the 2026 election.",
+      "url": "https://www.bangordailynews.com/2026/11/04/politics/elections/us-election-2026-donald-trump-demographic-shifts-voters/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "76b79988a17f",
+      "title": "Hampton Inn construction kicks off at Worcester's Washington Square",
+      "summary": "Fall River-based First Bristol Corporation has broken ground on a five-story, 105-room Hampton Inn by Hilton near Union Station in Worcester, with plans dating back to 2019.",
+      "url": "https://www.masslive.com/centralmass/2026/11/construction-begins-on-105-room-hampton-inn-in-worcester.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-04",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -840,48 +731,6 @@
       "date": "2026-11-01",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "18a41917b479",
-      "title": "Community nurse programs are getting a lot of airtime this election. Here\u2019s how they work.",
-      "summary": "The nurses can\u2019t provide hands-on care or bill an insurer but instead offer a broader, holistic suite of support.\nRead the story on VTDigger here:  Community nurse programs are getting a lot of airtime this election. Here\u2019s how they work..",
-      "url": "https://vtdigger.org/2026/10/30/community-nurse-programs-are-getting-a-lot-of-airtime-this-election-heres-how-they-work/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-10-30",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "72f2b27f0a58",
-      "title": "U.S. Senate Candidate Pappas Holds Press Conference with Planned Parenthood President",
-      "summary": "U.S. Senate candidate Rep. Chris Pappas (D-NH) holds a press conference with Planned Parenthood Pres. Alexis McGill Johnson on Friday. InDepthNH.org is partnering with C-SPAN\u2019s Campaign 2026\u00a0initiative,\u00a0Road to the Capitol: Candidate Coverage from the Campaign Trail.\u00a0\nThe post U.S. Senate Candidate",
-      "url": "https://indepthnh.org/2026/10/30/u-s-senate-candidate-pappas-holds-press-conference-with-planned-parenthood-president/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-30",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "6218456051ce",
-      "title": "Five Lakes Region towns begin diverting waste with federal composting pilot program",
-      "summary": "A small group of Ashland area residents working on re-starting a community garden are among many of the beneficiaries of a federal grant given to the Lakes Region that aims to reduce waste through composting.\nThe post Five Lakes Region towns begin diverting waste with federal composting pilot progr",
-      "url": "https://indepthnh.org/2026/10/30/five-lakes-region-towns-begin-diverting-waste-with-federal-composting-pilot-program/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-10-30",
-      "category": "funding",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
