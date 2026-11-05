@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-04T18:15:17.914905Z",
+  "generated": "2026-11-05T18:20:36.599564Z",
   "summary": {
-    "total_opportunities": 33,
+    "total_opportunities": 32,
     "total_value_low": 1938519559,
     "total_value_high": 1938519559,
     "by_state": {
-      "VT": 4,
-      "NH": 1,
-      "ME": 4,
-      "MA": 26,
+      "VT": 2,
+      "NH": 2,
+      "ME": 3,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 32,
-      "news": 6,
-      "funding": 1
+      "news": 4,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -638,83 +638,27 @@
   ],
   "news": [
     {
-      "id": "74e22d64173e",
-      "title": "Here\u2019s who won in Saco municipal elections",
-      "summary": "Residents voted in 3 City Council and 3 school board elections. The mayor was also reelected in an uncontested race.",
-      "url": "https://www.pressherald.com/2026/11/04/heres-who-won-in-saco-municipal-elections/",
+      "id": "092f5d1be7f6",
+      "title": "Today\u2019s media outlets are letting us down | Letter",
+      "summary": "Before the age of accessible digital technology, papers and broadcasts were the arbiters of fact, the stewards of truth. Today, when media outlets and conglomerates intentionally lend only dead air to matters of astonishing corruption but pontificate ad nauseum on sensationalized trivia, they expose",
+      "url": "https://www.pressherald.com/2026/11/05/todays-media-outlets-are-letting-us-down-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "7c9fe7c13971",
-      "title": "Wells voters approve mobile home lot rent stabilization, data center moratorium",
-      "summary": "The stabilization ordinance will restrict the amount of rent increases allowed per year and by how much, while the moratorium would put a retroactive 180-day pause on data center development in town.",
-      "url": "https://www.pressherald.com/2026/11/04/wells-voters-approve-mobile-home-lot-rent-stabilization-data-center-moratorium/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b314e51162e6",
-      "title": "Democrats reversed Donald Trump\u2019s inroads with Hispanic, Black and young voters",
-      "summary": "Here is how five key demographic groups moved in the 2026 election.",
-      "url": "https://www.bangordailynews.com/2026/11/04/politics/elections/us-election-2026-donald-trump-demographic-shifts-voters/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "76b79988a17f",
-      "title": "Hampton Inn construction kicks off at Worcester's Washington Square",
-      "summary": "Fall River-based First Bristol Corporation has broken ground on a five-story, 105-room Hampton Inn by Hilton near Union Station in Worcester, with plans dating back to 2019.",
-      "url": "https://www.masslive.com/centralmass/2026/11/construction-begins-on-105-room-hampton-inn-in-worcester.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-04",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "734c447a8104",
-      "title": "Vermont has assigned its $195 million in federal rural health dollars. Here\u2019s where it\u2019s going.",
-      "summary": "The largest sums of money are directed toward hospital infrastructure upgrades and funds to facilitate hospital redesign.  \nRead the story on VTDigger here:  Vermont has assigned its $195 million in federal rural health dollars. Here\u2019s where it\u2019s going..",
-      "url": "https://vtdigger.org/2026/11/02/vermont-has-assigned-its-195-million-in-federal-rural-health-dollars-heres-where-its-going/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-02",
-      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "d20c9e378b79",
-      "title": "An affluent southern Vermont town considers adding housing \u2014 or keeping green space",
-      "summary": "Voters in Dorset will consider conveying a portion of town-owned land on Raptor Lane for the construction of 35 homes. At the heart of the issue is whether residents want to see the town grow.\nRead the story on VTDigger here:  An affluent southern Vermont town considers adding housing \u2014 or keeping",
-      "url": "https://vtdigger.org/2026/11/02/an-affluent-southern-vermont-town-considers-adding-housing-or-keeping-green-space/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-02",
+      "id": "6580d78ae170",
+      "title": "Obituary: Charlotte L. (Lilly) Bickford",
+      "summary": "WEBSTER, Mass. / CUMBERLAND FORESIDE - Charlotte L. (Lilly) Bickford, 85, of Thompson Road, passed away following a brief illness on ...",
+      "url": "https://www.pressherald.com/2026/11/05/obituarycharlotte-l-lilly-bickford-2/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-05",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -722,15 +666,29 @@
       ]
     },
     {
-      "id": "de21e51d4ee9",
-      "title": "Data centers need guardrails now",
-      "summary": "Without firm rules, data centers could drive new fossil-fuel development and pass the costs to Vermont families.\nRead the story on VTDigger here:  Data centers need guardrails now.",
-      "url": "https://vtdigger.org/2026/11/01/opinion-data-centers-need-guardrails-now/",
+      "id": "a62fa8701ab8",
+      "title": "Republican incumbent state senator from Rutland County arrested last week loses reelection bid",
+      "summary": "It was one of several legislative races across Rutland County that Republicans lost. \nRead the story on VTDigger here:  Republican incumbent state senator from Rutland County arrested last week loses reelection bid.",
+      "url": "https://vtdigger.org/2026/11/04/republican-incumbent-state-senator-from-rutland-county-arrested-last-week-loses-reelection-bid/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-11-01",
+      "date": "2026-11-04",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3c6e0229a374",
+      "title": "State appears to have its first-ever Executive Council occupied by all Democrats",
+      "summary": "The state has never had an all-Democratic Executive Council, but it appears from unofficial vote tallies that it will have one for the next two years after voters turned out and turned down re-election bids for four seats held by Republicans, Tuesday.\nThe post State appears to have its first-ever Ex",
+      "url": "https://indepthnh.org/2026/11/04/state-appears-to-have-its-first-ever-executive-council-occupied-by-all-democrats/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-11-04",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
