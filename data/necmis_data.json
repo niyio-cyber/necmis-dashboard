@@ -1,22 +1,22 @@
 {
-  "generated": "2026-11-06T17:43:11.110018Z",
+  "generated": "2026-11-07T16:39:29.331074Z",
   "summary": {
-    "total_opportunities": 32,
-    "total_value_low": 1938519559,
-    "total_value_high": 1938519559,
+    "total_opportunities": 34,
+    "total_value_low": 1940078203,
+    "total_value_high": 1940078203,
     "by_state": {
-      "VT": 3,
-      "NH": 2,
-      "ME": 2,
-      "MA": 25,
+      "VT": 4,
+      "NH": 1,
+      "ME": 8,
+      "MA": 27,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 32,
-      "news": 4,
+      "dot_letting": 34,
+      "news": 10,
       "funding": 0
     }
   },
@@ -385,6 +385,25 @@
       ]
     },
     {
+      "id": "77dd2d14350d",
+      "state": "MA",
+      "project_id": "616376",
+      "description": "Scheduled and Emergency Impact Attenuator Installation and Repairs at Various Locations",
+      "cost_low": 159724,
+      "cost_high": 159724,
+      "cost_display": "$160K",
+      "ad_date": "2026-11-07",
+      "let_date": null,
+      "project_type": "Impact Attenuators",
+      "location": "District 3",
+      "district": 3,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616376",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "360aad670ef7",
       "state": "MA",
       "project_id": "614107",
@@ -459,6 +478,26 @@
       "business_lines": [
         "highway",
         "hma"
+      ]
+    },
+    {
+      "id": "4782e168e65f",
+      "state": "MA",
+      "project_id": "616400",
+      "description": "Scheduled and Emergency Bridge Deck and Joint Repairs at Various Locations",
+      "cost_low": 1398920,
+      "cost_high": 1398920,
+      "cost_display": "$1.4M",
+      "ad_date": "2026-11-07",
+      "let_date": null,
+      "project_type": "Bridge - Deck Repairs",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616400",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
       ]
     },
     {
@@ -638,18 +677,129 @@
   ],
   "news": [
     {
-      "id": "a5e829c3c0d3",
-      "title": "Stanton celebrates 10-year anniversary with Broadreach Public Relations",
-      "summary": "Milestone recognizes Stanton\u2019s decade of leadership, growth and impact at the Portland communications firm PORTLAND \u2013 Broadreach Public Relations, a woman-owned strategic communications firm located in Portland, is recognizing Paula Stanton as she celebrates 10 years with the firm. Stanton joined Br",
-      "url": "https://www.bangordailynews.com/2026/11/06/bdn-maine/stanton-celebrates-10-year-anniversary-with-broadreach-public-relations/",
-      "source": "Bangor Daily News",
+      "id": "1e06bb5aab02",
+      "title": "Uplifting sign at Red Barn in Augusta leads to misconception over political message",
+      "summary": "Red Barn owner Trever Benedict said the positive roadside sign he posted Wednesday was unrelated to the election, but received heavy backlash from people who thought otherwise.",
+      "url": "https://www.pressherald.com/2026/11/07/uplifting-sign-at-red-barn-in-augusta-leads-to-misconception-over-political-message/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "highway",
-        "aggregates"
+        "highway"
+      ]
+    },
+    {
+      "id": "80130aa550fa",
+      "title": "Maine should be rallying behind clean energy permitting reform | Letter",
+      "summary": "I was disappointed to see Attorney General Aaron Frey sign a letter to Senate leadership (Oct. 21) opposing the Bipartisan American Affordability and Jobs Act (BAAJA). Mainers pay some of the highest electricity rates in the country, driven largely by our dependence on out-of-state fossil fuels, par",
+      "url": "https://www.pressherald.com/2026/11/07/maine-should-be-rallying-behind-clean-energy-permitting-reform-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "dd35100b2df2",
+      "title": "Obituary: Daniel J. MacGillivary",
+      "summary": "GEORGETOWN - Daniel J. MacGillivary of Old Schoolhouse Road, died Monday Oct. 26, 2026 after a short visit at Maine Health ...",
+      "url": "https://www.pressherald.com/2026/11/07/obituarydaniel-j-macgillivary-3/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "eee5798619c4",
+      "title": "Kennebunk football posts impressive win over Biddeford in B South semifinal",
+      "summary": "The Rams score on their 1st 3 possessions and shut out the big-play Tigers.",
+      "url": "https://www.pressherald.com/2026/11/06/kennebunk-football-posts-impressive-win-over-biddeford-in-b-south-semifinal/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-07",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "62ad1c635e50",
+      "title": "Nithya Raman to take charge in LA amid homeless crisis and political division",
+      "summary": "LOS ANGELES (AP) \u2014 In her bid for Los Angeles mayor, Nithya Raman ran as an outsider. The democratic socialist didn\u2019t win a single endorsement from her 14 colleagues on the city council. The police union opposed her, she had friction with the Jewish community and the Democratic establishment lined u",
+      "url": "https://www.bangordailynews.com/2026/11/07/nation/nithya-raman-to-take-charge-in-la-amid-homeless-crisis-and-political-division/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-07",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e638833cb17f",
+      "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+      "summary": "NEW YORK (AP) \u2014 The overwhelming victory by the Democrats in the midterm elections shook up Wall Street this week. The biggest tremors were felt in shares of companies tied to the boom in artificial intelligence on concerns that a Democratic Congress will put the brakes on further development of dat",
+      "url": "https://www.bangordailynews.com/2026/11/07/nation/from-high-flying-ai-stocks-to-tariff-hit-alcohol-companies-the-midterms-shook-up-wall-street/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-07",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "0ee66531dd34",
+      "title": "US Justice Department drops bid to force California to set aside disputed ballots",
+      "summary": "Los Angeles (AP) \u2014 The U.S. Department of Justice on Friday moved to dismiss its own lawsuit that sought to stop California from counting roughly 20,000 ballots it alleged went to noncitizens until their immigration status could be verified. The request to dismiss the case comes days after Republica",
+      "url": "https://www.bangordailynews.com/2026/11/06/nation/us-justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-07",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "efb3771b2ce7",
+      "title": "Burlington City Council president launches bid for mayor",
+      "summary": "Democrat Ben Traverse said the success of the city depends on lifting everyone up. \u201cBecause the truth is, we\u2019re all in this together.\u201d\nRead the story on VTDigger here:  Burlington City Council president launches bid for mayor.",
+      "url": "https://vtdigger.org/2026/11/06/burlington-city-council-president-launches-bid-for-mayor/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-11-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "aae4974bbaa4",
+      "title": "Construction of the South Burlington Walk-Bike Bridge advances at Exit 14",
+      "summary": "Phase one of construction is underway to connect Williston Road and University Mall.\nRead the story on VTDigger here:  Construction of the South Burlington Walk-Bike Bridge advances at Exit 14.",
+      "url": "https://vtdigger.org/2026/11/06/construction-of-the-south-burlington-walk-bike-bridge-advances-at-exit-14/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-11-06",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -662,34 +812,6 @@
       "date": "2026-11-05",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a62fa8701ab8",
-      "title": "Republican incumbent state senator from Rutland County arrested last week loses reelection bid",
-      "summary": "It was one of several legislative races across Rutland County that Republicans lost. \nRead the story on VTDigger here:  Republican incumbent state senator from Rutland County arrested last week loses reelection bid.",
-      "url": "https://vtdigger.org/2026/11/04/republican-incumbent-state-senator-from-rutland-county-arrested-last-week-loses-reelection-bid/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-04",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3c6e0229a374",
-      "title": "State appears to have its first-ever Executive Council occupied by all Democrats",
-      "summary": "The state has never had an all-Democratic Executive Council, but it appears from unofficial vote tallies that it will have one for the next two years after voters turned out and turned down re-election bids for four seats held by Republicans, Tuesday.\nThe post State appears to have its first-ever Ex",
-      "url": "https://indepthnh.org/2026/11/04/state-appears-to-have-its-first-ever-executive-council-occupied-by-all-democrats/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-11-04",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
