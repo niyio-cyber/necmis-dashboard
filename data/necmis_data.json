@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-08T16:47:54.976841Z",
+  "generated": "2026-11-09T21:08:18.318519Z",
   "summary": {
-    "total_opportunities": 34,
+    "total_opportunities": 35,
     "total_value_low": 1940078203,
     "total_value_high": 1940078203,
     "by_state": {
       "VT": 4,
       "NH": 1,
-      "ME": 5,
+      "ME": 8,
       "MA": 27,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 34,
-      "news": 7,
-      "funding": 0
+      "news": 9,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -677,6 +677,104 @@
   ],
   "news": [
     {
+      "id": "15d02787865c",
+      "title": "Lawsuit seeks to block proposed campground on Sanford\u2019s Sand Pond",
+      "summary": "A group of neighbors argues that Sand Pond Shores Camping Resort would violate the area's common scheme of development and overburden an easement.",
+      "url": "https://www.pressherald.com/2026/11/09/lawsuit-seeks-to-block-proposed-campground-on-sanfords-sand-pond/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "aggregates"
+      ]
+    },
+    {
+      "id": "07438fe0b7a1",
+      "title": "Reassured by NECEC op-ed | Letter",
+      "summary": "The Nov. 4 op-ed by Matt Scott (\u201cNECEC should not be renegotiated now\u201d) about trying to apply ex-post-facto terms to the power line through the North Woods was reassuring, in that such upgraded infrastructure is in operation, particularly with the projected needs of data centers and heat pumps.\u00a0(Too",
+      "url": "https://www.pressherald.com/2026/11/09/reassured-by-necec-op-ed-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-09",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "01831696f26a",
+      "title": "Windham state representative requests recount",
+      "summary": "Republicn Rep. Barbara Bagshaw lost her reelection bid by 139 votes last week.",
+      "url": "https://www.pressherald.com/2026/11/09/windham-state-representative-requests-recount/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-09",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "5e0ebb11658b",
+      "title": "Does Maine count votes for undeclared write-in candidates in state and federal elections? | Fact brief",
+      "summary": "Municipal clerks are not required to count write-in votes for fictional or dead people.",
+      "url": "https://www.pressherald.com/2026/11/09/does-maine-count-votes-for-undeclared-write-in-candidates-in-state-and-federal-elections-fact-brief/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-09",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "93c8d37f2cfb",
+      "title": "Supreme Court clears the way for border wall construction in Texas\u2019s Big Bend to resume",
+      "summary": "WASHINGTON (AP) \u2014 The Supreme Court cleared the way Monday for the Trump administration to resume border wall construction in the Big Bend region of Texas for now, a blow to bipartisan opponents who had argued the project is a waste of money that threatens the unique landscape. The border wall is a",
+      "url": "https://www.bangordailynews.com/2026/11/09/nation/supreme-court-clears-the-way-for-border-wall-construction-in-texass-big-bend-to-resume/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e19083f0f4f7",
+      "title": "Developer revives data center plan for old Maine paper mill",
+      "summary": "The developer plans to file a site location permit and an air emission license application with the Department of Environmental Protection.",
+      "url": "https://www.bangordailynews.com/2026/11/09/mainefocus/mainefocus-business/jay-maine-paper-mill-date-center-plans-revived-jgt2-redevelopment/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-09",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "aa63f25b3aef",
+      "title": "Senate weighs sweeping energy legislation in first major action since midterm elections",
+      "summary": "WASHINGTON (AP) \u2014 The Senate on Monday is set to take up bipartisan legislation aimed at speeding up permitting reviews for data centers and other infrastructure projects, in the first major action since last week\u2019s election that soundly repudiated President Donald Trump and congressional Republican",
+      "url": "https://www.bangordailynews.com/2026/11/09/nation/senate-weighs-sweeping-energy-legislation-in-first-major-action-since-midterm-elections/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-09",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "5349fb8bda8b",
       "title": "Report finds Vermont is experiencing unprecedented weather extremes",
       "summary": "Municipalities and the outdoor recreation industry are trying to prepare for an uncertain future, but there\u2019s only so much they can do.\nRead the story on VTDigger here:  Report finds Vermont is experiencing unprecedented weather extremes.",
@@ -686,62 +784,6 @@
       "date": "2026-11-08",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "0297d9cd27e4",
-      "title": "Maine needs Hannah Pingree to take the lead on the environment | Opinion",
-      "summary": "The incoming administration must balance vital permitting against the welfare of our communities.",
-      "url": "https://www.pressherald.com/2026/11/08/maine-needs-hannah-pingree-to-take-the-lead-on-the-environment-opinion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "96f9c42915fd",
-      "title": "Obituary: William B. Wise",
-      "summary": "GORHAM - William B. Wise, New Portland Road, Gorham, Maine, died on Wednesday, Oct. 28, 2026.\n\n\"Bill\" was born in Skowhegan in ...",
-      "url": "https://www.pressherald.com/2026/11/08/obituarywilliam-b-wise-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-08",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "620041455da8",
-      "title": "Obituary: Ruth Ann (Bridges) Ayers",
-      "summary": "GORHAM - Ruth Ann Bridges Ayers, of Gorham, Maine, passed away surrounded by family on Nov. 4, 2026 at the age ...",
-      "url": "https://www.pressherald.com/2026/11/08/obituaryruth-ann-bridges-ayers-2/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-08",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "dd13b34ee223",
-      "title": "The 10 most expensive homes that sold in Maine\u00a0in October",
-      "summary": "All of the homes are located along Maine\u2019s coast, stretching as far south as York up to Milbridge in Washington County.",
-      "url": "https://www.bangordailynews.com/2026/11/08/business/business-housing/10-most-expensive-maine-homes-sold-october-2026-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-08",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
