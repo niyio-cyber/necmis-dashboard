@@ -1,22 +1,22 @@
 {
-  "generated": "2026-11-09T21:08:18.318519Z",
+  "generated": "2026-11-10T18:19:44.398144Z",
   "summary": {
-    "total_opportunities": 35,
-    "total_value_low": 1940078203,
-    "total_value_high": 1940078203,
+    "total_opportunities": 36,
+    "total_value_low": 1946827795,
+    "total_value_high": 1946827795,
     "by_state": {
       "VT": 4,
-      "NH": 1,
-      "ME": 8,
-      "MA": 27,
+      "NH": 2,
+      "ME": 3,
+      "MA": 31,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 34,
-      "news": 9,
+      "dot_letting": 35,
+      "news": 8,
       "funding": 1
     }
   },
@@ -290,25 +290,6 @@
       ]
     },
     {
-      "id": "a4718246bd5c",
-      "state": "MA",
-      "project_id": "613185",
-      "description": "Bridge Preservation, H-27-006 (0DH), State Route 112/East Main Street over CSXT and Westfield River",
-      "cost_low": 19433277,
-      "cost_high": 19433277,
-      "cost_display": "$19.4M",
-      "ad_date": "2026-08-15",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Huntington",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613185",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "917bc0758716",
       "state": "MA",
       "project_id": "616382",
@@ -461,6 +442,25 @@
       ]
     },
     {
+      "id": "a4718246bd5c",
+      "state": "MA",
+      "project_id": "613185",
+      "description": "Bridge Preservation, H-27-006 (0DH), State Route 112/East Main Street over CSXT and Westfield River",
+      "cost_low": 19433277,
+      "cost_high": 19433277,
+      "cost_display": "$19.4M",
+      "ad_date": "2026-08-15",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Huntington",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613185",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "ae60ab0ed3d0",
       "state": "MA",
       "project_id": "612089",
@@ -514,6 +514,26 @@
       "location": "Marshfield - Norwell - Pembroke",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=607349",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway",
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "42f693b51d15",
+      "state": "MA",
+      "project_id": "613113",
+      "description": "Deck Replacement, D-06-048 (128), State Route 116 (Conway Road) over I-91",
+      "cost_low": 6749592,
+      "cost_high": 6749592,
+      "cost_display": "$6.7M",
+      "ad_date": "2026-11-07",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Deerfield",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613113",
       "source": "MassDOT",
       "business_lines": [
         "highway",
@@ -677,55 +697,27 @@
   ],
   "news": [
     {
-      "id": "15d02787865c",
-      "title": "Lawsuit seeks to block proposed campground on Sanford\u2019s Sand Pond",
-      "summary": "A group of neighbors argues that Sand Pond Shores Camping Resort would violate the area's common scheme of development and overburden an easement.",
-      "url": "https://www.pressherald.com/2026/11/09/lawsuit-seeks-to-block-proposed-campground-on-sanfords-sand-pond/",
-      "source": "Portland Press Herald",
+      "id": "1b417f0ed876",
+      "title": "NYC sightseeing helicopter makes emergency landing after reporting possible engine trouble",
+      "summary": "BAYONNE, N.J. (AP) \u2014 A New York City sightseeing helicopter on a maintenance flight made an emergency landing on Tuesday at a New Jersey cargo port after the pilot reported possible engine trouble. Two people were aboard the Bell 206L-4 helicopter when it came down on a road at the Port Jersey Marin",
+      "url": "https://www.bangordailynews.com/2026/11/10/nation/nyc-sightseeing-helicopter-makes-emergency-landing-after-reporting-possible-engine-trouble/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "category": "news",
       "priority": "medium",
       "business_lines": [
-        "aggregates"
-      ]
-    },
-    {
-      "id": "07438fe0b7a1",
-      "title": "Reassured by NECEC op-ed | Letter",
-      "summary": "The Nov. 4 op-ed by Matt Scott (\u201cNECEC should not be renegotiated now\u201d) about trying to apply ex-post-facto terms to the power line through the North Woods was reassuring, in that such upgraded infrastructure is in operation, particularly with the projected needs of data centers and heat pumps.\u00a0(Too",
-      "url": "https://www.pressherald.com/2026/11/09/reassured-by-necec-op-ed-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-09",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "01831696f26a",
-      "title": "Windham state representative requests recount",
-      "summary": "Republicn Rep. Barbara Bagshaw lost her reelection bid by 139 votes last week.",
-      "url": "https://www.pressherald.com/2026/11/09/windham-state-representative-requests-recount/",
-      "source": "Portland Press Herald",
+      "id": "cfd98e3d3937",
+      "title": "Letter: Federal permitting reform bill would reverse environmental protections",
+      "summary": "\u201cWe need common sense legislation that will enable the transition to clean energy sources and cease subsidizing the fossil fuel industry with our tax dollars.\u201d",
+      "url": "https://www.bangordailynews.com/2026/11/10/opinion/letters/letter-federal-permitting-reform-bill-would-reverse-environmental-protections-joam40zk0w/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-11-09",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5e0ebb11658b",
-      "title": "Does Maine count votes for undeclared write-in candidates in state and federal elections? | Fact brief",
-      "summary": "Municipal clerks are not required to count write-in votes for fictional or dead people.",
-      "url": "https://www.pressherald.com/2026/11/09/does-maine-count-votes-for-undeclared-write-in-candidates-in-state-and-federal-elections-fact-brief/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "category": "funding",
       "priority": "medium",
       "business_lines": [
@@ -733,12 +725,54 @@
       ]
     },
     {
-      "id": "93c8d37f2cfb",
-      "title": "Supreme Court clears the way for border wall construction in Texas\u2019s Big Bend to resume",
-      "summary": "WASHINGTON (AP) \u2014 The Supreme Court cleared the way Monday for the Trump administration to resume border wall construction in the Big Bend region of Texas for now, a blow to bipartisan opponents who had argued the project is a waste of money that threatens the unique landscape. The border wall is a",
-      "url": "https://www.bangordailynews.com/2026/11/09/nation/supreme-court-clears-the-way-for-border-wall-construction-in-texass-big-bend-to-resume/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "568f38ac8238",
+      "title": "Ex-Biden official fuels 2028 speculation with new book: \u2018Not a policy manual\u2019",
+      "summary": "Buttigieg, who served as Transportation Secretary during the Biden administration, announced Tuesday that his new book \u201cNext\u201d will be published on Jan. 26, 2027.",
+      "url": "https://www.masslive.com/politics/2026/11/ex-biden-official-fuels-2028-speculation-with-new-book-not-a-policy-manual.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-10",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cb4d57925578",
+      "title": "NJ, Pa. among states to be hit by Comcast job cuts",
+      "summary": "Comcast is cutting jobs in its cable and broadband division as cable television continues to see a decline in viewership.",
+      "url": "https://www.masslive.com/news/2026/11/major-telecommunications-company-to-cut-over-1k-jobs-in-4-states.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-10",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d424cec912d6",
+      "title": "Tom Brady makes bold Raiders prediction, but fans aren\u2019t letting one detail slide",
+      "summary": "Tom Brady made a bold Super Bowl prediction for the Las Vegas Raiders, but NFL fans quickly pointed to his ownership stake as the team sits at 4-5 following a loss to the San Francisco 49ers.",
+      "url": "https://www.masslive.com/sports/2026/11/tom-brady-makes-bold-raiders-prediction-nfl-fans-immediately-point-out-one-thing.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-10",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b0c4465df631",
+      "title": "Montpelier has its long-awaited housing blueprint for Country Club Road",
+      "summary": "DEW Properties plans to build roughly 108 housing units in its initial phase. Residents won\u2019t move in for several years.\nRead the story on VTDigger here:  Montpelier has its long-awaited housing blueprint for Country Club Road.",
+      "url": "https://vtdigger.org/2026/11/09/montpelier-has-its-long-awaited-housing-blueprint-for-country-club-road/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-11-09",
       "category": "news",
       "priority": "medium",
@@ -747,26 +781,12 @@
       ]
     },
     {
-      "id": "e19083f0f4f7",
-      "title": "Developer revives data center plan for old Maine paper mill",
-      "summary": "The developer plans to file a site location permit and an air emission license application with the Department of Environmental Protection.",
-      "url": "https://www.bangordailynews.com/2026/11/09/mainefocus/mainefocus-business/jay-maine-paper-mill-date-center-plans-revived-jgt2-redevelopment/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-09",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "aa63f25b3aef",
-      "title": "Senate weighs sweeping energy legislation in first major action since midterm elections",
-      "summary": "WASHINGTON (AP) \u2014 The Senate on Monday is set to take up bipartisan legislation aimed at speeding up permitting reviews for data centers and other infrastructure projects, in the first major action since last week\u2019s election that soundly repudiated President Donald Trump and congressional Republican",
-      "url": "https://www.bangordailynews.com/2026/11/09/nation/senate-weighs-sweeping-energy-legislation-in-first-major-action-since-midterm-elections/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "c438b8b309b2",
+      "title": "The NHPBS Holiday Auction Has Something For Everyone",
+      "summary": "Every winning bid helps fund the local programming, education resources and community outreach that New Hampshire PBS brings to communities across the Granite State.\nThe post The NHPBS Holiday Auction Has Something For Everyone appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/11/09/the-nhpbs-holiday-auction-has-something-for-everyone/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-11-09",
       "category": "news",
       "priority": "high",
@@ -793,20 +813,6 @@
       "title": "Burlington City Council president launches bid for mayor",
       "summary": "Democrat Ben Traverse said the success of the city depends on lifting everyone up. \u201cBecause the truth is, we\u2019re all in this together.\u201d\nRead the story on VTDigger here:  Burlington City Council president launches bid for mayor.",
       "url": "https://vtdigger.org/2026/11/06/burlington-city-council-president-launches-bid-for-mayor/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-06",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "aae4974bbaa4",
-      "title": "Construction of the South Burlington Walk-Bike Bridge advances at Exit 14",
-      "summary": "Phase one of construction is underway to connect Williston Road and University Mall.\nRead the story on VTDigger here:  Construction of the South Burlington Walk-Bike Bridge advances at Exit 14.",
-      "url": "https://vtdigger.org/2026/11/06/construction-of-the-south-burlington-walk-bike-bridge-advances-at-exit-14/",
       "source": "VTDigger",
       "state": "VT",
       "date": "2026-11-06",
