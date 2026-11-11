@@ -1,180 +1,26 @@
 {
-  "generated": "2026-11-10T18:19:44.398144Z",
+  "generated": "2026-11-11T18:09:32.474323Z",
   "summary": {
-    "total_opportunities": 36,
-    "total_value_low": 1946827795,
-    "total_value_high": 1946827795,
+    "total_opportunities": 30,
+    "total_value_low": 1893006331,
+    "total_value_high": 1893006331,
     "by_state": {
       "VT": 4,
       "NH": 2,
-      "ME": 3,
-      "MA": 31,
+      "ME": 7,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 35,
-      "news": 8,
-      "funding": 1
+      "dot_letting": 27,
+      "news": 7,
+      "funding": 3
     }
   },
   "dot_lettings": [
-    {
-      "id": "a3ad3c4e92bc",
-      "state": "MA",
-      "project_id": "609204",
-      "description": "Community Path, Belmont Component of the MCRT (Phase I)",
-      "cost_low": 35864137,
-      "cost_high": 35864137,
-      "cost_display": "$35.9M",
-      "ad_date": "2026-09-12",
-      "let_date": null,
-      "project_type": "Highway - Construction , Bridge - Construction",
-      "location": "Belmont",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609204",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "af6b21f67bba",
-      "state": "MA",
-      "project_id": "613689",
-      "description": "Neighborhood Electric Vehicle Charging Infrastructure (MA287)",
-      "cost_low": 1158427,
-      "cost_high": 1158427,
-      "cost_display": "$1.2M",
-      "ad_date": "2026-09-12",
-      "let_date": null,
-      "project_type": "Electrical\u0096All Type\u0096Including Electrical Maintenance",
-      "location": "Cambridge",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=613689",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a8a2c098b366",
-      "state": "MA",
-      "project_id": "616378",
-      "description": "Scheduled & Emergency Facility and Salt Shed Repairs/ Improvements at Various Locations",
-      "cost_low": 326460,
-      "cost_high": 326460,
-      "cost_display": "$326K",
-      "ad_date": "2026-10-17",
-      "let_date": null,
-      "project_type": "DCAMM-General Building Construction",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616378",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1fc298d3dbe8",
-      "state": "MA",
-      "project_id": "616471",
-      "description": "Scheduled and Emergency Salt Shed Repairs at Various Locations",
-      "cost_low": 339990,
-      "cost_high": 339990,
-      "cost_display": "$340K",
-      "ad_date": "2026-10-17",
-      "let_date": null,
-      "project_type": "DCAMM-General Building Construction",
-      "location": "District 2",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616471",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "88852f6d831e",
-      "state": "MA",
-      "project_id": "616513",
-      "description": "Scheduled & Emergency Traffic Control and Setups at Various Locations",
-      "cost_low": 769715,
-      "cost_high": 769715,
-      "cost_display": "$770K",
-      "ad_date": "2026-10-17",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "District 6",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616513",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4b1fa3262b2e",
-      "state": "MA",
-      "project_id": "610728",
-      "description": "Resurfacing and Related Work on Route 20",
-      "cost_low": 5136381,
-      "cost_high": 5136381,
-      "cost_display": "$5.1M",
-      "ad_date": "2026-09-12",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Lee",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=610728",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "hma"
-      ]
-    },
-    {
-      "id": "b65c4af8f1a9",
-      "state": "MA",
-      "project_id": "611974",
-      "description": "Intersection Improvements at Main Street/South Street, Main Street/Mystic Valley Parkway Ramps and Main Street/Mystic Avenue",
-      "cost_low": 6798996,
-      "cost_high": 6798996,
-      "cost_display": "$6.8M",
-      "ad_date": "2026-09-12",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Medford",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=611974",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "feaf8c13ce2e",
-      "state": "MA",
-      "project_id": "609068",
-      "description": "Bridge Replacement, S-10-015, Kelsey Road over Schenob Brook",
-      "cost_low": 3427358,
-      "cost_high": 3427358,
-      "cost_display": "$3.4M",
-      "ad_date": "2026-09-05",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Sheffield",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=609068",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway",
-        "ready_mix"
-      ]
-    },
     {
       "id": "cf49e04359fb",
       "state": "MA",
@@ -697,13 +543,13 @@
   ],
   "news": [
     {
-      "id": "1b417f0ed876",
-      "title": "NYC sightseeing helicopter makes emergency landing after reporting possible engine trouble",
-      "summary": "BAYONNE, N.J. (AP) \u2014 A New York City sightseeing helicopter on a maintenance flight made an emergency landing on Tuesday at a New Jersey cargo port after the pilot reported possible engine trouble. Two people were aboard the Bell 206L-4 helicopter when it came down on a road at the Port Jersey Marin",
-      "url": "https://www.bangordailynews.com/2026/11/10/nation/nyc-sightseeing-helicopter-makes-emergency-landing-after-reporting-possible-engine-trouble/",
-      "source": "Bangor Daily News",
+      "id": "010536074322",
+      "title": "Jay data center could create up to 1,000 construction jobs, 150 permanent positions, developer says",
+      "summary": "Gov.-elect Hannah Pingree, however, said that without statewide regulations, she is skeptical of that the project will benefit the community.",
+      "url": "https://www.pressherald.com/2026/11/11/jay-data-center-could-create-up-to-1000-construction-jobs-150-permanent-positions-developer-says/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -711,13 +557,69 @@
       ]
     },
     {
-      "id": "cfd98e3d3937",
-      "title": "Letter: Federal permitting reform bill would reverse environmental protections",
-      "summary": "\u201cWe need common sense legislation that will enable the transition to clean energy sources and cease subsidizing the fossil fuel industry with our tax dollars.\u201d",
-      "url": "https://www.bangordailynews.com/2026/11/10/opinion/letters/letter-federal-permitting-reform-bill-would-reverse-environmental-protections-joam40zk0w/",
+      "id": "a8e079184bde",
+      "title": "New quick-service salad restaurant planned for Portland",
+      "summary": "Restaurateur Chad Conley of Rose Foods and Biddeford's Palace Diner is behind the project.",
+      "url": "https://www.pressherald.com/2026/11/11/new-quick-service-salad-restaurant-planned-for-portland/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-11",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "636ea7e3b410",
+      "title": "Family of ICE agent in Biddeford shooting accuses him of immigrant bias, New York Times reports",
+      "summary": "David Brouillette, who shot and killed Johan Sebasti\u00e1n Dur\u00e1n Guerrero in Biddeford, reportedly sent a series of racist emails regarding a Colombian man in 2021.",
+      "url": "https://www.pressherald.com/2026/11/11/family-of-ice-agent-in-biddeford-shooting-accuses-him-of-immigrant-bias-new-york-times-reports/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-11",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a0d03751c901",
+      "title": "A roadmap for Democrats who want peace in Gaza | Opinion",
+      "summary": "The campaign is over. It\u2019s time to get down to the hard work of crafting solutions.",
+      "url": "https://www.pressherald.com/2026/11/11/a-roadmap-for-democrats-who-want-peace-in-gaza-opinion/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-11",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "d38a3135fb88",
+      "title": "NYT: ICE agent who fatally shot Biddeford man had record of anti-immigrant hostility",
+      "summary": "David Brouillette didn't hide his disdain toward people born outside the U.S., according to an investigation by the New York Times.",
+      "url": "https://www.bangordailynews.com/2026/11/11/york/york-police-courts/david-brouillette-anti-immigrant-hostility/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4beb25ed87ed",
+      "title": "Former Bangor mayor\u2019s historic downtown\u00a0home available\u00a0for $1.1M",
+      "summary": "Located at 50 Broadway, the stately Colonial Revival-style home offers more than 4,200 square feet of living space.",
+      "url": "https://www.bangordailynews.com/2026/11/11/business/business-housing/former-bangor-mayors-historic-downtown-home-for-sale-joam40zk0w/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-11",
       "category": "funding",
       "priority": "medium",
       "business_lines": [
@@ -725,43 +627,15 @@
       ]
     },
     {
-      "id": "568f38ac8238",
-      "title": "Ex-Biden official fuels 2028 speculation with new book: \u2018Not a policy manual\u2019",
-      "summary": "Buttigieg, who served as Transportation Secretary during the Biden administration, announced Tuesday that his new book \u201cNext\u201d will be published on Jan. 26, 2027.",
-      "url": "https://www.masslive.com/politics/2026/11/ex-biden-official-fuels-2028-speculation-with-new-book-not-a-policy-manual.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-10",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "cb4d57925578",
-      "title": "NJ, Pa. among states to be hit by Comcast job cuts",
-      "summary": "Comcast is cutting jobs in its cable and broadband division as cable television continues to see a decline in viewership.",
-      "url": "https://www.masslive.com/news/2026/11/major-telecommunications-company-to-cut-over-1k-jobs-in-4-states.html",
-      "source": "MassLive",
-      "state": "MA",
+      "id": "adb7aca9f43b",
+      "title": "Vermont can\u2019t build its way to affordability",
+      "summary": "Every acre of open land lost to development makes Vermont less special, not less expensive.\nRead the story on VTDigger here:  Vermont can\u2019t build its way to affordability.",
+      "url": "https://vtdigger.org/2026/11/10/vermont-cant-build-its-way-to-affordability/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-11-10",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d424cec912d6",
-      "title": "Tom Brady makes bold Raiders prediction, but fans aren\u2019t letting one detail slide",
-      "summary": "Tom Brady made a bold Super Bowl prediction for the Las Vegas Raiders, but NFL fans quickly pointed to his ownership stake as the team sits at 4-5 following a loss to the San Francisco 49ers.",
-      "url": "https://www.masslive.com/sports/2026/11/tom-brady-makes-bold-raiders-prediction-nfl-fans-immediately-point-out-one-thing.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-10",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
@@ -804,20 +678,6 @@
       "date": "2026-11-08",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "efb3771b2ce7",
-      "title": "Burlington City Council president launches bid for mayor",
-      "summary": "Democrat Ben Traverse said the success of the city depends on lifting everyone up. \u201cBecause the truth is, we\u2019re all in this together.\u201d\nRead the story on VTDigger here:  Burlington City Council president launches bid for mayor.",
-      "url": "https://vtdigger.org/2026/11/06/burlington-city-council-president-launches-bid-for-mayor/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-06",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
