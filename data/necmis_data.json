@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-11T18:09:32.474323Z",
+  "generated": "2026-11-12T18:37:47.600502Z",
   "summary": {
-    "total_opportunities": 30,
+    "total_opportunities": 29,
     "total_value_low": 1893006331,
     "total_value_high": 1893006331,
     "by_state": {
-      "VT": 4,
+      "VT": 3,
       "NH": 2,
-      "ME": 7,
-      "MA": 20,
+      "ME": 3,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 7,
-      "funding": 3
+      "news": 6,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -543,13 +543,13 @@
   ],
   "news": [
     {
-      "id": "010536074322",
-      "title": "Jay data center could create up to 1,000 construction jobs, 150 permanent positions, developer says",
-      "summary": "Gov.-elect Hannah Pingree, however, said that without statewide regulations, she is skeptical of that the project will benefit the community.",
-      "url": "https://www.pressherald.com/2026/11/11/jay-data-center-could-create-up-to-1000-construction-jobs-150-permanent-positions-developer-says/",
-      "source": "Portland Press Herald",
+      "id": "cf646a89a7ca",
+      "title": "Advocacy groups sue AI giants to freeze new models, warning of \u2018catastrophic\u2019 risks",
+      "summary": "NEW YORK (AP) \u2014 A coalition of online safety and consumer advocacy groups on Thursday sued five of the world\u2019s leading artificial intelligence companies to halt further development, alleging the tech giants can\u2019t prevent their own creations from causing \u201ccatastrophic\u201d harm. The lawsuit in San Franci",
+      "url": "https://www.bangordailynews.com/2026/11/12/nation/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -557,41 +557,27 @@
       ]
     },
     {
-      "id": "a8e079184bde",
-      "title": "New quick-service salad restaurant planned for Portland",
-      "summary": "Restaurateur Chad Conley of Rose Foods and Biddeford's Palace Diner is behind the project.",
-      "url": "https://www.pressherald.com/2026/11/11/new-quick-service-salad-restaurant-planned-for-portland/",
-      "source": "Portland Press Herald",
+      "id": "eb47b3290675",
+      "title": "Discount Asphalt Paving to match Toys for Tots donations \u2014 up to $2,500 \u2014 for Waldo County children",
+      "summary": "Family-owned Belfast paving company will double every cash gift to the Marine Corps Reserve Toys for Tots this holiday season, with every dollar staying in Waldo County BELFAST \u2014 Discount Asphalt Paving, a family-owned paving company that has served Maine homeowners and businesses since 1969, announ",
+      "url": "https://www.bangordailynews.com/2026/11/12/bdn-maine/discount-asphalt-paving-to-match-toys-for-tots-donations-up-to-2500-for-waldo-county-children/",
+      "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-11-11",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "636ea7e3b410",
-      "title": "Family of ICE agent in Biddeford shooting accuses him of immigrant bias, New York Times reports",
-      "summary": "David Brouillette, who shot and killed Johan Sebasti\u00e1n Dur\u00e1n Guerrero in Biddeford, reportedly sent a series of racist emails regarding a Colombian man in 2021.",
-      "url": "https://www.pressherald.com/2026/11/11/family-of-ice-agent-in-biddeford-shooting-accuses-him-of-immigrant-bias-new-york-times-reports/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "category": "funding",
       "priority": "high",
       "business_lines": [
-        "highway"
+        "hma"
       ]
     },
     {
-      "id": "a0d03751c901",
-      "title": "A roadmap for Democrats who want peace in Gaza | Opinion",
-      "summary": "The campaign is over. It\u2019s time to get down to the hard work of crafting solutions.",
-      "url": "https://www.pressherald.com/2026/11/11/a-roadmap-for-democrats-who-want-peace-in-gaza-opinion/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-11",
+      "id": "d3ce85370cbe",
+      "title": "At least 10 dead after van plummets off mountain road in Nepal",
+      "summary": "An electric microbus carrying festival-goers in Nepal plunged 2,300 feet down a mountain slope, killing at least 10 people.",
+      "url": "https://www.masslive.com/news/2026/11/at-least-10-dead-after-van-plummets-off-mountain-road-in-nepal.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-12",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -599,28 +585,28 @@
       ]
     },
     {
-      "id": "d38a3135fb88",
-      "title": "NYT: ICE agent who fatally shot Biddeford man had record of anti-immigrant hostility",
-      "summary": "David Brouillette didn't hide his disdain toward people born outside the U.S., according to an investigation by the New York Times.",
-      "url": "https://www.bangordailynews.com/2026/11/11/york/york-police-courts/david-brouillette-anti-immigrant-hostility/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-11",
+      "id": "38a22c06379c",
+      "title": "MSC Cruises is fighting a $1.8B U.S. lawsuit over trade secrets abroad",
+      "summary": "MSC Cruises claimed that trade secrets claims in a $1.8 billion U.S. lawsuit should be settled in courts abroad",
+      "url": "https://www.masslive.com/news/2026/11/msc-cruises-is-fighting-a-18b-us-lawsuit-over-trade-secrets-abroad.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-12",
       "category": "funding",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "4beb25ed87ed",
-      "title": "Former Bangor mayor\u2019s historic downtown\u00a0home available\u00a0for $1.1M",
-      "summary": "Located at 50 Broadway, the stately Colonial Revival-style home offers more than 4,200 square feet of living space.",
-      "url": "https://www.bangordailynews.com/2026/11/11/business/business-housing/former-bangor-mayors-historic-downtown-home-for-sale-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-11",
-      "category": "funding",
+      "id": "4d9e7d25fe12",
+      "title": "Dan Hicks called sports\u2019 biggest moments. Tributes reveal the man behind them",
+      "summary": "NBC Sports, the PGA Tour and the USGA are remembering broadcaster Dan Hicks after his sudden death at 64 following an acute illness.",
+      "url": "https://www.masslive.com/sports/2026/11/sports-world-mourns-dan-hicks-remembering-the-man-behind-the-famous-voice.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-12",
+      "category": "news",
       "priority": "medium",
       "business_lines": [
         "highway"
@@ -664,20 +650,6 @@
       "date": "2026-11-09",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "5349fb8bda8b",
-      "title": "Report finds Vermont is experiencing unprecedented weather extremes",
-      "summary": "Municipalities and the outdoor recreation industry are trying to prepare for an uncertain future, but there\u2019s only so much they can do.\nRead the story on VTDigger here:  Report finds Vermont is experiencing unprecedented weather extremes.",
-      "url": "https://vtdigger.org/2026/11/08/report-finds-vermont-is-experiencing-unprecedented-weather-extremes/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-08",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
