@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-12T18:37:47.600502Z",
+  "generated": "2026-11-13T18:10:36.149558Z",
   "summary": {
-    "total_opportunities": 29,
+    "total_opportunities": 27,
     "total_value_low": 1893006331,
     "total_value_high": 1893006331,
     "by_state": {
-      "VT": 3,
+      "VT": 1,
       "NH": 2,
       "ME": 3,
-      "MA": 23,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 6,
-      "funding": 2
+      "news": 3,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -543,13 +543,13 @@
   ],
   "news": [
     {
-      "id": "cf646a89a7ca",
-      "title": "Advocacy groups sue AI giants to freeze new models, warning of \u2018catastrophic\u2019 risks",
-      "summary": "NEW YORK (AP) \u2014 A coalition of online safety and consumer advocacy groups on Thursday sued five of the world\u2019s leading artificial intelligence companies to halt further development, alleging the tech giants can\u2019t prevent their own creations from causing \u201ccatastrophic\u201d harm. The lawsuit in San Franci",
-      "url": "https://www.bangordailynews.com/2026/11/12/nation/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks/",
-      "source": "Bangor Daily News",
+      "id": "2b883a579181",
+      "title": "Thoughtful design and energy efficiency define this rebuilt Colonial in Cumberland",
+      "summary": "Surrounded by farmland and protected forestland, 18 Greely Road offers solar power, four en suite bedrooms and modern comforts just minutes from downtown Yarmouth.",
+      "url": "https://www.pressherald.com/2026/11/13/thoughtful-design-and-energy-efficiency-define-this-rebuilt-colonial-in-cumberland/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -557,99 +557,29 @@
       ]
     },
     {
-      "id": "eb47b3290675",
-      "title": "Discount Asphalt Paving to match Toys for Tots donations \u2014 up to $2,500 \u2014 for Waldo County children",
-      "summary": "Family-owned Belfast paving company will double every cash gift to the Marine Corps Reserve Toys for Tots this holiday season, with every dollar staying in Waldo County BELFAST \u2014 Discount Asphalt Paving, a family-owned paving company that has served Maine homeowners and businesses since 1969, announ",
-      "url": "https://www.bangordailynews.com/2026/11/12/bdn-maine/discount-asphalt-paving-to-match-toys-for-tots-donations-up-to-2500-for-waldo-county-children/",
+      "id": "a1fb4ac6dba0",
+      "title": "Angus King backs Chuck Schumer for Senate majority leader",
+      "summary": "That puts the soon-to-be senior senator from Maine at odds with U.S. Sen.-elect Troy Jackson who opposes Schumer's leadership bid.",
+      "url": "https://www.bangordailynews.com/2026/11/13/politics/washington/maine-angus-king-chuck-schumer-senate-majority-leader/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-11-12",
-      "category": "funding",
+      "date": "2026-11-13",
+      "category": "news",
       "priority": "high",
       "business_lines": [
-        "hma"
-      ]
-    },
-    {
-      "id": "d3ce85370cbe",
-      "title": "At least 10 dead after van plummets off mountain road in Nepal",
-      "summary": "An electric microbus carrying festival-goers in Nepal plunged 2,300 feet down a mountain slope, killing at least 10 people.",
-      "url": "https://www.masslive.com/news/2026/11/at-least-10-dead-after-van-plummets-off-mountain-road-in-nepal.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "38a22c06379c",
-      "title": "MSC Cruises is fighting a $1.8B U.S. lawsuit over trade secrets abroad",
-      "summary": "MSC Cruises claimed that trade secrets claims in a $1.8 billion U.S. lawsuit should be settled in courts abroad",
-      "url": "https://www.masslive.com/news/2026/11/msc-cruises-is-fighting-a-18b-us-lawsuit-over-trade-secrets-abroad.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-12",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "4d9e7d25fe12",
-      "title": "Dan Hicks called sports\u2019 biggest moments. Tributes reveal the man behind them",
-      "summary": "NBC Sports, the PGA Tour and the USGA are remembering broadcaster Dan Hicks after his sudden death at 64 following an acute illness.",
-      "url": "https://www.masslive.com/sports/2026/11/sports-world-mourns-dan-hicks-remembering-the-man-behind-the-famous-voice.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-12",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "adb7aca9f43b",
-      "title": "Vermont can\u2019t build its way to affordability",
-      "summary": "Every acre of open land lost to development makes Vermont less special, not less expensive.\nRead the story on VTDigger here:  Vermont can\u2019t build its way to affordability.",
-      "url": "https://vtdigger.org/2026/11/10/vermont-cant-build-its-way-to-affordability/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-10",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b0c4465df631",
-      "title": "Montpelier has its long-awaited housing blueprint for Country Club Road",
-      "summary": "DEW Properties plans to build roughly 108 housing units in its initial phase. Residents won\u2019t move in for several years.\nRead the story on VTDigger here:  Montpelier has its long-awaited housing blueprint for Country Club Road.",
-      "url": "https://vtdigger.org/2026/11/09/montpelier-has-its-long-awaited-housing-blueprint-for-country-club-road/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-09",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c438b8b309b2",
-      "title": "The NHPBS Holiday Auction Has Something For Everyone",
-      "summary": "Every winning bid helps fund the local programming, education resources and community outreach that New Hampshire PBS brings to communities across the Granite State.\nThe post The NHPBS Holiday Auction Has Something For Everyone appeared first on InDepthNH.org.",
-      "url": "https://indepthnh.org/2026/11/09/the-nhpbs-holiday-auction-has-something-for-everyone/",
+      "id": "cb59a8648801",
+      "title": "Violet\u2019s Way: Portsmouth Church Property Being Transformed into Community of Housing, Healing and Hope",
+      "summary": "The Episcopal Church of New Hampshire and community partners unveil a new name for the redevelopment, which will include 44 affordable workforce apartments, a permanent home for HAVEN, a new church, and preservation of an historic African burial ground.\nThe post Violet\u2019s Way: Portsmouth Church Prope",
+      "url": "https://indepthnh.org/2026/11/13/violets-way-historic-portsmouth-church-property-being-transformed-into-community-of-housing-healing-and-hope/",
       "source": "InDepthNH",
       "state": "NH",
-      "date": "2026-11-09",
+      "date": "2026-11-13",
       "category": "news",
-      "priority": "high",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
