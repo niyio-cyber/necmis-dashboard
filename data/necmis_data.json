@@ -1,22 +1,22 @@
 {
-  "generated": "2026-11-13T18:10:36.149558Z",
+  "generated": "2026-11-14T16:45:32.868553Z",
   "summary": {
-    "total_opportunities": 27,
-    "total_value_low": 1893006331,
-    "total_value_high": 1893006331,
+    "total_opportunities": 32,
+    "total_value_low": 1920106052,
+    "total_value_high": 1920106052,
     "by_state": {
       "VT": 1,
       "NH": 2,
-      "ME": 3,
-      "MA": 20,
+      "ME": 6,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 27,
-      "news": 3,
+      "dot_letting": 32,
+      "news": 6,
       "funding": 0
     }
   },
@@ -269,6 +269,63 @@
       ]
     },
     {
+      "id": "9870bcbc82fa",
+      "state": "MA",
+      "project_id": "616473",
+      "description": "Crack Sealing and Pavement Preservation at Various Locations",
+      "cost_low": 2712150,
+      "cost_high": 2712150,
+      "cost_display": "$2.7M",
+      "ad_date": "2026-11-14",
+      "let_date": null,
+      "project_type": "Crack Sealing",
+      "location": "District 2",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616473",
+      "source": "MassDOT",
+      "business_lines": [
+        "hma"
+      ]
+    },
+    {
+      "id": "89ca905f6d30",
+      "state": "MA",
+      "project_id": "616494",
+      "description": "Sidewalk Repairs & Improvements at Various Locations",
+      "cost_low": 1000000,
+      "cost_high": 1000000,
+      "cost_display": "$1.0M",
+      "ad_date": "2026-11-14",
+      "let_date": null,
+      "project_type": "Highway - Construction , Highway - Sidewalk And Curbing",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616494",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "8b65ec904d4e",
+      "state": "MA",
+      "project_id": "616496",
+      "description": "Scheduled and Emergency Fabrication and Installation of Overhead and Ground Mounted Guide Signs at Various Locations",
+      "cost_low": 900000,
+      "cost_high": 900000,
+      "cost_display": "$900K",
+      "ad_date": "2026-11-14",
+      "let_date": null,
+      "project_type": "Signing - Structural",
+      "location": "District 4",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616496",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "210aa4ab6411",
       "state": "MA",
       "project_id": "616511",
@@ -384,6 +441,44 @@
       "business_lines": [
         "highway",
         "ready_mix"
+      ]
+    },
+    {
+      "id": "8709712846bf",
+      "state": "MA",
+      "project_id": "616403",
+      "description": "Drawbridge Operation, Repair and Systematic Preservation at Various Locations (Including Martha's Vineyard)",
+      "cost_low": 10103700,
+      "cost_high": 10103700,
+      "cost_display": "$10.1M",
+      "ad_date": "2026-11-14",
+      "let_date": null,
+      "project_type": "Drawbridge Maintenance",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616403",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "42b7b85114a3",
+      "state": "MA",
+      "project_id": "616512",
+      "description": "Scheduled & Emergency Drawbridge Maintenance, Repair, and Operation at Various Locations",
+      "cost_low": 12383871,
+      "cost_high": 12383871,
+      "cost_display": "$12.4M",
+      "ad_date": "2026-11-14",
+      "let_date": null,
+      "project_type": "Drawbridge Maintenance",
+      "location": "District 6",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616512",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -543,13 +638,13 @@
   ],
   "news": [
     {
-      "id": "2b883a579181",
-      "title": "Thoughtful design and energy efficiency define this rebuilt Colonial in Cumberland",
-      "summary": "Surrounded by farmland and protected forestland, 18 Greely Road offers solar power, four en suite bedrooms and modern comforts just minutes from downtown Yarmouth.",
-      "url": "https://www.pressherald.com/2026/11/13/thoughtful-design-and-energy-efficiency-define-this-rebuilt-colonial-in-cumberland/",
+      "id": "57c705551553",
+      "title": "The US cannot rebuild Gaza without Israel | Letter",
+      "summary": "A Nov. 11 op-ed, \u201cA roadmap for Democrats who want peace in Gaza,\u201d places the blame for the conflict in Gaza almost entirely on Hamas. The writer does not mention that the long history of occupation and deprivation that Israel inflicted on Gaza after 1967 led to the rise of Hamas. As evidence of Isr",
+      "url": "https://www.pressherald.com/2026/11/14/the-us-cannot-rebuild-gaza-without-israel-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -557,15 +652,57 @@
       ]
     },
     {
-      "id": "a1fb4ac6dba0",
-      "title": "Angus King backs Chuck Schumer for Senate majority leader",
-      "summary": "That puts the soon-to-be senior senator from Maine at odds with U.S. Sen.-elect Troy Jackson who opposes Schumer's leadership bid.",
-      "url": "https://www.bangordailynews.com/2026/11/13/politics/washington/maine-angus-king-chuck-schumer-senate-majority-leader/",
-      "source": "Bangor Daily News",
+      "id": "bbbfd3d62770",
+      "title": "Hermon football stifles Greely in Class C semifinal",
+      "summary": "The Rangers fall short in their bid to reach a 4th straight state championship game.",
+      "url": "https://www.pressherald.com/2026/11/13/hermon-football-stifles-greely-in-class-c-semifinal/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "50c03859246c",
+      "title": "UMaine women\u2019s basketball\u2019s upset bid thwarted by Oregon",
+      "summary": "The Black Bears lead for most of the game, but Oregon takes control late for a 79-72 win.",
+      "url": "https://www.pressherald.com/2026/11/13/umaines-upset-bid-thwarted-by-oregon/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-14",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9c30e9037f25",
+      "title": "UMaine men\u2019s hockey ties Vermont",
+      "summary": "Neither team scores in regulation or overtime as the Black Bears earn a draw on the road.",
+      "url": "https://www.pressherald.com/2026/11/13/umaine-mens-hockey-ties-vermont/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-14",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "2ab8e6d694da",
+      "title": "1 person trapped after vehicle lands in ditch in Orrington",
+      "summary": "The crash occurred near the intersection of Snows Corner and Dow roads on Friday night.",
+      "url": "https://www.bangordailynews.com/2026/11/14/bangor/bangor-police-courts/1-person-injured-vehicle-ditch-orrington/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-14",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
