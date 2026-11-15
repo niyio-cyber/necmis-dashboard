@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T16:45:32.868553Z",
+  "generated": "2026-11-15T17:27:57.707802Z",
   "summary": {
     "total_opportunities": 32,
     "total_value_low": 1920106052,
@@ -7,7 +7,7 @@
     "by_state": {
       "VT": 1,
       "NH": 2,
-      "ME": 6,
+      "ME": 1,
       "MA": 25,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 32,
-      "news": 6,
+      "news": 1,
       "funding": 0
     }
   },
@@ -637,76 +637,6 @@
     }
   ],
   "news": [
-    {
-      "id": "57c705551553",
-      "title": "The US cannot rebuild Gaza without Israel | Letter",
-      "summary": "A Nov. 11 op-ed, \u201cA roadmap for Democrats who want peace in Gaza,\u201d places the blame for the conflict in Gaza almost entirely on Hamas. The writer does not mention that the long history of occupation and deprivation that Israel inflicted on Gaza after 1967 led to the rise of Hamas. As evidence of Isr",
-      "url": "https://www.pressherald.com/2026/11/14/the-us-cannot-rebuild-gaza-without-israel-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "bbbfd3d62770",
-      "title": "Hermon football stifles Greely in Class C semifinal",
-      "summary": "The Rangers fall short in their bid to reach a 4th straight state championship game.",
-      "url": "https://www.pressherald.com/2026/11/13/hermon-football-stifles-greely-in-class-c-semifinal/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-14",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "50c03859246c",
-      "title": "UMaine women\u2019s basketball\u2019s upset bid thwarted by Oregon",
-      "summary": "The Black Bears lead for most of the game, but Oregon takes control late for a 79-72 win.",
-      "url": "https://www.pressherald.com/2026/11/13/umaines-upset-bid-thwarted-by-oregon/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-14",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9c30e9037f25",
-      "title": "UMaine men\u2019s hockey ties Vermont",
-      "summary": "Neither team scores in regulation or overtime as the Black Bears earn a draw on the road.",
-      "url": "https://www.pressherald.com/2026/11/13/umaine-mens-hockey-ties-vermont/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "2ab8e6d694da",
-      "title": "1 person trapped after vehicle lands in ditch in Orrington",
-      "summary": "The crash occurred near the intersection of Snows Corner and Dow roads on Friday night.",
-      "url": "https://www.bangordailynews.com/2026/11/14/bangor/bangor-police-courts/1-person-injured-vehicle-ditch-orrington/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-14",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "cb59a8648801",
       "title": "Violet\u2019s Way: Portsmouth Church Property Being Transformed into Community of Housing, Healing and Hope",
