@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-15T17:27:57.707802Z",
+  "generated": "2026-11-16T20:41:56.025707Z",
   "summary": {
-    "total_opportunities": 32,
+    "total_opportunities": 33,
     "total_value_low": 1920106052,
     "total_value_high": 1920106052,
     "by_state": {
       "VT": 1,
       "NH": 2,
-      "ME": 1,
-      "MA": 25,
+      "ME": 5,
+      "MA": 26,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 32,
-      "news": 1,
-      "funding": 0
+      "news": 5,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -637,6 +637,76 @@
     }
   ],
   "news": [
+    {
+      "id": "8c443ddc3b0a",
+      "title": "Where Maine\u2019s members of Congress stand ahead of high-stakes votes on energy permitting",
+      "summary": "It is potentially the last major piece of legislation Congress will take up before Democrats regain power.",
+      "url": "https://www.pressherald.com/2026/11/16/where-maines-members-of-congress-stand-ahead-of-high-stakes-votes-on-energy-permitting/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "c28bf8673c28",
+      "title": "Route 196 in Topsham reopened after \u2018suspicious package\u2019 investigation",
+      "summary": "The road near the Lisbon town line was closed around noon Monday.",
+      "url": "https://www.pressherald.com/2026/11/16/route-196-in-topsham-closed-due-to-suspicious-package/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "151cba0655ec",
+      "title": "South Portland offices closed Monday after suspected cyberattack",
+      "summary": "City officials say the community is experiencing a network disruption to its computer systems and some municipal services.",
+      "url": "https://www.pressherald.com/2026/11/16/south-portland-offices-closed-monday-after-suspected-cyberattack/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-16",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b59eef8b1b81",
+      "title": "Trump attributes nationwide grounding of planes to old technology, Biden administration",
+      "summary": "WASHINGTON (AP) \u2014 President Donald Trump on Monday laid the blame for the nationwide grounding of all planes last week on old technology as well as his Democratic predecessor Joe Biden. \u201cWhat you saw on Friday was very, very old equipment that had a heart attack,\u201d Trump said Monday outside the White",
+      "url": "https://www.bangordailynews.com/2026/11/16/nation/trump-attributes-nationwide-grounding-of-planes-to-old-technology-biden-administration/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-16",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "dde0ce8da708",
+      "title": "From Aerosmith to Broadway, 9 Mass. artists are up for 2027 Grammys",
+      "summary": "Rock legends, Broadway stars and classical musicians are among the Massachusetts artists competing for music\u2019s biggest awards.",
+      "url": "https://www.masslive.com/entertainment/2026/11/9-mass-artists-are-up-for-2027-grammys-heres-who-made-the-cut.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-16",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
     {
       "id": "cb59a8648801",
       "title": "Violet\u2019s Way: Portsmouth Church Property Being Transformed into Community of Housing, Healing and Hope",
