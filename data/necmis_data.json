@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-16T20:41:56.025707Z",
+  "generated": "2026-11-17T19:26:51.144402Z",
   "summary": {
-    "total_opportunities": 33,
-    "total_value_low": 1920106052,
-    "total_value_high": 1920106052,
+    "total_opportunities": 32,
+    "total_value_low": 1920402552,
+    "total_value_high": 1920402552,
     "by_state": {
-      "VT": 1,
-      "NH": 2,
-      "ME": 5,
-      "MA": 26,
+      "VT": 2,
+      "NH": 1,
+      "ME": 4,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,30 +16,11 @@
     },
     "by_category": {
       "dot_letting": 32,
-      "news": 5,
-      "funding": 1
+      "news": 4,
+      "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "cf49e04359fb",
-      "state": "MA",
-      "project_id": "616308",
-      "description": "Installation of Noise Barriers along I-90 between Market and Franklin Streets (Allston Multimodal Transportation Project Early Action)",
-      "cost_low": 19527316,
-      "cost_high": 19527316,
-      "cost_display": "$19.5M",
-      "ad_date": "2026-09-26",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "Boston",
-      "district": 6,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616308",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "2c6a8be085f4",
       "state": "MA",
@@ -130,6 +111,25 @@
       "location": "District 5",
       "district": 5,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616401",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "cf49e04359fb",
+      "state": "MA",
+      "project_id": "616308",
+      "description": "Installation of Noise Barriers along I-90 between Market and Franklin Streets (Allston Multimodal Transportation Project Early Action)",
+      "cost_low": 19823816,
+      "cost_high": 19823816,
+      "cost_display": "$19.8M",
+      "ad_date": "2026-09-26",
+      "let_date": null,
+      "project_type": "Highway - Construction",
+      "location": "Boston",
+      "district": 6,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616308",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -638,13 +638,13 @@
   ],
   "news": [
     {
-      "id": "8c443ddc3b0a",
-      "title": "Where Maine\u2019s members of Congress stand ahead of high-stakes votes on energy permitting",
-      "summary": "It is potentially the last major piece of legislation Congress will take up before Democrats regain power.",
-      "url": "https://www.pressherald.com/2026/11/16/where-maines-members-of-congress-stand-ahead-of-high-stakes-votes-on-energy-permitting/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-16",
+      "id": "44933f6f2ea1",
+      "title": "Canadian spending in Vermont has plummeted as cross-border tourism slowed 28% in 2025, new data says",
+      "summary": "An industry-wide dip was due in large part to decreasing visits from Vermont\u2019s neighbor to the north, according to Vermont\u2019s deputy secretary of commerce and community development.\nRead the story on VTDigger here:  Canadian spending in Vermont has plummeted as cross-border tourism slowed 28% in 202",
+      "url": "https://vtdigger.org/2026/11/17/canadian-spending-in-vermont-has-plummeted-as-cross-border-tourism-slowed-28-percent-in-2025-new-data-says/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-11-17",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -652,41 +652,13 @@
       ]
     },
     {
-      "id": "c28bf8673c28",
-      "title": "Route 196 in Topsham reopened after \u2018suspicious package\u2019 investigation",
-      "summary": "The road near the Lisbon town line was closed around noon Monday.",
-      "url": "https://www.pressherald.com/2026/11/16/route-196-in-topsham-closed-due-to-suspicious-package/",
+      "id": "b7b30f999628",
+      "title": "Maine beats many US metros to the plug with first hybrid ferry",
+      "summary": "By synchronizing shoreside power with the boat's delivery, Maine avoided the infrastructure trap stalling other fleets.",
+      "url": "https://www.pressherald.com/2026/11/17/maine-beats-many-us-metros-to-the-plug-with-first-hybrid-ferry/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-16",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "151cba0655ec",
-      "title": "South Portland offices closed Monday after suspected cyberattack",
-      "summary": "City officials say the community is experiencing a network disruption to its computer systems and some municipal services.",
-      "url": "https://www.pressherald.com/2026/11/16/south-portland-offices-closed-monday-after-suspected-cyberattack/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-16",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b59eef8b1b81",
-      "title": "Trump attributes nationwide grounding of planes to old technology, Biden administration",
-      "summary": "WASHINGTON (AP) \u2014 President Donald Trump on Monday laid the blame for the nationwide grounding of all planes last week on old technology as well as his Democratic predecessor Joe Biden. \u201cWhat you saw on Friday was very, very old equipment that had a heart attack,\u201d Trump said Monday outside the White",
-      "url": "https://www.bangordailynews.com/2026/11/16/nation/trump-attributes-nationwide-grounding-of-planes-to-old-technology-biden-administration/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -694,29 +666,29 @@
       ]
     },
     {
-      "id": "dde0ce8da708",
-      "title": "From Aerosmith to Broadway, 9 Mass. artists are up for 2027 Grammys",
-      "summary": "Rock legends, Broadway stars and classical musicians are among the Massachusetts artists competing for music\u2019s biggest awards.",
-      "url": "https://www.masslive.com/entertainment/2026/11/9-mass-artists-are-up-for-2027-grammys-heres-who-made-the-cut.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-16",
-      "category": "funding",
-      "priority": "medium",
+      "id": "c8d10c042cb2",
+      "title": "Dessert auction for Rape Response Services",
+      "summary": "BANGOR \u2014 Rape Response Services, a Penquis subsidiary, will be hosting a dessert auction on Friday, Nov. 20. The fun-filled event, featuring a live auction, will include over 60 delicious desserts made by local Maine bakers, ready for winning bidders to take home and enjoy. This event is sponsored b",
+      "url": "https://www.bangordailynews.com/2026/11/17/bdn-maine/dessert-auction-for-rape-response-services-2/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-17",
+      "category": "news",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "cb59a8648801",
-      "title": "Violet\u2019s Way: Portsmouth Church Property Being Transformed into Community of Housing, Healing and Hope",
-      "summary": "The Episcopal Church of New Hampshire and community partners unveil a new name for the redevelopment, which will include 44 affordable workforce apartments, a permanent home for HAVEN, a new church, and preservation of an historic African burial ground.\nThe post Violet\u2019s Way: Portsmouth Church Prope",
-      "url": "https://indepthnh.org/2026/11/13/violets-way-historic-portsmouth-church-property-being-transformed-into-community-of-housing-healing-and-hope/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-11-13",
+      "id": "1530e2a75cf7",
+      "title": "Spicy cat rescued from precarious perch over NH highway",
+      "summary": "He looks ready to throw down claws with the law.",
+      "url": "https://www.bangordailynews.com/2026/11/17/new-england/new-hampshire/manchester-new-hampshire-interstate-293-cat-rescue/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-17",
       "category": "news",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
