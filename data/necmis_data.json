@@ -1,129 +1,34 @@
 {
-  "generated": "2026-11-17T19:26:51.144402Z",
+  "generated": "2026-11-18T19:09:10.357605Z",
   "summary": {
-    "total_opportunities": 32,
-    "total_value_low": 1920402552,
-    "total_value_high": 1920402552,
+    "total_opportunities": 28,
+    "total_value_low": 1910899393,
+    "total_value_high": 1910899393,
     "by_state": {
       "VT": 2,
-      "NH": 1,
-      "ME": 4,
-      "MA": 25,
+      "NH": 3,
+      "ME": 6,
+      "MA": 20,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 32,
-      "news": 4,
-      "funding": 0
+      "dot_letting": 27,
+      "news": 7,
+      "funding": 1
     }
   },
   "dot_lettings": [
-    {
-      "id": "2c6a8be085f4",
-      "state": "MA",
-      "project_id": "616396",
-      "description": "Scheduled and Emergency Drainage, Slope, and Roadway Repairs/Improvements at Various Locations on I-90",
-      "cost_low": 1730205,
-      "cost_high": 1730205,
-      "cost_display": "$1.7M",
-      "ad_date": "2026-10-24",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "District 1",
-      "district": 1,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616396",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "8c8ccfb863f5",
-      "state": "MA",
-      "project_id": "616472",
-      "description": "Deployment of Temporary Traffic Control Devices at Various Locations",
-      "cost_low": 2094454,
-      "cost_high": 2094454,
-      "cost_display": "$2.1M",
-      "ad_date": "2026-10-24",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "District 2",
-      "district": 2,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616472",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ca16ed0f6af7",
-      "state": "MA",
-      "project_id": "614099",
-      "description": "Scheduled and Emergency Structural and Substructure and Related Repairs at Various Locations",
-      "cost_low": 2300000,
-      "cost_high": 2300000,
-      "cost_display": "$2.3M",
-      "ad_date": "2026-10-10",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "District 3",
-      "district": 3,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614099",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b85572249df2",
-      "state": "MA",
-      "project_id": "616482",
-      "description": "Deployment of Temporary Traffic Control at Various Locations",
-      "cost_low": 1714210,
-      "cost_high": 1714210,
-      "cost_display": "$1.7M",
-      "ad_date": "2026-10-24",
-      "let_date": null,
-      "project_type": "Highway - Construction",
-      "location": "District 4",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616482",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f8a2d251aac0",
-      "state": "MA",
-      "project_id": "616401",
-      "description": "Scheduled and Emergency Structural Repairs at Various Locations",
-      "cost_low": 1367790,
-      "cost_high": 1367790,
-      "cost_display": "$1.4M",
-      "ad_date": "2026-10-10",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "District 5",
-      "district": 5,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616401",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "cf49e04359fb",
       "state": "MA",
       "project_id": "616308",
       "description": "Installation of Noise Barriers along I-90 between Market and Franklin Streets (Allston Multimodal Transportation Project Early Action)",
-      "cost_low": 19823816,
-      "cost_high": 19823816,
-      "cost_display": "$19.8M",
+      "cost_low": 19527316,
+      "cost_high": 19527316,
+      "cost_display": "$19.5M",
       "ad_date": "2026-09-26",
       "let_date": null,
       "project_type": "Highway - Construction",
@@ -638,6 +543,90 @@
   ],
   "news": [
     {
+      "id": "fa40d420347b",
+      "title": "Road salt is polluting Maine\u2019s waters. Can it be curbed?",
+      "summary": "With other workarounds failing, state leaders are turning to AI, liquid brine and new policies to break the habit.",
+      "url": "https://www.pressherald.com/2026/11/18/road-salt-is-polluting-maines-waters-can-it-be-curbed/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "499efcd8edd1",
+      "title": "Center for Maine Contemporary Art\u2019s new curator has big plans",
+      "summary": "CMCA's latest exhibition represents Director Grant Wahlquist's efforts to broaden the museum's artistic scope.",
+      "url": "https://www.pressherald.com/2026/11/18/center-for-maine-contemporary-arts-new-curator-has-big-plans/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-18",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "aea7acbb7149",
+      "title": "High school valedictorians to get custom kicks after senator-elect Colom asks Nike to \u2018Just Do It\u2019",
+      "summary": "Nike is gifting high school valedictorians across the country with a pair of custom sneakers after Mississippi\u2019s incoming senator appealed to the company on social media. Scott Colom, who is poised to become the state\u2019s first Black U.S. senator since Reconstruction, called on the sneaker giant to ho",
+      "url": "https://www.bangordailynews.com/2026/11/18/nation/high-school-valedictorians-to-get-custom-kicks-after-senator-elect-colom-asks-nike-to-just-do-it/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a503bc15a109",
+      "title": "Family of Ecuadorian killed in New York building collapse receives his remains",
+      "summary": "QUITO, Ecuador (AP) \u2014 The remains of one of two Ecuadorian construction workers killed when a building collapsed into an adjacent pit that was being excavated in New York were returned Wednesday to his home in Quisapincha, high in the country\u2019s central Andean region. Relatives received the body of J",
+      "url": "https://www.bangordailynews.com/2026/11/18/nation/family-of-ecuadorian-killed-in-new-york-building-collapse-receives-his-remains/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "326db8241594",
+      "title": "Hot Radio Maine announces 14th Annual Free Thanksgiving Turkey Give-Away",
+      "summary": "WELLS \u2014 Hot Radio Maine has announced details for its 14th Annual Free Thanksgiving Turkey Give-Away. The station will distribute 200 free turkeys, along with Thanksgiving sides, to members of the community on Tuesday, Nov. 24 beginning at 11 a.m. at Wells IGA, located at 1517 Post Road. The event i",
+      "url": "https://www.bangordailynews.com/2026/11/18/bdn-maine/hot-radio-maine-announces-14th-annual-free-thanksgiving-turkey-give-away/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "b2c05116058d",
+      "title": "WFEA\u2019s The Morning Update with Jeff Chidester to Host Special Roundtable on Family Caregiving Thursday",
+      "summary": "In recognition of National Family Caregivers Month, host Jeff Chidester and The Morning Update on WFEA are proud to present a comprehensive, must-listen November Monthly Roundtable. Airing on November 19, 2026, this special broadcast tackles the real-life challenges, emotional decisions, and practi",
+      "url": "https://indepthnh.org/2026/11/17/wfeas-the-morning-update-with-jeff-chidester-to-host-special-roundtable-on-family-caregiving-thursday/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-11-18",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "44933f6f2ea1",
       "title": "Canadian spending in Vermont has plummeted as cross-border tourism slowed 28% in 2025, new data says",
       "summary": "An industry-wide dip was due in large part to decreasing visits from Vermont\u2019s neighbor to the north, according to Vermont\u2019s deputy secretary of commerce and community development.\nRead the story on VTDigger here:  Canadian spending in Vermont has plummeted as cross-border tourism slowed 28% in 202",
@@ -652,40 +641,12 @@
       ]
     },
     {
-      "id": "b7b30f999628",
-      "title": "Maine beats many US metros to the plug with first hybrid ferry",
-      "summary": "By synchronizing shoreside power with the boat's delivery, Maine avoided the infrastructure trap stalling other fleets.",
-      "url": "https://www.pressherald.com/2026/11/17/maine-beats-many-us-metros-to-the-plug-with-first-hybrid-ferry/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "c8d10c042cb2",
-      "title": "Dessert auction for Rape Response Services",
-      "summary": "BANGOR \u2014 Rape Response Services, a Penquis subsidiary, will be hosting a dessert auction on Friday, Nov. 20. The fun-filled event, featuring a live auction, will include over 60 delicious desserts made by local Maine bakers, ready for winning bidders to take home and enjoy. This event is sponsored b",
-      "url": "https://www.bangordailynews.com/2026/11/17/bdn-maine/dessert-auction-for-rape-response-services-2/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-17",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1530e2a75cf7",
-      "title": "Spicy cat rescued from precarious perch over NH highway",
-      "summary": "He looks ready to throw down claws with the law.",
-      "url": "https://www.bangordailynews.com/2026/11/17/new-england/new-hampshire/manchester-new-hampshire-interstate-293-cat-rescue/",
-      "source": "Bangor Daily News",
-      "state": "ME",
+      "id": "9603c1e4f9b9",
+      "title": "Facing Democratic Challengers, SOS Scanlan Touts Experience in His Re-Election Bid",
+      "summary": "Republican Secretary of State David Scanlan said the incoming, Democratically-controlled state House and Senate will have to decide between his proven bipartisan record of achievement Dec. 2 or select an untested Democrat, which could swing back and forth every two years and possibly imperil the st",
+      "url": "https://indepthnh.org/2026/11/17/facing-democratic-challengers-scanlan-touts-experience-in-bid-for-re-election-as-secretary-of-state/",
+      "source": "InDepthNH",
+      "state": "NH",
       "date": "2026-11-17",
       "category": "news",
       "priority": "high",
