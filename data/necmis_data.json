@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-18T19:09:10.357605Z",
+  "generated": "2026-11-19T19:12:37.662326Z",
   "summary": {
-    "total_opportunities": 28,
+    "total_opportunities": 29,
     "total_value_low": 1910899393,
     "total_value_high": 1910899393,
     "by_state": {
       "VT": 2,
       "NH": 3,
-      "ME": 6,
+      "ME": 4,
       "MA": 20,
       "NY": 1,
       "RI": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 7,
-      "funding": 1
+      "news": 4,
+      "funding": 2
     }
   },
   "dot_lettings": [
@@ -543,41 +543,27 @@
   ],
   "news": [
     {
-      "id": "fa40d420347b",
-      "title": "Road salt is polluting Maine\u2019s waters. Can it be curbed?",
-      "summary": "With other workarounds failing, state leaders are turning to AI, liquid brine and new policies to break the habit.",
-      "url": "https://www.pressherald.com/2026/11/18/road-salt-is-polluting-maines-waters-can-it-be-curbed/",
+      "id": "194067d62768",
+      "title": "Kittery voters could approve a water district debt limit in December. What\u2019s that mean?",
+      "summary": "The $75 million limit will help the district plan for infrastructure improvements that could prevent future leaks and main breaks.",
+      "url": "https://www.pressherald.com/2026/11/19/kittery-voters-could-approve-a-water-district-debt-limit-in-december-whats-that-mean/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "499efcd8edd1",
-      "title": "Center for Maine Contemporary Art\u2019s new curator has big plans",
-      "summary": "CMCA's latest exhibition represents Director Grant Wahlquist's efforts to broaden the museum's artistic scope.",
-      "url": "https://www.pressherald.com/2026/11/18/center-for-maine-contemporary-arts-new-curator-has-big-plans/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "category": "funding",
-      "priority": "medium",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "aea7acbb7149",
-      "title": "High school valedictorians to get custom kicks after senator-elect Colom asks Nike to \u2018Just Do It\u2019",
-      "summary": "Nike is gifting high school valedictorians across the country with a pair of custom sneakers after Mississippi\u2019s incoming senator appealed to the company on social media. Scott Colom, who is poised to become the state\u2019s first Black U.S. senator since Reconstruction, called on the sneaker giant to ho",
-      "url": "https://www.bangordailynews.com/2026/11/18/nation/high-school-valedictorians-to-get-custom-kicks-after-senator-elect-colom-asks-nike-to-just-do-it/",
+      "id": "16da9e89af87",
+      "title": "A construction worker is missing in Maine",
+      "summary": "Alex Goncalves Dourado has been working for the past few weeks for an unknown construction company in the Bethel area.",
+      "url": "https://www.bangordailynews.com/2026/11/19/central-maine/central-maine-police-courts/maine-missing-persons-alex-goncalves-dourado/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -585,29 +571,15 @@
       ]
     },
     {
-      "id": "a503bc15a109",
-      "title": "Family of Ecuadorian killed in New York building collapse receives his remains",
-      "summary": "QUITO, Ecuador (AP) \u2014 The remains of one of two Ecuadorian construction workers killed when a building collapsed into an adjacent pit that was being excavated in New York were returned Wednesday to his home in Quisapincha, high in the country\u2019s central Andean region. Relatives received the body of J",
-      "url": "https://www.bangordailynews.com/2026/11/18/nation/family-of-ecuadorian-killed-in-new-york-building-collapse-receives-his-remains/",
+      "id": "d566f98504c4",
+      "title": "Trump wants the Supreme Court to let his EPA cancel billions in Biden-era climate grants",
+      "summary": "WASHINGTON (AP) \u2014 The Trump administration is appealing to the Supreme Court in its push to cut $16 billion in grants for a climate program, the largest grant cancellation case ever and one that could affect Republican President Donald Trump\u2019s push to defund the priorities of prior administrations.",
+      "url": "https://www.bangordailynews.com/2026/11/19/nation/trump-wants-the-supreme-court-to-let-his-epa-cancel-billions-in-biden-era-climate-grants/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-11-18",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "326db8241594",
-      "title": "Hot Radio Maine announces 14th Annual Free Thanksgiving Turkey Give-Away",
-      "summary": "WELLS \u2014 Hot Radio Maine has announced details for its 14th Annual Free Thanksgiving Turkey Give-Away. The station will distribute 200 free turkeys, along with Thanksgiving sides, to members of the community on Tuesday, Nov. 24 beginning at 11 a.m. at Wells IGA, located at 1517 Post Road. The event i",
-      "url": "https://www.bangordailynews.com/2026/11/18/bdn-maine/hot-radio-maine-announces-14th-annual-free-thanksgiving-turkey-give-away/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-18",
-      "category": "news",
-      "priority": "medium",
+      "date": "2026-11-19",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
