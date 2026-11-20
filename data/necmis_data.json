@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-19T19:12:37.662326Z",
+  "generated": "2026-11-20T18:52:32.778010Z",
   "summary": {
-    "total_opportunities": 29,
+    "total_opportunities": 27,
     "total_value_low": 1910899393,
     "total_value_high": 1910899393,
     "by_state": {
-      "VT": 2,
-      "NH": 3,
-      "ME": 4,
-      "MA": 20,
+      "VT": 1,
+      "NH": 2,
+      "ME": 7,
+      "MA": 21,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 27,
-      "news": 4,
-      "funding": 2
+      "news": 8,
+      "funding": 0
     }
   },
   "dot_lettings": [
@@ -543,27 +543,27 @@
   ],
   "news": [
     {
-      "id": "194067d62768",
-      "title": "Kittery voters could approve a water district debt limit in December. What\u2019s that mean?",
-      "summary": "The $75 million limit will help the district plan for infrastructure improvements that could prevent future leaks and main breaks.",
-      "url": "https://www.pressherald.com/2026/11/19/kittery-voters-could-approve-a-water-district-debt-limit-in-december-whats-that-mean/",
+      "id": "6e93c06dfef9",
+      "title": "Biddeford tech school aims to preserve Maine\u2019s marine trades by acquiring Landing School",
+      "summary": "The Arundel boatbuilding school, which announced its closure this spring, will now live on in the Biddeford school system.",
+      "url": "https://www.pressherald.com/2026/11/20/biddeford-tech-school-aims-to-preserve-maines-marine-trades-by-acquiring-landing-school/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-19",
-      "category": "funding",
+      "date": "2026-11-20",
+      "category": "news",
       "priority": "high",
       "business_lines": [
         "highway"
       ]
     },
     {
-      "id": "16da9e89af87",
-      "title": "A construction worker is missing in Maine",
-      "summary": "Alex Goncalves Dourado has been working for the past few weeks for an unknown construction company in the Bethel area.",
-      "url": "https://www.bangordailynews.com/2026/11/19/central-maine/central-maine-police-courts/maine-missing-persons-alex-goncalves-dourado/",
-      "source": "Bangor Daily News",
+      "id": "c1f9e3776ad3",
+      "title": "After mass shootings, whole communities need help healing | Opinion",
+      "summary": "Nonprofits should not have to deal with roadblocks in facilitating the healing process in places like Lewiston.",
+      "url": "https://www.pressherald.com/2026/11/20/communities-also-need-support-in-the-aftermath-of-mass-shootings-opinion/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -571,15 +571,71 @@
       ]
     },
     {
-      "id": "d566f98504c4",
-      "title": "Trump wants the Supreme Court to let his EPA cancel billions in Biden-era climate grants",
-      "summary": "WASHINGTON (AP) \u2014 The Trump administration is appealing to the Supreme Court in its push to cut $16 billion in grants for a climate program, the largest grant cancellation case ever and one that could affect Republican President Donald Trump\u2019s push to defund the priorities of prior administrations.",
-      "url": "https://www.bangordailynews.com/2026/11/19/nation/trump-wants-the-supreme-court-to-let-his-epa-cancel-billions-in-biden-era-climate-grants/",
+      "id": "baecff7a81d7",
+      "title": "Planned Brunswick airport customs facility sparks immigration enforcement fears",
+      "summary": "Midcoast Regional Redevelopment Authority, which runs the Brunswick Executive Airport, says that Immigration and Customs Enforcement won't have any involvement in the planned facility.",
+      "url": "https://www.pressherald.com/2026/11/20/planned-brunswick-airport-customs-facility-sparks-immigration-enforcement-fears/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "ready_mix"
+      ]
+    },
+    {
+      "id": "ce37ae4c9f7e",
+      "title": "\u200b\u200bMissing Maine construction worker has been found",
+      "summary": "Alex Goncalves Dourado was found safe.",
+      "url": "https://www.bangordailynews.com/2026/11/20/central-maine/central-maine-police-courts/maine-missing-persons-found-alex-goncalves-dourado/",
       "source": "Bangor Daily News",
       "state": "ME",
-      "date": "2026-11-19",
-      "category": "funding",
-      "priority": "high",
+      "date": "2026-11-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ac5f0f5b4185",
+      "title": "Bicyclist suffered life-threatening injuries in Broadway collision",
+      "summary": "The collision happened about 5:30 a.m. on Broadway, near School Street.",
+      "url": "https://www.bangordailynews.com/2026/11/20/bangor/bangor-police-courts/bangor-maine-broadway-collision-bicycle-injuries/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a70f4b4ab7d4",
+      "title": "Crash closes Broadway near Walgreens in Bangor",
+      "summary": "Traffic is being detoured around the crash site, and drivers should seek alternative routes.",
+      "url": "https://www.bangordailynews.com/2026/11/20/bangor/bangor-police-courts/bangor-maine-broadway-school-street-crash/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f980d29fbde0",
+      "title": "\u2018Olympus Has Fallen\u2019 actor found dead in apartment stairwell at 43",
+      "summary": "Lance Broadway, a former MLB pitcher who became a Hollywood actor, was found dead in a Dallas apartment stairwell at 43.",
+      "url": "https://www.masslive.com/entertainment/2026/11/hollywood-actor-and-former-mlb-player-found-dead-in-stairwell-at-43.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-20",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -594,34 +650,6 @@
       "date": "2026-11-18",
       "category": "news",
       "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "44933f6f2ea1",
-      "title": "Canadian spending in Vermont has plummeted as cross-border tourism slowed 28% in 2025, new data says",
-      "summary": "An industry-wide dip was due in large part to decreasing visits from Vermont\u2019s neighbor to the north, according to Vermont\u2019s deputy secretary of commerce and community development.\nRead the story on VTDigger here:  Canadian spending in Vermont has plummeted as cross-border tourism slowed 28% in 202",
-      "url": "https://vtdigger.org/2026/11/17/canadian-spending-in-vermont-has-plummeted-as-cross-border-tourism-slowed-28-percent-in-2025-new-data-says/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-17",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9603c1e4f9b9",
-      "title": "Facing Democratic Challengers, SOS Scanlan Touts Experience in His Re-Election Bid",
-      "summary": "Republican Secretary of State David Scanlan said the incoming, Democratically-controlled state House and Senate will have to decide between his proven bipartisan record of achievement Dec. 2 or select an untested Democrat, which could swing back and forth every two years and possibly imperil the st",
-      "url": "https://indepthnh.org/2026/11/17/facing-democratic-challengers-scanlan-touts-experience-in-bid-for-re-election-as-secretary-of-state/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-11-17",
-      "category": "news",
-      "priority": "high",
       "business_lines": [
         "highway"
       ]
