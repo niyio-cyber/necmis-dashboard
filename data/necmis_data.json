@@ -1,23 +1,23 @@
 {
-  "generated": "2026-11-20T18:52:32.778010Z",
+  "generated": "2026-11-21T17:47:52.942398Z",
   "summary": {
-    "total_opportunities": 27,
-    "total_value_low": 1910899393,
-    "total_value_high": 1910899393,
+    "total_opportunities": 31,
+    "total_value_low": 1918244881,
+    "total_value_high": 1918244881,
     "by_state": {
-      "VT": 1,
-      "NH": 2,
-      "ME": 7,
-      "MA": 21,
+      "VT": 3,
+      "NH": 3,
+      "ME": 4,
+      "MA": 25,
       "NY": 1,
       "RI": 1,
       "CT": 1,
       "PA": 1
     },
     "by_category": {
-      "dot_letting": 27,
+      "dot_letting": 30,
       "news": 8,
-      "funding": 0
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -309,6 +309,25 @@
       ]
     },
     {
+      "id": "23a714c84593",
+      "state": "MA",
+      "project_id": "616407",
+      "description": "Application of Reflectorized Pavement Markings at Various Locations (Excluding Nantucket)",
+      "cost_low": 3350000,
+      "cost_high": 3350000,
+      "cost_display": "$3.4M",
+      "ad_date": "2026-11-21",
+      "let_date": null,
+      "project_type": "Pavement Markings",
+      "location": "District 5",
+      "district": 5,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616407",
+      "source": "MassDOT",
+      "business_lines": [
+        "hma"
+      ]
+    },
+    {
       "id": "0a087907cbf3",
       "state": "MA",
       "project_id": "607349",
@@ -326,6 +345,25 @@
       "business_lines": [
         "highway",
         "ready_mix"
+      ]
+    },
+    {
+      "id": "2cd28e5346b1",
+      "state": "MA",
+      "project_id": "616464",
+      "description": "Scheduled and Emergency Structural Repairs at Various Locations",
+      "cost_low": 3495158,
+      "cost_high": 3495158,
+      "cost_display": "$3.5M",
+      "ad_date": "2026-11-21",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "District 2",
+      "district": 2,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616464",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
       ]
     },
     {
@@ -381,6 +419,25 @@
       "location": "District 6",
       "district": 6,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616512",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "da711ef01600",
+      "state": "MA",
+      "project_id": "616395",
+      "description": "Cleaning and Painting of Steel, W-36-015, State Route 9 over West Branch of the Mill River",
+      "cost_low": 500330,
+      "cost_high": 500330,
+      "cost_display": "$500K",
+      "ad_date": "2026-11-21",
+      "let_date": null,
+      "project_type": "Painting - Structural",
+      "location": "Williamsburg",
+      "district": 1,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=616395",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -543,12 +600,68 @@
   ],
   "news": [
     {
-      "id": "6e93c06dfef9",
-      "title": "Biddeford tech school aims to preserve Maine\u2019s marine trades by acquiring Landing School",
-      "summary": "The Arundel boatbuilding school, which announced its closure this spring, will now live on in the Biddeford school system.",
-      "url": "https://www.pressherald.com/2026/11/20/biddeford-tech-school-aims-to-preserve-maines-marine-trades-by-acquiring-landing-school/",
+      "id": "489e2aa8ea8e",
+      "title": "Newspaper should launch road safety campaign | Letter",
+      "summary": "There has been a lot of talk recently about injuries and deaths of pedestrians and cyclists on our roads. I would like to see this newspaper initiate a public safety campaign, informing the public about how to safely walk and ride on our roadways. When I was a kid, my mother taught me to walk [\u2026]",
+      "url": "https://www.pressherald.com/2026/11/21/newspaper-should-launch-road-safety-campaign-letter/",
       "source": "Portland Press Herald",
       "state": "ME",
+      "date": "2026-11-21",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "62857460bf7b",
+      "title": "UMaine men\u2019s hockey shut out by Boston College",
+      "summary": "The Eagles earn their first road win against the Black Bears in more than eight years.",
+      "url": "https://www.pressherald.com/2026/11/20/umaine-mens-hockey-shut-out-by-boston-college/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-21",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "9e9bf17d6272",
+      "title": "Dear Annie: Everyone I love keeps leaving, and at my age - I'm terrified of waking up alone",
+      "summary": "Annie: Technology has changed how we connect, but it can also help bridge the distance when we\u2019re miles apart.",
+      "url": "https://www.masslive.com/advice/2026/11/dear-annie-everyone-i-love-keeps-leaving-and-at-my-age-im-terrified-of-waking-up-alone.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-21",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "397daa46ca93",
+      "title": "5 strangers were stuck at an airport. Their unusual solution quickly went viral",
+      "summary": "Five women stranded by the FAA ground stop shared a rental car from Chicago to Nashville. Their eight-hour road trip became a viral adventure.",
+      "url": "https://www.masslive.com/news/2026/11/5-strangers-were-stranded-at-an-airport-their-solution-turned-into-a-viral-adventure.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-21",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fe732150b1be",
+      "title": "A week of tech disruptions explained \u2014 sorta",
+      "summary": "A UVM computer science professor thinks the outages might be emblematic of a broader technological shift as AI empowers companies to find bugs hidden in their infrastructure faster.\nRead the story on VTDigger here:  A week of tech disruptions explained \u2014 sorta.",
+      "url": "https://vtdigger.org/2026/11/20/a-week-of-tech-disruptions-explained-sorta/",
+      "source": "VTDigger",
+      "state": "VT",
       "date": "2026-11-20",
       "category": "news",
       "priority": "high",
@@ -557,10 +670,24 @@
       ]
     },
     {
-      "id": "c1f9e3776ad3",
-      "title": "After mass shootings, whole communities need help healing | Opinion",
-      "summary": "Nonprofits should not have to deal with roadblocks in facilitating the healing process in places like Lewiston.",
-      "url": "https://www.pressherald.com/2026/11/20/communities-also-need-support-in-the-aftermath-of-mass-shootings-opinion/",
+      "id": "e57c5187d75c",
+      "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
+      "summary": "Wells at 19 homes on Grove Road eyed for testing.\nRead the story on VTDigger here:  PFAS contamination from capped landfill impacting Shaftsbury residents and officials.",
+      "url": "https://vtdigger.org/2026/11/20/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-11-20",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "1c94cf8bdceb",
+      "title": "Affordable housing project breaks ground in Windham",
+      "summary": "The 48-unit Pettingill Pines development is primarily catered toward residents aged 55 or older.",
+      "url": "https://www.pressherald.com/2026/11/20/affordable-housing-project-breaks-ground-in-windham/",
       "source": "Portland Press Herald",
       "state": "ME",
       "date": "2026-11-20",
@@ -571,85 +698,29 @@
       ]
     },
     {
-      "id": "baecff7a81d7",
-      "title": "Planned Brunswick airport customs facility sparks immigration enforcement fears",
-      "summary": "Midcoast Regional Redevelopment Authority, which runs the Brunswick Executive Airport, says that Immigration and Customs Enforcement won't have any involvement in the planned facility.",
-      "url": "https://www.pressherald.com/2026/11/20/planned-brunswick-airport-customs-facility-sparks-immigration-enforcement-fears/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "ready_mix"
-      ]
-    },
-    {
-      "id": "ce37ae4c9f7e",
-      "title": "\u200b\u200bMissing Maine construction worker has been found",
-      "summary": "Alex Goncalves Dourado was found safe.",
-      "url": "https://www.bangordailynews.com/2026/11/20/central-maine/central-maine-police-courts/maine-missing-persons-found-alex-goncalves-dourado/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "ac5f0f5b4185",
-      "title": "Bicyclist suffered life-threatening injuries in Broadway collision",
-      "summary": "The collision happened about 5:30 a.m. on Broadway, near School Street.",
-      "url": "https://www.bangordailynews.com/2026/11/20/bangor/bangor-police-courts/bangor-maine-broadway-collision-bicycle-injuries/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "a70f4b4ab7d4",
-      "title": "Crash closes Broadway near Walgreens in Bangor",
-      "summary": "Traffic is being detoured around the crash site, and drivers should seek alternative routes.",
-      "url": "https://www.bangordailynews.com/2026/11/20/bangor/bangor-police-courts/bangor-maine-broadway-school-street-crash/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f980d29fbde0",
-      "title": "\u2018Olympus Has Fallen\u2019 actor found dead in apartment stairwell at 43",
-      "summary": "Lance Broadway, a former MLB pitcher who became a Hollywood actor, was found dead in a Dallas apartment stairwell at 43.",
-      "url": "https://www.masslive.com/entertainment/2026/11/hollywood-actor-and-former-mlb-player-found-dead-in-stairwell-at-43.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "b2c05116058d",
-      "title": "WFEA\u2019s The Morning Update with Jeff Chidester to Host Special Roundtable on Family Caregiving Thursday",
-      "summary": "In recognition of National Family Caregivers Month, host Jeff Chidester and The Morning Update on WFEA are proud to present a comprehensive, must-listen November Monthly Roundtable. Airing on November 19, 2026, this special broadcast tackles the real-life challenges, emotional decisions, and practi",
-      "url": "https://indepthnh.org/2026/11/17/wfeas-the-morning-update-with-jeff-chidester-to-host-special-roundtable-on-family-caregiving-thursday/",
+      "id": "acf7585b7717",
+      "title": "Youth Development Center Settlement Program Needs More Money for Next Biennium, Lawmakers Told",
+      "summary": "Youth Development Center Claims Administration and Settlement Fund administrator Gerard Boyle, said hiring a deputy will allow his office to increase the number of hearings and more cases to be settled sooner.\nThe post Youth Development Center Settlement Program Needs More Money for Next Biennium,",
+      "url": "https://indepthnh.org/2026/11/20/youth-development-center-settlement-program-needs-more-money-for-next-biennium-lawmakers-told/",
       "source": "InDepthNH",
       "state": "NH",
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "category": "news",
       "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "644727b86647",
+      "title": "Joint Legislative Fiscal Committee Holds Last Meeting of the Term: Sea Wall Rehab Approved",
+      "summary": "The Joint Legislative Fiscal Committee approved accepting $20 million in federal highway funds to rehabilitate a section of the seawall protecting Route 1A between North Hampton and Rye.\nThe post Joint Legislative Fiscal Committee Holds Last Meeting of the Term: Sea Wall Rehab Approved\u00a0 appeared fir",
+      "url": "https://indepthnh.org/2026/11/20/joint-legislative-fiscal-committee-holds-last-meeting-of-the-term-sea-wall-rehab-approved/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-11-20",
+      "category": "funding",
+      "priority": "high",
       "business_lines": [
         "highway"
       ]
