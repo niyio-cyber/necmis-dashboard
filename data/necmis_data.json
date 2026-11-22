@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T17:47:52.942398Z",
+  "generated": "2026-11-22T18:05:25.537721Z",
   "summary": {
     "total_opportunities": 31,
     "total_value_low": 1918244881,
@@ -7,7 +7,7 @@
     "by_state": {
       "VT": 3,
       "NH": 3,
-      "ME": 4,
+      "ME": 2,
       "MA": 25,
       "NY": 1,
       "RI": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 8,
+      "news": 6,
       "funding": 1
     }
   },
@@ -600,57 +600,43 @@
   ],
   "news": [
     {
-      "id": "489e2aa8ea8e",
-      "title": "Newspaper should launch road safety campaign | Letter",
-      "summary": "There has been a lot of talk recently about injuries and deaths of pedestrians and cyclists on our roads. I would like to see this newspaper initiate a public safety campaign, informing the public about how to safely walk and ride on our roadways. When I was a kid, my mother taught me to walk [\u2026]",
-      "url": "https://www.pressherald.com/2026/11/21/newspaper-should-launch-road-safety-campaign-letter/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-21",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "62857460bf7b",
-      "title": "UMaine men\u2019s hockey shut out by Boston College",
-      "summary": "The Eagles earn their first road win against the Black Bears in more than eight years.",
-      "url": "https://www.pressherald.com/2026/11/20/umaine-mens-hockey-shut-out-by-boston-college/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-21",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "9e9bf17d6272",
-      "title": "Dear Annie: Everyone I love keeps leaving, and at my age - I'm terrified of waking up alone",
-      "summary": "Annie: Technology has changed how we connect, but it can also help bridge the distance when we\u2019re miles apart.",
-      "url": "https://www.masslive.com/advice/2026/11/dear-annie-everyone-i-love-keeps-leaving-and-at-my-age-im-terrified-of-waking-up-alone.html",
+      "id": "e66d1427209a",
+      "title": "Movie star, 43, found dead in apartment",
+      "summary": "Lance Broadway, a former MLB pitcher who appeared in \u2018Olympus Has Fallen,\u2019 was found dead in a Dallas apartment stairwell at 43.",
+      "url": "https://www.masslive.com/entertainment/2026/11/movie-star-43-found-dead-in-apartment.html",
       "source": "MassLive",
       "state": "MA",
+      "date": "2026-11-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "defadb880267",
+      "title": "Former NFL star, legendary ESPN broadcaster dies at 75",
+      "summary": "He was a Hall of Fame broadcaster after starring for the Denver Broncos.",
+      "url": "https://www.masslive.com/sports/2026/11/former-nfl-star-legendary-espn-broadcaster-dies-at-75.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-22",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "86bb9f3e19be",
+      "title": "Immigration officers make arrest at Seattle airport in \u2018distressing\u2019 scene, delaying flight",
+      "summary": "Masked immigration officers detained at least one person on a crowded airport jet bridge in Seattle as people were boarding Saturday, causing what the airline called a \u201cdistressing\u201d scene for passengers and employees and delaying the Los Angeles-bound flight. Video of the incident showed officers dr",
+      "url": "https://www.bangordailynews.com/2026/11/21/nation/immigration-officers-make-arrest-at-seattle-airport-in-distressing-scene-delaying-flight/",
+      "source": "Bangor Daily News",
+      "state": "ME",
       "date": "2026-11-21",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "397daa46ca93",
-      "title": "5 strangers were stuck at an airport. Their unusual solution quickly went viral",
-      "summary": "Five women stranded by the FAA ground stop shared a rental car from Chicago to Nashville. Their eight-hour road trip became a viral adventure.",
-      "url": "https://www.masslive.com/news/2026/11/5-strangers-were-stranded-at-an-airport-their-solution-turned-into-a-viral-adventure.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-21",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
@@ -676,20 +662,6 @@
       "url": "https://vtdigger.org/2026/11/20/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/",
       "source": "VTDigger",
       "state": "VT",
-      "date": "2026-11-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1c94cf8bdceb",
-      "title": "Affordable housing project breaks ground in Windham",
-      "summary": "The 48-unit Pettingill Pines development is primarily catered toward residents aged 55 or older.",
-      "url": "https://www.pressherald.com/2026/11/20/affordable-housing-project-breaks-ground-in-windham/",
-      "source": "Portland Press Herald",
-      "state": "ME",
       "date": "2026-11-20",
       "category": "news",
       "priority": "medium",
