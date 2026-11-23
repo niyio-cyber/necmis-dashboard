@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-22T18:05:25.537721Z",
+  "generated": "2026-11-23T22:16:09.586624Z",
   "summary": {
     "total_opportunities": 31,
     "total_value_low": 1918244881,
     "total_value_high": 1918244881,
     "by_state": {
-      "VT": 3,
+      "VT": 5,
       "NH": 3,
-      "ME": 2,
-      "MA": 25,
+      "ME": 5,
+      "MA": 23,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 6,
+      "news": 9,
       "funding": 1
     }
   },
@@ -600,43 +600,85 @@
   ],
   "news": [
     {
-      "id": "e66d1427209a",
-      "title": "Movie star, 43, found dead in apartment",
-      "summary": "Lance Broadway, a former MLB pitcher who appeared in \u2018Olympus Has Fallen,\u2019 was found dead in a Dallas apartment stairwell at 43.",
-      "url": "https://www.masslive.com/entertainment/2026/11/movie-star-43-found-dead-in-apartment.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "defadb880267",
-      "title": "Former NFL star, legendary ESPN broadcaster dies at 75",
-      "summary": "He was a Hall of Fame broadcaster after starring for the Denver Broncos.",
-      "url": "https://www.masslive.com/sports/2026/11/former-nfl-star-legendary-espn-broadcaster-dies-at-75.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-22",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "86bb9f3e19be",
-      "title": "Immigration officers make arrest at Seattle airport in \u2018distressing\u2019 scene, delaying flight",
-      "summary": "Masked immigration officers detained at least one person on a crowded airport jet bridge in Seattle as people were boarding Saturday, causing what the airline called a \u201cdistressing\u201d scene for passengers and employees and delaying the Los Angeles-bound flight. Video of the incident showed officers dr",
-      "url": "https://www.bangordailynews.com/2026/11/21/nation/immigration-officers-make-arrest-at-seattle-airport-in-distressing-scene-delaying-flight/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-21",
+      "id": "1d0abd43ad13",
+      "title": "Historic bridge month shines light on landmarks",
+      "summary": "From Tunbridge\u2019s covered bridges to Royalton\u2019s steel trusses, Vermont\u2019s historic crossings tell stories of ingenuity, preservation and change.\nRead the story on VTDigger here:  Historic bridge month shines light on landmarks.",
+      "url": "https://vtdigger.org/2026/11/23/historic-bridge-month-shines-light-on-landmarks/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-11-23",
       "category": "news",
       "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "95fac24e9aef",
+      "title": "Vermont students give thanks\u2014and give back",
+      "summary": "Hear from five Vermont students who are thankful for the teachers who believed in them and the communities that cheered them on. This Thanksgiving, Sam, Nettie, Soren, Mya, and Parker share their gratitude and their goals, from classrooms to forests, and from the open road to the sky above.\nRead th",
+      "url": "https://vtdigger.org/2026/11/23/vermont-students-give-thanks-and-give-back/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-11-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "758905bb178d",
+      "title": "Longtime leader of Maine construction giant dies at 72",
+      "summary": "Jackson Parker, who led Reed & Reed Construction for 41 years, died Saturday in an accident in the woods.",
+      "url": "https://www.pressherald.com/2026/11/23/longtime-leader-of-maine-construction-giant-dies-at-72/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "3009c1e80ba7",
+      "title": "Jensen Huang\u2019s return to Nvidia caps a comeback bid that stumbled before White House helped",
+      "summary": "Nvidia\u2019s surprise move to bring back Jensen Huang capped an unlikely comeback bid for the celebrity CEO, whose campaign to reclaim the top job following his resignation foundered before the White House intervened. Huang, a company co-founder, stepped down after reports of extramarital affairs includ",
+      "url": "https://www.bangordailynews.com/2026/11/23/nation/jensen-huangs-return-to-nvidia-caps-a-comeback-bid-that-stumbled-before-white-house-helped/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-23",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "935bd16967ca",
+      "title": "Ashland woman dies after being ejected during an Aroostook rollover",
+      "summary": "Police received word of the crash shortly after midnight Monday near 1186 State Road.",
+      "url": "https://www.bangordailynews.com/2026/11/23/aroostook/ashland-woman-dies-mapleton-maine-rollover/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-23",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "715395890965",
+      "title": "CEO of Maine construction giant has died",
+      "summary": "Reed & Reed CEO Jack Parker died after an accident working in the woods on his property. He was 72.",
+      "url": "https://www.bangordailynews.com/2026/11/23/business/maine-reed-and-reed-ceo-jack-parker-death/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-23",
+      "category": "news",
+      "priority": "medium",
       "business_lines": [
         "highway"
       ]
