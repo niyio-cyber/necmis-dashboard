@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-23T22:16:09.586624Z",
+  "generated": "2026-11-24T20:54:11.986545Z",
   "summary": {
     "total_opportunities": 31,
     "total_value_low": 1918244881,
     "total_value_high": 1918244881,
     "by_state": {
       "VT": 5,
-      "NH": 3,
-      "ME": 5,
-      "MA": 23,
+      "NH": 1,
+      "ME": 2,
+      "MA": 24,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,7 +16,7 @@
     },
     "by_category": {
       "dot_letting": 30,
-      "news": 9,
+      "news": 5,
       "funding": 1
     }
   },
@@ -600,6 +600,48 @@
   ],
   "news": [
     {
+      "id": "8422b6eecdba",
+      "title": "Federal legislation pits energy development against conservation and historic preservation",
+      "summary": "One camp says the legislation would hasten green energy projects, housing and other development, while the other says the rollback of bedrock laws protecting environmental and cultural resources is not worth the risk.\nRead the story on VTDigger here:  Federal legislation pits energy development aga",
+      "url": "https://vtdigger.org/2026/11/24/federal-legislation-pits-energy-development-against-conservation-and-historic-preservation/",
+      "source": "VTDigger",
+      "state": "VT",
+      "date": "2026-11-24",
+      "category": "funding",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f3859aa0964c",
+      "title": "Bucksport approves after-the-fact license to marijuana grow house",
+      "summary": "The grow house had been operating without the required local permits but has since met conditions set by the Planning Board.",
+      "url": "https://www.bangordailynews.com/2026/11/24/hancock/hancock-government/bucksport-maine-marijuana-grow-house-local-permit-approved-guo-xin-chen/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "14b599a7d764",
+      "title": "Never Trumper makes shocking prediction on president\u2019s political future",
+      "summary": "The Jensen Huang scandal, amid other developments, has Bill Kristol more confident in Donald Trump's political demise.",
+      "url": "https://www.masslive.com/politics/2026/11/never-trumper-makes-shocking-prediction-about-presidents-future.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-24",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
       "id": "1d0abd43ad13",
       "title": "Historic bridge month shines light on landmarks",
       "summary": "From Tunbridge\u2019s covered bridges to Royalton\u2019s steel trusses, Vermont\u2019s historic crossings tell stories of ingenuity, preservation and change.\nRead the story on VTDigger here:  Historic bridge month shines light on landmarks.",
@@ -628,62 +670,6 @@
       ]
     },
     {
-      "id": "758905bb178d",
-      "title": "Longtime leader of Maine construction giant dies at 72",
-      "summary": "Jackson Parker, who led Reed & Reed Construction for 41 years, died Saturday in an accident in the woods.",
-      "url": "https://www.pressherald.com/2026/11/23/longtime-leader-of-maine-construction-giant-dies-at-72/",
-      "source": "Portland Press Herald",
-      "state": "ME",
-      "date": "2026-11-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "3009c1e80ba7",
-      "title": "Jensen Huang\u2019s return to Nvidia caps a comeback bid that stumbled before White House helped",
-      "summary": "Nvidia\u2019s surprise move to bring back Jensen Huang capped an unlikely comeback bid for the celebrity CEO, whose campaign to reclaim the top job following his resignation foundered before the White House intervened. Huang, a company co-founder, stepped down after reports of extramarital affairs includ",
-      "url": "https://www.bangordailynews.com/2026/11/23/nation/jensen-huangs-return-to-nvidia-caps-a-comeback-bid-that-stumbled-before-white-house-helped/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-23",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "935bd16967ca",
-      "title": "Ashland woman dies after being ejected during an Aroostook rollover",
-      "summary": "Police received word of the crash shortly after midnight Monday near 1186 State Road.",
-      "url": "https://www.bangordailynews.com/2026/11/23/aroostook/ashland-woman-dies-mapleton-maine-rollover/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "715395890965",
-      "title": "CEO of Maine construction giant has died",
-      "summary": "Reed & Reed CEO Jack Parker died after an accident working in the woods on his property. He was 72.",
-      "url": "https://www.bangordailynews.com/2026/11/23/business/maine-reed-and-reed-ceo-jack-parker-death/",
-      "source": "Bangor Daily News",
-      "state": "ME",
-      "date": "2026-11-23",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
       "id": "fe732150b1be",
       "title": "A week of tech disruptions explained \u2014 sorta",
       "summary": "A UVM computer science professor thinks the outages might be emblematic of a broader technological shift as AI empowers companies to find bugs hidden in their infrastructure faster.\nRead the story on VTDigger here:  A week of tech disruptions explained \u2014 sorta.",
@@ -692,48 +678,6 @@
       "state": "VT",
       "date": "2026-11-20",
       "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "e57c5187d75c",
-      "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
-      "summary": "Wells at 19 homes on Grove Road eyed for testing.\nRead the story on VTDigger here:  PFAS contamination from capped landfill impacting Shaftsbury residents and officials.",
-      "url": "https://vtdigger.org/2026/11/20/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "acf7585b7717",
-      "title": "Youth Development Center Settlement Program Needs More Money for Next Biennium, Lawmakers Told",
-      "summary": "Youth Development Center Claims Administration and Settlement Fund administrator Gerard Boyle, said hiring a deputy will allow his office to increase the number of hearings and more cases to be settled sooner.\nThe post Youth Development Center Settlement Program Needs More Money for Next Biennium,",
-      "url": "https://indepthnh.org/2026/11/20/youth-development-center-settlement-program-needs-more-money-for-next-biennium-lawmakers-told/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-11-20",
-      "category": "news",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "644727b86647",
-      "title": "Joint Legislative Fiscal Committee Holds Last Meeting of the Term: Sea Wall Rehab Approved",
-      "summary": "The Joint Legislative Fiscal Committee approved accepting $20 million in federal highway funds to rehabilitate a section of the seawall protecting Route 1A between North Hampton and Rye.\nThe post Joint Legislative Fiscal Committee Holds Last Meeting of the Term: Sea Wall Rehab Approved\u00a0 appeared fir",
-      "url": "https://indepthnh.org/2026/11/20/joint-legislative-fiscal-committee-holds-last-meeting-of-the-term-sea-wall-rehab-approved/",
-      "source": "InDepthNH",
-      "state": "NH",
-      "date": "2026-11-20",
-      "category": "funding",
       "priority": "high",
       "business_lines": [
         "highway"
