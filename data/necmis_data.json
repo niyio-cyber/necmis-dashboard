@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-25T20:15:00.538510Z",
+  "generated": "2026-11-26T19:53:22.235937Z",
   "summary": {
-    "total_opportunities": 27,
+    "total_opportunities": 26,
     "total_value_low": 1894630715,
     "total_value_high": 1894630715,
     "by_state": {
-      "VT": 4,
-      "NH": 1,
+      "VT": 1,
+      "NH": 2,
       "ME": 2,
-      "MA": 19,
+      "MA": 21,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,30 +16,11 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 3,
-      "funding": 1
+      "news": 4,
+      "funding": 0
     }
   },
   "dot_lettings": [
-    {
-      "id": "f66a41c0a6d3",
-      "state": "MA",
-      "project_id": "612193",
-      "description": "Bridge Preservation, A-09-022, I-93 over Merrimack River",
-      "cost_low": 105212926,
-      "cost_high": 105212926,
-      "cost_display": "$105.2M",
-      "ad_date": "2026-08-22",
-      "let_date": null,
-      "project_type": "Bridge - Construction",
-      "location": "Andover",
-      "district": 4,
-      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612193",
-      "source": "MassDOT",
-      "business_lines": [
-        "highway"
-      ]
-    },
     {
       "id": "77dd2d14350d",
       "state": "MA",
@@ -73,6 +54,25 @@
       "location": "District 4",
       "district": 4,
       "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=614107",
+      "source": "MassDOT",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f66a41c0a6d3",
+      "state": "MA",
+      "project_id": "612193",
+      "description": "Bridge Preservation, A-09-022, I-93 over Merrimack River",
+      "cost_low": 105212926,
+      "cost_high": 105212926,
+      "cost_display": "$105.2M",
+      "ad_date": "2026-08-22",
+      "let_date": null,
+      "project_type": "Bridge - Construction",
+      "location": "Andover",
+      "district": 4,
+      "url": "https://hwy.massdot.state.ma.us/webapps/const/statusReport.asp?projnum=612193",
       "source": "MassDOT",
       "business_lines": [
         "highway"
@@ -524,13 +524,13 @@
   ],
   "news": [
     {
-      "id": "86dbe61b5850",
-      "title": "US travelers facing long airport lines, bad weather in the run up to Thanksgiving",
-      "summary": "Airline and road traffic are ramping up even more on the eve of Thanksgiving on one of the busiest travel days in the U.S., with rain storms expected on the East Coast, snow in the nation\u2019s mid-section, coastal flooding in the West and lingering worries about technology failures. Travelers at some a",
-      "url": "https://www.bangordailynews.com/2026/11/25/nation/us-travelers-facing-long-airport-lines-bad-weather-in-the-run-up-to-thanksgiving/",
-      "source": "Bangor Daily News",
+      "id": "d669bce406d4",
+      "title": "Bruins fall to streaking Jets",
+      "summary": "Boston gives up the go-ahead goal in the second period and Winnipeg earns its 4th straight road game.",
+      "url": "https://www.pressherald.com/2026/11/25/bruins-fall-to-streaking-jets/",
+      "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -538,27 +538,13 @@
       ]
     },
     {
-      "id": "8422b6eecdba",
-      "title": "Federal legislation pits energy development against conservation and historic preservation",
-      "summary": "One camp says the legislation would hasten green energy projects, housing and other development, while the other says the rollback of bedrock laws protecting environmental and cultural resources is not worth the risk.\nRead the story on VTDigger here:  Federal legislation pits energy development aga",
-      "url": "https://vtdigger.org/2026/11/24/federal-legislation-pits-energy-development-against-conservation-and-historic-preservation/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-24",
-      "category": "funding",
-      "priority": "medium",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "1d0abd43ad13",
-      "title": "Historic bridge month shines light on landmarks",
-      "summary": "From Tunbridge\u2019s covered bridges to Royalton\u2019s steel trusses, Vermont\u2019s historic crossings tell stories of ingenuity, preservation and change.\nRead the story on VTDigger here:  Historic bridge month shines light on landmarks.",
-      "url": "https://vtdigger.org/2026/11/23/historic-bridge-month-shines-light-on-landmarks/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-23",
+      "id": "c88a0d904c66",
+      "title": "State Threatened Charges When Common Man Disputed Hampton Bid",
+      "summary": "According to documents made public this week, when [Brad] Pernaw complained about the bidding process the state threatened to bring criminal charges against him and his company. \nThe post State Threatened Charges When Common Man Disputed Hampton Bid appeared first on InDepthNH.org.",
+      "url": "https://indepthnh.org/2026/11/25/state-threatened-charges-when-common-man-disputed-hampton-bid/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-11-26",
       "category": "news",
       "priority": "high",
       "business_lines": [
@@ -566,13 +552,27 @@
       ]
     },
     {
-      "id": "95fac24e9aef",
-      "title": "Vermont students give thanks\u2014and give back",
-      "summary": "Hear from five Vermont students who are thankful for the teachers who believed in them and the communities that cheered them on. This Thanksgiving, Sam, Nettie, Soren, Mya, and Parker share their gratitude and their goals, from classrooms to forests, and from the open road to the sky above.\nRead th",
-      "url": "https://vtdigger.org/2026/11/23/vermont-students-give-thanks-and-give-back/",
-      "source": "VTDigger",
-      "state": "VT",
-      "date": "2026-11-23",
+      "id": "d79f0b6db46d",
+      "title": "South Hadley football cruises past Holyoke with Thanksgiving Day victory",
+      "summary": "Multiple seniors shined as the Tigers won the 'Battle of the Bridge' against Holyoke on Thursday.",
+      "url": "https://www.masslive.com/highschoolsports/2026/11/south-hadley-football-cruises-past-holyoke-with-thanksgiving-win.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-26",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "f6d5ffcead3e",
+      "title": "Businesses at \u2018X\u2019 will depend on shop local spirit during construction | The Republican Editorials",
+      "summary": "Businesses that find themselves in construction zones, including around the \"X\" intersection in Springfield, need shoppers to visit to help them endure the disruptions.",
+      "url": "https://www.masslive.com/opinion/2026/11/businesses-at-x-will-depend-on-shop-local-spirit-during-construction-the-republican-editorials.html",
+      "source": "MassLive",
+      "state": "MA",
+      "date": "2026-11-26",
       "category": "news",
       "priority": "medium",
       "business_lines": [
