@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-26T19:53:22.235937Z",
+  "generated": "2026-11-27T19:41:44.929097Z",
   "summary": {
-    "total_opportunities": 26,
+    "total_opportunities": 27,
     "total_value_low": 1894630715,
     "total_value_high": 1894630715,
     "by_state": {
       "VT": 1,
-      "NH": 2,
-      "ME": 2,
-      "MA": 21,
+      "NH": 3,
+      "ME": 8,
+      "MA": 19,
       "NY": 1,
       "RI": 1,
       "CT": 1,
@@ -16,8 +16,8 @@
     },
     "by_category": {
       "dot_letting": 26,
-      "news": 4,
-      "funding": 0
+      "news": 8,
+      "funding": 1
     }
   },
   "dot_lettings": [
@@ -524,13 +524,111 @@
   ],
   "news": [
     {
-      "id": "d669bce406d4",
-      "title": "Bruins fall to streaking Jets",
-      "summary": "Boston gives up the go-ahead goal in the second period and Winnipeg earns its 4th straight road game.",
-      "url": "https://www.pressherald.com/2026/11/25/bruins-fall-to-streaking-jets/",
+      "id": "b64000870b57",
+      "title": "What\u2019s the cost of shortchanging our children on behavioral therapy? | Opinion",
+      "summary": "A child's development doesn't follow on an insurance company's calendar.",
+      "url": "https://www.pressherald.com/2026/11/27/whats-the-cost-of-shortchanging-our-children-on-behavioral-therapy-opinion/",
       "source": "Portland Press Herald",
       "state": "ME",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "700e83ed51e6",
+      "title": "Will Maine highway plantings help or hurt monarch butterflies?",
+      "summary": "Researchers are split over the merits of creating a high-speed, salt-soaked pollinator pathway in a heavily forested state with little meadow habitat.",
+      "url": "https://www.pressherald.com/2026/11/27/will-maine-highway-plantings-help-or-hurt-monarch-butterflies/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-27",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "ab6c1926993d",
+      "title": "BAAJA contains nothing to be afraid of | Letter",
+      "summary": "The Maine Sunday Telegram recently contained a full-page ad urging Sens. King and Collins to vote \u201cno\u201d on the Bipartisan American Affordability and Jobs Act, the permitting reform bill voted on last week by the U.S. Senate (both senators voted to support the bill). There was no reasoning behind the",
+      "url": "https://www.pressherald.com/2026/11/27/baaja-contains-nothing-to-be-afraid-of-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "e87449d8a0f6",
+      "title": "Questions about the data center proposed for Jay | Letter",
+      "summary": "The recent report on the data center at the former Jay mill was good as far as it went (\u201cJay data center could create up to 1,000 construction jobs, 150 permanent positions, developer says,\u201d Nov. 11), but left me with two concerns. How does the recycled water get cooled? And, does the current CMP el",
+      "url": "https://www.pressherald.com/2026/11/27/questions-about-the-data-center-proposed-for-jay-letter/",
+      "source": "Portland Press Herald",
+      "state": "ME",
+      "date": "2026-11-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "a9ccd0773d32",
+      "title": "Tractor-trailer jackknifes after losing control on Maine road",
+      "summary": "Jay Hui, 25, lost control while descending at a curve in the road.",
+      "url": "https://www.bangordailynews.com/2026/11/27/central-maine/central-maine-police-courts/new-sharon-maine-mile-hill-road-tractor-trailer-crash/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-27",
+      "category": "news",
+      "priority": "medium",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "85626e5aa3e0",
+      "title": "Sales for Biden memoir fall far short of books by Obama, Clinton",
+      "summary": "Former President Joe Biden\u2019s \u201cPromise Me, America\u201d sold around 21,000 copies during its first week on sale, according to Circana. It sold well enough to top The New York Times nonfiction bestseller list, but didn\u2019t approach the level of memoirs by such predecessors as Barack Obama and Bill Clinton.",
+      "url": "https://www.bangordailynews.com/2026/11/27/nation/sales-for-biden-memoir-fall-far-short-of-books-by-obama-clinton/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-27",
+      "category": "news",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "4abd16c93313",
+      "title": "Belfast to seek bids on former county courthouse cleanup project",
+      "summary": "The city used approximately $283,000 in federal pandemic relief funds to offset the building's purchase price of $700,000.",
+      "url": "https://www.bangordailynews.com/2026/11/27/midcoast/midcoast-government/belfast-to-seek-bids-on-former-county-courthouse-cleanup-project/",
+      "source": "Bangor Daily News",
+      "state": "ME",
+      "date": "2026-11-27",
+      "category": "funding",
+      "priority": "high",
+      "business_lines": [
+        "highway"
+      ]
+    },
+    {
+      "id": "fa1312ddaa7a",
+      "title": "Woman Died, Man and Child Hurt in Thanksgiving Night Fire",
+      "summary": "At 11:11 p.m. Thanksgiving, a 911 caller reported hearing an explosion and then observed a home on fire at 298 Pleasant Pond Road in Francestown. The caller indicated that one person may still be inside the home.\nThe post Woman Died, Man and Child Hurt in Thanksgiving Night Fire appeared first on In",
+      "url": "https://indepthnh.org/2026/11/27/woman-died-man-and-child-hurt-in-thanksgiving-night-fire/",
+      "source": "InDepthNH",
+      "state": "NH",
+      "date": "2026-11-27",
       "category": "news",
       "priority": "medium",
       "business_lines": [
@@ -547,34 +645,6 @@
       "date": "2026-11-26",
       "category": "news",
       "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "d79f0b6db46d",
-      "title": "South Hadley football cruises past Holyoke with Thanksgiving Day victory",
-      "summary": "Multiple seniors shined as the Tigers won the 'Battle of the Bridge' against Holyoke on Thursday.",
-      "url": "https://www.masslive.com/highschoolsports/2026/11/south-hadley-football-cruises-past-holyoke-with-thanksgiving-win.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-26",
-      "category": "news",
-      "priority": "high",
-      "business_lines": [
-        "highway"
-      ]
-    },
-    {
-      "id": "f6d5ffcead3e",
-      "title": "Businesses at \u2018X\u2019 will depend on shop local spirit during construction | The Republican Editorials",
-      "summary": "Businesses that find themselves in construction zones, including around the \"X\" intersection in Springfield, need shoppers to visit to help them endure the disruptions.",
-      "url": "https://www.masslive.com/opinion/2026/11/businesses-at-x-will-depend-on-shop-local-spirit-during-construction-the-republican-editorials.html",
-      "source": "MassLive",
-      "state": "MA",
-      "date": "2026-11-26",
-      "category": "news",
-      "priority": "medium",
       "business_lines": [
         "highway"
       ]
